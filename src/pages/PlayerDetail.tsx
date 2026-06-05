@@ -468,11 +468,20 @@ export default function PlayerDetail() {
           <Card>
             <CardContent className="p-6 md:p-8">
               <div className="flex flex-col md:flex-row items-center gap-6">
-                {/* 号码大圆 */}
-                <div className="w-24 h-24 md:w-32 md:h-32 rounded-full bg-gradient-to-br from-primary/20 to-primary/5 border-2 border-primary/30 flex items-center justify-center shrink-0">
-                  <span className="text-4xl md:text-5xl font-black text-primary">
-                    {player.number}
-                  </span>
+                {/* 球员照片 */}
+                <div className="w-24 h-24 md:w-32 md:h-32 rounded-full bg-gradient-to-br from-primary/20 via-primary/10 to-accent/20 border-2 border-primary/30 flex items-center justify-center shrink-0 overflow-hidden">
+                  {player.photoUrl ? (
+                    <img
+                      src={player.photoUrl}
+                      alt={player.name}
+                      className="w-full h-full object-cover"
+                    />
+                  ) : (
+                    <div className="flex flex-col items-center justify-center w-full h-full">
+                      <User className="h-10 w-10 md:h-14 md:w-14 text-primary/60" />
+                      <span className="text-[10px] text-muted-foreground mt-0.5">#{player.number}</span>
+                    </div>
+                  )}
                 </div>
 
                 {/* 姓名和基础信息 */}

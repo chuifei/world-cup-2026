@@ -8,7 +8,7 @@ export const teams: Team[] = [
     "flagCode": "es",
     "confederation": "UEFA",
     "fifaRank": 1,
-    "group": "",
+    "group": "H",
     "formation": "4-3-3",
     "worldCupAppearances": 17,
     "bestResult": "冠军 (2010)",
@@ -327,7 +327,7 @@ export const teams: Team[] = [
     "flagCode": "ar",
     "confederation": "CONMEBOL",
     "fifaRank": 2,
-    "group": "",
+    "group": "J",
     "formation": "4-4-2",
     "worldCupAppearances": 19,
     "bestResult": "冠军 (1978, 1986, 2022)",
@@ -684,7 +684,7 @@ export const teams: Team[] = [
     "flagCode": "fr",
     "confederation": "UEFA",
     "fifaRank": 3,
-    "group": "",
+    "group": "I",
     "formation": "4-3-3",
     "worldCupAppearances": 16,
     "bestResult": "冠军 (1998, 2018)",
@@ -1092,7 +1092,7 @@ export const teams: Team[] = [
     "flagCode": "gb-eng",
     "confederation": "UEFA",
     "fifaRank": 4,
-    "group": "",
+    "group": "L",
     "formation": "4-2-3-1",
     "worldCupAppearances": 17,
     "bestResult": "冠军 (1966)",
@@ -1434,7 +1434,7 @@ export const teams: Team[] = [
     "flagCode": "br",
     "confederation": "CONMEBOL",
     "fifaRank": 5,
-    "group": "",
+    "group": "C",
     "formation": "4-3-3",
     "worldCupAppearances": 22,
     "bestResult": "冠军 (1958, 1962, 1970, 1994, 2002)",
@@ -1793,7 +1793,7 @@ export const teams: Team[] = [
     "flagCode": "pt",
     "confederation": "UEFA",
     "fifaRank": 6,
-    "group": "",
+    "group": "K",
     "formation": "4-3-3",
     "worldCupAppearances": 9,
     "bestResult": "季军 (1966)",
@@ -2154,7 +2154,7 @@ export const teams: Team[] = [
     "flagCode": "nl",
     "confederation": "UEFA",
     "fifaRank": 7,
-    "group": "",
+    "group": "F",
     "formation": "3-4-3",
     "worldCupAppearances": 12,
     "bestResult": "亚军 (1974, 1978, 2010)",
@@ -2433,7 +2433,7 @@ export const teams: Team[] = [
     "flagCode": "be",
     "confederation": "UEFA",
     "fifaRank": 8,
-    "group": "",
+    "group": "G",
     "formation": "3-4-3",
     "worldCupAppearances": 15,
     "bestResult": "季军 (2018)",
@@ -2789,7 +2789,7 @@ export const teams: Team[] = [
     "flagCode": "de",
     "confederation": "UEFA",
     "fifaRank": 9,
-    "group": "",
+    "group": "E",
     "formation": "4-2-3-1",
     "worldCupAppearances": 21,
     "bestResult": "冠军 (1954, 1974, 1990, 2014)",
@@ -3117,7 +3117,7 @@ export const teams: Team[] = [
     "flagCode": "hr",
     "confederation": "UEFA",
     "fifaRank": 10,
-    "group": "",
+    "group": "L",
     "formation": "4-3-3",
     "worldCupAppearances": 7,
     "bestResult": "亚军 (2018)",
@@ -3423,7 +3423,7 @@ export const teams: Team[] = [
     "flagCode": "ma",
     "confederation": "CAF",
     "fifaRank": 11,
-    "group": "",
+    "group": "C",
     "formation": "4-3-3",
     "worldCupAppearances": 7,
     "bestResult": "第四名 (2022)",
@@ -3923,7 +3923,7 @@ export const teams: Team[] = [
     "flagCode": "co",
     "confederation": "CONMEBOL",
     "fifaRank": 13,
-    "group": "",
+    "group": "K",
     "formation": "4-2-3-1",
     "worldCupAppearances": 7,
     "bestResult": "八强 (2014)",
@@ -4144,7 +4144,7 @@ export const teams: Team[] = [
     "flagCode": "us",
     "confederation": "CONCACAF",
     "fifaRank": 14,
-    "group": "",
+    "group": "D",
     "formation": "4-2-3-1",
     "worldCupAppearances": 12,
     "bestResult": "季军 (1930)",
@@ -4485,7 +4485,7 @@ export const teams: Team[] = [
     "flagCode": "mx",
     "confederation": "CONCACAF",
     "fifaRank": 15,
-    "group": "",
+    "group": "A",
     "formation": "4-3-3",
     "worldCupAppearances": 18,
     "bestResult": "八强 (1970, 1986)",
@@ -4795,7 +4795,7 @@ export const teams: Team[] = [
     "flagCode": "uy",
     "confederation": "CONMEBOL",
     "fifaRank": 16,
-    "group": "",
+    "group": "H",
     "formation": "4-3-3",
     "worldCupAppearances": 15,
     "bestResult": "冠军 (1930, 1950)",
@@ -5080,7 +5080,7 @@ export const teams: Team[] = [
     "flagCode": "ch",
     "confederation": "UEFA",
     "fifaRank": 17,
-    "group": "",
+    "group": "B",
     "formation": "4-2-3-1",
     "worldCupAppearances": 13,
     "bestResult": "八强 (1934, 1938, 1954)",
@@ -5330,7 +5330,7 @@ export const teams: Team[] = [
     "flagCode": "jp",
     "confederation": "AFC",
     "fifaRank": 18,
-    "group": "",
+    "group": "F",
     "formation": "4-2-3-1",
     "worldCupAppearances": 8,
     "bestResult": "十六强 (2002, 2010, 2018, 2022)",
@@ -5603,7 +5603,7 @@ export const teams: Team[] = [
     "flagCode": "sn",
     "confederation": "CAF",
     "fifaRank": 19,
-    "group": "",
+    "group": "I",
     "formation": "4-3-3",
     "worldCupAppearances": 4,
     "bestResult": "八强 (2002)",
@@ -5956,7 +5956,7 @@ export const teams: Team[] = [
     "flagCode": "ir",
     "confederation": "AFC",
     "fifaRank": 20,
-    "group": "",
+    "group": "G",
     "formation": "4-5-1",
     "worldCupAppearances": 7,
     "bestResult": "小组赛",
@@ -6465,7 +6465,7 @@ export const teams: Team[] = [
     "flagCode": "kr",
     "confederation": "AFC",
     "fifaRank": 22,
-    "group": "",
+    "group": "A",
     "formation": "4-4-2",
     "worldCupAppearances": 12,
     "bestResult": "第四名 (2002)",
@@ -6746,7 +6746,7 @@ export const teams: Team[] = [
     "flagCode": "ec",
     "confederation": "CONMEBOL",
     "fifaRank": 23,
-    "group": "",
+    "group": "E",
     "formation": "4-3-3",
     "worldCupAppearances": 5,
     "bestResult": "十六强 (2006)",
@@ -6961,7 +6961,7 @@ export const teams: Team[] = [
     "flagCode": "at",
     "confederation": "UEFA",
     "fifaRank": 24,
-    "group": "",
+    "group": "J",
     "formation": "4-2-3-1",
     "worldCupAppearances": 8,
     "bestResult": "季军 (1954)",
@@ -7166,7 +7166,7 @@ export const teams: Team[] = [
     "flagCode": "au",
     "confederation": "AFC",
     "fifaRank": 26,
-    "group": "",
+    "group": "D",
     "formation": "4-4-2",
     "worldCupAppearances": 7,
     "bestResult": "十六强 (2006, 2022)",
@@ -7393,7 +7393,7 @@ export const teams: Team[] = [
     "flagCode": "ca",
     "confederation": "CONCACAF",
     "fifaRank": 27,
-    "group": "",
+    "group": "B",
     "formation": "3-5-2",
     "worldCupAppearances": 3,
     "bestResult": "小组赛",
@@ -7789,7 +7789,7 @@ export const teams: Team[] = [
     "flagCode": "no",
     "confederation": "UEFA",
     "fifaRank": 29,
-    "group": "",
+    "group": "I",
     "formation": "4-3-3",
     "worldCupAppearances": 4,
     "bestResult": "十六强 (1998)",
@@ -7986,7 +7986,7 @@ export const teams: Team[] = [
     "flagCode": "pa",
     "confederation": "CONCACAF",
     "fifaRank": 30,
-    "group": "",
+    "group": "L",
     "formation": "5-4-1",
     "worldCupAppearances": 2,
     "bestResult": "小组赛",
@@ -8112,7 +8112,7 @@ export const teams: Team[] = [
       }
     ],
     "dataStatus": "real",
-    "qualificationStatus": "in_progress"
+    "qualificationStatus": "qualified"
   },
   {
     "id": "poland",
@@ -8355,7 +8355,7 @@ export const teams: Team[] = [
     "flagCode": "eg",
     "confederation": "CAF",
     "fifaRank": 34,
-    "group": "",
+    "group": "G",
     "formation": "4-3-3",
     "worldCupAppearances": 4,
     "bestResult": "十六强 (1934)",
@@ -8766,7 +8766,7 @@ export const teams: Team[] = [
     "flagCode": "py",
     "confederation": "CONMEBOL",
     "fifaRank": 39,
-    "group": "",
+    "group": "D",
     "formation": "4-4-2",
     "worldCupAppearances": 9,
     "bestResult": "八强 (2010)",
@@ -8968,7 +8968,7 @@ export const teams: Team[] = [
     "flagCode": "tn",
     "confederation": "CAF",
     "fifaRank": 40,
-    "group": "",
+    "group": "F",
     "formation": "4-3-3",
     "worldCupAppearances": 7,
     "bestResult": "小组赛",
@@ -9121,7 +9121,7 @@ export const teams: Team[] = [
       }
     ],
     "dataStatus": "real",
-    "qualificationStatus": "in_progress"
+    "qualificationStatus": "qualified"
   },
   {
     "id": "ivorycoast",
@@ -9130,7 +9130,7 @@ export const teams: Team[] = [
     "flagCode": "ci",
     "confederation": "CAF",
     "fifaRank": 42,
-    "group": "",
+    "group": "E",
     "formation": "4-3-3",
     "worldCupAppearances": 4,
     "bestResult": "小组赛",
@@ -9714,7 +9714,7 @@ export const teams: Team[] = [
     "flagCode": "qa",
     "confederation": "AFC",
     "fifaRank": 51,
-    "group": "",
+    "group": "B",
     "formation": "5-3-2",
     "worldCupAppearances": 2,
     "bestResult": "小组赛",
@@ -10688,7 +10688,7 @@ export const teams: Team[] = [
     "flagCode": "sa",
     "confederation": "AFC",
     "fifaRank": 60,
-    "group": "",
+    "group": "H",
     "formation": "4-4-2",
     "worldCupAppearances": 7,
     "bestResult": "十六强 (1994)",
@@ -10899,7 +10899,7 @@ export const teams: Team[] = [
     "flagCode": "za",
     "confederation": "CAF",
     "fifaRank": 61,
-    "group": "",
+    "group": "A",
     "formation": "4-4-2",
     "worldCupAppearances": 4,
     "bestResult": "小组赛",
@@ -11036,7 +11036,7 @@ export const teams: Team[] = [
       }
     ],
     "dataStatus": "real",
-    "qualificationStatus": "in_progress"
+    "qualificationStatus": "qualified"
   },
   {
     "id": "uae",
@@ -11180,7 +11180,7 @@ export const teams: Team[] = [
     "flagCode": "gh",
     "confederation": "CAF",
     "fifaRank": 72,
-    "group": "",
+    "group": "L",
     "formation": "4-2-3-1",
     "worldCupAppearances": 5,
     "bestResult": "八强 (2010)",
@@ -11388,7 +11388,7 @@ export const teams: Team[] = [
     "flagCode": "nz",
     "confederation": "OFC",
     "fifaRank": 86,
-    "group": "",
+    "group": "G",
     "formation": "4-4-2",
     "worldCupAppearances": 3,
     "bestResult": "小组赛",
@@ -11758,6 +11758,1827 @@ export const teams: Team[] = [
       }
     ],
     "dataStatus": "real",
+    "qualificationStatus": "in_progress"
+  }
+,
+  {
+    "id": "scotland",
+    "name": "苏格兰",
+    "nameEn": "Scotland",
+    "flagCode": "gb-sct",
+    "confederation": "UEFA",
+    "fifaRank": 36,
+    "group": "C",
+    "formation": "4-2-3-1",
+    "worldCupAppearances": 9,
+    "bestResult": "小组赛",
+    "coach": {
+      "name": "史蒂夫·克拉克",
+      "nationality": "苏格兰",
+      "age": 61,
+      "since": "2019"
+    },
+    "tournamentStats": {
+      "points": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "averagePossession": 0,
+      "matchesPlayed": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0
+    },
+    "historyResults": [
+      {
+        "year": 1998,
+        "result": "小组赛",
+        "host": "法国",
+        "matchesPlayed": 3,
+        "wins": 0,
+        "draws": 1,
+        "losses": 2,
+        "goalsFor": 2,
+        "goalsAgainst": 6
+      }
+    ],
+    "players": [
+      {
+        "id": "robertson",
+        "name": "安迪·罗伯逊",
+        "number": 3,
+        "position": "LB",
+        "club": "利物浦",
+        "age": 31,
+        "height": 178,
+        "weight": 64,
+        "nationality": "苏格兰",
+        "flagCode": "gb-sct",
+        "preferredFoot": "左",
+        "marketValue": 35000000,
+        "abilities": {
+          "shooting": 62,
+          "passing": 85,
+          "dribbling": 78,
+          "speed": 84,
+          "defense": 76,
+          "physical": 72
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "2014-03-05",
+          "totalCaps": 75,
+          "totalGoals": 3,
+          "majorTournaments": ["2020\u6b27\u6d32\u676f", "2024\u6b27\u6d32\u676f"],
+          "clubs": [
+            {
+              "clubName": "利物浦",
+              "period": "2017-至今",
+              "appearances": 280,
+              "goals": 10
+            }
+          ]
+        }
+      },
+      {
+        "id": "mctominay",
+        "name": "斯科特·麦克托米奈",
+        "number": 4,
+        "position": "CM",
+        "club": "那不勒斯",
+        "age": 29,
+        "height": 193,
+        "weight": 88,
+        "nationality": "苏格兰",
+        "flagCode": "gb-sct",
+        "preferredFoot": "右",
+        "marketValue": 32000000,
+        "abilities": {
+          "shooting": 75,
+          "passing": 78,
+          "dribbling": 68,
+          "speed": 65,
+          "defense": 74,
+          "physical": 85
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "2018-03-23",
+          "totalCaps": 55,
+          "totalGoals": 11,
+          "majorTournaments": ["2020\u6b27\u6d32\u676f", "2024\u6b27\u6d32\u676f"],
+          "clubs": [
+            {
+              "clubName": "曼联",
+              "period": "2017-2024",
+              "appearances": 178,
+              "goals": 22
+            }
+          ]
+        }
+      },
+      {
+        "id": "mcginn",
+        "name": "约翰·麦金",
+        "number": 7,
+        "position": "CM",
+        "club": "阿斯顿维拉",
+        "age": 31,
+        "height": 178,
+        "weight": 68,
+        "nationality": "苏格兰",
+        "flagCode": "gb-sct",
+        "preferredFoot": "左",
+        "marketValue": 28000000,
+        "abilities": {
+          "shooting": 74,
+          "passing": 80,
+          "dribbling": 76,
+          "speed": 70,
+          "defense": 68,
+          "physical": 80
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "2016-03-29",
+          "totalCaps": 70,
+          "totalGoals": 18,
+          "majorTournaments": ["2020\u6b27\u6d32\u676f", "2024\u6b27\u6d32\u676f"],
+          "clubs": [
+            {
+              "clubName": "阿斯顿维拉",
+              "period": "2018-至今",
+              "appearances": 230,
+              "goals": 28
+            }
+          ]
+        }
+      },
+      {
+        "id": "tierney",
+        "name": "基兰·蒂尔尼",
+        "number": 6,
+        "position": "LB",
+        "club": "阿森纳",
+        "age": 28,
+        "height": 178,
+        "weight": 70,
+        "nationality": "苏格兰",
+        "flagCode": "gb-sct",
+        "preferredFoot": "左",
+        "marketValue": 25000000,
+        "abilities": {
+          "shooting": 55,
+          "passing": 79,
+          "dribbling": 76,
+          "speed": 85,
+          "defense": 78,
+          "physical": 73
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "2016-03-29",
+          "totalCaps": 45,
+          "totalGoals": 1,
+          "majorTournaments": ["2020\u6b27\u6d32\u676f", "2024\u6b27\u6d32\u676f"],
+          "clubs": [
+            {
+              "clubName": "阿森纳",
+              "period": "2019-至今",
+              "appearances": 120,
+              "goals": 5
+            }
+          ]
+        }
+      },
+      {
+        "id": "gunn",
+        "name": "安格斯·冈恩",
+        "number": 1,
+        "position": "GK",
+        "club": "诺维奇",
+        "age": 30,
+        "height": 196,
+        "weight": 86,
+        "nationality": "苏格兰",
+        "flagCode": "gb-sct",
+        "preferredFoot": "右",
+        "marketValue": 5000000,
+        "abilities": {
+          "shooting": 14,
+          "passing": 35,
+          "dribbling": 18,
+          "speed": 38,
+          "defense": 74,
+          "physical": 76
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "2023-03-25",
+          "totalCaps": 15,
+          "totalGoals": 0,
+          "majorTournaments": ["2024\u6b27\u6d32\u676f"],
+          "clubs": [
+            {
+              "clubName": "诺维奇",
+              "period": "2021-至今",
+              "appearances": 90,
+              "goals": 0
+            }
+          ]
+        }
+      }
+    ],
+    "dataStatus": "real",
+    "qualificationStatus": "qualified"
+  },
+  {
+    "id": "haiti",
+    "name": "海地",
+    "nameEn": "Haiti",
+    "flagCode": "ht",
+    "confederation": "CONCACAF",
+    "fifaRank": 84,
+    "group": "C",
+    "formation": "4-4-2",
+    "worldCupAppearances": 2,
+    "bestResult": "小组赛",
+    "coach": {
+      "name": "塞巴斯蒂安·米涅",
+      "nationality": "法国",
+      "age": 51,
+      "since": "2023"
+    },
+    "tournamentStats": {
+      "points": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "averagePossession": 0,
+      "matchesPlayed": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0
+    },
+    "historyResults": [
+      {
+        "year": 1974,
+        "result": "小组赛",
+        "host": "西德",
+        "matchesPlayed": 3,
+        "wins": 0,
+        "draws": 0,
+        "losses": 3,
+        "goalsFor": 2,
+        "goalsAgainst": 14
+      }
+    ],
+    "players": [
+      {
+        "id": "pierre",
+        "name": "杜肯斯·皮埃尔",
+        "number": 9,
+        "position": "ST",
+        "club": "斯特拉斯堡",
+        "age": 26,
+        "height": 183,
+        "weight": 76,
+        "nationality": "海地",
+        "flagCode": "ht",
+        "preferredFoot": "右",
+        "marketValue": 4500000,
+        "abilities": {
+          "shooting": 74,
+          "passing": 62,
+          "dribbling": 73,
+          "speed": 81,
+          "defense": 25,
+          "physical": 72
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "2021-06-05",
+          "totalCaps": 30,
+          "totalGoals": 12,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "斯特拉斯堡",
+              "period": "2023-至今",
+              "appearances": 55,
+              "goals": 18
+            }
+          ]
+        }
+      },
+      {
+        "id": "ade",
+        "name": "里卡多·阿德",
+        "number": 4,
+        "position": "CB",
+        "club": "新英格兰革命",
+        "age": 30,
+        "height": 191,
+        "weight": 85,
+        "nationality": "海地",
+        "flagCode": "ht",
+        "preferredFoot": "右",
+        "marketValue": 1200000,
+        "abilities": {
+          "shooting": 38,
+          "passing": 55,
+          "dribbling": 40,
+          "speed": 62,
+          "defense": 74,
+          "physical": 82
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "2017-09-01",
+          "totalCaps": 40,
+          "totalGoals": 2,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "新英格兰革命",
+              "period": "2022-至今",
+              "appearances": 70,
+              "goals": 3
+            }
+          ]
+        }
+      },
+      {
+        "id": "christian",
+        "name": "卡尔·克里斯蒂安",
+        "number": 10,
+        "position": "CAM",
+        "club": "洛里昂",
+        "age": 27,
+        "height": 176,
+        "weight": 68,
+        "nationality": "海地",
+        "flagCode": "ht",
+        "preferredFoot": "右",
+        "marketValue": 3000000,
+        "abilities": {
+          "shooting": 68,
+          "passing": 74,
+          "dribbling": 78,
+          "speed": 76,
+          "defense": 42,
+          "physical": 58
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "2020-11-14",
+          "totalCaps": 22,
+          "totalGoals": 5,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "洛里昂",
+              "period": "2024-至今",
+              "appearances": 32,
+              "goals": 8
+            }
+          ]
+        }
+      },
+      {
+        "id": "placide",
+        "name": "约翰尼·普拉西德",
+        "number": 1,
+        "position": "GK",
+        "club": "巴斯蒂亚",
+        "age": 36,
+        "height": 181,
+        "weight": 78,
+        "nationality": "海地",
+        "flagCode": "ht",
+        "preferredFoot": "右",
+        "marketValue": 400000,
+        "abilities": {
+          "shooting": 14,
+          "passing": 28,
+          "dribbling": 16,
+          "speed": 32,
+          "defense": 68,
+          "physical": 70
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "2011-06-02",
+          "totalCaps": 68,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "巴斯蒂亚",
+              "period": "2021-至今",
+              "appearances": 95,
+              "goals": 0
+            }
+          ]
+        }
+      }
+    ],
+    "dataStatus": "real",
+    "qualificationStatus": "qualified"
+  },
+  {
+    "id": "curacao",
+    "name": "库拉索",
+    "nameEn": "Curacao",
+    "flagCode": "cw",
+    "confederation": "CONCACAF",
+    "fifaRank": 82,
+    "group": "E",
+    "formation": "4-3-3",
+    "worldCupAppearances": 1,
+    "bestResult": "首次参赛",
+    "coach": {
+      "name": "迪克·阿德沃卡特",
+      "nationality": "荷兰",
+      "age": 77,
+      "since": "2024"
+    },
+    "tournamentStats": {
+      "points": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "averagePossession": 0,
+      "matchesPlayed": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0
+    },
+    "historyResults": [],
+    "players": [
+      {
+        "id": "bazoer",
+        "name": "里切德利·巴佐尔",
+        "number": 6,
+        "position": "CDM",
+        "club": "阿尔克马尔",
+        "age": 29,
+        "height": 184,
+        "weight": 76,
+        "nationality": "库拉索",
+        "flagCode": "cw",
+        "preferredFoot": "右",
+        "marketValue": 3500000,
+        "abilities": {
+          "shooting": 64,
+          "passing": 78,
+          "dribbling": 70,
+          "speed": 65,
+          "defense": 76,
+          "physical": 78
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "2023-06-12",
+          "totalCaps": 12,
+          "totalGoals": 1,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "阿尔克马尔",
+              "period": "2022-至今",
+              "appearances": 88,
+              "goals": 5
+            }
+          ]
+        }
+      },
+      {
+        "id": "bacuna",
+        "name": "莱昂德罗·巴库纳",
+        "number": 8,
+        "position": "CM",
+        "club": "格罗宁根",
+        "age": 34,
+        "height": 187,
+        "weight": 78,
+        "nationality": "库拉索",
+        "flagCode": "cw",
+        "preferredFoot": "右",
+        "marketValue": 1500000,
+        "abilities": {
+          "shooting": 66,
+          "passing": 74,
+          "dribbling": 68,
+          "speed": 62,
+          "defense": 70,
+          "physical": 76
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "2016-06-01",
+          "totalCaps": 50,
+          "totalGoals": 14,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "格罗宁根",
+              "period": "2023-至今",
+              "appearances": 45,
+              "goals": 8
+            }
+          ]
+        }
+      },
+      {
+        "id": "janga",
+        "name": "兰赫洛·扬加",
+        "number": 9,
+        "position": "ST",
+        "club": "尼美根",
+        "age": 32,
+        "height": 188,
+        "weight": 82,
+        "nationality": "库拉索",
+        "flagCode": "cw",
+        "preferredFoot": "右",
+        "marketValue": 900000,
+        "abilities": {
+          "shooting": 74,
+          "passing": 55,
+          "dribbling": 62,
+          "speed": 70,
+          "defense": 28,
+          "physical": 82
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "2016-03-23",
+          "totalCaps": 42,
+          "totalGoals": 21,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "尼美根",
+              "period": "2022-至今",
+              "appearances": 58,
+              "goals": 22
+            }
+          ]
+        }
+      },
+      {
+        "id": "room",
+        "name": "埃洛伊·罗姆",
+        "number": 1,
+        "position": "GK",
+        "club": "维特斯",
+        "age": 35,
+        "height": 190,
+        "weight": 84,
+        "nationality": "库拉索",
+        "flagCode": "cw",
+        "preferredFoot": "右",
+        "marketValue": 600000,
+        "abilities": {
+          "shooting": 14,
+          "passing": 32,
+          "dribbling": 16,
+          "speed": 34,
+          "defense": 72,
+          "physical": 74
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "2015-06-10",
+          "totalCaps": 52,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "维特斯",
+              "period": "2017-至今",
+              "appearances": 180,
+              "goals": 0
+            }
+          ]
+        }
+      }
+    ],
+    "dataStatus": "real",
+    "qualificationStatus": "qualified"
+  },
+  {
+    "id": "capeverde",
+    "name": "佛得角",
+    "nameEn": "Cape Verde",
+    "flagCode": "cv",
+    "confederation": "CAF",
+    "fifaRank": 68,
+    "group": "H",
+    "formation": "4-3-3",
+    "worldCupAppearances": 1,
+    "bestResult": "首次参赛",
+    "coach": {
+      "name": "布比斯塔",
+      "nationality": "佛得角",
+      "age": 53,
+      "since": "2022"
+    },
+    "tournamentStats": {
+      "points": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "averagePossession": 0,
+      "matchesPlayed": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0
+    },
+    "historyResults": [],
+    "players": [
+      {
+        "id": "ryanmendes",
+        "name": "瑞安·门德斯",
+        "number": 10,
+        "position": "RW",
+        "club": "法蒂赫卡拉古鲁克",
+        "age": 35,
+        "height": 175,
+        "weight": 68,
+        "nationality": "佛得角",
+        "flagCode": "cv",
+        "preferredFoot": "右",
+        "marketValue": 800000,
+        "abilities": {
+          "shooting": 70,
+          "passing": 72,
+          "dribbling": 80,
+          "speed": 82,
+          "defense": 35,
+          "physical": 58
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "2010-09-04",
+          "totalCaps": 75,
+          "totalGoals": 16,
+          "majorTournaments": ["2023\u975e\u6d32\u676f"],
+          "clubs": [
+            {
+              "clubName": "法蒂赫卡拉古鲁克",
+              "period": "2023-至今",
+              "appearances": 55,
+              "goals": 12
+            }
+          ]
+        }
+      },
+      {
+        "id": "bebe",
+        "name": "贝贝",
+        "number": 7,
+        "position": "LW",
+        "club": "巴列卡诺",
+        "age": 35,
+        "height": 190,
+        "weight": 82,
+        "nationality": "佛得角",
+        "flagCode": "cv",
+        "preferredFoot": "右",
+        "marketValue": 500000,
+        "abilities": {
+          "shooting": 72,
+          "passing": 64,
+          "dribbling": 76,
+          "speed": 78,
+          "defense": 32,
+          "physical": 78
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "2022-03-25",
+          "totalCaps": 22,
+          "totalGoals": 6,
+          "majorTournaments": ["2023\u975e\u6d32\u676f"],
+          "clubs": [
+            {
+              "clubName": "巴列卡诺",
+              "period": "2023-至今",
+              "appearances": 48,
+              "goals": 5
+            }
+          ]
+        }
+      },
+      {
+        "id": "lopess",
+        "name": "罗伯托·洛佩斯",
+        "number": 4,
+        "position": "CB",
+        "club": "沙姆洛克流浪者",
+        "age": 32,
+        "height": 188,
+        "weight": 80,
+        "nationality": "佛得角",
+        "flagCode": "cv",
+        "preferredFoot": "右",
+        "marketValue": 500000,
+        "abilities": {
+          "shooting": 42,
+          "passing": 56,
+          "dribbling": 38,
+          "speed": 58,
+          "defense": 74,
+          "physical": 80
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "2020-10-07",
+          "totalCaps": 30,
+          "totalGoals": 1,
+          "majorTournaments": ["2023\u975e\u6d32\u676f"],
+          "clubs": [
+            {
+              "clubName": "沙姆洛克流浪者",
+              "period": "2017-至今",
+              "appearances": 210,
+              "goals": 15
+            }
+          ]
+        }
+      },
+      {
+        "id": "vozinha",
+        "name": "沃齐尼亚",
+        "number": 1,
+        "position": "GK",
+        "club": "特伦钦",
+        "age": 30,
+        "height": 189,
+        "weight": 80,
+        "nationality": "佛得角",
+        "flagCode": "cv",
+        "preferredFoot": "右",
+        "marketValue": 300000,
+        "abilities": {
+          "shooting": 14,
+          "passing": 28,
+          "dribbling": 16,
+          "speed": 30,
+          "defense": 70,
+          "physical": 72
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "2019-11-13",
+          "totalCaps": 38,
+          "totalGoals": 0,
+          "majorTournaments": ["2023\u975e\u6d32\u676f"],
+          "clubs": [
+            {
+              "clubName": "特伦钦",
+              "period": "2022-至今",
+              "appearances": 55,
+              "goals": 0
+            }
+          ]
+        }
+      }
+    ],
+    "dataStatus": "real",
+    "qualificationStatus": "qualified"
+  },
+  {
+    "id": "algeria",
+    "name": "阿尔及利亚",
+    "nameEn": "Algeria",
+    "flagCode": "dz",
+    "confederation": "CAF",
+    "fifaRank": 35,
+    "group": "J",
+    "formation": "4-2-3-1",
+    "worldCupAppearances": 5,
+    "bestResult": "十六强 (2014)",
+    "coach": {
+      "name": "弗拉基米尔·佩特科维奇",
+      "nationality": "波黑",
+      "age": 61,
+      "since": "2024"
+    },
+    "tournamentStats": {
+      "points": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "averagePossession": 0,
+      "matchesPlayed": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0
+    },
+    "historyResults": [
+      {
+        "year": 2014,
+        "result": "十六强",
+        "host": "巴西",
+        "matchesPlayed": 4,
+        "wins": 1,
+        "draws": 1,
+        "losses": 2,
+        "goalsFor": 7,
+        "goalsAgainst": 7
+      },
+      {
+        "year": 2010,
+        "result": "小组赛",
+        "host": "南非",
+        "matchesPlayed": 3,
+        "wins": 0,
+        "draws": 1,
+        "losses": 2,
+        "goalsFor": 0,
+        "goalsAgainst": 2
+      }
+    ],
+    "players": [
+      {
+        "id": "mahrez",
+        "name": "里亚德·马赫雷斯",
+        "number": 7,
+        "position": "RW",
+        "club": "吉达国民",
+        "age": 34,
+        "height": 179,
+        "weight": 67,
+        "nationality": "阿尔及利亚",
+        "flagCode": "dz",
+        "preferredFoot": "左",
+        "marketValue": 20000000,
+        "abilities": {
+          "shooting": 80,
+          "passing": 84,
+          "dribbling": 88,
+          "speed": 76,
+          "defense": 38,
+          "physical": 58
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "2014-05-31",
+          "totalCaps": 95,
+          "totalGoals": 30,
+          "majorTournaments": ["2014\u4e16\u754c\u676f", "2019\u975e\u6d32\u676f"],
+          "clubs": [
+            {
+              "clubName": "曼城",
+              "period": "2018-2023",
+              "appearances": 236,
+              "goals": 78
+            }
+          ]
+        }
+      },
+      {
+        "id": "bennacer",
+        "name": "伊斯梅尔·本纳赛尔",
+        "number": 6,
+        "position": "CM",
+        "club": "AC米兰",
+        "age": 28,
+        "height": 175,
+        "weight": 64,
+        "nationality": "阿尔及利亚",
+        "flagCode": "dz",
+        "preferredFoot": "左",
+        "marketValue": 30000000,
+        "abilities": {
+          "shooting": 62,
+          "passing": 84,
+          "dribbling": 80,
+          "speed": 68,
+          "defense": 74,
+          "physical": 62
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "2016-09-04",
+          "totalCaps": 55,
+          "totalGoals": 2,
+          "majorTournaments": ["2019\u975e\u6d32\u676f"],
+          "clubs": [
+            {
+              "clubName": "AC米兰",
+              "period": "2019-至今",
+              "appearances": 148,
+              "goals": 8
+            }
+          ]
+        }
+      },
+      {
+        "id": "aouar",
+        "name": "胡萨姆·奥瓦尔",
+        "number": 8,
+        "position": "CAM",
+        "club": "吉达联合",
+        "age": 27,
+        "height": 175,
+        "weight": 68,
+        "nationality": "阿尔及利亚",
+        "flagCode": "dz",
+        "preferredFoot": "右",
+        "marketValue": 15000000,
+        "abilities": {
+          "shooting": 74,
+          "passing": 80,
+          "dribbling": 84,
+          "speed": 72,
+          "defense": 42,
+          "physical": 58
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "2023-06-17",
+          "totalCaps": 12,
+          "totalGoals": 2,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "里昂",
+              "period": "2017-2023",
+              "appearances": 178,
+              "goals": 30
+            }
+          ]
+        }
+      },
+      {
+        "id": "aitnouri",
+        "name": "拉扬·艾特-努里",
+        "number": 3,
+        "position": "LB",
+        "club": "狼队",
+        "age": 24,
+        "height": 180,
+        "weight": 72,
+        "nationality": "阿尔及利亚",
+        "flagCode": "dz",
+        "preferredFoot": "左",
+        "marketValue": 22000000,
+        "abilities": {
+          "shooting": 55,
+          "passing": 74,
+          "dribbling": 80,
+          "speed": 84,
+          "defense": 72,
+          "physical": 68
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "2023-03-23",
+          "totalCaps": 8,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "狼队",
+              "period": "2021-至今",
+              "appearances": 95,
+              "goals": 5
+            }
+          ]
+        }
+      },
+      {
+        "id": "mandrea",
+        "name": "安东尼·曼德雷亚",
+        "number": 1,
+        "position": "GK",
+        "club": "卡昂",
+        "age": 28,
+        "height": 191,
+        "weight": 82,
+        "nationality": "阿尔及利亚",
+        "flagCode": "dz",
+        "preferredFoot": "右",
+        "marketValue": 2500000,
+        "abilities": {
+          "shooting": 14,
+          "passing": 30,
+          "dribbling": 16,
+          "speed": 32,
+          "defense": 72,
+          "physical": 74
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "2024-01-15",
+          "totalCaps": 6,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "卡昂",
+              "period": "2022-至今",
+              "appearances": 72,
+              "goals": 0
+            }
+          ]
+        }
+      }
+    ],
+    "dataStatus": "real",
+    "qualificationStatus": "qualified"
+  },
+  {
+    "id": "jordan",
+    "name": "约旦",
+    "nameEn": "Jordan",
+    "flagCode": "jo",
+    "confederation": "AFC",
+    "fifaRank": 66,
+    "group": "J",
+    "formation": "4-4-2",
+    "worldCupAppearances": 1,
+    "bestResult": "首次参赛",
+    "coach": {
+      "name": "侯赛因·阿穆塔",
+      "nationality": "摩洛哥",
+      "age": 55,
+      "since": "2023"
+    },
+    "tournamentStats": {
+      "points": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "averagePossession": 0,
+      "matchesPlayed": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0
+    },
+    "historyResults": [],
+    "players": [
+      {
+        "id": "altamari",
+        "name": "穆萨·塔马里",
+        "number": 10,
+        "position": "RW",
+        "club": "雷恩",
+        "age": 27,
+        "height": 175,
+        "weight": 68,
+        "nationality": "约旦",
+        "flagCode": "jo",
+        "preferredFoot": "左",
+        "marketValue": 8000000,
+        "abilities": {
+          "shooting": 72,
+          "passing": 74,
+          "dribbling": 84,
+          "speed": 86,
+          "defense": 30,
+          "physical": 55
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "2016-06-01",
+          "totalCaps": 68,
+          "totalGoals": 16,
+          "majorTournaments": ["2023\u4e9a\u6d32\u676f"],
+          "clubs": [
+            {
+              "clubName": "雷恩",
+              "period": "2024-至今",
+              "appearances": 45,
+              "goals": 12
+            }
+          ]
+        }
+      },
+      {
+        "id": "alnaimat",
+        "name": "亚赞·奈马特",
+        "number": 11,
+        "position": "ST",
+        "club": "多哈阿拉伯人",
+        "age": 25,
+        "height": 182,
+        "weight": 74,
+        "nationality": "约旦",
+        "flagCode": "jo",
+        "preferredFoot": "右",
+        "marketValue": 2200000,
+        "abilities": {
+          "shooting": 76,
+          "passing": 58,
+          "dribbling": 72,
+          "speed": 78,
+          "defense": 22,
+          "physical": 65
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "2021-09-02",
+          "totalCaps": 32,
+          "totalGoals": 12,
+          "majorTournaments": ["2023\u4e9a\u6d32\u676f"],
+          "clubs": [
+            {
+              "clubName": "多哈阿拉伯人",
+              "period": "2023-至今",
+              "appearances": 58,
+              "goals": 22
+            }
+          ]
+        }
+      },
+      {
+        "id": "arab",
+        "name": "亚辛·阿拉布",
+        "number": 5,
+        "position": "CB",
+        "club": "首尔FC",
+        "age": 28,
+        "height": 188,
+        "weight": 82,
+        "nationality": "约旦",
+        "flagCode": "jo",
+        "preferredFoot": "右",
+        "marketValue": 1100000,
+        "abilities": {
+          "shooting": 38,
+          "passing": 55,
+          "dribbling": 35,
+          "speed": 62,
+          "defense": 74,
+          "physical": 80
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "2021-01-24",
+          "totalCaps": 42,
+          "totalGoals": 2,
+          "majorTournaments": ["2023\u4e9a\u6d32\u676f"],
+          "clubs": [
+            {
+              "clubName": "首尔FC",
+              "period": "2022-至今",
+              "appearances": 88,
+              "goals": 3
+            }
+          ]
+        }
+      },
+      {
+        "id": "abullaila",
+        "name": "亚齐德·阿布莱拉",
+        "number": 1,
+        "position": "GK",
+        "club": "费萨里",
+        "age": 32,
+        "height": 186,
+        "weight": 78,
+        "nationality": "约旦",
+        "flagCode": "jo",
+        "preferredFoot": "右",
+        "marketValue": 500000,
+        "abilities": {
+          "shooting": 14,
+          "passing": 26,
+          "dribbling": 14,
+          "speed": 30,
+          "defense": 70,
+          "physical": 72
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "2017-06-07",
+          "totalCaps": 38,
+          "totalGoals": 0,
+          "majorTournaments": ["2023\u4e9a\u6d32\u676f"],
+          "clubs": [
+            {
+              "clubName": "费萨里",
+              "period": "2018-至今",
+              "appearances": 120,
+              "goals": 0
+            }
+          ]
+        }
+      }
+    ],
+    "dataStatus": "real",
+    "qualificationStatus": "qualified"
+  },
+  {
+    "id": "uzbekistan",
+    "name": "乌兹别克斯坦",
+    "nameEn": "Uzbekistan",
+    "flagCode": "uz",
+    "confederation": "AFC",
+    "fifaRank": 50,
+    "group": "K",
+    "formation": "4-2-3-1",
+    "worldCupAppearances": 1,
+    "bestResult": "首次参赛",
+    "coach": {
+      "name": "斯雷奇科·卡塔内茨",
+      "nationality": "斯洛文尼亚",
+      "age": 61,
+      "since": "2022"
+    },
+    "tournamentStats": {
+      "points": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "averagePossession": 0,
+      "matchesPlayed": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0
+    },
+    "historyResults": [],
+    "players": [
+      {
+        "id": "shomurodov",
+        "name": "埃尔多尔·绍穆罗多夫",
+        "number": 14,
+        "position": "ST",
+        "club": "罗马",
+        "age": 30,
+        "height": 190,
+        "weight": 80,
+        "nationality": "乌兹别克斯坦",
+        "flagCode": "uz",
+        "preferredFoot": "右",
+        "marketValue": 5000000,
+        "abilities": {
+          "shooting": 74,
+          "passing": 58,
+          "dribbling": 68,
+          "speed": 76,
+          "defense": 24,
+          "physical": 74
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "2015-09-03",
+          "totalCaps": 72,
+          "totalGoals": 38,
+          "majorTournaments": ["2019\u4e9a\u6d32\u676f", "2023\u4e9a\u6d32\u676f"],
+          "clubs": [
+            {
+              "clubName": "罗马",
+              "period": "2021-至今",
+              "appearances": 48,
+              "goals": 8
+            }
+          ]
+        }
+      },
+      {
+        "id": "masharipov",
+        "name": "贾洛利丁·马沙里波夫",
+        "number": 10,
+        "position": "LW",
+        "club": "德黑兰独立",
+        "age": 32,
+        "height": 172,
+        "weight": 62,
+        "nationality": "乌兹别克斯坦",
+        "flagCode": "uz",
+        "preferredFoot": "右",
+        "marketValue": 1500000,
+        "abilities": {
+          "shooting": 68,
+          "passing": 74,
+          "dribbling": 82,
+          "speed": 78,
+          "defense": 28,
+          "physical": 48
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "2016-10-06",
+          "totalCaps": 58,
+          "totalGoals": 12,
+          "majorTournaments": ["2019\u4e9a\u6d32\u676f", "2023\u4e9a\u6d32\u676f"],
+          "clubs": [
+            {
+              "clubName": "利雅得胜利",
+              "period": "2021-2023",
+              "appearances": 42,
+              "goals": 8
+            }
+          ]
+        }
+      },
+      {
+        "id": "alikulov",
+        "name": "胡斯尼丁·阿里库洛夫",
+        "number": 5,
+        "position": "CB",
+        "club": "里泽体育",
+        "age": 26,
+        "height": 188,
+        "weight": 80,
+        "nationality": "乌兹别克斯坦",
+        "flagCode": "uz",
+        "preferredFoot": "右",
+        "marketValue": 1200000,
+        "abilities": {
+          "shooting": 35,
+          "passing": 52,
+          "dribbling": 32,
+          "speed": 60,
+          "defense": 74,
+          "physical": 78
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "2021-06-07",
+          "totalCaps": 25,
+          "totalGoals": 1,
+          "majorTournaments": ["2023\u4e9a\u6d32\u676f"],
+          "clubs": [
+            {
+              "clubName": "里泽体育",
+              "period": "2024-至今",
+              "appearances": 32,
+              "goals": 2
+            }
+          ]
+        }
+      },
+      {
+        "id": "yusupov",
+        "name": "乌特基尔·尤苏波夫",
+        "number": 1,
+        "position": "GK",
+        "club": "纳曼干新春",
+        "age": 34,
+        "height": 188,
+        "weight": 78,
+        "nationality": "乌兹别克斯坦",
+        "flagCode": "uz",
+        "preferredFoot": "右",
+        "marketValue": 600000,
+        "abilities": {
+          "shooting": 14,
+          "passing": 28,
+          "dribbling": 16,
+          "speed": 30,
+          "defense": 70,
+          "physical": 72
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "2018-05-19",
+          "totalCaps": 22,
+          "totalGoals": 0,
+          "majorTournaments": ["2023\u4e9a\u6d32\u676f"],
+          "clubs": [
+            {
+              "clubName": "纳曼干新春",
+              "period": "2019-至今",
+              "appearances": 130,
+              "goals": 0
+            }
+          ]
+        }
+      }
+    ],
+    "dataStatus": "real",
+    "qualificationStatus": "qualified"
+  },
+  {
+    "id": "playoff-a",
+    "name": "附加赛A胜者",
+    "nameEn": "Playoff A Winner",
+    "flagCode": "xx",
+    "confederation": "UEFA",
+    "fifaRank": 0,
+    "group": "B",
+    "formation": "4-4-2",
+    "worldCupAppearances": 0,
+    "bestResult": "待定",
+    "coach": {
+      "name": "待定",
+      "nationality": "待定",
+      "age": 0,
+      "since": "待定"
+    },
+    "tournamentStats": {
+      "points": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "averagePossession": 0,
+      "matchesPlayed": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0
+    },
+    "historyResults": [],
+    "players": [],
+    "dataStatus": "pending",
+    "qualificationStatus": "in_progress"
+  },
+  {
+    "id": "playoff-b",
+    "name": "附加赛B胜者",
+    "nameEn": "Playoff B Winner",
+    "flagCode": "xx",
+    "confederation": "UEFA",
+    "fifaRank": 0,
+    "group": "F",
+    "formation": "4-4-2",
+    "worldCupAppearances": 0,
+    "bestResult": "待定",
+    "coach": {
+      "name": "待定",
+      "nationality": "待定",
+      "age": 0,
+      "since": "待定"
+    },
+    "tournamentStats": {
+      "points": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "averagePossession": 0,
+      "matchesPlayed": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0
+    },
+    "historyResults": [],
+    "players": [],
+    "dataStatus": "pending",
+    "qualificationStatus": "in_progress"
+  },
+  {
+    "id": "playoff-c",
+    "name": "附加赛C胜者",
+    "nameEn": "Playoff C Winner",
+    "flagCode": "xx",
+    "confederation": "UEFA",
+    "fifaRank": 0,
+    "group": "D",
+    "formation": "4-4-2",
+    "worldCupAppearances": 0,
+    "bestResult": "待定",
+    "coach": {
+      "name": "待定",
+      "nationality": "待定",
+      "age": 0,
+      "since": "待定"
+    },
+    "tournamentStats": {
+      "points": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "averagePossession": 0,
+      "matchesPlayed": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0
+    },
+    "historyResults": [],
+    "players": [],
+    "dataStatus": "pending",
+    "qualificationStatus": "in_progress"
+  },
+  {
+    "id": "playoff-d",
+    "name": "附加赛D胜者",
+    "nameEn": "Playoff D Winner",
+    "flagCode": "xx",
+    "confederation": "UEFA",
+    "fifaRank": 0,
+    "group": "A",
+    "formation": "4-4-2",
+    "worldCupAppearances": 0,
+    "bestResult": "待定",
+    "coach": {
+      "name": "待定",
+      "nationality": "待定",
+      "age": 0,
+      "since": "待定"
+    },
+    "tournamentStats": {
+      "points": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "averagePossession": 0,
+      "matchesPlayed": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0
+    },
+    "historyResults": [],
+    "players": [],
+    "dataStatus": "pending",
+    "qualificationStatus": "in_progress"
+  },
+  {
+    "id": "playoff-1",
+    "name": "附加赛1胜者",
+    "nameEn": "Playoff 1 Winner",
+    "flagCode": "xx",
+    "confederation": "CONCACAF",
+    "fifaRank": 0,
+    "group": "K",
+    "formation": "4-4-2",
+    "worldCupAppearances": 0,
+    "bestResult": "待定",
+    "coach": {
+      "name": "待定",
+      "nationality": "待定",
+      "age": 0,
+      "since": "待定"
+    },
+    "tournamentStats": {
+      "points": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "averagePossession": 0,
+      "matchesPlayed": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0
+    },
+    "historyResults": [],
+    "players": [],
+    "dataStatus": "pending",
+    "qualificationStatus": "in_progress"
+  },
+  {
+    "id": "playoff-2",
+    "name": "附加赛2胜者",
+    "nameEn": "Playoff 2 Winner",
+    "flagCode": "xx",
+    "confederation": "CONMEBOL",
+    "fifaRank": 0,
+    "group": "I",
+    "formation": "4-4-2",
+    "worldCupAppearances": 0,
+    "bestResult": "待定",
+    "coach": {
+      "name": "待定",
+      "nationality": "待定",
+      "age": 0,
+      "since": "待定"
+    },
+    "tournamentStats": {
+      "points": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "averagePossession": 0,
+      "matchesPlayed": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0
+    },
+    "historyResults": [],
+    "players": [],
+    "dataStatus": "pending",
     "qualificationStatus": "in_progress"
   }
 ]
