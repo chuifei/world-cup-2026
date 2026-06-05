@@ -47,7 +47,7 @@ export function MatchCard({ match, homeTeam, awayTeam, showDetail = false }: Mat
             <FlagImage code={homeTeam?.flagCode || "xx"} alt={homeTeam?.name || ""} size="lg" />
           </div>
           <div className="mx-3 md:mx-6 text-center shrink-0">
-            {match.status === "upcoming" ? (
+            {match.status === "pending" ? (
               <span className="text-lg md:text-xl font-bold text-muted-foreground">VS</span>
             ) : (
               <span className="text-xl md:text-2xl font-bold tabular-nums">

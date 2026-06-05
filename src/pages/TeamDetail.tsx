@@ -463,7 +463,7 @@ export default function TeamDetail() {
 
       {/* Tab区域 */}
       <div className="max-w-7xl mx-auto px-4 py-6 md:py-10">
-        <Tabs defaultValue="overview">
+        <Tabs defaultTab="overview">
           <TabsList className="mb-6 w-full md:w-auto overflow-x-auto">
             <TabsTrigger value="overview" className="flex items-center gap-1.5">
               <PieChart className="h-4 w-4" />

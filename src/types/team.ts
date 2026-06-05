@@ -54,6 +54,7 @@ export interface Coach {
   nationality: string
   age: number
   since: string
+  trophyCount?: number
 }
 
 export interface Team {

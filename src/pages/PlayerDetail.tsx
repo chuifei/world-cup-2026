@@ -393,7 +393,7 @@ function CareerTab({ player, team }: { player: Player; team: Team }) {
                         <h4 className="font-semibold text-sm md:text-base">
                           {club.clubName}
                         </h4>
-                        <Badge variant="outline" className="text-xs">
+                        <Badge variant="default" className="text-xs">
                           {club.period}
                         </Badge>
                       </div>
@@ -582,7 +582,7 @@ export default function PlayerDetail() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5, delay: 0.2 }}
         >
-          <Tabs defaultValue="performance">
+          <Tabs defaultTab="performance">
             <TabsList className="mb-6 w-full md:w-auto overflow-x-auto">
               <TabsTrigger value="performance" className="flex items-center gap-1.5">
                 <Activity className="h-4 w-4" />
