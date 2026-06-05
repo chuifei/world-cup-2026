@@ -21,7 +21,7 @@ import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ui/Tabs"
 import { FlagImage } from "@/components/shared/FlagImage"
 import { EmptyState } from "@/components/shared/EmptyState"
 import { DataStatusBadge } from "@/components/shared/DataStatusBadge"
-import { teams } from "@/data"
+import { teams, getQualifyingInfo } from "@/data"
 import { CONFEDERATIONS, POSITIONS } from "@/constants"
 import type { Team, Player, WorldCupHistory } from "@/types"
 
@@ -99,6 +99,60 @@ function OverviewTab({ team }: { team: Team }) {
           </CardContent>
         </Card>
       </div>
+
+      {/* 预选赛晋级信息 */}
+      {(() => {
+        const qualInfo = getQualifyingInfo(team.id)
+        if (!qualInfo) return null
+        return (
+          <Card className="border-green-200 bg-green-50/30">
+            <CardHeader>
+              <CardTitle className="text-base flex items-center gap-2">
+                <Trophy className="h-4 w-4 text-green-600" />
+                预选赛晋级信息
+              </CardTitle>
+              <CardDescription>2026世界杯预选赛表现</CardDescription>
+            </CardHeader>
+            <CardContent className="space-y-3">
+              <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-sm">
+                <div>
+                  <span className="text-xs text-muted-foreground">晋级方式</span>
+                  <p className="font-semibold text-green-700">{qualInfo.qualificationMethod}</p>
+                </div>
+                {qualInfo.group && (
+                  <div>
+                    <span className="text-xs text-muted-foreground">预选赛分组</span>
+                    <p className="font-semibold">{qualInfo.group}</p>
+                  </div>
+                )}
+                {qualInfo.record && (
+                  <div>
+                    <span className="text-xs text-muted-foreground">预选赛战绩</span>
+                    <p className="font-semibold">{qualInfo.record}</p>
+                  </div>
+                )}
+                <div>
+                  <span className="text-xs text-muted-foreground">所属洲</span>
+                  <p className="font-semibold">{CONFEDERATIONS[qualInfo.confederation as keyof typeof CONFEDERATIONS]?.name || qualInfo.confederation}</p>
+                </div>
+              </div>
+              {qualInfo.keyPlayers && qualInfo.keyPlayers.length > 0 && (
+                <div>
+                  <span className="text-xs text-muted-foreground">预选赛关键球员</span>
+                  <div className="flex flex-wrap gap-1.5 mt-1">
+                    {qualInfo.keyPlayers.map((p) => (
+                      <Badge key={p} variant="default" className="text-xs">{p}</Badge>
+                    ))}
+                  </div>
+                </div>
+              )}
+              {qualInfo.notes && (
+                <p className="text-sm text-muted-foreground leading-relaxed">{qualInfo.notes}</p>
+              )}
+            </CardContent>
+          </Card>
+        )
+      })()}
 
       {/* 主教练 + 常用阵型 */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">

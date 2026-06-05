@@ -5,6 +5,7 @@ export function Footer() {
         <p className="mb-1">2026 FIFA World Cup 资讯展示网站</p>
         <p>本网站为个人作品集展示项目，数据均为模拟演示数据，不涉及商业用途。</p>
         <p className="mt-2">2026世界杯将于2026年6月11日正式开赛。</p>
+        <p className="mt-3 text-muted-foreground/60">v2.0 — 数据更新至2026年3月</p>
       </div>
     </footer>
   )
