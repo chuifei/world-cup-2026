@@ -17198,7 +17198,7 @@ export const teams: Team[] = [
       }
     ],
     "players": [
-      {
+{
         "id": "pierre",
         "name": "弗朗茨迪·皮埃罗",
         "number": 19,
@@ -17234,7 +17234,7 @@ export const teams: Team[] = [
           "totalCaps": 30,
           "totalGoals": 12,
           "majorTournaments": [],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "斯特拉斯堡",
               "period": "2023-至今",
@@ -17243,7 +17243,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "ade",
         "name": "里卡多·阿德",
@@ -17280,7 +17280,7 @@ export const teams: Team[] = [
           "totalCaps": 40,
           "totalGoals": 2,
           "majorTournaments": [],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "新英格兰革命",
               "period": "2022-至今",
@@ -17289,7 +17289,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "christian",
         "name": "约翰尼·普拉西德",
@@ -17326,7 +17326,7 @@ export const teams: Team[] = [
           "totalCaps": 22,
           "totalGoals": 5,
           "majorTournaments": [],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "洛里昂",
               "period": "2024-至今",
@@ -17335,7 +17335,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "placide",
         "name": "约翰尼·普拉西德",
@@ -17372,11 +17372,528 @@ export const teams: Team[] = [
           "totalCaps": 68,
           "totalGoals": 0,
           "majorTournaments": [],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "巴斯蒂亚",
               "period": "2021-至今",
               "appearances": 95,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "p1780743241036",
+        "name": "<image:title>2026世足分組晉級賠率與奪冠熱門隊示意",
+        "number": 9,
+        "position": "CM",
+        "club": "</image:title>",
+        "age": 26,
+        "height": 178,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "",
+        "marketValue": 28000000,
+        "photoUrl": "",
+        "abilities": {
+          "shooting": 65,
+          "passing": 81,
+          "dribbling": 70,
+          "speed": 65,
+          "defense": 60,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "</image:title>",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "p1780743241037",
+        "name": "<image:title>維德角 2026 世界盃 26 人大名單封面",
+        "number": 10,
+        "position": "CM",
+        "club": "</image:title>",
+        "age": 26,
+        "height": 178,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "",
+        "marketValue": 28000000,
+        "photoUrl": "",
+        "abilities": {
+          "shooting": 65,
+          "passing": 81,
+          "dribbling": 70,
+          "speed": 65,
+          "defense": 60,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "</image:title>",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "l",
+        "name": "<image:title>巴拿馬2026世足賽26人最終大名單：戈多伊領軍、卡拉斯基亞坐鎮中場",
+        "number": 11,
+        "position": "CM",
+        "club": "</image:title>",
+        "age": 26,
+        "height": 178,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "",
+        "marketValue": 28000000,
+        "photoUrl": "",
+        "abilities": {
+          "shooting": 65,
+          "passing": 81,
+          "dribbling": 70,
+          "speed": 65,
+          "defense": 60,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "</image:title>",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "p17807432410371",
+        "name": "<image:title>世足運彩術語對照示意，足球與投注名詞解析",
+        "number": 12,
+        "position": "CM",
+        "club": "</image:title>",
+        "age": 26,
+        "height": 178,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "",
+        "marketValue": 28000000,
+        "photoUrl": "",
+        "abilities": {
+          "shooting": 65,
+          "passing": 81,
+          "dribbling": 70,
+          "speed": 65,
+          "defense": 60,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "</image:title>",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "c",
+        "name": "<image:title>海地2026世足賽26人大名單：納松領銜、貝勒加德坐鎮，睽違52年重返世界盃",
+        "number": 13,
+        "position": "CM",
+        "club": "</image:title>",
+        "age": 26,
+        "height": 178,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "",
+        "marketValue": 28000000,
+        "photoUrl": "",
+        "abilities": {
+          "shooting": 65,
+          "passing": 81,
+          "dribbling": 70,
+          "speed": 65,
+          "defense": 60,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "</image:title>",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "p17807432410372",
+        "name": "<image:title>「一張專為 2026 世界盃設計的專業體育分析封面圖，對比『台灣運彩』與『海外博彩平台』的合法性與資金安全。畫面背景是熙攘、燈火通明的夜間足球場，環狀看台與 LED 螢幕上布滿了清晰的繁體中文『責任博弈』標語。前景中央有兩位足球運動員在草地上激烈對抗：左邊是一位身穿白色德國國家隊球衣",
+        "number": 14,
+        "position": "CM",
+        "club": "的男子正在控球切入，右邊是一位身穿黃色厄瓜多國家隊球衣（背號 13）的男子在貼身防守。球場下方配有大型對比電子看板，詳細列出兩者風險比較。左側綠色區域標題為『LEGAL / TAIWAN 台灣運彩 (TSL) | 合法管道』，帶有綠色 ✅ 圖示，寫著：『100% 合法合規 (100% LEGAL)、資金有保障 (FUNDS SECURE)、責任博弈政策 (RG POLICY)、本地稅收貢獻 (LOCAL TAX)』；右側紅色區域標題為『ILLEGAL / OVERSEAS 海外博彩 | 非法平台』，帶有紅色 ❌ 圖示，寫著：『台灣法律不允 (ILLEGAL IN TAIWAN)、資金無保障 (NO GUARANTEE)、個人資料外洩 (DATA LEAK RISK)、詐騙陷阱多 (SCAM RISK)』。頂部標題用大號醒目的繁體中文白字與黃字寫著：『台灣運彩 vs 海外博彩平台差在哪？2026世足賽合法性、資金安全與風險比較』，下方小標題為黃字：『玩運彩交流討論區 團隊攻略』。畫面右下角帶有圓圈『18+ 責任博弈』的合規圖示。整體風格呈現專業、資訊對比清晰且富有教育意義的體育新聞雜誌封面。」</image:title>",
+        "age": 26,
+        "height": 178,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "",
+        "marketValue": 28000000,
+        "photoUrl": "",
+        "abilities": {
+          "shooting": 65,
+          "passing": 81,
+          "dribbling": 70,
+          "speed": 65,
+          "defense": 60,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "的男子正在控球切入，右邊是一位身穿黃色厄瓜多國家隊球衣（背號 13）的男子在貼身防守。球場下方配有大型對比電子看板，詳細列出兩者風險比較。左側綠色區域標題為『LEGAL / TAIWAN 台灣運彩 (TSL) | 合法管道』，帶有綠色 ✅ 圖示，寫著：『100% 合法合規 (100% LEGAL)、資金有保障 (FUNDS SECURE)、責任博弈政策 (RG POLICY)、本地稅收貢獻 (LOCAL TAX)』；右側紅色區域標題為『ILLEGAL / OVERSEAS 海外博彩 | 非法平台』，帶有紅色 ❌ 圖示，寫著：『台灣法律不允 (ILLEGAL IN TAIWAN)、資金無保障 (NO GUARANTEE)、個人資料外洩 (DATA LEAK RISK)、詐騙陷阱多 (SCAM RISK)』。頂部標題用大號醒目的繁體中文白字與黃字寫著：『台灣運彩 vs 海外博彩平台差在哪？2026世足賽合法性、資金安全與風險比較』，下方小標題為黃字：『玩運彩交流討論區 團隊攻略』。畫面右下角帶有圓圈『18+ 責任博弈』的合規圖示。整體風格呈現專業、資訊對比清晰且富有教育意義的體育新聞雜誌封面。」</image:title>",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "p17807432410373",
+        "name": "<image:title>一張專為 2026 世界盃運彩避雷教學設計的專業體育分析封面圖。畫面背景是熙攘、燈火通明的夜間足球場，環狀看台與 LED 螢幕上布滿了清晰的繁體中文『責任博弈』標語。前景中央有兩位足球運動員在草地上激烈對抗：左邊是一位身穿白色德國國家隊球衣",
+        "number": 15,
+        "position": "CM",
+        "club": "的男子正在控球切入，右邊是一位身穿黃色厄瓜多國家隊球衣（背號 13）的男子在貼身防守。球場中央的大型 LED 電子看板上，用對比鮮明的紅綠圖表，列出了新手避雷與理性投注的關鍵對比清單。左側紅色區域帶有紅色 ❌，寫著：『新手常犯錯誤：追單/藉貸投注、無計畫/衝動下注、聽信偏方/保證獲利、單打獨鬥』；右側綠色區域帶有綠色 ✅，寫著：『理性投注指南：量力而為/設定預算、深耕數據/理性拆解、台灣運彩/合法管道、社群交流』。整個圖像融合了動態體育攝影與資訊圖表設計。頂部標題用大號醒目的繁體中文白字寫著：『運彩新手常犯的錯誤有哪些？2026世足賽台灣運彩避雷與理性投注指南』，下方小標題為黃字：『玩運彩交流討論區 團隊攻略』。畫面左下角帶有圓圈『18+ 責任博弈』的合規圖示。整體風格呈現專業、富有警示與教學意義的體育新聞雜誌封面。</image:title>",
+        "age": 26,
+        "height": 178,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "",
+        "marketValue": 28000000,
+        "photoUrl": "",
+        "abilities": {
+          "shooting": 65,
+          "passing": 81,
+          "dribbling": 70,
+          "speed": 65,
+          "defense": 60,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "的男子正在控球切入，右邊是一位身穿黃色厄瓜多國家隊球衣（背號 13）的男子在貼身防守。球場中央的大型 LED 電子看板上，用對比鮮明的紅綠圖表，列出了新手避雷與理性投注的關鍵對比清單。左側紅色區域帶有紅色 ❌，寫著：『新手常犯錯誤：追單/藉貸投注、無計畫/衝動下注、聽信偏方/保證獲利、單打獨鬥』；右側綠色區域帶有綠色 ✅，寫著：『理性投注指南：量力而為/設定預算、深耕數據/理性拆解、台灣運彩/合法管道、社群交流』。整個圖像融合了動態體育攝影與資訊圖表設計。頂部標題用大號醒目的繁體中文白字寫著：『運彩新手常犯的錯誤有哪些？2026世足賽台灣運彩避雷與理性投注指南』，下方小標題為黃字：『玩運彩交流討論區 團隊攻略』。畫面左下角帶有圓圈『18+ 責任博弈』的合規圖示。整體風格呈現專業、富有警示與教學意義的體育新聞雜誌封面。</image:title>",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "p1780743241038",
+        "name": "<image:title>「一張動態且資訊豐富的專業體育攝影封面圖，旨在解釋 2026 世界盃台灣運彩的『串關",
+        "number": 16,
+        "position": "CM",
+        "club": "』玩法。畫面背景是充滿活力的夜間足球場（基於桃園國際棒球場架構，並增加了大型 LED 螢幕，顯示著 blurry Chinese 文字『台灣運彩』和『責任博弈』）。前景有三位足球運動員在場上積極競爭：一位身穿白色德國國家隊球衣（背號 7）的男子正在大腳踢球，與一位身穿黃色厄瓜多國家隊球衣（背號 13）的男子對抗；一位身穿藍色美國國家隊球衣（背號 9）的男子在右側奔跑。在體育場中央的大型 scoreboard LED 螢幕上，用清晰的粗體 Traditional Chinese 文字和 graphic 總結了串關玩法的核心概念：『[串關成功] - 總賠率：45.00 ✅』，下方是 Chinese 文字：『1. 德國 勝 (DEU Win) | 賠率：1.80 ✅』、『2. 厄瓜多 勝 (ECU Win) | 賠率：2.50 ✅』、『3. 美國 勝 (USA Win) | 賠率：10.00 ✅』，並用圖示箭頭顯示『⚠️ 高回報，高風險』。整個圖像融合了動態攝影和圖形設計，頂部的標題用大號、醒目的 Traditional Chinese 文字寫著：『串關（過關）是什麼？2026世界盃台灣運彩串關玩法、賠率計算與風險一次看』，下方的小標題是：『世界盃攻略 ｜ 玩運彩交流討論區 團隊攻略』。整個圖像營造出專業、令人興奮且資訊豐富的體育新聞雜誌封面風格。 text is in Traditional Chinese and integration is graphic. Small &apos;18+ 責任博弈&apos; icon is in the bottom corner.」</image:title>",
+        "age": 26,
+        "height": 178,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "",
+        "marketValue": 28000000,
+        "photoUrl": "",
+        "abilities": {
+          "shooting": 65,
+          "passing": 81,
+          "dribbling": 70,
+          "speed": 65,
+          "defense": 60,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "』玩法。畫面背景是充滿活力的夜間足球場（基於桃園國際棒球場架構，並增加了大型 LED 螢幕，顯示著 blurry Chinese 文字『台灣運彩』和『責任博弈』）。前景有三位足球運動員在場上積極競爭：一位身穿白色德國國家隊球衣（背號 7）的男子正在大腳踢球，與一位身穿黃色厄瓜多國家隊球衣（背號 13）的男子對抗；一位身穿藍色美國國家隊球衣（背號 9）的男子在右側奔跑。在體育場中央的大型 scoreboard LED 螢幕上，用清晰的粗體 Traditional Chinese 文字和 graphic 總結了串關玩法的核心概念：『[串關成功] - 總賠率：45.00 ✅』，下方是 Chinese 文字：『1. 德國 勝 (DEU Win) | 賠率：1.80 ✅』、『2. 厄瓜多 勝 (ECU Win) | 賠率：2.50 ✅』、『3. 美國 勝 (USA Win) | 賠率：10.00 ✅』，並用圖示箭頭顯示『⚠️ 高回報，高風險』。整個圖像融合了動態攝影和圖形設計，頂部的標題用大號、醒目的 Traditional Chinese 文字寫著：『串關（過關）是什麼？2026世界盃台灣運彩串關玩法、賠率計算與風險一次看』，下方的小標題是：『世界盃攻略 ｜ 玩運彩交流討論區 團隊攻略』。整個圖像營造出專業、令人興奮且資訊豐富的體育新聞雜誌封面風格。 text is in Traditional Chinese and integration is graphic. Small &apos;18+ 責任博弈&apos; icon is in the bottom corner.」</image:title>",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "p17807432410381",
+        "name": "<image:title>一張為 2026 世界盃運彩教學設計的動態攝影封面圖。畫面背景是熙攘且燈火通明的足球體育場夜景",
+        "number": 17,
+        "position": "CM",
+        "club": "，LED 螢幕上顯示著 Chinese 文字『台灣運彩』。前景的大型 scoreboard LED 螢幕上，用清晰的粗體 Chinese 文字和圖示總結了核心概念：『目前總進球數：3（帶有✅）』、『【大球】(OVER 2.5)（帶有 ✅）』、以及『【小球】(UNDER 2.5)（帶有 ❌）』。在畫面的右側，一位身穿白色德國國家隊球衣（背號 7）的男子正專注地大腳踢球，另一位身穿黃色厄瓜多國家隊球衣（背號 13）的男子則在後方追逐。畫面的其餘部分，人群在 cheering，並且有帶有『台灣運彩』標誌的小旗幟和泡沫手指。頂部的標題用大號、醒目的 Chinese 文字寫著：『大小球是什麼？2026世界盃台灣運彩大小盤（總進球數）看法與計算一次搞懂』，下方的小標題是：『世界盃攻略 ｜ 玩運彩交流討論區 團隊攻略』。整個圖像融合了動態攝影和圖形設計，營造出充滿活力、資訊豐富且專業的體育新聞雜誌封面風格。 text is in Traditional Chinese and integration is graphic. Small icon in the bottom corner shows &apos;18+ 责任博弈&apos;.」</image:title>",
+        "age": 26,
+        "height": 178,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "",
+        "marketValue": 28000000,
+        "photoUrl": "",
+        "abilities": {
+          "shooting": 65,
+          "passing": 81,
+          "dribbling": 70,
+          "speed": 65,
+          "defense": 60,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "，LED 螢幕上顯示著 Chinese 文字『台灣運彩』。前景的大型 scoreboard LED 螢幕上，用清晰的粗體 Chinese 文字和圖示總結了核心概念：『目前總進球數：3（帶有✅）』、『【大球】(OVER 2.5)（帶有 ✅）』、以及『【小球】(UNDER 2.5)（帶有 ❌）』。在畫面的右側，一位身穿白色德國國家隊球衣（背號 7）的男子正專注地大腳踢球，另一位身穿黃色厄瓜多國家隊球衣（背號 13）的男子則在後方追逐。畫面的其餘部分，人群在 cheering，並且有帶有『台灣運彩』標誌的小旗幟和泡沫手指。頂部的標題用大號、醒目的 Chinese 文字寫著：『大小球是什麼？2026世界盃台灣運彩大小盤（總進球數）看法與計算一次搞懂』，下方的小標題是：『世界盃攻略 ｜ 玩運彩交流討論區 團隊攻略』。整個圖像融合了動態攝影和圖形設計，營造出充滿活力、資訊豐富且專業的體育新聞雜誌封面風格。 text is in Traditional Chinese and integration is graphic. Small icon in the bottom corner shows &apos;18+ 责任博弈&apos;.」</image:title>",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "p17807432410382",
+        "name": "<image:title>「一張為 2026 世界盃運彩教學設計的專業動態攝影封面圖，採用了足球雜誌封面的排版風格。畫面背景是熙攘且燈火通明的足球體育場夜景",
+        "number": 18,
+        "position": "CM",
+        "club": "。前景是動態的足球進球瞬間，一個 official Adidas Al Rihla 2026 世界盃足球正滾入 Billing Goal Net（ billing goal net Billing Goal Net Billing Goal Net）， Billing Goal Net Billing Goal Net billowing。在 Goal Net Goal Net Goal Net 後方，一位身穿白色德國球衣（背號 7）的男子和一位身穿黃色厄瓜多球衣（背號 13）的男子正在 Goal Net 附近奔跑，兩人抓拍捕捉抓拍。在體育場中央的大型 scoreboard LED 螢幕上，用清晰的粗體 Chinese 和 English 文字總結了 Billing Goal：『DEU德國 2 : 1 ECU厄瓜多』，下方是 Chinese 文字『正確比分』和大號粗體 Chinese 文字『波膽』。在 scoreboard 的右側，一個簡化的 Chinese 運彩彩券範本（『基彩分單』）顯示了分數選項和賠率：『德國 勝 (DEU Win)』、『厄瓜多 勝 (ECU Win)』、『德國 勝 | 2:1 (15.00)』、『厄瓜多 勝 | 1:0 (10.00)』。整個圖像融合了動態攝影和專業圖形設計，頂部的標題用大號、醒目的 Traditional Chinese 文字寫著：『波膽是什麼？2026世界盃台灣運彩正確比分玩法、賠率高低與下注注意一次看』，下方的小標題是：『【玩運彩交流討論區】 團隊攻略』。整個圖像具有強烈的體育氛圍，資訊量豐富且專業。 text is clean, graphical, and integrated. Small &apos;18+ 責任博弈&apos; icon is in the bottom corner.」</image:title>",
+        "age": 26,
+        "height": 178,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "",
+        "marketValue": 28000000,
+        "photoUrl": "",
+        "abilities": {
+          "shooting": 65,
+          "passing": 81,
+          "dribbling": 70,
+          "speed": 65,
+          "defense": 60,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "。前景是動態的足球進球瞬間，一個 official Adidas Al Rihla 2026 世界盃足球正滾入 Billing Goal Net（ billing goal net Billing Goal Net Billing Goal Net）， Billing Goal Net Billing Goal Net billowing。在 Goal Net Goal Net Goal Net 後方，一位身穿白色德國球衣（背號 7）的男子和一位身穿黃色厄瓜多球衣（背號 13）的男子正在 Goal Net 附近奔跑，兩人抓拍捕捉抓拍。在體育場中央的大型 scoreboard LED 螢幕上，用清晰的粗體 Chinese 和 English 文字總結了 Billing Goal：『DEU德國 2 : 1 ECU厄瓜多』，下方是 Chinese 文字『正確比分』和大號粗體 Chinese 文字『波膽』。在 scoreboard 的右側，一個簡化的 Chinese 運彩彩券範本（『基彩分單』）顯示了分數選項和賠率：『德國 勝 (DEU Win)』、『厄瓜多 勝 (ECU Win)』、『德國 勝 | 2:1 (15.00)』、『厄瓜多 勝 | 1:0 (10.00)』。整個圖像融合了動態攝影和專業圖形設計，頂部的標題用大號、醒目的 Traditional Chinese 文字寫著：『波膽是什麼？2026世界盃台灣運彩正確比分玩法、賠率高低與下注注意一次看』，下方的小標題是：『【玩運彩交流討論區】 團隊攻略』。整個圖像具有強烈的體育氛圍，資訊量豐富且專業。 text is clean, graphical, and integrated. Small &apos;18+ 責任博弈&apos; icon is in the bottom corner.」</image:title>",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "p17807432410383",
+        "name": "<image:title>一張專業的體育分析合成圖，旨在解釋 2026 世界盃運彩的賠率格式。畫面背景是一個充滿活力的夜間足球場",
+        "number": 19,
+        "position": "CM",
+        "club": "。前景有兩位足球運動員在場上激烈競爭：一位身穿白色德國國家隊球衣（背號 7）的男子正在控球，與一位身穿黃色厄瓜多國家隊球衣（背號 13）的男子對抗。在體育場中央的大型 scoreboard LED 螢幕上，用清晰的粗體 Traditional Chinese 和 English 文字與 graphic 詳細比較了三種主要 odds formats：『【歐洲盤 (Decimal)】 (Germany Win)』顯示『1.80』，帶有轉換圖示 arrows 和概率計算『例：1/7 x 1.80 / 2.50 = (55.6% 概率) 如 55.6% 概率』；『【香港盤 (Hong Kong)】 (Ecuador Win)』顯示『2.50』，帶有轉換圖示 arrows 和概率計算『例：1/7 x 1.80 / 2.50 = 如 28.6% 概率』；『【美式盤 (American)】 (Draw)』顯示『+280』，帶有轉換圖示 arrows 和概率計算『例：1/4 x 3.80 = 250 (如 26.3% 概率)』。在 scoreboard 的右側，一個獨立的 graphic  inset 顯示了串關總賠率的計算範例：『( 1.80 x 2.50 x 3.80 ) = 串關總賠率』、『= 1.80 x 2.50 x 3.80』、『= 1.80 x 2.50 x 3.80』、『(1.80 x 2.50 x 3.80 ) = 串關總賠率』。整個圖像融合了動態攝影和圖形設計，頂部的標題用大號、醒目的 Traditional Chinese 文字寫著：『運彩賠率怎麼看？2026世足賽歐洲盤、香港盤、美式盤賠率格式一次搞懂』，下方的小標題是：『玩運彩交流討論區 團隊攻略』。整個圖像營造出專業、令人興奮且資訊豐富的體育新聞雜誌封面風格。 text is Traditional Chinese and integrated is graphic. Small &apos;18+ 責任博弈&apos; icon is in the bottom corner.</image:title>",
+        "age": 26,
+        "height": 178,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "",
+        "marketValue": 28000000,
+        "photoUrl": "",
+        "abilities": {
+          "shooting": 65,
+          "passing": 81,
+          "dribbling": 70,
+          "speed": 65,
+          "defense": 60,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "。前景有兩位足球運動員在場上激烈競爭：一位身穿白色德國國家隊球衣（背號 7）的男子正在控球，與一位身穿黃色厄瓜多國家隊球衣（背號 13）的男子對抗。在體育場中央的大型 scoreboard LED 螢幕上，用清晰的粗體 Traditional Chinese 和 English 文字與 graphic 詳細比較了三種主要 odds formats：『【歐洲盤 (Decimal)】 (Germany Win)』顯示『1.80』，帶有轉換圖示 arrows 和概率計算『例：1/7 x 1.80 / 2.50 = (55.6% 概率) 如 55.6% 概率』；『【香港盤 (Hong Kong)】 (Ecuador Win)』顯示『2.50』，帶有轉換圖示 arrows 和概率計算『例：1/7 x 1.80 / 2.50 = 如 28.6% 概率』；『【美式盤 (American)】 (Draw)』顯示『+280』，帶有轉換圖示 arrows 和概率計算『例：1/4 x 3.80 = 250 (如 26.3% 概率)』。在 scoreboard 的右側，一個獨立的 graphic  inset 顯示了串關總賠率的計算範例：『( 1.80 x 2.50 x 3.80 ) = 串關總賠率』、『= 1.80 x 2.50 x 3.80』、『= 1.80 x 2.50 x 3.80』、『(1.80 x 2.50 x 3.80 ) = 串關總賠率』。整個圖像融合了動態攝影和圖形設計，頂部的標題用大號、醒目的 Traditional Chinese 文字寫著：『運彩賠率怎麼看？2026世足賽歐洲盤、香港盤、美式盤賠率格式一次搞懂』，下方的小標題是：『玩運彩交流討論區 團隊攻略』。整個圖像營造出專業、令人興奮且資訊豐富的體育新聞雜誌封面風格。 text is Traditional Chinese and integrated is graphic. Small &apos;18+ 責任博弈&apos; icon is in the bottom corner.</image:title>",
+              "period": "至今",
+              "appearances": 0,
               "goals": 0
             }
           ]
