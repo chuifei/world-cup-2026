@@ -17198,7 +17198,7 @@ export const teams: Team[] = [
       }
     ],
     "players": [
-{
+      {
         "id": "pierre",
         "name": "弗朗茨迪·皮埃罗",
         "number": 19,
@@ -17234,7 +17234,7 @@ export const teams: Team[] = [
           "totalCaps": 30,
           "totalGoals": 12,
           "majorTournaments": [],
-          "clubs": [,
+          "clubs": [
             {
               "clubName": "斯特拉斯堡",
               "period": "2023-至今",
@@ -17243,7 +17243,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },,
+      },
       {
         "id": "ade",
         "name": "里卡多·阿德",
@@ -17280,7 +17280,7 @@ export const teams: Team[] = [
           "totalCaps": 40,
           "totalGoals": 2,
           "majorTournaments": [],
-          "clubs": [,
+          "clubs": [
             {
               "clubName": "新英格兰革命",
               "period": "2022-至今",
@@ -17289,7 +17289,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },,
+      },
       {
         "id": "christian",
         "name": "约翰尼·普拉西德",
@@ -17326,7 +17326,7 @@ export const teams: Team[] = [
           "totalCaps": 22,
           "totalGoals": 5,
           "majorTournaments": [],
-          "clubs": [,
+          "clubs": [
             {
               "clubName": "洛里昂",
               "period": "2024-至今",
@@ -17335,7 +17335,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },,
+      },
       {
         "id": "placide",
         "name": "约翰尼·普拉西德",
@@ -17372,528 +17372,11 @@ export const teams: Team[] = [
           "totalCaps": 68,
           "totalGoals": 0,
           "majorTournaments": [],
-          "clubs": [,
+          "clubs": [
             {
               "clubName": "巴斯蒂亚",
               "period": "2021-至今",
               "appearances": 95,
-              "goals": 0
-            }
-          ]
-        }
-      },
-      {
-        "id": "p1780743241036",
-        "name": "<image:title>2026世足分組晉級賠率與奪冠熱門隊示意",
-        "number": 9,
-        "position": "CM",
-        "club": "</image:title>",
-        "age": 26,
-        "height": 178,
-        "weight": 72,
-        "nationality": "",
-        "flagCode": "",
-        "preferredFoot": "右",
-        "birthDate": "",
-        "marketValue": 28000000,
-        "photoUrl": "",
-        "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
-        },
-        "tournamentStats": {
-          "appearances": 0,
-          "goals": 0,
-          "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "minutesPlayed": 0,
-          "averageRating": 0
-        },
-        "careerSummary": {
-          "firstAppearance": "",
-          "totalCaps": 0,
-          "totalGoals": 0,
-          "majorTournaments": [],
-          "clubs": [
-            {
-              "clubName": "</image:title>",
-              "period": "至今",
-              "appearances": 0,
-              "goals": 0
-            }
-          ]
-        }
-      },
-      {
-        "id": "p1780743241037",
-        "name": "<image:title>維德角 2026 世界盃 26 人大名單封面",
-        "number": 10,
-        "position": "CM",
-        "club": "</image:title>",
-        "age": 26,
-        "height": 178,
-        "weight": 72,
-        "nationality": "",
-        "flagCode": "",
-        "preferredFoot": "右",
-        "birthDate": "",
-        "marketValue": 28000000,
-        "photoUrl": "",
-        "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
-        },
-        "tournamentStats": {
-          "appearances": 0,
-          "goals": 0,
-          "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "minutesPlayed": 0,
-          "averageRating": 0
-        },
-        "careerSummary": {
-          "firstAppearance": "",
-          "totalCaps": 0,
-          "totalGoals": 0,
-          "majorTournaments": [],
-          "clubs": [
-            {
-              "clubName": "</image:title>",
-              "period": "至今",
-              "appearances": 0,
-              "goals": 0
-            }
-          ]
-        }
-      },
-      {
-        "id": "l",
-        "name": "<image:title>巴拿馬2026世足賽26人最終大名單：戈多伊領軍、卡拉斯基亞坐鎮中場",
-        "number": 11,
-        "position": "CM",
-        "club": "</image:title>",
-        "age": 26,
-        "height": 178,
-        "weight": 72,
-        "nationality": "",
-        "flagCode": "",
-        "preferredFoot": "右",
-        "birthDate": "",
-        "marketValue": 28000000,
-        "photoUrl": "",
-        "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
-        },
-        "tournamentStats": {
-          "appearances": 0,
-          "goals": 0,
-          "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "minutesPlayed": 0,
-          "averageRating": 0
-        },
-        "careerSummary": {
-          "firstAppearance": "",
-          "totalCaps": 0,
-          "totalGoals": 0,
-          "majorTournaments": [],
-          "clubs": [
-            {
-              "clubName": "</image:title>",
-              "period": "至今",
-              "appearances": 0,
-              "goals": 0
-            }
-          ]
-        }
-      },
-      {
-        "id": "p17807432410371",
-        "name": "<image:title>世足運彩術語對照示意，足球與投注名詞解析",
-        "number": 12,
-        "position": "CM",
-        "club": "</image:title>",
-        "age": 26,
-        "height": 178,
-        "weight": 72,
-        "nationality": "",
-        "flagCode": "",
-        "preferredFoot": "右",
-        "birthDate": "",
-        "marketValue": 28000000,
-        "photoUrl": "",
-        "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
-        },
-        "tournamentStats": {
-          "appearances": 0,
-          "goals": 0,
-          "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "minutesPlayed": 0,
-          "averageRating": 0
-        },
-        "careerSummary": {
-          "firstAppearance": "",
-          "totalCaps": 0,
-          "totalGoals": 0,
-          "majorTournaments": [],
-          "clubs": [
-            {
-              "clubName": "</image:title>",
-              "period": "至今",
-              "appearances": 0,
-              "goals": 0
-            }
-          ]
-        }
-      },
-      {
-        "id": "c",
-        "name": "<image:title>海地2026世足賽26人大名單：納松領銜、貝勒加德坐鎮，睽違52年重返世界盃",
-        "number": 13,
-        "position": "CM",
-        "club": "</image:title>",
-        "age": 26,
-        "height": 178,
-        "weight": 72,
-        "nationality": "",
-        "flagCode": "",
-        "preferredFoot": "右",
-        "birthDate": "",
-        "marketValue": 28000000,
-        "photoUrl": "",
-        "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
-        },
-        "tournamentStats": {
-          "appearances": 0,
-          "goals": 0,
-          "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "minutesPlayed": 0,
-          "averageRating": 0
-        },
-        "careerSummary": {
-          "firstAppearance": "",
-          "totalCaps": 0,
-          "totalGoals": 0,
-          "majorTournaments": [],
-          "clubs": [
-            {
-              "clubName": "</image:title>",
-              "period": "至今",
-              "appearances": 0,
-              "goals": 0
-            }
-          ]
-        }
-      },
-      {
-        "id": "p17807432410372",
-        "name": "<image:title>「一張專為 2026 世界盃設計的專業體育分析封面圖，對比『台灣運彩』與『海外博彩平台』的合法性與資金安全。畫面背景是熙攘、燈火通明的夜間足球場，環狀看台與 LED 螢幕上布滿了清晰的繁體中文『責任博弈』標語。前景中央有兩位足球運動員在草地上激烈對抗：左邊是一位身穿白色德國國家隊球衣",
-        "number": 14,
-        "position": "CM",
-        "club": "的男子正在控球切入，右邊是一位身穿黃色厄瓜多國家隊球衣（背號 13）的男子在貼身防守。球場下方配有大型對比電子看板，詳細列出兩者風險比較。左側綠色區域標題為『LEGAL / TAIWAN 台灣運彩 (TSL) | 合法管道』，帶有綠色 ✅ 圖示，寫著：『100% 合法合規 (100% LEGAL)、資金有保障 (FUNDS SECURE)、責任博弈政策 (RG POLICY)、本地稅收貢獻 (LOCAL TAX)』；右側紅色區域標題為『ILLEGAL / OVERSEAS 海外博彩 | 非法平台』，帶有紅色 ❌ 圖示，寫著：『台灣法律不允 (ILLEGAL IN TAIWAN)、資金無保障 (NO GUARANTEE)、個人資料外洩 (DATA LEAK RISK)、詐騙陷阱多 (SCAM RISK)』。頂部標題用大號醒目的繁體中文白字與黃字寫著：『台灣運彩 vs 海外博彩平台差在哪？2026世足賽合法性、資金安全與風險比較』，下方小標題為黃字：『玩運彩交流討論區 團隊攻略』。畫面右下角帶有圓圈『18+ 責任博弈』的合規圖示。整體風格呈現專業、資訊對比清晰且富有教育意義的體育新聞雜誌封面。」</image:title>",
-        "age": 26,
-        "height": 178,
-        "weight": 72,
-        "nationality": "",
-        "flagCode": "",
-        "preferredFoot": "右",
-        "birthDate": "",
-        "marketValue": 28000000,
-        "photoUrl": "",
-        "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
-        },
-        "tournamentStats": {
-          "appearances": 0,
-          "goals": 0,
-          "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "minutesPlayed": 0,
-          "averageRating": 0
-        },
-        "careerSummary": {
-          "firstAppearance": "",
-          "totalCaps": 0,
-          "totalGoals": 0,
-          "majorTournaments": [],
-          "clubs": [
-            {
-              "clubName": "的男子正在控球切入，右邊是一位身穿黃色厄瓜多國家隊球衣（背號 13）的男子在貼身防守。球場下方配有大型對比電子看板，詳細列出兩者風險比較。左側綠色區域標題為『LEGAL / TAIWAN 台灣運彩 (TSL) | 合法管道』，帶有綠色 ✅ 圖示，寫著：『100% 合法合規 (100% LEGAL)、資金有保障 (FUNDS SECURE)、責任博弈政策 (RG POLICY)、本地稅收貢獻 (LOCAL TAX)』；右側紅色區域標題為『ILLEGAL / OVERSEAS 海外博彩 | 非法平台』，帶有紅色 ❌ 圖示，寫著：『台灣法律不允 (ILLEGAL IN TAIWAN)、資金無保障 (NO GUARANTEE)、個人資料外洩 (DATA LEAK RISK)、詐騙陷阱多 (SCAM RISK)』。頂部標題用大號醒目的繁體中文白字與黃字寫著：『台灣運彩 vs 海外博彩平台差在哪？2026世足賽合法性、資金安全與風險比較』，下方小標題為黃字：『玩運彩交流討論區 團隊攻略』。畫面右下角帶有圓圈『18+ 責任博弈』的合規圖示。整體風格呈現專業、資訊對比清晰且富有教育意義的體育新聞雜誌封面。」</image:title>",
-              "period": "至今",
-              "appearances": 0,
-              "goals": 0
-            }
-          ]
-        }
-      },
-      {
-        "id": "p17807432410373",
-        "name": "<image:title>一張專為 2026 世界盃運彩避雷教學設計的專業體育分析封面圖。畫面背景是熙攘、燈火通明的夜間足球場，環狀看台與 LED 螢幕上布滿了清晰的繁體中文『責任博弈』標語。前景中央有兩位足球運動員在草地上激烈對抗：左邊是一位身穿白色德國國家隊球衣",
-        "number": 15,
-        "position": "CM",
-        "club": "的男子正在控球切入，右邊是一位身穿黃色厄瓜多國家隊球衣（背號 13）的男子在貼身防守。球場中央的大型 LED 電子看板上，用對比鮮明的紅綠圖表，列出了新手避雷與理性投注的關鍵對比清單。左側紅色區域帶有紅色 ❌，寫著：『新手常犯錯誤：追單/藉貸投注、無計畫/衝動下注、聽信偏方/保證獲利、單打獨鬥』；右側綠色區域帶有綠色 ✅，寫著：『理性投注指南：量力而為/設定預算、深耕數據/理性拆解、台灣運彩/合法管道、社群交流』。整個圖像融合了動態體育攝影與資訊圖表設計。頂部標題用大號醒目的繁體中文白字寫著：『運彩新手常犯的錯誤有哪些？2026世足賽台灣運彩避雷與理性投注指南』，下方小標題為黃字：『玩運彩交流討論區 團隊攻略』。畫面左下角帶有圓圈『18+ 責任博弈』的合規圖示。整體風格呈現專業、富有警示與教學意義的體育新聞雜誌封面。</image:title>",
-        "age": 26,
-        "height": 178,
-        "weight": 72,
-        "nationality": "",
-        "flagCode": "",
-        "preferredFoot": "右",
-        "birthDate": "",
-        "marketValue": 28000000,
-        "photoUrl": "",
-        "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
-        },
-        "tournamentStats": {
-          "appearances": 0,
-          "goals": 0,
-          "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "minutesPlayed": 0,
-          "averageRating": 0
-        },
-        "careerSummary": {
-          "firstAppearance": "",
-          "totalCaps": 0,
-          "totalGoals": 0,
-          "majorTournaments": [],
-          "clubs": [
-            {
-              "clubName": "的男子正在控球切入，右邊是一位身穿黃色厄瓜多國家隊球衣（背號 13）的男子在貼身防守。球場中央的大型 LED 電子看板上，用對比鮮明的紅綠圖表，列出了新手避雷與理性投注的關鍵對比清單。左側紅色區域帶有紅色 ❌，寫著：『新手常犯錯誤：追單/藉貸投注、無計畫/衝動下注、聽信偏方/保證獲利、單打獨鬥』；右側綠色區域帶有綠色 ✅，寫著：『理性投注指南：量力而為/設定預算、深耕數據/理性拆解、台灣運彩/合法管道、社群交流』。整個圖像融合了動態體育攝影與資訊圖表設計。頂部標題用大號醒目的繁體中文白字寫著：『運彩新手常犯的錯誤有哪些？2026世足賽台灣運彩避雷與理性投注指南』，下方小標題為黃字：『玩運彩交流討論區 團隊攻略』。畫面左下角帶有圓圈『18+ 責任博弈』的合規圖示。整體風格呈現專業、富有警示與教學意義的體育新聞雜誌封面。</image:title>",
-              "period": "至今",
-              "appearances": 0,
-              "goals": 0
-            }
-          ]
-        }
-      },
-      {
-        "id": "p1780743241038",
-        "name": "<image:title>「一張動態且資訊豐富的專業體育攝影封面圖，旨在解釋 2026 世界盃台灣運彩的『串關",
-        "number": 16,
-        "position": "CM",
-        "club": "』玩法。畫面背景是充滿活力的夜間足球場（基於桃園國際棒球場架構，並增加了大型 LED 螢幕，顯示著 blurry Chinese 文字『台灣運彩』和『責任博弈』）。前景有三位足球運動員在場上積極競爭：一位身穿白色德國國家隊球衣（背號 7）的男子正在大腳踢球，與一位身穿黃色厄瓜多國家隊球衣（背號 13）的男子對抗；一位身穿藍色美國國家隊球衣（背號 9）的男子在右側奔跑。在體育場中央的大型 scoreboard LED 螢幕上，用清晰的粗體 Traditional Chinese 文字和 graphic 總結了串關玩法的核心概念：『[串關成功] - 總賠率：45.00 ✅』，下方是 Chinese 文字：『1. 德國 勝 (DEU Win) | 賠率：1.80 ✅』、『2. 厄瓜多 勝 (ECU Win) | 賠率：2.50 ✅』、『3. 美國 勝 (USA Win) | 賠率：10.00 ✅』，並用圖示箭頭顯示『⚠️ 高回報，高風險』。整個圖像融合了動態攝影和圖形設計，頂部的標題用大號、醒目的 Traditional Chinese 文字寫著：『串關（過關）是什麼？2026世界盃台灣運彩串關玩法、賠率計算與風險一次看』，下方的小標題是：『世界盃攻略 ｜ 玩運彩交流討論區 團隊攻略』。整個圖像營造出專業、令人興奮且資訊豐富的體育新聞雜誌封面風格。 text is in Traditional Chinese and integration is graphic. Small &apos;18+ 責任博弈&apos; icon is in the bottom corner.」</image:title>",
-        "age": 26,
-        "height": 178,
-        "weight": 72,
-        "nationality": "",
-        "flagCode": "",
-        "preferredFoot": "右",
-        "birthDate": "",
-        "marketValue": 28000000,
-        "photoUrl": "",
-        "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
-        },
-        "tournamentStats": {
-          "appearances": 0,
-          "goals": 0,
-          "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "minutesPlayed": 0,
-          "averageRating": 0
-        },
-        "careerSummary": {
-          "firstAppearance": "",
-          "totalCaps": 0,
-          "totalGoals": 0,
-          "majorTournaments": [],
-          "clubs": [
-            {
-              "clubName": "』玩法。畫面背景是充滿活力的夜間足球場（基於桃園國際棒球場架構，並增加了大型 LED 螢幕，顯示著 blurry Chinese 文字『台灣運彩』和『責任博弈』）。前景有三位足球運動員在場上積極競爭：一位身穿白色德國國家隊球衣（背號 7）的男子正在大腳踢球，與一位身穿黃色厄瓜多國家隊球衣（背號 13）的男子對抗；一位身穿藍色美國國家隊球衣（背號 9）的男子在右側奔跑。在體育場中央的大型 scoreboard LED 螢幕上，用清晰的粗體 Traditional Chinese 文字和 graphic 總結了串關玩法的核心概念：『[串關成功] - 總賠率：45.00 ✅』，下方是 Chinese 文字：『1. 德國 勝 (DEU Win) | 賠率：1.80 ✅』、『2. 厄瓜多 勝 (ECU Win) | 賠率：2.50 ✅』、『3. 美國 勝 (USA Win) | 賠率：10.00 ✅』，並用圖示箭頭顯示『⚠️ 高回報，高風險』。整個圖像融合了動態攝影和圖形設計，頂部的標題用大號、醒目的 Traditional Chinese 文字寫著：『串關（過關）是什麼？2026世界盃台灣運彩串關玩法、賠率計算與風險一次看』，下方的小標題是：『世界盃攻略 ｜ 玩運彩交流討論區 團隊攻略』。整個圖像營造出專業、令人興奮且資訊豐富的體育新聞雜誌封面風格。 text is in Traditional Chinese and integration is graphic. Small &apos;18+ 責任博弈&apos; icon is in the bottom corner.」</image:title>",
-              "period": "至今",
-              "appearances": 0,
-              "goals": 0
-            }
-          ]
-        }
-      },
-      {
-        "id": "p17807432410381",
-        "name": "<image:title>一張為 2026 世界盃運彩教學設計的動態攝影封面圖。畫面背景是熙攘且燈火通明的足球體育場夜景",
-        "number": 17,
-        "position": "CM",
-        "club": "，LED 螢幕上顯示著 Chinese 文字『台灣運彩』。前景的大型 scoreboard LED 螢幕上，用清晰的粗體 Chinese 文字和圖示總結了核心概念：『目前總進球數：3（帶有✅）』、『【大球】(OVER 2.5)（帶有 ✅）』、以及『【小球】(UNDER 2.5)（帶有 ❌）』。在畫面的右側，一位身穿白色德國國家隊球衣（背號 7）的男子正專注地大腳踢球，另一位身穿黃色厄瓜多國家隊球衣（背號 13）的男子則在後方追逐。畫面的其餘部分，人群在 cheering，並且有帶有『台灣運彩』標誌的小旗幟和泡沫手指。頂部的標題用大號、醒目的 Chinese 文字寫著：『大小球是什麼？2026世界盃台灣運彩大小盤（總進球數）看法與計算一次搞懂』，下方的小標題是：『世界盃攻略 ｜ 玩運彩交流討論區 團隊攻略』。整個圖像融合了動態攝影和圖形設計，營造出充滿活力、資訊豐富且專業的體育新聞雜誌封面風格。 text is in Traditional Chinese and integration is graphic. Small icon in the bottom corner shows &apos;18+ 责任博弈&apos;.」</image:title>",
-        "age": 26,
-        "height": 178,
-        "weight": 72,
-        "nationality": "",
-        "flagCode": "",
-        "preferredFoot": "右",
-        "birthDate": "",
-        "marketValue": 28000000,
-        "photoUrl": "",
-        "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
-        },
-        "tournamentStats": {
-          "appearances": 0,
-          "goals": 0,
-          "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "minutesPlayed": 0,
-          "averageRating": 0
-        },
-        "careerSummary": {
-          "firstAppearance": "",
-          "totalCaps": 0,
-          "totalGoals": 0,
-          "majorTournaments": [],
-          "clubs": [
-            {
-              "clubName": "，LED 螢幕上顯示著 Chinese 文字『台灣運彩』。前景的大型 scoreboard LED 螢幕上，用清晰的粗體 Chinese 文字和圖示總結了核心概念：『目前總進球數：3（帶有✅）』、『【大球】(OVER 2.5)（帶有 ✅）』、以及『【小球】(UNDER 2.5)（帶有 ❌）』。在畫面的右側，一位身穿白色德國國家隊球衣（背號 7）的男子正專注地大腳踢球，另一位身穿黃色厄瓜多國家隊球衣（背號 13）的男子則在後方追逐。畫面的其餘部分，人群在 cheering，並且有帶有『台灣運彩』標誌的小旗幟和泡沫手指。頂部的標題用大號、醒目的 Chinese 文字寫著：『大小球是什麼？2026世界盃台灣運彩大小盤（總進球數）看法與計算一次搞懂』，下方的小標題是：『世界盃攻略 ｜ 玩運彩交流討論區 團隊攻略』。整個圖像融合了動態攝影和圖形設計，營造出充滿活力、資訊豐富且專業的體育新聞雜誌封面風格。 text is in Traditional Chinese and integration is graphic. Small icon in the bottom corner shows &apos;18+ 责任博弈&apos;.」</image:title>",
-              "period": "至今",
-              "appearances": 0,
-              "goals": 0
-            }
-          ]
-        }
-      },
-      {
-        "id": "p17807432410382",
-        "name": "<image:title>「一張為 2026 世界盃運彩教學設計的專業動態攝影封面圖，採用了足球雜誌封面的排版風格。畫面背景是熙攘且燈火通明的足球體育場夜景",
-        "number": 18,
-        "position": "CM",
-        "club": "。前景是動態的足球進球瞬間，一個 official Adidas Al Rihla 2026 世界盃足球正滾入 Billing Goal Net（ billing goal net Billing Goal Net Billing Goal Net）， Billing Goal Net Billing Goal Net billowing。在 Goal Net Goal Net Goal Net 後方，一位身穿白色德國球衣（背號 7）的男子和一位身穿黃色厄瓜多球衣（背號 13）的男子正在 Goal Net 附近奔跑，兩人抓拍捕捉抓拍。在體育場中央的大型 scoreboard LED 螢幕上，用清晰的粗體 Chinese 和 English 文字總結了 Billing Goal：『DEU德國 2 : 1 ECU厄瓜多』，下方是 Chinese 文字『正確比分』和大號粗體 Chinese 文字『波膽』。在 scoreboard 的右側，一個簡化的 Chinese 運彩彩券範本（『基彩分單』）顯示了分數選項和賠率：『德國 勝 (DEU Win)』、『厄瓜多 勝 (ECU Win)』、『德國 勝 | 2:1 (15.00)』、『厄瓜多 勝 | 1:0 (10.00)』。整個圖像融合了動態攝影和專業圖形設計，頂部的標題用大號、醒目的 Traditional Chinese 文字寫著：『波膽是什麼？2026世界盃台灣運彩正確比分玩法、賠率高低與下注注意一次看』，下方的小標題是：『【玩運彩交流討論區】 團隊攻略』。整個圖像具有強烈的體育氛圍，資訊量豐富且專業。 text is clean, graphical, and integrated. Small &apos;18+ 責任博弈&apos; icon is in the bottom corner.」</image:title>",
-        "age": 26,
-        "height": 178,
-        "weight": 72,
-        "nationality": "",
-        "flagCode": "",
-        "preferredFoot": "右",
-        "birthDate": "",
-        "marketValue": 28000000,
-        "photoUrl": "",
-        "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
-        },
-        "tournamentStats": {
-          "appearances": 0,
-          "goals": 0,
-          "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "minutesPlayed": 0,
-          "averageRating": 0
-        },
-        "careerSummary": {
-          "firstAppearance": "",
-          "totalCaps": 0,
-          "totalGoals": 0,
-          "majorTournaments": [],
-          "clubs": [
-            {
-              "clubName": "。前景是動態的足球進球瞬間，一個 official Adidas Al Rihla 2026 世界盃足球正滾入 Billing Goal Net（ billing goal net Billing Goal Net Billing Goal Net）， Billing Goal Net Billing Goal Net billowing。在 Goal Net Goal Net Goal Net 後方，一位身穿白色德國球衣（背號 7）的男子和一位身穿黃色厄瓜多球衣（背號 13）的男子正在 Goal Net 附近奔跑，兩人抓拍捕捉抓拍。在體育場中央的大型 scoreboard LED 螢幕上，用清晰的粗體 Chinese 和 English 文字總結了 Billing Goal：『DEU德國 2 : 1 ECU厄瓜多』，下方是 Chinese 文字『正確比分』和大號粗體 Chinese 文字『波膽』。在 scoreboard 的右側，一個簡化的 Chinese 運彩彩券範本（『基彩分單』）顯示了分數選項和賠率：『德國 勝 (DEU Win)』、『厄瓜多 勝 (ECU Win)』、『德國 勝 | 2:1 (15.00)』、『厄瓜多 勝 | 1:0 (10.00)』。整個圖像融合了動態攝影和專業圖形設計，頂部的標題用大號、醒目的 Traditional Chinese 文字寫著：『波膽是什麼？2026世界盃台灣運彩正確比分玩法、賠率高低與下注注意一次看』，下方的小標題是：『【玩運彩交流討論區】 團隊攻略』。整個圖像具有強烈的體育氛圍，資訊量豐富且專業。 text is clean, graphical, and integrated. Small &apos;18+ 責任博弈&apos; icon is in the bottom corner.」</image:title>",
-              "period": "至今",
-              "appearances": 0,
-              "goals": 0
-            }
-          ]
-        }
-      },
-      {
-        "id": "p17807432410383",
-        "name": "<image:title>一張專業的體育分析合成圖，旨在解釋 2026 世界盃運彩的賠率格式。畫面背景是一個充滿活力的夜間足球場",
-        "number": 19,
-        "position": "CM",
-        "club": "。前景有兩位足球運動員在場上激烈競爭：一位身穿白色德國國家隊球衣（背號 7）的男子正在控球，與一位身穿黃色厄瓜多國家隊球衣（背號 13）的男子對抗。在體育場中央的大型 scoreboard LED 螢幕上，用清晰的粗體 Traditional Chinese 和 English 文字與 graphic 詳細比較了三種主要 odds formats：『【歐洲盤 (Decimal)】 (Germany Win)』顯示『1.80』，帶有轉換圖示 arrows 和概率計算『例：1/7 x 1.80 / 2.50 = (55.6% 概率) 如 55.6% 概率』；『【香港盤 (Hong Kong)】 (Ecuador Win)』顯示『2.50』，帶有轉換圖示 arrows 和概率計算『例：1/7 x 1.80 / 2.50 = 如 28.6% 概率』；『【美式盤 (American)】 (Draw)』顯示『+280』，帶有轉換圖示 arrows 和概率計算『例：1/4 x 3.80 = 250 (如 26.3% 概率)』。在 scoreboard 的右側，一個獨立的 graphic  inset 顯示了串關總賠率的計算範例：『( 1.80 x 2.50 x 3.80 ) = 串關總賠率』、『= 1.80 x 2.50 x 3.80』、『= 1.80 x 2.50 x 3.80』、『(1.80 x 2.50 x 3.80 ) = 串關總賠率』。整個圖像融合了動態攝影和圖形設計，頂部的標題用大號、醒目的 Traditional Chinese 文字寫著：『運彩賠率怎麼看？2026世足賽歐洲盤、香港盤、美式盤賠率格式一次搞懂』，下方的小標題是：『玩運彩交流討論區 團隊攻略』。整個圖像營造出專業、令人興奮且資訊豐富的體育新聞雜誌封面風格。 text is Traditional Chinese and integrated is graphic. Small &apos;18+ 責任博弈&apos; icon is in the bottom corner.</image:title>",
-        "age": 26,
-        "height": 178,
-        "weight": 72,
-        "nationality": "",
-        "flagCode": "",
-        "preferredFoot": "右",
-        "birthDate": "",
-        "marketValue": 28000000,
-        "photoUrl": "",
-        "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
-        },
-        "tournamentStats": {
-          "appearances": 0,
-          "goals": 0,
-          "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "minutesPlayed": 0,
-          "averageRating": 0
-        },
-        "careerSummary": {
-          "firstAppearance": "",
-          "totalCaps": 0,
-          "totalGoals": 0,
-          "majorTournaments": [],
-          "clubs": [
-            {
-              "clubName": "。前景有兩位足球運動員在場上激烈競爭：一位身穿白色德國國家隊球衣（背號 7）的男子正在控球，與一位身穿黃色厄瓜多國家隊球衣（背號 13）的男子對抗。在體育場中央的大型 scoreboard LED 螢幕上，用清晰的粗體 Traditional Chinese 和 English 文字與 graphic 詳細比較了三種主要 odds formats：『【歐洲盤 (Decimal)】 (Germany Win)』顯示『1.80』，帶有轉換圖示 arrows 和概率計算『例：1/7 x 1.80 / 2.50 = (55.6% 概率) 如 55.6% 概率』；『【香港盤 (Hong Kong)】 (Ecuador Win)』顯示『2.50』，帶有轉換圖示 arrows 和概率計算『例：1/7 x 1.80 / 2.50 = 如 28.6% 概率』；『【美式盤 (American)】 (Draw)』顯示『+280』，帶有轉換圖示 arrows 和概率計算『例：1/4 x 3.80 = 250 (如 26.3% 概率)』。在 scoreboard 的右側，一個獨立的 graphic  inset 顯示了串關總賠率的計算範例：『( 1.80 x 2.50 x 3.80 ) = 串關總賠率』、『= 1.80 x 2.50 x 3.80』、『= 1.80 x 2.50 x 3.80』、『(1.80 x 2.50 x 3.80 ) = 串關總賠率』。整個圖像融合了動態攝影和圖形設計，頂部的標題用大號、醒目的 Traditional Chinese 文字寫著：『運彩賠率怎麼看？2026世足賽歐洲盤、香港盤、美式盤賠率格式一次搞懂』，下方的小標題是：『玩運彩交流討論區 團隊攻略』。整個圖像營造出專業、令人興奮且資訊豐富的體育新聞雜誌封面風格。 text is Traditional Chinese and integrated is graphic. Small &apos;18+ 責任博弈&apos; icon is in the bottom corner.</image:title>",
-              "period": "至今",
-              "appearances": 0,
               "goals": 0
             }
           ]
@@ -18385,7 +17868,7 @@ export const teams: Team[] = [
       }
     ],
     "players": [
-{
+      {
         "id": "mahrez",
         "name": "里亚德·马赫雷斯",
         "number": 7,
@@ -18421,7 +17904,7 @@ export const teams: Team[] = [
           "totalCaps": 95,
           "totalGoals": 30,
           "majorTournaments": ["2014\u4e16\u754c\u676f", "2019\u975e\u6d32\u676f"],
-          "clubs": [,
+          "clubs": [
             {
               "clubName": "曼城",
               "period": "2018-2023",
@@ -18430,7 +17913,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },,
+      },
       {
         "id": "bennacer",
         "name": "胡塞姆·奥瓦尔",
@@ -18467,7 +17950,7 @@ export const teams: Team[] = [
           "totalCaps": 55,
           "totalGoals": 2,
           "majorTournaments": ["2019\u975e\u6d32\u676f"],
-          "clubs": [,
+          "clubs": [
             {
               "clubName": "AC米兰",
               "period": "2019-至今",
@@ -18476,7 +17959,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },,
+      },
       {
         "id": "aouar",
         "name": "拉扬·艾特-努里",
@@ -18513,7 +17996,7 @@ export const teams: Team[] = [
           "totalCaps": 12,
           "totalGoals": 2,
           "majorTournaments": [],
-          "clubs": [,
+          "clubs": [
             {
               "clubName": "里昂",
               "period": "2017-2023",
@@ -18522,7 +18005,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },,
+      },
       {
         "id": "aitnouri",
         "name": "拉扬·艾特-努里",
@@ -18559,7 +18042,7 @@ export const teams: Team[] = [
           "totalCaps": 8,
           "totalGoals": 0,
           "majorTournaments": [],
-          "clubs": [,
+          "clubs": [
             {
               "clubName": "狼队",
               "period": "2021-至今",
@@ -18568,7 +18051,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },,
+      },
       {
         "id": "mandrea",
         "name": "安东尼·曼德雷亚",
@@ -18605,763 +18088,11 @@ export const teams: Team[] = [
           "totalCaps": 6,
           "totalGoals": 0,
           "majorTournaments": [],
-          "clubs": [,
+          "clubs": [
             {
               "clubName": "卡昂",
               "period": "2022-至今",
               "appearances": 72,
-              "goals": 0
-            }
-          ]
-        }
-      },
-      {
-        "id": "p1780742172252",
-        "name": "阿爾及利亞 2026 世足賽 26 人大名單出爐：馬赫雷斯領軍、佩特科維奇點兵，沙漠之狐 J 組對戰阿根廷",
-        "number": 11,
-        "position": "CM",
-        "club": "未知",
-        "age": 26,
-        "height": 178,
-        "weight": 72,
-        "nationality": "",
-        "flagCode": "",
-        "preferredFoot": "右",
-        "birthDate": "",
-        "marketValue": 28000000,
-        "photoUrl": "",
-        "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
-        },
-        "tournamentStats": {
-          "appearances": 0,
-          "goals": 0,
-          "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "minutesPlayed": 0,
-          "averageRating": 0
-        },
-        "careerSummary": {
-          "firstAppearance": "",
-          "totalCaps": 0,
-          "totalGoals": 0,
-          "majorTournaments": [],
-          "clubs": [
-            {
-              "clubName": "未知",
-              "period": "至今",
-              "appearances": 0,
-              "goals": 0
-            }
-          ]
-        }
-      },
-      {
-        "id": "p17807421722521",
-        "name": "阿爾及利亞",
-        "number": 12,
-        "position": "CM",
-        "club": "已公布 2026 世界盃官方 26 人大名單：由總教練佩特科維奇（Vladimir Petkovic）點兵、隊長馬赫雷斯（Riyad Mahrez）領軍，睽違 12 年重返世足賽。球隊分在 J 組，將對戰衛冕冠軍阿根廷、奧地利與約旦。 首頁 | 完整賽程 | 分組積分榜 | 台灣直播攻略 以下為阿爾及利亞 26 人完整名單、重點球員、J 組賽程與世界盃歷史，給台灣球迷在開賽前一次掌握。 阿爾及利亞球隊背景 阿爾及利亞是第 5 度參加世界盃的非洲勁旅，這也是他們繼 2018、2022 連兩屆缺席後的回歸。這批以 2019 年非洲國家盃冠軍為核心的「黃金世代」，被視為近十年阿爾及利亞足球的代表。FIFA 世界排名約第 28，世界盃最佳成績為 2014 巴西世界盃打進 16 強。 非洲區資格賽中，阿爾及利亞與烏干達、莫三比克、幾內亞、波札那、索馬利亞同組，僅主場 1-2 不敵幾內亞，最終以小組第一拿下唯一晉級名額。 阿爾及利亞 2026 世界盃 26 人大名單（官方） 位置 球員（中文／English） 門將 GK 路",
-        "age": 26,
-        "height": 178,
-        "weight": 72,
-        "nationality": "",
-        "flagCode": "",
-        "preferredFoot": "右",
-        "birthDate": "",
-        "marketValue": 28000000,
-        "photoUrl": "",
-        "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
-        },
-        "tournamentStats": {
-          "appearances": 0,
-          "goals": 0,
-          "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "minutesPlayed": 0,
-          "averageRating": 0
-        },
-        "careerSummary": {
-          "firstAppearance": "",
-          "totalCaps": 0,
-          "totalGoals": 0,
-          "majorTournaments": [],
-          "clubs": [
-            {
-              "clubName": "已公布 2026 世界盃官方 26 人大名單：由總教練佩特科維奇（Vladimir Petkovic）點兵、隊長馬赫雷斯（Riyad Mahrez）領軍，睽違 12 年重返世足賽。球隊分在 J 組，將對戰衛冕冠軍阿根廷、奧地利與約旦。 首頁 | 完整賽程 | 分組積分榜 | 台灣直播攻略 以下為阿爾及利亞 26 人完整名單、重點球員、J 組賽程與世界盃歷史，給台灣球迷在開賽前一次掌握。 阿爾及利亞球隊背景 阿爾及利亞是第 5 度參加世界盃的非洲勁旅，這也是他們繼 2018、2022 連兩屆缺席後的回歸。這批以 2019 年非洲國家盃冠軍為核心的「黃金世代」，被視為近十年阿爾及利亞足球的代表。FIFA 世界排名約第 28，世界盃最佳成績為 2014 巴西世界盃打進 16 強。 非洲區資格賽中，阿爾及利亞與烏干達、莫三比克、幾內亞、波札那、索馬利亞同組，僅主場 1-2 不敵幾內亞，最終以小組第一拿下唯一晉級名額。 阿爾及利亞 2026 世界盃 26 人大名單（官方） 位置 球員（中文／English） 門將 GK 路",
-              "period": "至今",
-              "appearances": 0,
-              "goals": 0
-            }
-          ]
-        }
-      },
-      {
-        "id": "riyadmahrez",
-        "name": "馬赫雷斯",
-        "number": 13,
-        "position": "CM",
-        "club": "2026 世足賽完整介紹｜阿爾及利亞隊長、Al-Ahli 球星，2016 萊斯特奇蹟與曼城三冠功臣",
-        "age": 26,
-        "height": 178,
-        "weight": 72,
-        "nationality": "",
-        "flagCode": "",
-        "preferredFoot": "右",
-        "birthDate": "",
-        "marketValue": 28000000,
-        "photoUrl": "",
-        "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
-        },
-        "tournamentStats": {
-          "appearances": 0,
-          "goals": 0,
-          "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "minutesPlayed": 0,
-          "averageRating": 0
-        },
-        "careerSummary": {
-          "firstAppearance": "",
-          "totalCaps": 0,
-          "totalGoals": 0,
-          "majorTournaments": [],
-          "clubs": [
-            {
-              "clubName": "2026 世足賽完整介紹｜阿爾及利亞隊長、Al-Ahli 球星，2016 萊斯特奇蹟與曼城三冠功臣",
-              "period": "至今",
-              "appearances": 0,
-              "goals": 0
-            }
-          ]
-        }
-      },
-      {
-        "id": "riyadmahrez1",
-        "name": "里亞德馬赫雷斯",
-        "number": 14,
-        "position": "CM",
-        "club": "是阿爾及利亞國家隊隊長與右翼核心，2016 年帶領萊斯特城寫下英超奪冠奇蹟、2022-23 年隨曼城拿下三冠王，現效力沙烏地 Al-Ahli。2026 世足賽是他生涯第 2 次世界盃，35 歲的他很可能在北美迎來最後一屆世界盃舞台。 首頁 | 完整賽程 | 分組積分榜 | 台灣直播攻略 本篇整理馬赫雷斯的基本資料、生涯榮譽、關鍵紀錄、生涯軌跡與他對阿爾及利亞的意義，幫台灣球迷在 2026 世界盃前快速認識這位沙漠之狐的領袖。 馬赫雷斯基本資料 項目 內容 全名 里亞德馬赫雷斯 Riyad Mahrez 國家隊 阿爾及利亞 場上位置 右翼鋒（慣用左腳，常內切射門） 出生 1991-02-21，法國薩塞勒（Sarcelles） 年齡 35 歲（2026 世界盃開賽時） 現效力球會 Al-Ahli SFC（沙烏地職業聯賽） 國家隊數據 110+ 場 / 38 球 世界盃經歷 第 2 次（2014、2026） 2026 世界盃（世足賽）看點 阿爾及利亞分在死亡氣息濃厚的 J...",
-        "age": 26,
-        "height": 178,
-        "weight": 72,
-        "nationality": "",
-        "flagCode": "",
-        "preferredFoot": "右",
-        "birthDate": "",
-        "marketValue": 28000000,
-        "photoUrl": "",
-        "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
-        },
-        "tournamentStats": {
-          "appearances": 0,
-          "goals": 0,
-          "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "minutesPlayed": 0,
-          "averageRating": 0
-        },
-        "careerSummary": {
-          "firstAppearance": "",
-          "totalCaps": 0,
-          "totalGoals": 0,
-          "majorTournaments": [],
-          "clubs": [
-            {
-              "clubName": "是阿爾及利亞國家隊隊長與右翼核心，2016 年帶領萊斯特城寫下英超奪冠奇蹟、2022-23 年隨曼城拿下三冠王，現效力沙烏地 Al-Ahli。2026 世足賽是他生涯第 2 次世界盃，35 歲的他很可能在北美迎來最後一屆世界盃舞台。 首頁 | 完整賽程 | 分組積分榜 | 台灣直播攻略 本篇整理馬赫雷斯的基本資料、生涯榮譽、關鍵紀錄、生涯軌跡與他對阿爾及利亞的意義，幫台灣球迷在 2026 世界盃前快速認識這位沙漠之狐的領袖。 馬赫雷斯基本資料 項目 內容 全名 里亞德馬赫雷斯 Riyad Mahrez 國家隊 阿爾及利亞 場上位置 右翼鋒（慣用左腳，常內切射門） 出生 1991-02-21，法國薩塞勒（Sarcelles） 年齡 35 歲（2026 世界盃開賽時） 現效力球會 Al-Ahli SFC（沙烏地職業聯賽） 國家隊數據 110+ 場 / 38 球 世界盃經歷 第 2 次（2014、2026） 2026 世界盃（世足賽）看點 阿爾及利亞分在死亡氣息濃厚的 J...",
-              "period": "至今",
-              "appearances": 0,
-              "goals": 0
-            }
-          ]
-        }
-      },
-      {
-        "id": "christianpulisic",
-        "name": "普利西奇",
-        "number": 15,
-        "position": "CM",
-        "club": "2026 世足賽完整介紹｜美國隊長、AC米蘭前鋒、首位歐冠奪冠美國人",
-        "age": 26,
-        "height": 178,
-        "weight": 72,
-        "nationality": "",
-        "flagCode": "",
-        "preferredFoot": "右",
-        "birthDate": "",
-        "marketValue": 28000000,
-        "photoUrl": "",
-        "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
-        },
-        "tournamentStats": {
-          "appearances": 0,
-          "goals": 0,
-          "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "minutesPlayed": 0,
-          "averageRating": 0
-        },
-        "careerSummary": {
-          "firstAppearance": "",
-          "totalCaps": 0,
-          "totalGoals": 0,
-          "majorTournaments": [],
-          "clubs": [
-            {
-              "clubName": "2026 世足賽完整介紹｜美國隊長、AC米蘭前鋒、首位歐冠奪冠美國人",
-              "period": "至今",
-              "appearances": 0,
-              "goals": 0
-            }
-          ]
-        }
-      },
-      {
-        "id": "christianpulisic1",
-        "name": "普利西奇",
-        "number": 16,
-        "position": "CM",
-        "club": "是美國國家隊隊長與頭號球星，現效力義甲勁旅 AC 米蘭，司職邊鋒與攻擊中場。身為 2021 年歐冠冠軍切爾西的功臣、首位踢進並贏得歐冠決賽的美國球員，他將在 2026 世足賽（世界盃） 以地主隊隊長身分領軍衝擊佳績。 首頁　|　完整賽程　|　分組積分榜　|　台灣直播攻略 本文整理普利西奇的基本資料、2026 世界盃看點、生涯軌跡、榮譽紀錄與對美國隊的意義。 普利西奇 基本資料一覽 項目 內容 全名 克里斯蒂安 普利西奇（Christian Pulisic） 國籍 美國 出生 1998 年 9 月 18 日，賓州赫爾希（現年 27 歲） 場上位置 邊鋒／攻擊中場／前鋒 現效力球會 AC 米蘭（義甲） 國家隊 美國隊長 國家隊數據 約 85 場 33 球 22 助攻 2026 分組 D 組（對手：土耳其、巴拉圭、澳洲） 2026 世足賽看點：地主隊長的主場任務 2026 世界盃由美國、加拿大與墨西哥共同主辦，美國被分在 D 組，同組對手為土耳其、巴拉圭與澳洲，被外界視為相對開放、有機會出線的一組。身為地主",
-        "age": 26,
-        "height": 178,
-        "weight": 72,
-        "nationality": "",
-        "flagCode": "",
-        "preferredFoot": "右",
-        "birthDate": "",
-        "marketValue": 28000000,
-        "photoUrl": "",
-        "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
-        },
-        "tournamentStats": {
-          "appearances": 0,
-          "goals": 0,
-          "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "minutesPlayed": 0,
-          "averageRating": 0
-        },
-        "careerSummary": {
-          "firstAppearance": "",
-          "totalCaps": 0,
-          "totalGoals": 0,
-          "majorTournaments": [],
-          "clubs": [
-            {
-              "clubName": "是美國國家隊隊長與頭號球星，現效力義甲勁旅 AC 米蘭，司職邊鋒與攻擊中場。身為 2021 年歐冠冠軍切爾西的功臣、首位踢進並贏得歐冠決賽的美國球員，他將在 2026 世足賽（世界盃） 以地主隊隊長身分領軍衝擊佳績。 首頁　|　完整賽程　|　分組積分榜　|　台灣直播攻略 本文整理普利西奇的基本資料、2026 世界盃看點、生涯軌跡、榮譽紀錄與對美國隊的意義。 普利西奇 基本資料一覽 項目 內容 全名 克里斯蒂安 普利西奇（Christian Pulisic） 國籍 美國 出生 1998 年 9 月 18 日，賓州赫爾希（現年 27 歲） 場上位置 邊鋒／攻擊中場／前鋒 現效力球會 AC 米蘭（義甲） 國家隊 美國隊長 國家隊數據 約 85 場 33 球 22 助攻 2026 分組 D 組（對手：土耳其、巴拉圭、澳洲） 2026 世足賽看點：地主隊長的主場任務 2026 世界盃由美國、加拿大與墨西哥共同主辦，美國被分在 D 組，同組對手為土耳其、巴拉圭與澳洲，被外界視為相對開放、有機會出線的一組。身為地主",
-              "period": "至今",
-              "appearances": 0,
-              "goals": 0
-            }
-          ]
-        }
-      },
-      {
-        "id": "takefusakubo",
-        "name": "久保建英",
-        "number": 17,
-        "position": "CM",
-        "club": "2026 世足賽完整介紹｜日本王牌右翼、拉瑪西亞出身的日本梅西",
-        "age": 26,
-        "height": 178,
-        "weight": 72,
-        "nationality": "",
-        "flagCode": "",
-        "preferredFoot": "右",
-        "birthDate": "",
-        "marketValue": 28000000,
-        "photoUrl": "",
-        "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
-        },
-        "tournamentStats": {
-          "appearances": 0,
-          "goals": 0,
-          "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "minutesPlayed": 0,
-          "averageRating": 0
-        },
-        "careerSummary": {
-          "firstAppearance": "",
-          "totalCaps": 0,
-          "totalGoals": 0,
-          "majorTournaments": [],
-          "clubs": [
-            {
-              "clubName": "2026 世足賽完整介紹｜日本王牌右翼、拉瑪西亞出身的日本梅西",
-              "period": "至今",
-              "appearances": 0,
-              "goals": 0
-            }
-          ]
-        }
-      },
-      {
-        "id": "takefusakubo1",
-        "name": "久保建英",
-        "number": 18,
-        "position": "CM",
-        "club": "是日本國家隊頭號進攻王牌，現效力西甲勁旅皇家社會（Real Sociedad），司職右路邊鋒。出身巴塞隆納拉瑪西亞青訓、被譽為「日本梅西」的他，將在 2026 世足賽（世界盃） 第二度披上日本戰袍，是日本主帥森保一進攻體系的核心。 首頁　|　完整賽程　|　分組積分榜　|　台灣直播攻略 本文整理久保建英的基本資料、2026 世界盃看點、生涯軌跡、榮譽紀錄與對日本隊的意義。 久保建英 基本資料一覽 項目 內容 全名 久保建英（Takefusa Kubo） 國籍 日本 出生 2001 年 6 月 4 日，神奈川縣川崎市（現年 24 歲） 場上位置 右邊鋒（左腳） 現效力球會 皇家社會（Real Sociedad，西甲） 國家隊 日本，進攻核心 2026 分組 F 組（對手：荷蘭、突尼西亞、瑞典） 世界盃經歷 個人第 2 屆（2022 卡達為首度參賽） 2026 世足賽看點：死亡 F 組的突圍關鍵 日本在 2026 世界盃被分進競爭激烈的 F 組，同組對手包括荷蘭、突尼西亞與瑞典。久保建英能否用個人能力撕開對手防線，",
-        "age": 26,
-        "height": 178,
-        "weight": 72,
-        "nationality": "",
-        "flagCode": "",
-        "preferredFoot": "右",
-        "birthDate": "",
-        "marketValue": 28000000,
-        "photoUrl": "",
-        "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
-        },
-        "tournamentStats": {
-          "appearances": 0,
-          "goals": 0,
-          "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "minutesPlayed": 0,
-          "averageRating": 0
-        },
-        "careerSummary": {
-          "firstAppearance": "",
-          "totalCaps": 0,
-          "totalGoals": 0,
-          "majorTournaments": [],
-          "clubs": [
-            {
-              "clubName": "是日本國家隊頭號進攻王牌，現效力西甲勁旅皇家社會（Real Sociedad），司職右路邊鋒。出身巴塞隆納拉瑪西亞青訓、被譽為「日本梅西」的他，將在 2026 世足賽（世界盃） 第二度披上日本戰袍，是日本主帥森保一進攻體系的核心。 首頁　|　完整賽程　|　分組積分榜　|　台灣直播攻略 本文整理久保建英的基本資料、2026 世界盃看點、生涯軌跡、榮譽紀錄與對日本隊的意義。 久保建英 基本資料一覽 項目 內容 全名 久保建英（Takefusa Kubo） 國籍 日本 出生 2001 年 6 月 4 日，神奈川縣川崎市（現年 24 歲） 場上位置 右邊鋒（左腳） 現效力球會 皇家社會（Real Sociedad，西甲） 國家隊 日本，進攻核心 2026 分組 F 組（對手：荷蘭、突尼西亞、瑞典） 世界盃經歷 個人第 2 屆（2022 卡達為首度參賽） 2026 世足賽看點：死亡 F 組的突圍關鍵 日本在 2026 世界盃被分進競爭激烈的 F 組，同組對手包括荷蘭、突尼西亞與瑞典。久保建英能否用個人能力撕開對手防線，",
-              "period": "至今",
-              "appearances": 0,
-              "goals": 0
-            }
-          ]
-        }
-      },
-      {
-        "id": "codygakpo",
-        "name": "加克波",
-        "number": 19,
-        "position": "CM",
-        "club": "2026 世界盃｜荷蘭鋒線主力、利物浦前鋒，世足賽 F 組看點完整介紹",
-        "age": 26,
-        "height": 178,
-        "weight": 72,
-        "nationality": "",
-        "flagCode": "",
-        "preferredFoot": "右",
-        "birthDate": "",
-        "marketValue": 28000000,
-        "photoUrl": "",
-        "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
-        },
-        "tournamentStats": {
-          "appearances": 0,
-          "goals": 0,
-          "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "minutesPlayed": 0,
-          "averageRating": 0
-        },
-        "careerSummary": {
-          "firstAppearance": "",
-          "totalCaps": 0,
-          "totalGoals": 0,
-          "majorTournaments": [],
-          "clubs": [
-            {
-              "clubName": "2026 世界盃｜荷蘭鋒線主力、利物浦前鋒，世足賽 F 組看點完整介紹",
-              "period": "至今",
-              "appearances": 0,
-              "goals": 0
-            }
-          ]
-        }
-      },
-      {
-        "id": "codygakpo1",
-        "name": "加克波",
-        "number": 20,
-        "position": "CM",
-        "club": "是荷蘭國家隊的鋒線主力、英格蘭豪門利物浦的前鋒，2026 世足賽（世界盃）將代表荷蘭出征 F 組，這也是他生涯第 2 次世界盃。他擅長左邊鋒，兼具盤帶、身材與射門能力。 首頁 | 完整賽程 | 分組積分榜 | 台灣直播攻略 想看完整陣容與同組對手，可參考 荷蘭 2026 世界盃 26 人大名單 與 荷蘭國家隊深度檔案。 加克波是誰？基本資料一次看 科迪·加克波是荷蘭現役主力攻擊手，以下是他的基本資料整理。 項目 內容 全名 科迪·加克波（Cody Gakpo） 出生 1999 年 5 月 7 日（27 歲） 國籍 荷蘭 場上位置 左邊鋒／中鋒 現效力球會 Liverpool（英格蘭） 國家隊 荷蘭國家隊 2026 分組 世界盃 F 組 世界盃出賽 第 2 屆（2022、2026） 2026 世足賽看點：加克波撐起荷蘭左路 荷蘭被分在 2026 世界盃 F 組，與日本等隊同組。加克波是柯曼麾下 左路最穩定的威脅，兼具技術、身體與傳中能力。對橙衣軍團而言，他與范戴克、迪容構成攻防主軸；完整同組對手與台灣時間",
-        "age": 26,
-        "height": 178,
-        "weight": 72,
-        "nationality": "",
-        "flagCode": "",
-        "preferredFoot": "右",
-        "birthDate": "",
-        "marketValue": 28000000,
-        "photoUrl": "",
-        "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
-        },
-        "tournamentStats": {
-          "appearances": 0,
-          "goals": 0,
-          "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "minutesPlayed": 0,
-          "averageRating": 0
-        },
-        "careerSummary": {
-          "firstAppearance": "",
-          "totalCaps": 0,
-          "totalGoals": 0,
-          "majorTournaments": [],
-          "clubs": [
-            {
-              "clubName": "是荷蘭國家隊的鋒線主力、英格蘭豪門利物浦的前鋒，2026 世足賽（世界盃）將代表荷蘭出征 F 組，這也是他生涯第 2 次世界盃。他擅長左邊鋒，兼具盤帶、身材與射門能力。 首頁 | 完整賽程 | 分組積分榜 | 台灣直播攻略 想看完整陣容與同組對手，可參考 荷蘭 2026 世界盃 26 人大名單 與 荷蘭國家隊深度檔案。 加克波是誰？基本資料一次看 科迪·加克波是荷蘭現役主力攻擊手，以下是他的基本資料整理。 項目 內容 全名 科迪·加克波（Cody Gakpo） 出生 1999 年 5 月 7 日（27 歲） 國籍 荷蘭 場上位置 左邊鋒／中鋒 現效力球會 Liverpool（英格蘭） 國家隊 荷蘭國家隊 2026 分組 世界盃 F 組 世界盃出賽 第 2 屆（2022、2026） 2026 世足賽看點：加克波撐起荷蘭左路 荷蘭被分在 2026 世界盃 F 組，與日本等隊同組。加克波是柯曼麾下 左路最穩定的威脅，兼具技術、身體與傳中能力。對橙衣軍團而言，他與范戴克、迪容構成攻防主軸；完整同組對手與台灣時間",
-              "period": "至今",
-              "appearances": 0,
-              "goals": 0
-            }
-          ]
-        }
-      },
-      {
-        "id": "darwinnunez",
-        "name": "努涅斯",
-        "number": 21,
-        "position": "CM",
-        "club": "2026 世足賽｜烏拉圭神鋒第 2 次世界盃，效力沙國豪門 Al-Hilal 完整介紹",
-        "age": 26,
-        "height": 178,
-        "weight": 72,
-        "nationality": "",
-        "flagCode": "",
-        "preferredFoot": "右",
-        "birthDate": "",
-        "marketValue": 28000000,
-        "photoUrl": "",
-        "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
-        },
-        "tournamentStats": {
-          "appearances": 0,
-          "goals": 0,
-          "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "minutesPlayed": 0,
-          "averageRating": 0
-        },
-        "careerSummary": {
-          "firstAppearance": "",
-          "totalCaps": 0,
-          "totalGoals": 0,
-          "majorTournaments": [],
-          "clubs": [
-            {
-              "clubName": "2026 世足賽｜烏拉圭神鋒第 2 次世界盃，效力沙國豪門 Al-Hilal 完整介紹",
-              "period": "至今",
-              "appearances": 0,
-              "goals": 0
-            }
-          ]
-        }
-      },
-      {
-        "id": "darwinnunez1",
-        "name": "努涅斯",
-        "number": 22,
-        "position": "CM",
-        "club": "是烏拉圭國家隊的主力中鋒，2026 世足賽（世界盃）將代表烏拉圭出征 H 組，這也是他生涯第 2 次世界盃。他目前效力於沙烏地阿拉伯豪門 Al-Hilal，以爆發力、衝刺速度與門前威脅著稱。 首頁 | 完整賽程 | 分組積分榜 | 台灣直播攻略 想看完整陣容與同組對手，可參考 烏拉圭 2026 世界盃 26 人大名單 與 烏拉圭國家隊深度檔案。 努涅斯是誰？基本資料一次看 達爾文·努涅斯是烏拉圭現役頭號前鋒之一，以下是他的基本資料整理。 項目 內容 全名 達爾文·努涅斯（Darwin Nunez Ribeiro） 出生 1999 年 6 月 24 日（26 歲） 國籍 烏拉圭 場上位置 中鋒（前鋒） 現效力球會 Al-Hilal（沙烏地阿拉伯） 國家隊 烏拉圭國家隊 2026 分組 世界盃 H 組 世界盃出賽 第 2 屆（2022、2026） 2026 世足賽看點：努涅斯領銜烏拉圭 H 組衝鋒 烏拉圭被分在 2026 世界盃 H 組，球隊鋒線由 努涅斯 與瓦爾韋德等中生代主力扛起。對拉丁美洲傳統強權",
-        "age": 26,
-        "height": 178,
-        "weight": 72,
-        "nationality": "",
-        "flagCode": "",
-        "preferredFoot": "右",
-        "birthDate": "",
-        "marketValue": 28000000,
-        "photoUrl": "",
-        "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
-        },
-        "tournamentStats": {
-          "appearances": 0,
-          "goals": 0,
-          "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "minutesPlayed": 0,
-          "averageRating": 0
-        },
-        "careerSummary": {
-          "firstAppearance": "",
-          "totalCaps": 0,
-          "totalGoals": 0,
-          "majorTournaments": [],
-          "clubs": [
-            {
-              "clubName": "是烏拉圭國家隊的主力中鋒，2026 世足賽（世界盃）將代表烏拉圭出征 H 組，這也是他生涯第 2 次世界盃。他目前效力於沙烏地阿拉伯豪門 Al-Hilal，以爆發力、衝刺速度與門前威脅著稱。 首頁 | 完整賽程 | 分組積分榜 | 台灣直播攻略 想看完整陣容與同組對手，可參考 烏拉圭 2026 世界盃 26 人大名單 與 烏拉圭國家隊深度檔案。 努涅斯是誰？基本資料一次看 達爾文·努涅斯是烏拉圭現役頭號前鋒之一，以下是他的基本資料整理。 項目 內容 全名 達爾文·努涅斯（Darwin Nunez Ribeiro） 出生 1999 年 6 月 24 日（26 歲） 國籍 烏拉圭 場上位置 中鋒（前鋒） 現效力球會 Al-Hilal（沙烏地阿拉伯） 國家隊 烏拉圭國家隊 2026 分組 世界盃 H 組 世界盃出賽 第 2 屆（2022、2026） 2026 世足賽看點：努涅斯領銜烏拉圭 H 組衝鋒 烏拉圭被分在 2026 世界盃 H 組，球隊鋒線由 努涅斯 與瓦爾韋德等中生代主力扛起。對拉丁美洲傳統強權",
-              "period": "至今",
-              "appearances": 0,
-              "goals": 0
-            }
-          ]
-        }
-      },
-      {
-        "id": "federicovalverde",
-        "name": "瓦爾韋德",
-        "number": 23,
-        "position": "CM",
-        "club": "2026 世界盃｜烏拉圭中場引擎、皇家馬德里全能戰士完整介紹",
-        "age": 26,
-        "height": 178,
-        "weight": 72,
-        "nationality": "",
-        "flagCode": "",
-        "preferredFoot": "右",
-        "birthDate": "",
-        "marketValue": 28000000,
-        "photoUrl": "",
-        "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
-        },
-        "tournamentStats": {
-          "appearances": 0,
-          "goals": 0,
-          "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "minutesPlayed": 0,
-          "averageRating": 0
-        },
-        "careerSummary": {
-          "firstAppearance": "",
-          "totalCaps": 0,
-          "totalGoals": 0,
-          "majorTournaments": [],
-          "clubs": [
-            {
-              "clubName": "2026 世界盃｜烏拉圭中場引擎、皇家馬德里全能戰士完整介紹",
-              "period": "至今",
-              "appearances": 0,
-              "goals": 0
-            }
-          ]
-        }
-      },
-      {
-        "id": "federicovalverde1",
-        "name": "費德里科·瓦爾韋德",
-        "number": 24,
-        "position": "CM",
-        "club": "是烏拉圭國家隊的中場引擎，也是皇家馬德里的全能戰士。2026 世界盃，27 歲 的他以無窮體能、攻守兼備與強力遠射聞名，是烏拉圭在 H 組能否突圍的中樞。現效力 皇家馬德里、已隨隊兩度稱霸歐冠。 追賽導航：首頁　｜　完整賽程　｜　分組積分榜　｜　台灣直播攻略 瓦爾韋德基本資料 費德里科·瓦爾韋德是烏拉圭國家隊主力中場。以下為他的基本資料： 項目 內容 全名 費德里科·瓦爾韋德（Federico Valverde） 出生 1998 年 7 月 22 日（世界盃時 27 歲） 國籍 烏拉圭 場上位置 中場（中前衛／全能中場，可踢右路） 慣用腳 右腳 現效力球會 皇家馬德里（2018 年自佩納羅爾加盟） 國家隊 烏拉圭中場核心 2026 分組 H 組（西班牙、維德角、沙烏地阿拉伯） 瓦爾韋德 2026 世界盃看點 瓦爾韋德是烏拉圭名帥 比爾薩（Bielsa） 體系的中場樞紐，攻守兩端都能扛起重任。烏拉圭落在 H 組，與西班牙、維德角、沙烏地阿拉伯同組（詳見 烏拉圭隊檔案 與 南美球隊出線分析），他",
-        "age": 26,
-        "height": 178,
-        "weight": 72,
-        "nationality": "",
-        "flagCode": "",
-        "preferredFoot": "右",
-        "birthDate": "",
-        "marketValue": 28000000,
-        "photoUrl": "",
-        "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
-        },
-        "tournamentStats": {
-          "appearances": 0,
-          "goals": 0,
-          "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "minutesPlayed": 0,
-          "averageRating": 0
-        },
-        "careerSummary": {
-          "firstAppearance": "",
-          "totalCaps": 0,
-          "totalGoals": 0,
-          "majorTournaments": [],
-          "clubs": [
-            {
-              "clubName": "是烏拉圭國家隊的中場引擎，也是皇家馬德里的全能戰士。2026 世界盃，27 歲 的他以無窮體能、攻守兼備與強力遠射聞名，是烏拉圭在 H 組能否突圍的中樞。現效力 皇家馬德里、已隨隊兩度稱霸歐冠。 追賽導航：首頁　｜　完整賽程　｜　分組積分榜　｜　台灣直播攻略 瓦爾韋德基本資料 費德里科·瓦爾韋德是烏拉圭國家隊主力中場。以下為他的基本資料： 項目 內容 全名 費德里科·瓦爾韋德（Federico Valverde） 出生 1998 年 7 月 22 日（世界盃時 27 歲） 國籍 烏拉圭 場上位置 中場（中前衛／全能中場，可踢右路） 慣用腳 右腳 現效力球會 皇家馬德里（2018 年自佩納羅爾加盟） 國家隊 烏拉圭中場核心 2026 分組 H 組（西班牙、維德角、沙烏地阿拉伯） 瓦爾韋德 2026 世界盃看點 瓦爾韋德是烏拉圭名帥 比爾薩（Bielsa） 體系的中場樞紐，攻守兩端都能扛起重任。烏拉圭落在 H 組，與西班牙、維德角、沙烏地阿拉伯同組（詳見 烏拉圭隊檔案 與 南美球隊出線分析），他",
-              "period": "至今",
-              "appearances": 0,
-              "goals": 0
-            }
-          ]
-        }
-      },
-      {
-        "id": "luis",
-        "name": "路易斯·迪亞斯",
-        "number": 25,
-        "position": "CM",
-        "club": "Díaz 2026 世界盃｜哥倫比亞鋒線王牌、現效力拜仁慕尼黑，完整介紹",
-        "age": 26,
-        "height": 178,
-        "weight": 72,
-        "nationality": "",
-        "flagCode": "",
-        "preferredFoot": "右",
-        "birthDate": "",
-        "marketValue": 28000000,
-        "photoUrl": "",
-        "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
-        },
-        "tournamentStats": {
-          "appearances": 0,
-          "goals": 0,
-          "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "minutesPlayed": 0,
-          "averageRating": 0
-        },
-        "careerSummary": {
-          "firstAppearance": "",
-          "totalCaps": 0,
-          "totalGoals": 0,
-          "majorTournaments": [],
-          "clubs": [
-            {
-              "clubName": "Díaz 2026 世界盃｜哥倫比亞鋒線王牌、現效力拜仁慕尼黑，完整介紹",
-              "period": "至今",
-              "appearances": 0,
-              "goals": 0
-            }
-          ]
-        }
-      },
-      {
-        "id": "luisdaz",
-        "name": "路易斯·迪亞斯",
-        "number": 26,
-        "position": "CM",
-        "club": "是哥倫比亞國家隊鋒線王牌，左路速度與爆發力兼具，更是 在哥倫比亞、葡萄牙、英格蘭三國都奪得頂級聯賽冠軍 的罕見球星。2026 世界盃，29 歲 的他現效力德甲拜仁慕尼黑（2025 年夏天自利物浦以約 7500 萬歐元轉會），是哥倫比亞在 K 組突圍的關鍵箭頭。 追賽導航：首頁　｜　完整賽程　｜　分組積分榜　｜　台灣直播攻略 路易斯·迪亞斯基本資料 路易斯·迪亞斯是哥倫比亞國家隊主力，司職左邊鋒。以下為他的基本資料： 項目 內容 全名 路易斯·迪亞斯（Luis Díaz） 出生 1997 年 1 月 13 日（世界盃時 29 歲） 國籍 哥倫比亞 場上位置 左邊鋒／前鋒 慣用腳 右腳 現效力球會 拜仁慕尼黑（2025 年夏天自利物浦轉會） 國家隊 哥倫比亞 2026 分組 K 組（葡萄牙、烏茲別克、剛果民主共和國） 路易斯·迪亞斯 2026 世界盃看點 迪亞斯在 2025 年夏天 自利物浦轉投拜仁慕尼黑，首季火力全開、狀態正盛。世界盃他將與隊長 James Rodríguez 組成哥倫比亞進攻雙核，K...",
-        "age": 26,
-        "height": 178,
-        "weight": 72,
-        "nationality": "",
-        "flagCode": "",
-        "preferredFoot": "右",
-        "birthDate": "",
-        "marketValue": 28000000,
-        "photoUrl": "",
-        "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
-        },
-        "tournamentStats": {
-          "appearances": 0,
-          "goals": 0,
-          "assists": 0,
-          "yellowCards": 0,
-          "redCards": 0,
-          "minutesPlayed": 0,
-          "averageRating": 0
-        },
-        "careerSummary": {
-          "firstAppearance": "",
-          "totalCaps": 0,
-          "totalGoals": 0,
-          "majorTournaments": [],
-          "clubs": [
-            {
-              "clubName": "是哥倫比亞國家隊鋒線王牌，左路速度與爆發力兼具，更是 在哥倫比亞、葡萄牙、英格蘭三國都奪得頂級聯賽冠軍 的罕見球星。2026 世界盃，29 歲 的他現效力德甲拜仁慕尼黑（2025 年夏天自利物浦以約 7500 萬歐元轉會），是哥倫比亞在 K 組突圍的關鍵箭頭。 追賽導航：首頁　｜　完整賽程　｜　分組積分榜　｜　台灣直播攻略 路易斯·迪亞斯基本資料 路易斯·迪亞斯是哥倫比亞國家隊主力，司職左邊鋒。以下為他的基本資料： 項目 內容 全名 路易斯·迪亞斯（Luis Díaz） 出生 1997 年 1 月 13 日（世界盃時 29 歲） 國籍 哥倫比亞 場上位置 左邊鋒／前鋒 慣用腳 右腳 現效力球會 拜仁慕尼黑（2025 年夏天自利物浦轉會） 國家隊 哥倫比亞 2026 分組 K 組（葡萄牙、烏茲別克、剛果民主共和國） 路易斯·迪亞斯 2026 世界盃看點 迪亞斯在 2025 年夏天 自利物浦轉投拜仁慕尼黑，首季火力全開、狀態正盛。世界盃他將與隊長 James Rodríguez 組成哥倫比亞進攻雙核，K...",
-              "period": "至今",
-              "appearances": 0,
               "goals": 0
             }
           ]
