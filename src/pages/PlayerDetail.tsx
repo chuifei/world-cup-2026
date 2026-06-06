@@ -36,6 +36,7 @@ import { FlagImage } from "@/components/shared/FlagImage"
 import { StatCard } from "@/components/shared/StatCard"
 import { EmptyState } from "@/components/shared/EmptyState"
 import { teams, matches } from "@/data"
+import { getQualifyingInfo } from "@/data/qualifying"
 import { POSITIONS, CONFEDERATIONS } from "@/constants"
 import type { Team, Player, Match, ClubHistory } from "@/types"
 
@@ -65,6 +66,12 @@ function getAllPlayersWithTeam(): PlayerWithTeam[] {
     }
   }
   return result
+}
+
+/** 获取姓名首字母（用于头像回退）：取"·"分割后的最后一部分的首字 */
+function getAvatarChar(name: string): string {
+  const parts = name.split("·")
+  return parts[parts.length - 1][0]
 }
 
 /** 位置分组 */
@@ -109,6 +116,51 @@ function PerformanceTab({ player, team }: { player: Player; team: Team }) {
 
   return (
     <div className="space-y-6">
+      {/* 预选赛信息 */}
+      {(() => {
+        const qi = getQualifyingInfo(team.id)
+        if (!qi) return null
+        return (
+          <Card className="border-amber-500/30 bg-amber-500/5">
+            <CardHeader>
+              <CardTitle className="text-base flex items-center gap-2">
+                <Flag className="h-4 w-4 text-amber-500" />
+                预选赛表现
+              </CardTitle>
+              <CardDescription className="text-amber-600">
+                2026世界杯尚未开赛，以下为预选赛表现
+              </CardDescription>
+            </CardHeader>
+            <CardContent>
+              <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-sm">
+                <div className="space-y-1">
+                  <p className="text-xs text-muted-foreground">晋级方式</p>
+                  <p className="font-semibold">{qi.qualificationMethod}</p>
+                </div>
+                {qi.group && (
+                  <div className="space-y-1">
+                    <p className="text-xs text-muted-foreground">预选赛小组</p>
+                    <p className="font-semibold">{qi.group}</p>
+                  </div>
+                )}
+                {qi.record && (
+                  <div className="space-y-1">
+                    <p className="text-xs text-muted-foreground">预选赛战绩</p>
+                    <p className="font-semibold tabular-nums">{qi.record}</p>
+                  </div>
+                )}
+                {qi.notes && (
+                  <div className="space-y-1 col-span-2">
+                    <p className="text-xs text-muted-foreground">备注</p>
+                    <p className="text-sm">{qi.notes}</p>
+                  </div>
+                )}
+              </div>
+            </CardContent>
+          </Card>
+        )
+      })()}
+
       {/* 统计卡片 */}
       <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
         <StatCard label="出场" value={stats.appearances} icon="👕" suffix="次" />
@@ -469,7 +521,7 @@ export default function PlayerDetail() {
             <CardContent className="p-6 md:p-8">
               <div className="flex flex-col md:flex-row items-center gap-6">
                 {/* 球员照片 */}
-                <div className="w-24 h-24 md:w-32 md:h-32 rounded-full bg-gradient-to-br from-primary/20 via-primary/10 to-accent/20 border-2 border-primary/30 flex items-center justify-center shrink-0 overflow-hidden">
+                <div className="w-24 h-24 md:w-32 md:h-32 rounded-full bg-gradient-to-br from-[#1a237e] via-[#0d47a1] to-[#01579b] border-2 border-primary/30 flex items-center justify-center shrink-0 overflow-hidden">
                   {player.photoUrl ? (
                     <img
                       src={player.photoUrl}
@@ -477,10 +529,9 @@ export default function PlayerDetail() {
                       className="w-full h-full object-cover"
                     />
                   ) : (
-                    <div className="flex flex-col items-center justify-center w-full h-full">
-                      <User className="h-10 w-10 md:h-14 md:w-14 text-primary/60" />
-                      <span className="text-[10px] text-muted-foreground mt-0.5">#{player.number}</span>
-                    </div>
+                    <span className="text-3xl md:text-4xl font-black text-white/90 select-none">
+                      {getAvatarChar(player.name)}
+                    </span>
                   )}
                 </div>
 
@@ -540,7 +591,11 @@ export default function PlayerDetail() {
                     出生日期 / 年龄
                   </p>
                   <p className="font-medium">
-                    {2026 - player.age}年 / {player.age}岁
+                    {player.birthDate ? (
+                      <>{player.birthDate} / {player.age}岁</>
+                    ) : (
+                      <>{2026 - player.age}年 / {player.age}岁</>
+                    )}
                   </p>
                 </div>
                 <div className="space-y-1">

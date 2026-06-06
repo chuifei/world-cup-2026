@@ -31,9 +31,10 @@ import { FlagImage } from "@/components/shared/FlagImage"
 import { EmptyState } from "@/components/shared/EmptyState"
 import { DataNotice } from "@/components/shared/DataNotice"
 import { matches } from "@/data/matches"
+import { teams } from "@/data/teams"
 import { venues } from "@/data/venues"
 import { TOURNAMENT_INFO } from "@/constants"
-import type { Match, Venue } from "@/types"
+import type { Match, Venue, Team } from "@/types"
 
 // ---- 动画变体 ----
 const fadeInUp = {
@@ -48,6 +49,16 @@ const fadeInUp = {
 const fadeIn = {
   hidden: { opacity: 0 },
   visible: { opacity: 1, transition: { duration: 0.3 } },
+}
+
+/** 通过球队ID获取球队信息 */
+function getTeamById(id: string): Team | undefined {
+  return teams.find((t) => t.id === id)
+}
+
+/** 通过球队ID获取中文队名 */
+function getTeamName(id: string): string {
+  return getTeamById(id)?.name ?? id
 }
 
 // ==================== Tab1: 赛程日历 ====================
@@ -268,9 +279,9 @@ function ScheduleCalendar() {
                           {formatBeijingTime(m.date)}
                         </div>
                         <div className="flex-1 min-w-0">
-                          <span className="font-medium text-sm">{m.homeTeamId}</span>
+                          <span className="font-medium text-sm">{getTeamName(m.homeTeamId)}</span>
                           <span className="mx-1 text-muted-foreground">vs</span>
-                          <span className="font-medium text-sm">{m.awayTeamId}</span>
+                          <span className="font-medium text-sm">{getTeamName(m.awayTeamId)}</span>
                           {m.homeScore !== null && (
                             <span className="ml-2 text-sm font-bold text-primary">
                               {m.homeScore}:{m.awayScore}
@@ -320,9 +331,9 @@ function ScheduleCalendar() {
                   {formatBeijingTime(m.date)}
                 </div>
                 <div className="flex-1 min-w-0">
-                  <span className="font-medium text-sm">{m.homeTeamId}</span>
+                  <span className="font-medium text-sm">{getTeamName(m.homeTeamId)}</span>
                   <span className="mx-1 text-muted-foreground">vs</span>
-                  <span className="font-medium text-sm">{m.awayTeamId}</span>
+                  <span className="font-medium text-sm">{getTeamName(m.awayTeamId)}</span>
                   {m.homeScore !== null && (
                     <span className="ml-2 text-sm font-bold text-primary">
                       {m.homeScore}:{m.awayScore}

@@ -13,6 +13,7 @@ export interface Player {
   preferredFoot: "左" | "右" | "双"
   marketValue: number
   photoUrl?: string
+  birthDate?: string
   // 能力值 (0-99)
   abilities: {
     shooting: number
