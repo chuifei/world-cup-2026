@@ -55,9 +55,12 @@ for (const file of files) {
   const players = JSON.parse(readFileSync(resolve(SQUADS_DIR, file), "utf-8"))
   if (!players.length) continue
 
-  const startMarker = `"id": "${teamId}"`
-  const teamStart = content.indexOf(startMarker)
-  if (teamStart === -1) { console.log(`  ❌ 未找到 ${teamId}`); continue }
+  // 用更精确的匹配——team 有 "nameEn" 紧跟在后面
+  const escapedId = teamId.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+  const teamRe = new RegExp(`"id":\\s*"${escapedId}"[^}]*"nameEn"`, "g")
+  const teamMatch = teamRe.exec(content)
+  if (!teamMatch) { console.log(`  ❌ 未找到 ${teamId}`); continue }
+  const teamStart = teamMatch.index
 
   const playersKey = content.indexOf('"players": [', teamStart)
   if (playersKey === -1) continue
