@@ -1327,10 +1327,11 @@ export const teams: Team[] = [
     ],
     "players": [
       {
-        "id": "p1780746422216",
+        "id": "emilianomartnez",
+        "name": "迪布·马丁内斯",
         "number": 1,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "阿斯顿维拉",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -1338,15 +1339,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -1364,7 +1365,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿斯顿维拉",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -1373,10 +1374,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222161",
+        "id": "gernimorulli",
+        "name": "鲁利",
         "number": 2,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "马赛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -1384,15 +1386,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -1410,7 +1412,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "马赛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -1419,10 +1421,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222162",
+        "id": "juanmusso",
+        "name": "穆索",
         "number": 3,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "马德里竞技",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -1430,15 +1433,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -1456,7 +1459,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "马德里竞技",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -1465,10 +1468,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222163",
+        "id": "gonzalomontiel",
+        "name": "蒙铁尔",
         "number": 4,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "河床",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -1476,15 +1480,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -1502,7 +1506,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "河床",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -1511,10 +1515,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222164",
+        "id": "nahuelmolina",
+        "name": "莫利纳",
         "number": 5,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "马德里竞技",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -1522,15 +1527,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -1548,7 +1553,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "马德里竞技",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -1557,10 +1562,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222165",
+        "id": "lisandromartnez",
+        "name": "利桑德罗·马丁内斯",
         "number": 6,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "曼联",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -1568,15 +1574,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -1594,7 +1600,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "曼联",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -1603,10 +1609,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222166",
+        "id": "nicolsotamendi",
+        "name": "奥塔门迪",
         "number": 7,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "本菲卡",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -1614,15 +1621,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -1640,7 +1647,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "本菲卡",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -1649,10 +1656,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222167",
+        "id": "leonardobalerdi",
+        "name": "巴莱尔迪",
         "number": 8,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "马赛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -1660,15 +1668,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -1686,7 +1694,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "马赛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -1695,10 +1703,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222168",
+        "id": "cristianromero",
+        "name": "罗梅罗",
         "number": 9,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "托特纳姆热刺",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -1706,15 +1715,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -1732,7 +1741,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "托特纳姆热刺",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -1741,10 +1750,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222169",
+        "id": "nicolstagliafico",
+        "name": "塔利亚菲科",
         "number": 10,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "里昂",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -1752,15 +1762,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -1778,7 +1788,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "里昂",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -1787,10 +1797,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642221610",
+        "id": "facundomedina",
+        "name": "法昆多·梅迪纳",
         "number": 11,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "马赛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -1798,15 +1809,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -1824,7 +1835,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "马赛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -1833,10 +1844,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642221611",
+        "id": "giovanilocelso",
+        "name": "洛塞尔索",
         "number": 12,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "贝蒂斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -1844,15 +1856,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -1870,7 +1882,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "贝蒂斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -1879,10 +1891,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642221612",
+        "id": "leandroparedes",
+        "name": "帕雷德斯",
         "number": 13,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "博卡青年",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -1890,15 +1903,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -1916,7 +1929,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "博卡青年",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -1925,10 +1938,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642221613",
+        "id": "rodrigodepaul",
+        "name": "德保罗",
         "number": 14,
         "position": "CM",
-        "club": "未知",
+        "club": "迈阿密国际",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -1962,7 +1976,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "迈阿密国际",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -1971,10 +1985,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642221614",
+        "id": "exequielpalacios",
+        "name": "帕拉西奥斯",
         "number": 15,
         "position": "CM",
-        "club": "未知",
+        "club": "勒沃库森",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -2008,7 +2023,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "勒沃库森",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -2017,10 +2032,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642221615",
+        "id": "enzofernndez",
+        "name": "恩佐·费尔南德斯",
         "number": 16,
         "position": "CM",
-        "club": "未知",
+        "club": "切尔西",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -2054,7 +2070,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "切尔西",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -2063,10 +2079,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642221616",
+        "id": "alexismacallister",
+        "name": "麦卡利斯特",
         "number": 17,
         "position": "CM",
-        "club": "未知",
+        "club": "利物浦",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -2100,7 +2117,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "利物浦",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -2109,10 +2126,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642221617",
+        "id": "valentnbarco",
+        "name": "巴尔科",
         "number": 18,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "斯特拉斯堡",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -2120,15 +2138,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -2146,7 +2164,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "斯特拉斯堡",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -2155,10 +2173,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642221618",
+        "id": "lionelmessi",
+        "name": "梅西",
         "number": 19,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "迈阿密国际",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -2166,15 +2185,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -2192,7 +2211,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "迈阿密国际",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -2201,10 +2220,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p1780746422217",
+        "id": "nicolsgonzlez",
+        "name": "尼科·冈萨雷斯",
         "number": 20,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "马德里竞技",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -2212,15 +2232,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -2238,7 +2258,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "马德里竞技",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -2247,10 +2267,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222171",
+        "id": "giulianosimeone",
+        "name": "朱利亚诺·西蒙尼",
         "number": 21,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "马德里竞技",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -2258,15 +2279,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -2284,7 +2305,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "马德里竞技",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -2293,10 +2314,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222172",
+        "id": "lautaromartnez",
+        "name": "劳塔罗·马丁内斯",
         "number": 22,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "国际米兰",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -2304,15 +2326,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -2330,7 +2352,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "国际米兰",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -2339,10 +2361,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222173",
+        "id": "josmanuellpez",
+        "name": "弗拉科·洛佩斯",
         "number": 23,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "帕尔梅拉斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -2350,15 +2373,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -2376,7 +2399,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "帕尔梅拉斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -2385,10 +2408,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222174",
+        "id": "julinlvarez",
+        "name": "阿尔瓦雷斯",
         "number": 24,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "马德里竞技",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -2396,15 +2420,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -2422,7 +2446,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "马德里竞技",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -2431,10 +2455,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222175",
+        "id": "thiagoalmada",
+        "name": "阿尔马达",
         "number": 25,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "里昂",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -2442,15 +2467,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -2468,7 +2493,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "里昂",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -2477,10 +2502,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222176",
+        "id": "nicopaz",
+        "name": "帕斯",
         "number": 26,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "科莫",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -2488,15 +2514,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -2514,7 +2540,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "科莫",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -2611,10 +2637,11 @@ export const teams: Team[] = [
     ],
     "players": [
       {
-        "id": "p1780746422281",
+        "id": "mikemaignan",
+        "name": "迈尼昂",
         "number": 1,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "AC米兰",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -2622,15 +2649,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -2648,7 +2675,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "AC米兰",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -2657,10 +2684,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222811",
+        "id": "bricesamba",
+        "name": "桑巴",
         "number": 2,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "诺丁汉森林",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -2668,15 +2696,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -2694,7 +2722,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "诺丁汉森林",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -2703,10 +2731,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222812",
+        "id": "robinrisser",
+        "name": "里塞",
         "number": 3,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "朗斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -2714,15 +2743,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -2740,7 +2769,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "朗斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -2749,10 +2778,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222813",
+        "id": "lucasdigne",
+        "name": "迪涅",
         "number": 4,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "阿斯顿维拉",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -2760,15 +2790,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -2786,7 +2816,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿斯顿维拉",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -2795,10 +2825,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222814",
+        "id": "malogusto",
+        "name": "古斯托",
         "number": 5,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "切尔西",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -2806,15 +2837,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -2832,7 +2863,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "切尔西",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -2841,10 +2872,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222815",
+        "id": "lucashernndez",
+        "name": "卢卡斯·埃尔南德斯",
         "number": 6,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "巴黎圣日耳曼",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -2852,15 +2884,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -2878,7 +2910,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "巴黎圣日耳曼",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -2887,10 +2919,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222816",
+        "id": "theohernndez",
+        "name": "特奥·埃尔南德斯",
         "number": 7,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "AC米兰",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -2898,15 +2931,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -2924,7 +2957,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "AC米兰",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -2933,10 +2966,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222817",
+        "id": "ibrahimakonat",
+        "name": "科纳特",
         "number": 8,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "利物浦",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -2944,15 +2978,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -2970,7 +3004,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "利物浦",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -2979,10 +3013,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222818",
+        "id": "juleskound",
+        "name": "孔德",
         "number": 9,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "巴塞罗那",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -2990,15 +3025,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -3016,7 +3051,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "巴塞罗那",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -3025,10 +3060,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222819",
+        "id": "maxencelacroix",
+        "name": "拉克鲁瓦",
         "number": 10,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "巴黎圣日耳曼",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -3036,15 +3072,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -3062,7 +3098,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "巴黎圣日耳曼",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -3071,10 +3107,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642228110",
+        "id": "williamsaliba",
+        "name": "萨利巴",
         "number": 11,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "阿森纳",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -3082,15 +3119,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -3108,7 +3145,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿森纳",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -3117,10 +3154,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642228111",
+        "id": "dayotupamecano",
+        "name": "乌帕梅卡诺",
         "number": 12,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "拜仁慕尼黑",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -3128,15 +3166,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -3154,7 +3192,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "拜仁慕尼黑",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -3163,10 +3201,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642228112",
+        "id": "ngolokant",
+        "name": "坎特",
         "number": 13,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "利雅得胜利",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -3174,15 +3213,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -3200,7 +3239,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "利雅得胜利",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -3209,10 +3248,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642228113",
+        "id": "manukon",
+        "name": "科内",
         "number": 14,
         "position": "CM",
-        "club": "未知",
+        "club": "皇家马德里",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -3246,7 +3286,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "皇家马德里",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -3255,10 +3295,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642228114",
+        "id": "adrienrabiot",
+        "name": "拉比奥",
         "number": 15,
         "position": "CM",
-        "club": "未知",
+        "club": "马赛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -3292,7 +3333,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "马赛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -3301,10 +3342,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642228115",
+        "id": "aurlientchouamni",
+        "name": "楚阿梅尼",
         "number": 16,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "皇家马德里",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -3312,15 +3354,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -3338,7 +3380,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "皇家马德里",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -3347,10 +3389,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642228116",
+        "id": "warrenzareemery",
+        "name": "扎伊尔-埃梅里",
         "number": 17,
         "position": "CM",
-        "club": "未知",
+        "club": "巴黎圣日耳曼",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -3384,7 +3427,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "巴黎圣日耳曼",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -3393,10 +3436,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642228117",
+        "id": "maghnesakliouche",
+        "name": "阿克利乌什",
         "number": 18,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "摩纳哥",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -3404,15 +3448,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -3430,7 +3474,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "摩纳哥",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -3439,10 +3483,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642228118",
+        "id": "bradleybarcola",
+        "name": "巴尔科拉",
         "number": 19,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "巴黎圣日耳曼",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -3450,15 +3495,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -3476,7 +3521,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "巴黎圣日耳曼",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -3485,10 +3530,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642228119",
+        "id": "rayancherki",
+        "name": "谢尔基",
         "number": 20,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "巴黎圣日耳曼",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -3496,15 +3542,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -3522,7 +3568,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "巴黎圣日耳曼",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -3531,10 +3577,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642228120",
+        "id": "ousmanedembl",
+        "name": "登贝莱",
         "number": 21,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "巴黎圣日耳曼",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -3542,15 +3589,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -3568,7 +3615,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "巴黎圣日耳曼",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -3577,10 +3624,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642228121",
+        "id": "dsirdou",
+        "name": "杜埃",
         "number": 22,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "巴黎圣日耳曼",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -3588,15 +3636,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -3614,7 +3662,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "巴黎圣日耳曼",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -3623,10 +3671,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642228122",
+        "id": "jeanphilippemateta",
+        "name": "马特塔",
         "number": 23,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "水晶宫",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -3634,15 +3683,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -3660,7 +3709,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "水晶宫",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -3669,10 +3718,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642228123",
+        "id": "kylianmbapp",
+        "name": "姆巴佩",
         "number": 24,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "皇家马德里",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -3680,15 +3730,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -3706,7 +3756,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "皇家马德里",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -3715,10 +3765,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642228124",
+        "id": "michaelolise",
+        "name": "奥利塞",
         "number": 25,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "拜仁慕尼黑",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -3726,15 +3777,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -3752,7 +3803,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "拜仁慕尼黑",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -3761,10 +3812,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642228125",
+        "id": "marcusthuram",
+        "name": "图拉姆",
         "number": 26,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "国际米兰",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -3772,15 +3824,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -3798,7 +3850,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "国际米兰",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -3884,10 +3936,11 @@ export const teams: Team[] = [
     ],
     "players": [
       {
-        "id": "p1780746422279",
+        "id": "jordanpickford",
+        "name": "皮克福德",
         "number": 1,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "埃弗顿",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -3895,15 +3948,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -3921,7 +3974,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "埃弗顿",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -3930,10 +3983,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222791",
+        "id": "deanhenderson",
+        "name": "迪恩·亨德森",
         "number": 2,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "水晶宫",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -3941,15 +3995,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -3967,7 +4021,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "水晶宫",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -3976,10 +4030,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222792",
+        "id": "jamestrafford",
+        "name": "特拉福德",
         "number": 3,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "曼城",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -3987,15 +4042,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -4013,7 +4068,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "曼城",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -4022,10 +4077,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222793",
+        "id": "reecejames",
+        "name": "里斯·詹姆斯",
         "number": 4,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "切尔西",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -4033,15 +4089,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -4059,7 +4115,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "切尔西",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -4068,10 +4124,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222794",
+        "id": "ezrikonsa",
+        "name": "孔萨",
         "number": 5,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "阿斯顿维拉",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -4079,15 +4136,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -4105,7 +4162,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿斯顿维拉",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -4114,10 +4171,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222795",
+        "id": "jarellquansah",
+        "name": "宽萨",
         "number": 6,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "勒沃库森",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -4125,15 +4183,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -4151,7 +4209,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "勒沃库森",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -4160,10 +4218,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222796",
+        "id": "johnstones",
+        "name": "斯通斯",
         "number": 7,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "曼城",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -4171,15 +4230,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -4197,7 +4256,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "曼城",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -4206,10 +4265,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222797",
+        "id": "marcguehi",
+        "name": "格伊",
         "number": 8,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "曼城",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -4217,15 +4277,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -4243,7 +4303,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "曼城",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -4252,10 +4312,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222798",
+        "id": "danburn",
+        "name": "伯恩",
         "number": 9,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "纽卡斯尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -4263,15 +4324,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -4289,7 +4350,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "纽卡斯尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -4298,10 +4359,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222799",
+        "id": "nicooreilly",
+        "name": "奥莱利",
         "number": 10,
         "position": "CM",
-        "club": "未知",
+        "club": "曼城",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -4335,7 +4397,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "曼城",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -4344,10 +4406,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642227910",
+        "id": "djedspence",
+        "name": "斯宾斯",
         "number": 11,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "托特纳姆",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -4355,15 +4418,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -4381,7 +4444,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "托特纳姆",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -4390,10 +4453,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642227911",
+        "id": "tinolivramento",
+        "name": "利夫拉门托",
         "number": 12,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "纽卡斯尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -4401,15 +4465,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -4427,7 +4491,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "纽卡斯尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -4436,10 +4500,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642227912",
+        "id": "declanrice",
+        "name": "赖斯",
         "number": 13,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "阿森纳",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -4447,15 +4512,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -4473,7 +4538,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿森纳",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -4482,10 +4547,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642227913",
+        "id": "elliotanderson",
+        "name": "埃利奥特·安德森",
         "number": 14,
         "position": "CM",
-        "club": "未知",
+        "club": "诺丁汉森林",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -4519,7 +4585,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "诺丁汉森林",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -4528,10 +4594,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642227914",
+        "id": "kobbiemainoo",
+        "name": "梅努",
         "number": 15,
         "position": "CM",
-        "club": "未知",
+        "club": "曼联",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -4565,7 +4632,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "曼联",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -4574,10 +4641,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642227915",
+        "id": "jordanhenderson",
+        "name": "乔丹·亨德森",
         "number": 16,
         "position": "CM",
-        "club": "未知",
+        "club": "布伦特福德",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -4611,7 +4679,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "布伦特福德",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -4620,10 +4688,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642227916",
+        "id": "morganrogers",
+        "name": "摩根·罗杰斯",
         "number": 17,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "阿斯顿维拉",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -4631,15 +4700,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -4657,7 +4726,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿斯顿维拉",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -4666,10 +4735,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642227917",
+        "id": "judebellingham",
+        "name": "贝林厄姆",
         "number": 18,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "皇家马德里",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -4677,15 +4747,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -4703,7 +4773,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "皇家马德里",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -4712,10 +4782,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642227918",
+        "id": "eberechieze",
+        "name": "埃泽",
         "number": 19,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "阿森纳",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -4723,15 +4794,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -4749,7 +4820,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿森纳",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -4758,10 +4829,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642227919",
+        "id": "harrykane",
+        "name": "凯恩",
         "number": 20,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "拜仁慕尼黑",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -4769,15 +4841,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -4795,7 +4867,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "拜仁慕尼黑",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -4804,10 +4876,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642227920",
+        "id": "ivantoney",
+        "name": "托尼",
         "number": 21,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "沙乌地阿赫利",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -4815,15 +4888,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -4841,7 +4914,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "沙乌地阿赫利",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -4850,10 +4923,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642227921",
+        "id": "olliewatkins",
+        "name": "沃特金斯",
         "number": 22,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "阿斯顿维拉",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -4861,15 +4935,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -4887,7 +4961,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿斯顿维拉",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -4896,10 +4970,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642227922",
+        "id": "bukayosaka",
+        "name": "萨卡",
         "number": 23,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "阿森纳",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -4907,15 +4982,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -4933,7 +5008,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿森纳",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -4942,10 +5017,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642227923",
+        "id": "marcusrashford",
+        "name": "拉什福德",
         "number": 24,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "巴塞罗那",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -4953,15 +5029,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -4979,7 +5055,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "巴塞罗那",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -4988,10 +5064,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642227924",
+        "id": "anthonygordon",
+        "name": "戈登",
         "number": 25,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "纽卡斯尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -4999,15 +5076,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -5025,7 +5102,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "纽卡斯尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -5034,10 +5111,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642227925",
+        "id": "nonimadueke",
+        "name": "马杜埃凯",
         "number": 26,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "阿森纳",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -5045,15 +5123,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -5071,7 +5149,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿森纳",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -7708,10 +7786,11 @@ export const teams: Team[] = [
     ],
     "players": [
       {
-        "id": "p1780746422313",
+        "id": "bartverbruggen",
+        "name": "费尔布鲁亨",
         "number": 1,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "布莱顿",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -7719,15 +7798,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -7745,7 +7824,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "布莱顿",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -7754,10 +7833,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223131",
+        "id": "markflekken",
+        "name": "弗莱肯",
         "number": 2,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "勒沃库森",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -7765,15 +7845,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -7791,7 +7871,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "勒沃库森",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -7800,10 +7880,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223132",
+        "id": "robinroefs",
+        "name": "鲁夫斯",
         "number": 3,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "桑德兰",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -7811,15 +7892,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -7837,7 +7918,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "桑德兰",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -7846,10 +7927,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223133",
+        "id": "virgilvandijk",
+        "name": "范戴克",
         "number": 4,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "利物浦",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -7857,15 +7939,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -7883,7 +7965,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "利物浦",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -7892,10 +7974,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223134",
+        "id": "nathanak",
+        "name": "阿克",
         "number": 5,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "曼城",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -7903,15 +7986,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -7929,7 +8012,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "曼城",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -7938,10 +8021,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223135",
+        "id": "denzeldumfries",
+        "name": "邓弗里斯",
         "number": 6,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "国际米兰",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -7949,15 +8033,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -7975,7 +8059,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "国际米兰",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -7984,10 +8068,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223136",
+        "id": "jurrintimber",
+        "name": "廷贝尔",
         "number": 7,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "阿森纳",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -7995,15 +8080,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -8021,7 +8106,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿森纳",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -8030,10 +8115,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223137",
+        "id": "mickyvandeven",
+        "name": "范德文",
         "number": 8,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "热刺",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -8041,15 +8127,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -8067,7 +8153,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "热刺",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -8076,10 +8162,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223138",
+        "id": "janpaulvanhecke",
+        "name": "范赫克",
         "number": 9,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "布莱顿",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -8087,15 +8174,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -8113,7 +8200,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "布莱顿",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -8122,10 +8209,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223139",
+        "id": "jorrelhato",
+        "name": "哈托",
         "number": 10,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "切尔西",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -8133,15 +8221,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -8159,7 +8247,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "切尔西",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -8168,10 +8256,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231310",
+        "id": "frenkiedejong",
+        "name": "德容",
         "number": 11,
         "position": "CM",
-        "club": "未知",
+        "club": "巴塞罗那",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -8205,7 +8294,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "巴塞罗那",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -8214,10 +8303,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231311",
+        "id": "ryangravenberch",
+        "name": "赫拉芬贝赫",
         "number": 12,
         "position": "CM",
-        "club": "未知",
+        "club": "利物浦",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -8251,7 +8341,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "利物浦",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -8260,10 +8350,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231312",
+        "id": "tijjanireijnders",
+        "name": "雷因德斯",
         "number": 13,
         "position": "CM",
-        "club": "未知",
+        "club": "曼城",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -8297,7 +8388,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "曼城",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -8306,10 +8397,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231313",
+        "id": "teunkoopmeiners",
+        "name": "库普梅纳斯",
         "number": 14,
         "position": "CM",
-        "club": "未知",
+        "club": "尤文图斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -8343,7 +8435,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "尤文图斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -8352,10 +8444,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231314",
+        "id": "martenderoon",
+        "name": "德罗恩",
         "number": 15,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "亚特兰大",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -8363,15 +8456,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -8389,7 +8482,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "亚特兰大",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -8398,10 +8491,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231315",
+        "id": "matswieffer",
+        "name": "维弗",
         "number": 16,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "布莱顿",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -8409,15 +8503,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -8435,7 +8529,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "布莱顿",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -8444,10 +8538,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231316",
+        "id": "quintentimber",
+        "name": "昆滕·廷贝尔",
         "number": 17,
         "position": "CM",
-        "club": "未知",
+        "club": "马赛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -8481,7 +8576,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "马赛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -8490,10 +8585,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231317",
+        "id": "guustil",
+        "name": "蒂尔",
         "number": 18,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "PSV",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -8501,15 +8597,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -8527,7 +8623,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "PSV",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -8536,10 +8632,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231318",
+        "id": "codygakpo",
+        "name": "加克波",
         "number": 19,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "利物浦",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -8547,15 +8644,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -8573,7 +8670,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "利物浦",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -8582,10 +8679,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231319",
+        "id": "memphisdepay",
+        "name": "德佩",
         "number": 20,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "科林蒂安",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -8593,15 +8691,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -8619,7 +8717,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "科林蒂安",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -8628,10 +8726,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231320",
+        "id": "donyellmalen",
+        "name": "马伦",
         "number": 21,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "罗马",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -8639,15 +8738,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -8665,7 +8764,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "罗马",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -8674,10 +8773,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231321",
+        "id": "woutweghorst",
+        "name": "韦格霍斯特",
         "number": 22,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "阿贾克斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -8685,15 +8785,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -8711,7 +8811,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿贾克斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -8720,10 +8820,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231322",
+        "id": "justinkluivert",
+        "name": "克鲁伊维特",
         "number": 23,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "伯恩茅斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -8731,15 +8832,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -8757,7 +8858,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "伯恩茅斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -8766,10 +8867,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231323",
+        "id": "noalang",
+        "name": "朗",
         "number": 24,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "加拉塔萨雷",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -8777,15 +8879,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -8803,7 +8905,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "加拉塔萨雷",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -8812,10 +8914,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231324",
+        "id": "brianbrobbey",
+        "name": "布罗贝",
         "number": 25,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "桑德兰",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -8823,15 +8926,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -8849,7 +8952,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "桑德兰",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -8858,10 +8961,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231325",
+        "id": "crysenciosummerville",
+        "name": "萨默维尔",
         "number": 26,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "西汉姆联",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -8869,15 +8973,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -8895,7 +8999,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "西汉姆联",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -12773,10 +12877,11 @@ export const teams: Team[] = [
     ],
     "players": [
       {
-        "id": "p1780746422311",
+        "id": "yassinebounou",
+        "name": "布努",
         "number": 1,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "希拉尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -12784,15 +12889,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -12810,7 +12915,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "希拉尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -12819,10 +12924,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223111",
+        "id": "munirelkajoui",
+        "name": "卡朱伊",
         "number": 2,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "RS贝尔坎",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -12830,15 +12936,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -12856,7 +12962,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "RS贝尔坎",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -12865,10 +12971,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223112",
+        "id": "redatagnaouti",
+        "name": "塔格纳维",
         "number": 3,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "拉贾",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -12876,15 +12983,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -12902,7 +13009,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "拉贾",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -12911,10 +13018,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223113",
+        "id": "achrafhakimi",
+        "name": "哈基米",
         "number": 4,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "巴黎圣日耳曼",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -12922,15 +13030,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -12948,7 +13056,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "巴黎圣日耳曼",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -12957,10 +13065,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223114",
+        "id": "nayefaguerd",
+        "name": "阿盖尔德",
         "number": 5,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "马赛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -12968,15 +13077,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -12994,7 +13103,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "马赛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -13003,10 +13112,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223115",
+        "id": "noussairmazraoui",
+        "name": "马兹拉维",
         "number": 6,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "曼联",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -13014,15 +13124,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -13040,7 +13150,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "曼联",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -13049,10 +13159,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223116",
+        "id": "anasssalaheddine",
+        "name": "萨拉赫丁",
         "number": 7,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "特温特",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -13060,15 +13171,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -13086,7 +13197,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "特温特",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -13095,10 +13206,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223117",
+        "id": "chadiriad",
+        "name": "里亚德",
         "number": 8,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "水晶宫",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -13106,15 +13218,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -13132,7 +13244,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "水晶宫",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -13141,10 +13253,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223118",
+        "id": "youssefbelammari",
+        "name": "贝拉马里",
         "number": 9,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "阿赫利",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -13152,15 +13265,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -13178,7 +13291,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿赫利",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -13187,10 +13300,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223119",
+        "id": "issadiop",
+        "name": "迪奥普",
         "number": 10,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "富勒姆",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -13198,15 +13312,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -13224,7 +13338,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "富勒姆",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -13233,10 +13347,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231110",
+        "id": "redouanehahlal",
+        "name": "哈拉尔",
         "number": 11,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "梅赫伦",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -13244,15 +13359,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -13270,7 +13385,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "梅赫伦",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -13279,10 +13394,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231111",
+        "id": "zakariaelouahdi",
+        "name": "瓦迪",
         "number": 12,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "亨克",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -13290,15 +13406,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -13316,7 +13432,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "亨克",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -13325,10 +13441,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231112",
+        "id": "sofyanamrabat",
+        "name": "阿姆拉巴特",
         "number": 13,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "贝蒂斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -13336,15 +13453,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -13362,7 +13479,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "贝蒂斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -13371,10 +13488,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231113",
+        "id": "ismaelsaibari",
+        "name": "赛巴里",
         "number": 14,
         "position": "CM",
-        "club": "未知",
+        "club": "PSV",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -13408,7 +13526,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "PSV",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -13417,10 +13535,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231114",
+        "id": "neilelaynaoui",
+        "name": "埃尔艾纳维",
         "number": 15,
         "position": "CM",
-        "club": "未知",
+        "club": "罗马",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -13454,7 +13573,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "罗马",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -13463,10 +13582,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231115",
+        "id": "bilalelkhannouss",
+        "name": "汉努斯",
         "number": 16,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "斯图加特",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -13474,15 +13594,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -13500,7 +13620,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "斯图加特",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -13509,10 +13629,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231116",
+        "id": "azzedineounahi",
+        "name": "奥纳希",
         "number": 17,
         "position": "CM",
-        "club": "未知",
+        "club": "赫罗纳",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -13546,7 +13667,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "赫罗纳",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -13555,10 +13676,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231117",
+        "id": "ayoubbouaddi",
+        "name": "布阿迪",
         "number": 18,
         "position": "CM",
-        "club": "未知",
+        "club": "里尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -13592,7 +13714,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "里尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -13601,10 +13723,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231118",
+        "id": "samirelmourabet",
+        "name": "穆拉贝特",
         "number": 19,
         "position": "CM",
-        "club": "未知",
+        "club": "斯特拉斯堡",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -13638,7 +13761,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "斯特拉斯堡",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -13647,10 +13770,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231119",
+        "id": "brahimdaz",
+        "name": "迪亚斯",
         "number": 20,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "皇家马德里",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -13658,15 +13782,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -13684,7 +13808,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "皇家马德里",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -13693,10 +13817,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231120",
+        "id": "chemsdinetalbi",
+        "name": "塔尔比",
         "number": 21,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "桑德兰",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -13704,15 +13829,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -13730,7 +13855,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "桑德兰",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -13739,10 +13864,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231121",
+        "id": "ayoubelkaabi",
+        "name": "卡比",
         "number": 22,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "奥林匹亚科斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -13750,15 +13876,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -13776,7 +13902,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "奥林匹亚科斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -13785,10 +13911,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231122",
+        "id": "soufianerahimi",
+        "name": "拉希米",
         "number": 23,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "艾因",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -13796,15 +13923,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -13822,7 +13949,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "艾因",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -13831,10 +13958,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231123",
+        "id": "abdeezzalzouli",
+        "name": "埃扎尔祖利",
         "number": 24,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "贝蒂斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -13842,15 +13970,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -13868,7 +13996,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "贝蒂斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -13877,10 +14005,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231124",
+        "id": "ayoubamaimouni",
+        "name": "阿迈穆尼",
         "number": 25,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "法兰克福",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -13888,15 +14017,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -13914,7 +14043,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "法兰克福",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -13923,10 +14052,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231125",
+        "id": "yassinegessime",
+        "name": "盖西梅",
         "number": 26,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "斯特拉斯堡",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -13934,15 +14064,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -13960,7 +14090,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "斯特拉斯堡",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -14036,10 +14166,11 @@ export const teams: Team[] = [
     ],
     "players": [
       {
-        "id": "p1780746422255",
+        "id": "camilovargas",
+        "name": "巴尔加斯",
         "number": 1,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "阿特拉斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -14047,15 +14178,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -14073,7 +14204,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿特拉斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -14082,10 +14213,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222551",
+        "id": "davidospina",
+        "name": "奥斯皮纳",
         "number": 2,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "国民竞技",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -14093,15 +14225,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -14119,7 +14251,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "国民竞技",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -14128,10 +14260,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222552",
+        "id": "lvaromontero",
+        "name": "蒙特罗",
         "number": 3,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "维勒斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -14139,15 +14272,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -14165,7 +14298,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "维勒斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -14174,10 +14307,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222553",
+        "id": "danielmuoz",
+        "name": "穆尼奥斯",
         "number": 4,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "水晶宫",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -14185,15 +14319,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -14211,7 +14345,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "水晶宫",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -14220,10 +14354,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222554",
+        "id": "davinsonsnchez",
+        "name": "桑切斯",
         "number": 5,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "加拉塔萨雷",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -14231,15 +14366,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -14257,7 +14392,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "加拉塔萨雷",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -14266,10 +14401,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222555",
+        "id": "johanmojica",
+        "name": "莫希卡",
         "number": 6,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "马略卡",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -14277,15 +14413,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -14303,7 +14439,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "马略卡",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -14312,10 +14448,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222556",
+        "id": "jhonlucum",
+        "name": "卢库米",
         "number": 7,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "博洛尼亚",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -14323,15 +14460,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -14349,7 +14486,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "博洛尼亚",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -14358,10 +14495,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222557",
+        "id": "santiagoarias",
+        "name": "阿里亚斯",
         "number": 8,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "独立队",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -14369,15 +14507,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -14395,7 +14533,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "独立队",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -14404,10 +14542,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222558",
+        "id": "yerrymina",
+        "name": "米纳",
         "number": 9,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "卡利亚里",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -14415,15 +14554,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -14441,7 +14580,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "卡利亚里",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -14450,10 +14589,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222559",
+        "id": "willerditta",
+        "name": "迪塔",
         "number": 10,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "蓝十字",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -14461,15 +14601,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -14487,7 +14627,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "蓝十字",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -14496,10 +14636,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642225510",
+        "id": "divermachado",
+        "name": "马查多",
         "number": 11,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "南特",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -14507,15 +14648,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -14533,7 +14674,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "南特",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -14542,10 +14683,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642225511",
+        "id": "jamesrodrguez",
+        "name": "J罗",
         "number": 12,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "明尼苏达联",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -14553,15 +14695,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -14579,7 +14721,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "明尼苏达联",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -14588,10 +14730,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642225512",
+        "id": "richardros",
+        "name": "里奥斯",
         "number": 13,
         "position": "CM",
-        "club": "未知",
+        "club": "本菲卡",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -14625,7 +14768,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "本菲卡",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -14634,10 +14777,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642225513",
+        "id": "jhonarias",
+        "name": "阿里亚斯",
         "number": 14,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "帕尔梅拉斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -14645,15 +14789,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -14671,7 +14815,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "帕尔梅拉斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -14680,10 +14824,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642225514",
+        "id": "juanfernandoquintero",
+        "name": "金特罗",
         "number": 15,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "河床",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -14691,15 +14836,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -14717,7 +14862,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "河床",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -14726,10 +14871,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642225515",
+        "id": "gustavopuerta",
+        "name": "普埃尔塔",
         "number": 16,
         "position": "CM",
-        "club": "未知",
+        "club": "桑坦德",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -14763,7 +14909,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "桑坦德",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -14772,10 +14918,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642225516",
+        "id": "juancamiloportilla",
+        "name": "波蒂利亚",
         "number": 17,
         "position": "CM",
-        "club": "未知",
+        "club": "巴拉纳竞技",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -14809,7 +14956,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "巴拉纳竞技",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -14818,10 +14965,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642225517",
+        "id": "jorgecarrascal",
+        "name": "卡拉斯卡尔",
         "number": 18,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "弗拉门戈",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -14829,15 +14977,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -14855,7 +15003,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "弗拉门戈",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -14864,10 +15012,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642225518",
+        "id": "jamintoncampaz",
+        "name": "坎帕斯",
         "number": 19,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "罗萨里奥中央",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -14875,15 +15024,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -14901,7 +15050,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "罗萨里奥中央",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -14910,10 +15059,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642225519",
+        "id": "kevincastao",
+        "name": "卡斯塔尼奥",
         "number": 20,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "河床",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -14921,15 +15071,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -14947,7 +15097,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "河床",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -14956,10 +15106,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642225520",
+        "id": "luisdaz",
+        "name": "路易斯·迪亚斯",
         "number": 21,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "拜仁慕尼黑",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -14967,15 +15118,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -14993,7 +15144,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "拜仁慕尼黑",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -15002,10 +15153,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642225521",
+        "id": "luissurez",
+        "name": "路易斯·苏亚雷斯",
         "number": 22,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "葡萄牙体育",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -15013,15 +15165,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -15039,7 +15191,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "葡萄牙体育",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -15048,10 +15200,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642225522",
+        "id": "jhoncrdoba",
+        "name": "科尔多瓦",
         "number": 23,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "克拉斯诺达尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -15059,15 +15212,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -15085,7 +15238,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "克拉斯诺达尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -15094,10 +15247,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642225523",
+        "id": "juancamilohernndez",
+        "name": "库乔",
         "number": 24,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "皇家贝蒂斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -15105,15 +15259,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -15131,7 +15285,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "皇家贝蒂斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -15140,10 +15294,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642225524",
+        "id": "carlosandrsgmez",
+        "name": "戈麦斯",
         "number": 25,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "瓦斯科达伽马",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -15151,15 +15306,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -15177,7 +15332,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "瓦斯科达伽马",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -15263,10 +15418,11 @@ export const teams: Team[] = [
     ],
     "players": [
       {
-        "id": "p1780746422363",
+        "id": "mattfreese",
+        "name": "弗里斯",
         "number": 1,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "纽约城",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -15274,15 +15430,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -15300,7 +15456,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "纽约城",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -15309,10 +15465,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223631",
+        "id": "mattturner",
+        "name": "特纳",
         "number": 2,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "新英格兰革命",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -15320,15 +15477,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -15346,7 +15503,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "新英格兰革命",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -15355,10 +15512,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223632",
+        "id": "chrisbrady",
+        "name": "布雷迪",
         "number": 3,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "芝加哥火焰",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -15366,15 +15524,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -15392,7 +15550,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "芝加哥火焰",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -15401,10 +15559,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223633",
+        "id": "sergiodest",
+        "name": "德斯特",
         "number": 4,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "PSV",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -15412,15 +15571,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -15438,7 +15597,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "PSV",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -15447,10 +15606,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223634",
+        "id": "antoneerobinson",
+        "name": "罗宾逊",
         "number": 5,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "富勒姆",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -15458,15 +15618,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -15484,7 +15644,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "富勒姆",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -15493,10 +15653,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223635",
+        "id": "timream",
+        "name": "里姆",
         "number": 6,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "夏洛特FC",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -15504,15 +15665,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -15530,7 +15691,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "夏洛特FC",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -15539,10 +15700,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223636",
+        "id": "chrisrichards",
+        "name": "理查兹",
         "number": 7,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "水晶宫",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -15550,15 +15712,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -15576,7 +15738,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "水晶宫",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -15585,10 +15747,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223637",
+        "id": "markmckenzie",
+        "name": "麦肯齐",
         "number": 8,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "图卢兹",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -15596,15 +15759,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -15622,7 +15785,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "图卢兹",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -15631,10 +15794,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223638",
+        "id": "milesrobinson",
+        "name": "罗宾逊",
         "number": 9,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "辛辛那提FC",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -15642,15 +15806,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -15668,7 +15832,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "辛辛那提FC",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -15677,10 +15841,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223639",
+        "id": "alexfreeman",
+        "name": "弗里曼",
         "number": 10,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "比利亚雷亚尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -15688,15 +15853,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -15714,7 +15879,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "比利亚雷亚尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -15723,10 +15888,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236310",
+        "id": "maxarfsten",
+        "name": "阿夫斯滕",
         "number": 11,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "哥伦布机员",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -15734,15 +15900,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -15760,7 +15926,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "哥伦布机员",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -15769,10 +15935,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236311",
+        "id": "austontrusty",
+        "name": "特拉斯蒂",
         "number": 12,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "凯尔特人",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -15780,15 +15947,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -15806,7 +15973,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "凯尔特人",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -15815,10 +15982,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236312",
+        "id": "joescally",
+        "name": "斯卡利",
         "number": 13,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "门兴",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -15826,15 +15994,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -15852,7 +16020,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "门兴",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -15861,10 +16029,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236313",
+        "id": "westonmckennie",
+        "name": "麦肯尼",
         "number": 14,
         "position": "CM",
-        "club": "未知",
+        "club": "尤文图斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -15898,7 +16067,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "尤文图斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -15907,10 +16076,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236314",
+        "id": "tyleradams",
+        "name": "亚当斯",
         "number": 15,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "伯恩茅斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -15918,15 +16088,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -15944,7 +16114,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "伯恩茅斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -15953,10 +16123,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236315",
+        "id": "brendenaaronson",
+        "name": "阿伦森",
         "number": 16,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "利兹联",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -15964,15 +16135,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -15990,7 +16161,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "利兹联",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -15999,10 +16170,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236316",
+        "id": "maliktillman",
+        "name": "蒂尔曼",
         "number": 17,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "勒沃库森",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -16010,15 +16182,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -16036,7 +16208,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "勒沃库森",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -16045,10 +16217,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236317",
+        "id": "sebastianberhalter",
+        "name": "贝哈尔特",
         "number": 18,
         "position": "CM",
-        "club": "未知",
+        "club": "温哥华白浪",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -16082,7 +16255,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "温哥华白浪",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -16091,10 +16264,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236318",
+        "id": "cristianroldan",
+        "name": "罗尔丹",
         "number": 19,
         "position": "CM",
-        "club": "未知",
+        "club": "西雅图海湾人",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -16128,7 +16302,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "西雅图海湾人",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -16137,10 +16311,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236319",
+        "id": "gioreyna",
+        "name": "雷纳",
         "number": 20,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "门兴",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -16148,15 +16323,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -16174,7 +16349,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "门兴",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -16183,10 +16358,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236320",
+        "id": "christianpulisic",
+        "name": "普利西奇",
         "number": 21,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "AC米兰",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -16194,15 +16370,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -16220,7 +16396,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "AC米兰",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -16229,10 +16405,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236321",
+        "id": "folarinbalogun",
+        "name": "巴洛贡",
         "number": 22,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "摩纳哥",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -16240,15 +16417,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -16266,7 +16443,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "摩纳哥",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -16275,10 +16452,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236322",
+        "id": "ricardopepi",
+        "name": "佩皮",
         "number": 23,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "PSV",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -16286,15 +16464,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -16312,7 +16490,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "PSV",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -16321,10 +16499,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236323",
+        "id": "timweah",
+        "name": "维阿",
         "number": 24,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "马赛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -16332,15 +16511,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -16358,7 +16537,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "马赛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -16367,10 +16546,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236324",
+        "id": "hajiwright",
+        "name": "赖特",
         "number": 25,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "考文垂",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -16378,15 +16558,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -16404,7 +16584,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "考文垂",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -16413,10 +16593,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236325",
+        "id": "alejandrozendejas",
+        "name": "岑德哈斯",
         "number": 26,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "美洲",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -16424,15 +16605,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -16450,7 +16631,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "美洲",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -16536,10 +16717,11 @@ export const teams: Team[] = [
     ],
     "players": [
       {
-        "id": "p1780746422308",
+        "id": "ralrangel",
+        "name": "兰赫尔",
         "number": 1,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "瓜达拉哈拉",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -16547,15 +16729,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -16573,7 +16755,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "瓜达拉哈拉",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -16582,10 +16764,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p1780746422309",
+        "id": "guillermoochoa",
+        "name": "奥乔亚",
         "number": 2,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "利马索尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -16593,15 +16776,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -16619,7 +16802,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "利马索尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -16628,10 +16811,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223091",
+        "id": "carlosacevedo",
+        "name": "阿塞韦多",
         "number": 3,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "桑托斯拉古纳",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -16639,15 +16823,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -16665,7 +16849,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "桑托斯拉古纳",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -16674,10 +16858,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223092",
+        "id": "jorgesnchez",
+        "name": "桑切斯",
         "number": 4,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "PAOK",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -16685,15 +16870,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -16711,7 +16896,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "PAOK",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -16720,10 +16905,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223093",
+        "id": "israelreyes",
+        "name": "雷耶斯",
         "number": 5,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "美洲",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -16731,15 +16917,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -16757,7 +16943,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "美洲",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -16766,10 +16952,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223094",
+        "id": "csarmontes",
+        "name": "蒙特斯",
         "number": 6,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "莫斯科火车头",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -16777,15 +16964,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -16803,7 +16990,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "莫斯科火车头",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -16812,10 +16999,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223095",
+        "id": "johanvsquez",
+        "name": "巴斯克斯",
         "number": 7,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "热那亚",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -16823,15 +17011,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -16849,7 +17037,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "热那亚",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -16858,10 +17046,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223096",
+        "id": "jessgallardo",
+        "name": "加利亚多",
         "number": 8,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "托卢卡",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -16869,15 +17058,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -16895,7 +17084,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "托卢卡",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -16904,10 +17093,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223097",
+        "id": "mateochvez",
+        "name": "查韦斯",
         "number": 9,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "阿尔克马尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -16915,15 +17105,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -16941,7 +17131,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿尔克马尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -16950,10 +17140,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223098",
+        "id": "edsonlvarez",
+        "name": "阿尔瓦雷斯",
         "number": 10,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "费内巴切",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -16961,15 +17152,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -16987,7 +17178,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "费内巴切",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -16996,10 +17187,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223099",
+        "id": "luisromo",
+        "name": "罗莫",
         "number": 11,
         "position": "CM",
-        "club": "未知",
+        "club": "瓜达拉哈拉",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -17033,7 +17225,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "瓜达拉哈拉",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -17042,10 +17234,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642230910",
+        "id": "eriklira",
+        "name": "利拉",
         "number": 12,
         "position": "CM",
-        "club": "未知",
+        "club": "蓝十字",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -17079,7 +17272,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "蓝十字",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -17088,10 +17281,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642230911",
+        "id": "obedvargas",
+        "name": "巴尔加斯",
         "number": 13,
         "position": "CM",
-        "club": "未知",
+        "club": "马德里竞技",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -17125,7 +17319,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "马德里竞技",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -17134,10 +17328,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642230912",
+        "id": "lvarofidalgo",
+        "name": "菲达尔戈",
         "number": 14,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "皇家贝蒂斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -17145,15 +17340,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -17171,7 +17366,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "皇家贝蒂斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -17180,10 +17375,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642230913",
+        "id": "luischvez",
+        "name": "查韦斯",
         "number": 15,
         "position": "CM",
-        "club": "未知",
+        "club": "莫斯科迪纳摩",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -17217,7 +17413,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "莫斯科迪纳摩",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -17226,10 +17422,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642230914",
+        "id": "briangutirrez",
+        "name": "古铁雷斯",
         "number": 16,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "瓜达拉哈拉",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -17237,15 +17434,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -17263,7 +17460,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "瓜达拉哈拉",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -17272,10 +17469,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642230915",
+        "id": "gilbertomora",
+        "name": "莫拉",
         "number": 17,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "蒂华纳",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -17283,15 +17481,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -17309,7 +17507,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "蒂华纳",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -17318,10 +17516,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642230916",
+        "id": "orbelnpineda",
+        "name": "皮内达",
         "number": 18,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "雅典AEK",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -17329,15 +17528,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -17355,7 +17554,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "雅典AEK",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -17364,10 +17563,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642230917",
+        "id": "csarhuerta",
+        "name": "韦尔塔",
         "number": 19,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "安德莱赫特",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -17375,15 +17575,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -17401,7 +17601,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "安德莱赫特",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -17410,10 +17610,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642230918",
+        "id": "robertoalvarado",
+        "name": "阿尔瓦拉多",
         "number": 20,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "瓜达拉哈拉",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -17421,15 +17622,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -17447,7 +17648,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "瓜达拉哈拉",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -17456,10 +17657,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642230919",
+        "id": "alexisvega",
+        "name": "维加",
         "number": 21,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "托卢卡",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -17467,15 +17669,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -17493,7 +17695,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "托卢卡",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -17502,10 +17704,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642230920",
+        "id": "julinquiones",
+        "name": "基尼奥内斯",
         "number": 22,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "卡迪西亚",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -17513,15 +17716,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -17539,7 +17742,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "卡迪西亚",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -17548,10 +17751,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642230921",
+        "id": "raljimnez",
+        "name": "劳尔·希门尼斯",
         "number": 23,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "富勒姆",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -17559,15 +17763,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -17585,7 +17789,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "富勒姆",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -17594,10 +17798,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642230922",
+        "id": "santiagogimnez",
+        "name": "圣地亚哥·希门尼斯",
         "number": 24,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "AC米兰",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -17605,15 +17810,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -17631,7 +17836,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "AC米兰",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -17640,10 +17845,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642230923",
+        "id": "armandogonzlez",
+        "name": "冈萨雷斯",
         "number": 25,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "瓜达拉哈拉",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -17651,15 +17857,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -17677,7 +17883,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "瓜达拉哈拉",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -17686,10 +17892,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642230924",
+        "id": "guillermomartnez",
+        "name": "马丁内斯",
         "number": 26,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "普马斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -17697,15 +17904,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -17723,7 +17930,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "普马斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -17809,10 +18016,11 @@ export const teams: Team[] = [
     ],
     "players": [
       {
-        "id": "p1780746422361",
+        "id": "sergiorochet",
+        "name": "罗切特",
         "number": 1,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "巴西国际",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -17820,15 +18028,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -17846,7 +18054,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "巴西国际",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -17855,10 +18063,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223611",
+        "id": "fernandomuslera",
+        "name": "穆斯莱拉",
         "number": 2,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "拉普拉塔大学生",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -17866,15 +18075,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -17892,7 +18101,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "拉普拉塔大学生",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -17901,10 +18110,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223612",
+        "id": "santiagomele",
+        "name": "梅莱",
         "number": 3,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "蒙特雷",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -17912,15 +18122,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -17938,7 +18148,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "蒙特雷",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -17947,10 +18157,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223613",
+        "id": "guillermovarela",
+        "name": "巴雷拉",
         "number": 4,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "弗拉门戈",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -17958,15 +18169,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -17984,7 +18195,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "弗拉门戈",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -17993,10 +18204,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223614",
+        "id": "ronaldarajo",
+        "name": "阿劳霍",
         "number": 5,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "巴塞罗那",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -18004,15 +18216,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -18030,7 +18242,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "巴塞罗那",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -18039,10 +18251,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223615",
+        "id": "josmaragimnez",
+        "name": "希门尼斯",
         "number": 6,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "马德里竞技",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -18050,15 +18263,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -18076,7 +18289,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "马德里竞技",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -18085,10 +18298,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223616",
+        "id": "santiagobueno",
+        "name": "布埃诺",
         "number": 7,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "狼队",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -18096,15 +18310,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -18122,7 +18336,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "狼队",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -18131,10 +18345,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223617",
+        "id": "sebastincceres",
+        "name": "卡塞雷斯",
         "number": 8,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "美洲",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -18142,15 +18357,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -18168,7 +18383,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "美洲",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -18177,10 +18392,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223618",
+        "id": "mathasolivera",
+        "name": "奥利维拉",
         "number": 9,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "那不勒斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -18188,15 +18404,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -18214,7 +18430,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "那不勒斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -18223,10 +18439,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223619",
+        "id": "joaqunpiquerez",
+        "name": "皮克雷斯",
         "number": 10,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "帕尔梅拉斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -18234,15 +18451,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -18260,7 +18477,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "帕尔梅拉斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -18269,10 +18486,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236110",
+        "id": "matasvia",
+        "name": "维尼亚",
         "number": 11,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "河床",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -18280,15 +18498,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -18306,7 +18524,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "河床",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -18315,10 +18533,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236111",
+        "id": "manuelugarte",
+        "name": "乌加特",
         "number": 12,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "曼联",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -18326,15 +18545,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -18352,7 +18571,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "曼联",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -18361,10 +18580,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236112",
+        "id": "emilianomartnez",
+        "name": "埃米利亚诺·马丁内斯",
         "number": 13,
         "position": "CM",
-        "club": "未知",
+        "club": "帕尔梅拉斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -18398,7 +18618,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "帕尔梅拉斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -18407,10 +18627,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236113",
+        "id": "rodrigobentancur",
+        "name": "本坦库尔",
         "number": 14,
         "position": "CM",
-        "club": "未知",
+        "club": "热刺",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -18444,7 +18665,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "热刺",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -18453,10 +18674,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236114",
+        "id": "federicovalverde",
+        "name": "巴尔韦德",
         "number": 15,
         "position": "CM",
-        "club": "未知",
+        "club": "皇家马德里",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -18490,7 +18712,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "皇家马德里",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -18499,10 +18721,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236115",
+        "id": "agustncanobbio",
+        "name": "卡诺比奥",
         "number": 16,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "弗鲁米嫩塞",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -18510,15 +18733,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -18536,7 +18759,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "弗鲁米嫩塞",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -18545,10 +18768,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236116",
+        "id": "juanmanuelsanabria",
+        "name": "萨纳夫里亚",
         "number": 17,
         "position": "CM",
-        "club": "未知",
+        "club": "盐湖城",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -18582,7 +18806,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "盐湖城",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -18591,10 +18815,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236117",
+        "id": "giorgiandearrascaeta",
+        "name": "德阿拉斯卡埃塔",
         "number": 18,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "弗拉门戈",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -18602,15 +18827,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -18628,7 +18853,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "弗拉门戈",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -18637,10 +18862,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236118",
+        "id": "nicolsdelacruz",
+        "name": "德拉克鲁斯",
         "number": 19,
         "position": "CM",
-        "club": "未知",
+        "club": "弗拉门戈",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -18674,7 +18900,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "弗拉门戈",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -18683,10 +18909,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236119",
+        "id": "rodrigozalazar",
+        "name": "萨拉萨尔",
         "number": 20,
         "position": "CM",
-        "club": "未知",
+        "club": "布拉加",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -18720,7 +18947,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "布拉加",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -18729,10 +18956,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236120",
+        "id": "facundopellistri",
+        "name": "佩利斯特里",
         "number": 21,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "帕纳辛奈科斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -18740,15 +18968,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -18766,7 +18994,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "帕纳辛奈科斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -18775,10 +19003,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236121",
+        "id": "maximilianoarajo",
+        "name": "马克西·阿劳霍",
         "number": 22,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "葡萄牙体育",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -18786,15 +19015,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -18812,7 +19041,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "葡萄牙体育",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -18821,10 +19050,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236122",
+        "id": "brianrodrguez",
+        "name": "布莱恩·罗德里格斯",
         "number": 23,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "美洲",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -18832,15 +19062,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -18858,7 +19088,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "美洲",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -18867,10 +19097,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236123",
+        "id": "rodrigoaguirre",
+        "name": "阿吉雷",
         "number": 24,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "老虎",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -18878,15 +19109,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -18904,7 +19135,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "老虎",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -18913,10 +19144,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236124",
+        "id": "federicovias",
+        "name": "维尼亚斯",
         "number": 25,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "皇家奥维耶多",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -18924,15 +19156,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -18950,7 +19182,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "皇家奥维耶多",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -18959,10 +19191,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236125",
+        "id": "darwinnez",
+        "name": "努涅斯",
         "number": 26,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "希拉尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -18970,15 +19203,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -18996,7 +19229,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "希拉尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -21669,10 +21902,11 @@ export const teams: Team[] = [
     ],
     "players": [
       {
-        "id": "p1780746422335",
+        "id": "douardmendy",
+        "name": "门迪",
         "number": 1,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "阿赫利",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -21680,15 +21914,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -21706,7 +21940,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿赫利",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -21715,10 +21949,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223351",
+        "id": "morydiaw",
+        "name": "迪奥",
         "number": 2,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "勒阿弗尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -21726,15 +21961,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -21752,7 +21987,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "勒阿弗尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -21761,10 +21996,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223352",
+        "id": "yehvanndiouf",
+        "name": "迪乌夫",
         "number": 3,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "尼斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -21772,15 +22008,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -21798,7 +22034,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "尼斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -21807,10 +22043,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223353",
+        "id": "krpindiatta",
+        "name": "迪亚塔",
         "number": 4,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "摩纳哥",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -21818,15 +22055,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -21844,7 +22081,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "摩纳哥",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -21853,10 +22090,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223354",
+        "id": "antoinemendy",
+        "name": "门迪",
         "number": 5,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "尼斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -21864,15 +22102,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -21890,7 +22128,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "尼斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -21899,10 +22137,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223355",
+        "id": "kalidoukoulibaly",
+        "name": "库利巴利",
         "number": 6,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "希拉尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -21910,15 +22149,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -21936,7 +22175,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "希拉尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -21945,10 +22184,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223356",
+        "id": "elhadjimalickdiouf",
+        "name": "迪乌夫",
         "number": 7,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "西汉姆",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -21956,15 +22196,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -21982,7 +22222,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "西汉姆",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -21991,10 +22231,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223357",
+        "id": "mamadousarr",
+        "name": "萨尔",
         "number": 8,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "切尔西",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -22002,15 +22243,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -22028,7 +22269,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "切尔西",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -22037,10 +22278,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223358",
+        "id": "moussaniakhat",
+        "name": "尼亚卡特",
         "number": 9,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "里昂",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -22048,15 +22290,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -22074,7 +22316,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "里昂",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -22083,10 +22325,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223359",
+        "id": "abdoulayeseck",
+        "name": "塞克",
         "number": 10,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "海法马卡比",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -22094,15 +22337,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -22120,7 +22363,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "海法马卡比",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -22129,10 +22372,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233510",
+        "id": "ismaljakobs",
+        "name": "雅各布斯",
         "number": 11,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "加拉塔萨雷",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -22140,15 +22384,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -22166,7 +22410,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "加拉塔萨雷",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -22175,10 +22419,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233511",
+        "id": "idrissaganagueye",
+        "name": "盖耶",
         "number": 12,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "埃弗顿",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -22186,15 +22431,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -22212,7 +22457,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "埃弗顿",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -22221,10 +22466,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233512",
+        "id": "papegueye",
+        "name": "盖耶",
         "number": 13,
         "position": "CM",
-        "club": "未知",
+        "club": "比利亚雷亚尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -22258,7 +22504,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "比利亚雷亚尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -22267,10 +22513,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233513",
+        "id": "laminecamara",
+        "name": "卡马拉",
         "number": 14,
         "position": "CM",
-        "club": "未知",
+        "club": "摩纳哥",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -22304,7 +22551,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "摩纳哥",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -22313,10 +22560,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233514",
+        "id": "habibdiarra",
+        "name": "迪亚拉",
         "number": 15,
         "position": "CM",
-        "club": "未知",
+        "club": "桑德兰",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -22350,7 +22598,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "桑德兰",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -22359,10 +22607,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233515",
+        "id": "pathciss",
+        "name": "西斯",
         "number": 16,
         "position": "CM",
-        "club": "未知",
+        "club": "巴列卡诺",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -22396,7 +22645,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "巴列卡诺",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -22405,10 +22654,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233516",
+        "id": "papematarsarr",
+        "name": "萨尔",
         "number": 17,
         "position": "CM",
-        "club": "未知",
+        "club": "热刺",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -22442,7 +22692,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "热刺",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -22451,10 +22701,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233517",
+        "id": "barasapokondiaye",
+        "name": "恩迪亚耶",
         "number": 18,
         "position": "CM",
-        "club": "未知",
+        "club": "拜仁慕尼黑",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -22488,7 +22739,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "拜仁慕尼黑",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -22497,10 +22748,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233518",
+        "id": "sadioman",
+        "name": "马内",
         "number": 19,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "利雅得胜利",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -22508,15 +22760,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -22534,7 +22786,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "利雅得胜利",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -22543,10 +22795,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233519",
+        "id": "ismalasarr",
+        "name": "萨尔",
         "number": 20,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "水晶宫",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -22554,15 +22807,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -22580,7 +22833,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "水晶宫",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -22589,10 +22842,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233520",
+        "id": "ilimanndiaye",
+        "name": "恩迪亚耶",
         "number": 21,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "埃弗顿",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -22600,15 +22854,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -22626,7 +22880,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "埃弗顿",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -22635,10 +22889,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233521",
+        "id": "assanediao",
+        "name": "迪奥",
         "number": 22,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "科莫",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -22646,15 +22901,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -22672,7 +22927,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "科莫",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -22681,10 +22936,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233522",
+        "id": "ibrahimmbaye",
+        "name": "姆巴耶",
         "number": 23,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "巴黎圣日耳曼",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -22692,15 +22948,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -22718,7 +22974,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "巴黎圣日耳曼",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -22727,10 +22983,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233523",
+        "id": "nicolasjackson",
+        "name": "杰克逊",
         "number": 24,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "切尔西",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -22738,15 +22995,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -22764,7 +23021,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "切尔西",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -22773,10 +23030,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233524",
+        "id": "bambadieng",
+        "name": "迪昂",
         "number": 25,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "洛里昂",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -22784,15 +23042,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -22810,7 +23068,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "洛里昂",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -22819,10 +23077,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233525",
+        "id": "chrifndiaye",
+        "name": "恩迪亚耶",
         "number": 26,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "萨姆松体育",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -22830,15 +23089,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -22856,7 +23115,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "萨姆松体育",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -22931,10 +23190,11 @@ export const teams: Team[] = [
     ],
     "players": [
       {
-        "id": "p1780746422293",
+        "id": "alirezabeiranvand",
+        "name": "贝兰万德",
         "number": 1,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "拖拉机",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -22942,15 +23202,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -22968,7 +23228,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "拖拉机",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -22977,10 +23237,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222931",
+        "id": "hosseinhosseini",
+        "name": "侯赛尼",
         "number": 2,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "塞帕罕",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -22988,15 +23249,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -23014,7 +23275,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "塞帕罕",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -23023,10 +23284,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222932",
+        "id": "payamniazmand",
+        "name": "尼亚兹曼德",
         "number": 3,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "波斯波利斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -23034,15 +23296,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -23060,7 +23322,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "波斯波利斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -23069,10 +23331,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222933",
+        "id": "ehsanhajsafi",
+        "name": "哈吉萨菲",
         "number": 4,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "塞帕罕",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -23080,15 +23343,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -23106,7 +23369,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "塞帕罕",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -23115,10 +23378,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222934",
+        "id": "miladmohammadi",
+        "name": "穆罕马迪",
         "number": 5,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "波斯波利斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -23126,15 +23390,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -23152,7 +23416,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "波斯波利斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -23161,10 +23425,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222935",
+        "id": "alinemati",
+        "name": "内马蒂",
         "number": 6,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "福拉德",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -23172,15 +23437,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -23198,7 +23463,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "福拉德",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -23207,10 +23472,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222936",
+        "id": "danialiri",
+        "name": "伊里",
         "number": 7,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "马拉万",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -23218,15 +23484,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -23244,7 +23510,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "马拉万",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -23253,10 +23519,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222937",
+        "id": "shojaekhalilzadeh",
+        "name": "哈利勒扎德",
         "number": 8,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "拖拉机",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -23264,15 +23531,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -23290,7 +23557,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "拖拉机",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -23299,10 +23566,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222938",
+        "id": "kanaanizadegan",
+        "name": "卡纳尼扎德甘",
         "number": 9,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "波斯波利斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -23310,15 +23578,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -23336,7 +23604,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "波斯波利斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -23345,10 +23613,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222939",
+        "id": "aryayousefi",
+        "name": "尤塞菲",
         "number": 10,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "塞帕罕",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -23356,15 +23625,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -23382,7 +23651,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "塞帕罕",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -23391,10 +23660,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229310",
+        "id": "salehhardani",
+        "name": "哈尔达尼",
         "number": 11,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "埃斯特格拉尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -23402,15 +23672,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -23428,7 +23698,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "埃斯特格拉尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -23437,10 +23707,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229311",
+        "id": "raminrezaeian",
+        "name": "雷扎伊安",
         "number": 12,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "福拉德",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -23448,15 +23719,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -23474,7 +23745,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "福拉德",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -23483,10 +23754,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229312",
+        "id": "alirezajahanbakhsh",
+        "name": "贾汉巴赫什",
         "number": 13,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "登德",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -23494,15 +23766,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -23520,7 +23792,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "登德",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -23529,10 +23801,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229313",
+        "id": "saeidezatolahi",
+        "name": "埃扎托拉希",
         "number": 14,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "沙巴艾哈利",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -23540,15 +23813,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -23566,7 +23839,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "沙巴艾哈利",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -23575,10 +23848,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229314",
+        "id": "rouzbehcheshmi",
+        "name": "切什米",
         "number": 15,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "埃斯特格拉尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -23586,15 +23860,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -23612,7 +23886,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "埃斯特格拉尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -23621,10 +23895,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229315",
+        "id": "amirmohammadrazaghni",
+        "name": "拉扎格尼亚",
         "number": 16,
         "position": "CM",
-        "club": "未知",
+        "club": "埃斯特格拉尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -23658,7 +23933,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "埃斯特格拉尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -23667,10 +23942,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229316",
+        "id": "mohammadmohebi",
+        "name": "莫赫比",
         "number": 17,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "罗斯托夫",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -23678,15 +23954,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -23704,7 +23980,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "罗斯托夫",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -23713,10 +23989,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229317",
+        "id": "mehdighayedi",
+        "name": "加耶迪",
         "number": 18,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "纳斯尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -23724,15 +24001,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -23750,7 +24027,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "纳斯尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -23759,10 +24036,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p1780746422294",
+        "id": "samanghoddos",
+        "name": "古多斯",
         "number": 19,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "卡尔巴联合",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -23770,15 +24048,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -23796,7 +24074,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "卡尔巴联合",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -23805,10 +24083,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222941",
+        "id": "mohammadghorbani",
+        "name": "戈尔巴尼",
         "number": 20,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "瓦赫达",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -23816,15 +24095,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -23842,7 +24121,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "瓦赫达",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -23851,10 +24130,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222942",
+        "id": "mehditorabi",
+        "name": "托拉比",
         "number": 21,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "拖拉机",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -23862,15 +24142,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -23888,7 +24168,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "拖拉机",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -23897,10 +24177,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222943",
+        "id": "amirhosseinhosseinza",
+        "name": "侯赛因扎德",
         "number": 22,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "拖拉机",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -23908,15 +24189,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -23934,7 +24215,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "拖拉机",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -23943,10 +24224,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222944",
+        "id": "alialipour",
+        "name": "阿里普尔",
         "number": 23,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "波斯波利斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -23954,15 +24236,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -23980,7 +24262,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "波斯波利斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -23989,10 +24271,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222945",
+        "id": "shahriarmoghanlou",
+        "name": "莫加努",
         "number": 24,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "卡尔巴联合",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -24000,15 +24283,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -24026,7 +24309,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "卡尔巴联合",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -24035,10 +24318,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222946",
+        "id": "denisdargahi",
+        "name": "达尔加希",
         "number": 25,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "标准列日",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -24046,15 +24330,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -24072,7 +24356,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "标准列日",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -24081,10 +24365,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222947",
+        "id": "mehditaremi",
+        "name": "塔雷米",
         "number": 26,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "奥林匹亚科斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -24092,15 +24377,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -24118,7 +24403,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "奥林匹亚科斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -28069,10 +28354,11 @@ export const teams: Team[] = [
     ],
     "players": [
       {
-        "id": "p1780746422222",
+        "id": "mathewryan",
+        "name": "莱恩",
         "number": 1,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "莱万特",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -28080,15 +28366,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -28106,7 +28392,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "莱万特",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -28115,10 +28401,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222221",
+        "id": "patrickbeach",
+        "name": "比奇",
         "number": 2,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "墨尔本城",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -28126,15 +28413,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -28152,7 +28439,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "墨尔本城",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -28161,10 +28448,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222222",
+        "id": "paulizzo",
+        "name": "伊佐",
         "number": 3,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "兰德斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -28172,15 +28460,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -28198,7 +28486,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "兰德斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -28207,10 +28495,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222223",
+        "id": "azizbehich",
+        "name": "贝希奇",
         "number": 4,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "墨尔本城",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -28218,15 +28507,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -28244,7 +28533,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "墨尔本城",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -28253,10 +28542,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222224",
+        "id": "jordonbos",
+        "name": "博斯",
         "number": 5,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "费耶诺德",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -28264,15 +28554,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -28290,7 +28580,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "费耶诺德",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -28299,10 +28589,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222225",
+        "id": "cameronburgess",
+        "name": "伯吉斯",
         "number": 6,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "斯旺西",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -28310,15 +28601,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -28336,7 +28627,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "斯旺西",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -28345,10 +28636,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222226",
+        "id": "alessandrocircati",
+        "name": "奇尔卡蒂",
         "number": 7,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "帕尔马",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -28356,15 +28648,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -28382,7 +28674,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "帕尔马",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -28391,10 +28683,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222227",
+        "id": "milosdegenek",
+        "name": "德格内克",
         "number": 8,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "APOEL",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -28402,15 +28695,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -28428,7 +28721,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "APOEL",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -28437,10 +28730,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222228",
+        "id": "jasongeria",
+        "name": "杰里亚",
         "number": 9,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "新潟天鹅",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -28448,15 +28742,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -28474,7 +28768,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "新潟天鹅",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -28483,10 +28777,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222229",
+        "id": "lucasherrington",
+        "name": "赫林顿",
         "number": 10,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "科罗拉多急流",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -28494,15 +28789,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -28520,7 +28815,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "科罗拉多急流",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -28529,10 +28824,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642222210",
+        "id": "jacobitaliano",
+        "name": "意大利亚诺",
         "number": 11,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "格拉茨AK",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -28540,15 +28836,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -28566,7 +28862,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "格拉茨AK",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -28575,10 +28871,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642222211",
+        "id": "harrysouttar",
+        "name": "苏塔尔",
         "number": 12,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "莱斯特城",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -28586,15 +28883,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -28612,7 +28909,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "莱斯特城",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -28621,10 +28918,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642222212",
+        "id": "kaitrewin",
+        "name": "特雷温",
         "number": 13,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "纽约城",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -28632,15 +28930,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -28658,7 +28956,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "纽约城",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -28667,10 +28965,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642222213",
+        "id": "camerondevlin",
+        "name": "德夫林",
         "number": 14,
         "position": "CM",
-        "club": "未知",
+        "club": "哈茨",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -28704,7 +29003,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "哈茨",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -28713,10 +29012,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642222214",
+        "id": "ajdinhrustic",
+        "name": "赫鲁斯蒂奇",
         "number": 15,
         "position": "CM",
-        "club": "未知",
+        "club": "赫拉克勒斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -28750,7 +29050,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "赫拉克勒斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -28759,10 +29059,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642222215",
+        "id": "jacksonirvine",
+        "name": "欧文",
         "number": 16,
         "position": "CM",
-        "club": "未知",
+        "club": "圣保利",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -28796,7 +29097,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "圣保利",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -28805,10 +29106,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642222216",
+        "id": "connormetcalfe",
+        "name": "梅特卡夫",
         "number": 17,
         "position": "CM",
-        "club": "未知",
+        "club": "圣保利",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -28842,7 +29144,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "圣保利",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -28851,10 +29153,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642222217",
+        "id": "paulokonengstler",
+        "name": "奥康-恩斯特勒",
         "number": 18,
         "position": "CM",
-        "club": "未知",
+        "club": "悉尼FC",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -28888,7 +29191,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "悉尼FC",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -28897,10 +29200,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642222218",
+        "id": "aidenoneill",
+        "name": "奥尼尔",
         "number": 19,
         "position": "CM",
-        "club": "未知",
+        "club": "纽约城",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -28934,7 +29238,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "纽约城",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -28943,10 +29247,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642222219",
+        "id": "nestoryirankunda",
+        "name": "伊兰昆达",
         "number": 20,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "沃特福德",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -28954,15 +29259,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -28980,7 +29285,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "沃特福德",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -28989,10 +29294,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642222220",
+        "id": "mathewleckie",
+        "name": "莱基",
         "number": 21,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "墨尔本城",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -29000,15 +29306,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -29026,7 +29332,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "墨尔本城",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -29035,10 +29341,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642222221",
+        "id": "awermabil",
+        "name": "马比尔",
         "number": 22,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "卡斯特利翁",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -29046,15 +29353,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -29072,7 +29379,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "卡斯特利翁",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -29081,10 +29388,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642222222",
+        "id": "mohamedtoure",
+        "name": "图雷",
         "number": 23,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "诺维奇",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -29092,15 +29400,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -29118,7 +29426,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "诺维奇",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -29127,10 +29435,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642222223",
+        "id": "nishanvelupillay",
+        "name": "维卢皮莱",
         "number": 24,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "墨尔本胜利",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -29138,15 +29447,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -29164,7 +29473,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "墨尔本胜利",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -29173,10 +29482,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642222224",
+        "id": "cristianvolpato",
+        "name": "沃尔帕托",
         "number": 25,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "萨索洛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -29184,15 +29494,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -29210,7 +29520,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "萨索洛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -29219,10 +29529,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642222225",
+        "id": "teteyengi",
+        "name": "延吉",
         "number": 26,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "町田泽维亚",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -29230,15 +29541,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -29256,7 +29567,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "町田泽维亚",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -29320,10 +29631,11 @@ export const teams: Team[] = [
     ],
     "players": [
       {
-        "id": "p1780746422246",
+        "id": "daynestclair",
+        "name": "圣克莱尔",
         "number": 1,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "迈阿密国际",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -29331,15 +29643,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -29357,7 +29669,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "迈阿密国际",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -29366,10 +29678,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222461",
+        "id": "maximecrpeau",
+        "name": "克雷波",
         "number": 2,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "奥兰多城",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -29377,15 +29690,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -29403,7 +29716,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "奥兰多城",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -29412,10 +29725,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222462",
+        "id": "owengoodman",
+        "name": "古德曼",
         "number": 3,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "巴恩斯利",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -29423,15 +29737,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -29449,7 +29763,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "巴恩斯利",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -29458,10 +29772,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222463",
+        "id": "alphonsodavies",
+        "name": "戴维斯",
         "number": 4,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "拜仁慕尼黑",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -29469,15 +29784,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -29495,7 +29810,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "拜仁慕尼黑",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -29504,10 +29819,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222464",
+        "id": "alistairjohnston",
+        "name": "约翰斯顿",
         "number": 5,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "凯尔特人",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -29515,15 +29831,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -29541,7 +29857,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "凯尔特人",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -29550,10 +29866,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222465",
+        "id": "richielaryea",
+        "name": "拉里亚",
         "number": 6,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "多伦多FC",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -29561,15 +29878,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -29587,7 +29904,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "多伦多FC",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -29596,10 +29913,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222466",
+        "id": "nikosigur",
+        "name": "西古尔",
         "number": 7,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "哈伊杜克",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -29607,15 +29925,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -29633,7 +29951,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "哈伊杜克",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -29642,10 +29960,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222467",
+        "id": "mosebombito",
+        "name": "邦比托",
         "number": 8,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "尼斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -29653,15 +29972,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -29679,7 +29998,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "尼斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -29688,10 +30007,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222468",
+        "id": "derekcornelius",
+        "name": "科内利厄斯",
         "number": 9,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "流浪者",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -29699,15 +30019,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -29725,7 +30045,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "流浪者",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -29734,10 +30054,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222469",
+        "id": "lucdefougerolles",
+        "name": "德富热罗勒",
         "number": 10,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "登德",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -29745,15 +30066,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -29771,7 +30092,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "登德",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -29780,10 +30101,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642224610",
+        "id": "alfiejones",
+        "name": "琼斯",
         "number": 11,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "米德尔斯堡",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -29791,15 +30113,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -29817,7 +30139,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "米德尔斯堡",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -29826,10 +30148,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642224611",
+        "id": "joelwaterman",
+        "name": "沃特曼",
         "number": 12,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "芝加哥火焰",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -29837,15 +30160,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -29863,7 +30186,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "芝加哥火焰",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -29872,10 +30195,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642224612",
+        "id": "stepheneustquio",
+        "name": "尤斯塔基奥",
         "number": 13,
         "position": "CM",
-        "club": "未知",
+        "club": "洛杉矶FC",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -29909,7 +30233,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "洛杉矶FC",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -29918,10 +30242,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642224613",
+        "id": "ismalkon",
+        "name": "科内",
         "number": 14,
         "position": "CM",
-        "club": "未知",
+        "club": "萨索洛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -29955,7 +30280,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "萨索洛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -29964,10 +30289,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642224614",
+        "id": "jonathanosorio",
+        "name": "奥索里奥",
         "number": 15,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "多伦多FC",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -29975,15 +30301,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -30001,7 +30327,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "多伦多FC",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -30010,10 +30336,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642224615",
+        "id": "nathansaliba",
+        "name": "萨利巴",
         "number": 16,
         "position": "CM",
-        "club": "未知",
+        "club": "安德莱赫特",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -30047,7 +30374,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "安德莱赫特",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -30056,10 +30383,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642224616",
+        "id": "mathieuchoinire",
+        "name": "舒瓦尼耶",
         "number": 17,
         "position": "CM",
-        "club": "未知",
+        "club": "洛杉矶FC",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -30093,7 +30421,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "洛杉矶FC",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -30102,10 +30430,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642224617",
+        "id": "tajonbuchanan",
+        "name": "布坎南",
         "number": 18,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "比利亚雷亚尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -30113,15 +30442,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -30139,7 +30468,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "比利亚雷亚尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -30148,10 +30477,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642224618",
+        "id": "aliahmed",
+        "name": "艾哈迈德",
         "number": 19,
         "position": "CM",
-        "club": "未知",
+        "club": "诺维奇",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -30185,7 +30515,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "诺维奇",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -30194,10 +30524,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642224619",
+        "id": "jacobshaffelburg",
+        "name": "沙夫尔堡",
         "number": 20,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "洛杉矶FC",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -30205,15 +30536,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -30231,7 +30562,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "洛杉矶FC",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -30240,10 +30571,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642224620",
+        "id": "liammillar",
+        "name": "米勒",
         "number": 21,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "赫尔城",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -30251,15 +30583,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -30277,7 +30609,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "赫尔城",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -30286,10 +30618,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642224621",
+        "id": "marceloflores",
+        "name": "弗洛雷斯",
         "number": 22,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "老虎",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -30297,15 +30630,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -30323,7 +30656,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "老虎",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -30332,10 +30665,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642224622",
+        "id": "jonathandavid",
+        "name": "乔纳森·戴维",
         "number": 23,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "尤文图斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -30343,15 +30677,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -30369,7 +30703,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "尤文图斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -30378,10 +30712,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642224623",
+        "id": "cylelarin",
+        "name": "拉林",
         "number": 24,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "南安普顿",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -30389,15 +30724,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -30415,7 +30750,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "南安普顿",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -30424,10 +30759,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642224624",
+        "id": "tanioluwaseyi",
+        "name": "奥卢瓦塞伊",
         "number": 25,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "比利亚雷亚尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -30435,15 +30771,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -30461,7 +30797,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "比利亚雷亚尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -30470,10 +30806,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642224625",
+        "id": "promisedavid",
+        "name": "许诺·戴维",
         "number": 26,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "圣吉罗斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -30481,15 +30818,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -30507,7 +30844,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "圣吉罗斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -31838,10 +32175,11 @@ export const teams: Team[] = [
     ],
     "players": [
       {
-        "id": "p1780746422321",
+        "id": "luismeja",
+        "name": "梅希亚",
         "number": 1,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "民族",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -31849,15 +32187,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -31875,7 +32213,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "民族",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -31884,10 +32222,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223211",
+        "id": "orlandomosquera",
+        "name": "莫斯克拉",
         "number": 2,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "费哈",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -31895,15 +32234,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -31921,7 +32260,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "费哈",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -31930,10 +32269,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223212",
+        "id": "csarsamudio",
+        "name": "萨穆迪奥",
         "number": 3,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "马拉松",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -31941,15 +32281,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -31967,7 +32307,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "马拉松",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -31976,10 +32316,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223213",
+        "id": "amirmurillo",
+        "name": "穆里略",
         "number": 4,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "贝西克塔斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -31987,15 +32328,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -32013,7 +32354,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "贝西克塔斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -32022,10 +32363,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223214",
+        "id": "joscrdoba",
+        "name": "科尔多瓦",
         "number": 5,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "诺维奇",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -32033,15 +32375,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -32059,7 +32401,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "诺维奇",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -32068,10 +32410,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223215",
+        "id": "csarblackman",
+        "name": "布莱克曼",
         "number": 6,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "布拉迪斯拉发",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -32079,15 +32422,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -32105,7 +32448,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "布拉迪斯拉发",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -32114,10 +32457,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223216",
+        "id": "andrsandrade",
+        "name": "安德拉德",
         "number": 7,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "LASK",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -32125,15 +32469,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -32151,7 +32495,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "LASK",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -32160,10 +32504,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223217",
+        "id": "ricdavis",
+        "name": "戴维斯",
         "number": 8,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "阿马多尔广场",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -32171,15 +32516,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -32197,7 +32542,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿马多尔广场",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -32206,10 +32551,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223218",
+        "id": "roderickmiller",
+        "name": "米勒",
         "number": 9,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "图兰",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -32217,15 +32563,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -32243,7 +32589,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "图兰",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -32252,10 +32598,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223219",
+        "id": "jiovanyramos",
+        "name": "拉莫斯",
         "number": 10,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "卡贝略港",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -32263,15 +32610,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -32289,7 +32636,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "卡贝略港",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -32298,10 +32645,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232110",
+        "id": "jorgegutirrez",
+        "name": "古铁雷斯",
         "number": 11,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "拉瓜伊拉",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -32309,15 +32657,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -32335,7 +32683,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "拉瓜伊拉",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -32344,10 +32692,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232111",
+        "id": "fidelescobar",
+        "name": "埃斯科瓦尔",
         "number": 12,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "萨普里萨",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -32355,15 +32704,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -32381,7 +32730,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "萨普里萨",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -32390,10 +32739,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232112",
+        "id": "edgardofaria",
+        "name": "法里尼亚",
         "number": 13,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "下诺夫哥罗德",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -32401,15 +32751,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -32427,7 +32777,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "下诺夫哥罗德",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -32436,10 +32786,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232113",
+        "id": "anbalgodoy",
+        "name": "戈多伊",
         "number": 14,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "圣地亚哥FC",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -32447,15 +32798,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -32473,7 +32824,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "圣地亚哥FC",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -32482,10 +32833,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232114",
+        "id": "adalbertocarrasquill",
+        "name": "卡拉斯奎拉",
         "number": 15,
         "position": "CM",
-        "club": "未知",
+        "club": "美洲狮",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -32519,7 +32871,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "美洲狮",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -32528,10 +32880,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232115",
+        "id": "cristianmartnez",
+        "name": "马丁内斯",
         "number": 16,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "谢莫纳",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -32539,15 +32892,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -32565,7 +32918,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "谢莫纳",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -32574,10 +32927,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232116",
+        "id": "carlosharvey",
+        "name": "哈维",
         "number": 17,
         "position": "CM",
-        "club": "未知",
+        "club": "明尼苏达联",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -32611,7 +32965,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "明尼苏达联",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -32620,10 +32974,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232117",
+        "id": "josluisrodrguez",
+        "name": "罗德里格斯",
         "number": 18,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "华雷斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -32631,15 +32986,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -32657,7 +33012,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "华雷斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -32666,10 +33021,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232118",
+        "id": "csaryanis",
+        "name": "亚尼斯",
         "number": 19,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "科布雷萨尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -32677,15 +33033,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -32703,7 +33059,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "科布雷萨尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -32712,10 +33068,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232119",
+        "id": "yoelbrcenas",
+        "name": "巴塞纳斯",
         "number": 20,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "无球会",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -32723,15 +33080,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -32749,7 +33106,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "无球会",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -32758,10 +33115,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232120",
+        "id": "albertoquintero",
+        "name": "金特罗",
         "number": 21,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "阿马多尔广场",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -32769,15 +33127,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -32795,7 +33153,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿马多尔广场",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -32804,10 +33162,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232121",
+        "id": "azaraslondoo",
+        "name": "隆多尼奥",
         "number": 22,
         "position": "CM",
-        "club": "未知",
+        "club": "天主教大学",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -32841,7 +33200,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "天主教大学",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -32850,10 +33209,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232122",
+        "id": "ismaeldaz",
+        "name": "迪亚斯",
         "number": 23,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "莱昂",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -32861,15 +33221,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -32887,7 +33247,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "莱昂",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -32896,10 +33256,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232123",
+        "id": "josfajardo",
+        "name": "法哈多",
         "number": 24,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "天主教大学",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -32907,15 +33268,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -32933,7 +33294,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "天主教大学",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -32942,10 +33303,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232124",
+        "id": "tomsrodrguez",
+        "name": "罗德里格斯",
         "number": 25,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "萨普里萨",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -32953,15 +33315,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -32979,7 +33341,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "萨普里萨",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -32988,10 +33350,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232125",
+        "id": "ceciliowaterman",
+        "name": "沃特曼",
         "number": 26,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "康塞普西翁",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -32999,15 +33362,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -33025,7 +33388,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "康塞普西翁",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -33090,10 +33453,11 @@ export const teams: Team[] = [
     ],
     "players": [
       {
-        "id": "p1780746422276",
+        "id": "mohamedelshenawy",
+        "name": "谢纳维",
         "number": 1,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "阿赫利",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -33101,15 +33465,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -33127,7 +33491,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿赫利",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -33136,10 +33500,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222761",
+        "id": "mostafashobeir",
+        "name": "舒贝尔",
         "number": 2,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "阿赫利",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -33147,15 +33512,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -33173,7 +33538,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿赫利",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -33182,10 +33547,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222762",
+        "id": "elmahdysoliman",
+        "name": "苏莱曼",
         "number": 3,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "扎马雷克",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -33193,15 +33559,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -33219,7 +33585,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "扎马雷克",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -33228,10 +33594,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222763",
+        "id": "mohamedalaa",
+        "name": "阿拉",
         "number": 4,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "古纳",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -33239,15 +33606,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -33265,7 +33632,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "古纳",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -33274,10 +33641,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222764",
+        "id": "mohamedhany",
+        "name": "哈尼",
         "number": 5,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "阿赫利",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -33285,15 +33653,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -33311,7 +33679,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿赫利",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -33320,10 +33688,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222765",
+        "id": "tarekalaa",
+        "name": "塔里克·阿拉",
         "number": 6,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "ZED",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -33331,15 +33700,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -33357,7 +33726,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "ZED",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -33366,10 +33735,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222766",
+        "id": "hamdyfathy",
+        "name": "法蒂",
         "number": 7,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "瓦克拉",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -33377,15 +33747,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -33403,7 +33773,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "瓦克拉",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -33412,10 +33782,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222767",
+        "id": "ramyrabia",
+        "name": "拉比亚",
         "number": 8,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "艾因",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -33423,15 +33794,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -33449,7 +33820,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "艾因",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -33458,10 +33829,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222768",
+        "id": "yasseribrahim",
+        "name": "亚西尔",
         "number": 9,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "阿赫利",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -33469,15 +33841,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -33495,7 +33867,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿赫利",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -33504,10 +33876,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222769",
+        "id": "hossamabdelmaguid",
+        "name": "阿卜杜勒马吉德",
         "number": 10,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "扎马雷克",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -33515,15 +33888,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -33541,7 +33914,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "扎马雷克",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -33550,10 +33923,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642227610",
+        "id": "mohamedabdelmonem",
+        "name": "阿卜杜勒蒙内姆",
         "number": 11,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "尼斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -33561,15 +33935,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -33587,7 +33961,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "尼斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -33596,10 +33970,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642227611",
+        "id": "ahmedfatouh",
+        "name": "法图赫",
         "number": 12,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "扎马雷克",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -33607,15 +33982,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -33633,7 +34008,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "扎马雷克",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -33642,10 +34017,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642227612",
+        "id": "karimhafez",
+        "name": "哈菲兹",
         "number": 13,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "金字塔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -33653,15 +34029,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -33679,7 +34055,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "金字塔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -33688,10 +34064,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642227613",
+        "id": "marwanattia",
+        "name": "阿提亚",
         "number": 14,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "阿赫利",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -33699,15 +34076,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -33725,7 +34102,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿赫利",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -33734,10 +34111,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642227614",
+        "id": "mohannadlasheen",
+        "name": "拉欣",
         "number": 15,
         "position": "CM",
-        "club": "未知",
+        "club": "金字塔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -33771,7 +34149,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "金字塔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -33780,10 +34158,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642227615",
+        "id": "nabilemaddonga",
+        "name": "东加",
         "number": 16,
         "position": "CM",
-        "club": "未知",
+        "club": "纳吉玛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -33817,7 +34196,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "纳吉玛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -33826,10 +34205,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642227616",
+        "id": "mahmoudsaber",
+        "name": "萨贝尔",
         "number": 17,
         "position": "CM",
-        "club": "未知",
+        "club": "ZED",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -33863,7 +34243,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "ZED",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -33872,10 +34252,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642227617",
+        "id": "ahmedsayedzizo",
+        "name": "济祖",
         "number": 18,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "阿赫利",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -33883,15 +34264,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -33909,7 +34290,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿赫利",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -33918,10 +34299,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642227618",
+        "id": "emamashour",
+        "name": "阿舒尔",
         "number": 19,
         "position": "CM",
-        "club": "未知",
+        "club": "阿赫利",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -33955,7 +34337,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿赫利",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -33964,10 +34346,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p1780746422277",
+        "id": "mostafaziko",
+        "name": "济科",
         "number": 20,
         "position": "CM",
-        "club": "未知",
+        "club": "金字塔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -34001,7 +34384,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "金字塔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -34010,10 +34393,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222771",
+        "id": "mahmoudtrezeguet",
+        "name": "特雷泽盖",
         "number": 21,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "阿赫利",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -34021,15 +34405,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -34047,7 +34431,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿赫利",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -34056,10 +34440,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222772",
+        "id": "ibrahimadel",
+        "name": "阿德尔",
         "number": 22,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "北西兰",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -34067,15 +34452,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -34093,7 +34478,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "北西兰",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -34102,10 +34487,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222773",
+        "id": "haithamhassan",
+        "name": "哈桑",
         "number": 23,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "皇家奥维耶多",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -34113,15 +34499,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -34139,7 +34525,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "皇家奥维耶多",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -34148,10 +34534,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222774",
+        "id": "mohamedsalah",
+        "name": "萨拉赫",
         "number": 24,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "利物浦",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -34159,15 +34546,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -34185,7 +34572,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "利物浦",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -34194,10 +34581,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222775",
+        "id": "omarmarmoush",
+        "name": "马尔穆什",
         "number": 25,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "曼城",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -34205,15 +34593,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -34231,7 +34619,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "曼城",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -34240,10 +34628,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222776",
+        "id": "hamzaabdelkarim",
+        "name": "阿卜杜勒卡里姆",
         "number": 26,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "巴萨B队",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -34251,15 +34640,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -34277,7 +34666,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "巴萨B队",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -34353,10 +34742,11 @@ export const teams: Team[] = [
     ],
     "players": [
       {
-        "id": "p1780746422323",
+        "id": "gatitofernndez",
+        "name": "费尔南德斯",
         "number": 1,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "塞罗波特纽",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -34364,15 +34754,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -34390,7 +34780,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "塞罗波特纽",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -34399,10 +34789,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223231",
+        "id": "orlandogill",
+        "name": "吉尔",
         "number": 2,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "圣洛伦索",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -34410,15 +34801,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -34436,7 +34827,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "圣洛伦索",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -34445,10 +34836,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223232",
+        "id": "gastnolveira",
+        "name": "奥尔维拉",
         "number": 3,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "奥林匹亚",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -34456,15 +34848,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -34482,7 +34874,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "奥林匹亚",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -34491,10 +34883,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223233",
+        "id": "juancceres",
+        "name": "卡塞雷斯",
         "number": 4,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "莫斯科迪纳摩",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -34502,15 +34895,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -34528,7 +34921,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "莫斯科迪纳摩",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -34537,10 +34930,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223234",
+        "id": "gustavogmez",
+        "name": "戈麦斯",
         "number": 5,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "帕尔梅拉斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -34548,15 +34942,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -34574,7 +34968,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "帕尔梅拉斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -34583,10 +34977,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223235",
+        "id": "gustavovelzquez",
+        "name": "贝拉斯克斯",
         "number": 6,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "塞罗波特纽",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -34594,15 +34989,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -34620,7 +35015,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "塞罗波特纽",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -34629,10 +35024,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223236",
+        "id": "fabinbalbuena",
+        "name": "巴尔布埃纳",
         "number": 7,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "格雷米奥",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -34640,15 +35036,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -34666,7 +35062,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "格雷米奥",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -34675,10 +35071,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223237",
+        "id": "jnioralonso",
+        "name": "阿隆索",
         "number": 8,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "米内罗竞技",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -34686,15 +35083,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -34712,7 +35109,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "米内罗竞技",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -34721,10 +35118,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223238",
+        "id": "omaralderete",
+        "name": "阿尔德雷特",
         "number": 9,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "桑德兰",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -34732,15 +35130,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -34758,7 +35156,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "桑德兰",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -34767,10 +35165,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223239",
+        "id": "joscanale",
+        "name": "卡纳莱",
         "number": 10,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "拉努斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -34778,15 +35177,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -34804,7 +35203,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "拉努斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -34813,10 +35212,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232310",
+        "id": "alexandromaidana",
+        "name": "迈达纳",
         "number": 11,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "塔列雷斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -34824,15 +35224,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -34850,7 +35250,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "塔列雷斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -34859,10 +35259,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232311",
+        "id": "daminbobadilla",
+        "name": "博巴迪利亚",
         "number": 12,
         "position": "CM",
-        "club": "未知",
+        "club": "圣保罗",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -34896,7 +35297,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "圣保罗",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -34905,10 +35306,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232312",
+        "id": "andrscubas",
+        "name": "库巴斯",
         "number": 13,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "温哥华白浪",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -34916,15 +35318,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -34942,7 +35344,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "温哥华白浪",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -34951,10 +35353,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232313",
+        "id": "diegogmez",
+        "name": "迭戈·戈麦斯",
         "number": 14,
         "position": "CM",
-        "club": "未知",
+        "club": "布莱顿",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -34988,7 +35391,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "布莱顿",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -34997,10 +35400,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232314",
+        "id": "matasgalarza",
+        "name": "加拉尔萨",
         "number": 15,
         "position": "CM",
-        "club": "未知",
+        "club": "亚特兰大联",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -35034,7 +35438,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "亚特兰大联",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -35043,10 +35447,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232315",
+        "id": "alejandroromerogamar",
+        "name": "卡库",
         "number": 16,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "艾因",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -35054,15 +35459,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -35080,7 +35485,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "艾因",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -35089,10 +35494,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232316",
+        "id": "braianojeda",
+        "name": "奥赫达",
         "number": 17,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "奥兰多城",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -35100,15 +35506,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -35126,7 +35532,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "奥兰多城",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -35135,10 +35541,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232317",
+        "id": "maurciomagalhes",
+        "name": "马加良斯",
         "number": 18,
         "position": "CM",
-        "club": "未知",
+        "club": "帕尔梅拉斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -35172,7 +35579,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "帕尔梅拉斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -35181,10 +35588,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232318",
+        "id": "alexarce",
+        "name": "阿尔塞",
         "number": 19,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "独立里瓦达维亚",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -35192,15 +35600,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -35218,7 +35626,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "独立里瓦达维亚",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -35227,10 +35635,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232319",
+        "id": "miguelalmirn",
+        "name": "阿尔米隆",
         "number": 20,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "亚特兰大联",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -35238,15 +35647,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -35264,7 +35673,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "亚特兰大联",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -35273,10 +35682,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232320",
+        "id": "isidropitta",
+        "name": "皮塔",
         "number": 21,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "布拉甘蒂诺",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -35284,15 +35694,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -35310,7 +35720,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "布拉甘蒂诺",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -35319,10 +35729,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232321",
+        "id": "ramnsosa",
+        "name": "拉蒙·索萨",
         "number": 22,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "帕尔梅拉斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -35330,15 +35741,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -35356,7 +35767,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "帕尔梅拉斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -35365,10 +35776,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232322",
+        "id": "gabrielvalos",
+        "name": "阿瓦洛斯",
         "number": 23,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "独立队",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -35376,15 +35788,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -35402,7 +35814,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "独立队",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -35411,10 +35823,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232323",
+        "id": "antoniosanabria",
+        "name": "萨纳夫里亚",
         "number": 24,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "克雷莫纳",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -35422,15 +35835,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -35448,7 +35861,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "克雷莫纳",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -35457,10 +35870,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232324",
+        "id": "julioenciso",
+        "name": "恩西索",
         "number": 25,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "斯特拉斯堡",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -35468,15 +35882,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -35494,7 +35908,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "斯特拉斯堡",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -35503,10 +35917,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232325",
+        "id": "gustavocaballero",
+        "name": "卡瓦列罗",
         "number": 26,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "朴茨茅斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -35514,15 +35929,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -35540,7 +35955,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "朴茨茅斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -39458,10 +39873,11 @@ export const teams: Team[] = [
     ],
     "players": [
       {
-        "id": "p1780746422327",
+        "id": "meshaalbarsham",
+        "name": "巴沙姆",
         "number": 1,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "萨德",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -39469,15 +39885,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -39495,7 +39911,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "萨德",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -39504,10 +39920,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223271",
+        "id": "salahzakaria",
+        "name": "萨卡里亚",
         "number": 2,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "杜海勒",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -39515,15 +39932,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -39541,7 +39958,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "杜海勒",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -39550,10 +39967,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223272",
+        "id": "mahmoudabunada",
+        "name": "阿布纳达",
         "number": 3,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "赖扬",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -39561,15 +39979,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -39587,7 +40005,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "赖扬",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -39596,10 +40014,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223273",
+        "id": "boualemkhoukhi",
+        "name": "库希",
         "number": 4,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "萨德",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -39607,15 +40026,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -39633,7 +40052,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "萨德",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -39642,10 +40061,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223274",
+        "id": "pedromiguel",
+        "name": "佩德罗·米格尔",
         "number": 5,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "萨德",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -39653,15 +40073,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -39679,7 +40099,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "萨德",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -39688,10 +40108,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223275",
+        "id": "lucasmendes",
+        "name": "门德斯",
         "number": 6,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "瓦克拉",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -39699,15 +40120,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -39725,7 +40146,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "瓦克拉",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -39734,10 +40155,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223276",
+        "id": "sultanalbrake",
+        "name": "布拉克",
         "number": 7,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "杜海勒",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -39745,15 +40167,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -39771,7 +40193,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "杜海勒",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -39780,10 +40202,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223277",
+        "id": "homamahmed",
+        "name": "霍曼·艾哈迈德",
         "number": 8,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "文化莱昂",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -39791,15 +40214,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -39817,7 +40240,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "文化莱昂",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -39826,10 +40249,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223278",
+        "id": "issalaye",
+        "name": "拉耶",
         "number": 9,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "阿拉比",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -39837,15 +40261,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -39863,7 +40287,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿拉比",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -39872,10 +40296,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223279",
+        "id": "alhashmialhussain",
+        "name": "侯赛因",
         "number": 10,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "阿拉比",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -39883,15 +40308,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -39909,7 +40334,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿拉比",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -39918,10 +40343,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232710",
+        "id": "ayoubaloui",
+        "name": "奥维",
         "number": 11,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "加拉法",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -39929,15 +40355,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -39955,7 +40381,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "加拉法",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -39964,10 +40390,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232711",
+        "id": "karimboudiaf",
+        "name": "布迪亚夫",
         "number": 12,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "杜海勒",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -39975,15 +40402,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -40001,7 +40428,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "杜海勒",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -40010,10 +40437,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232712",
+        "id": "abdulazizhatem",
+        "name": "哈特姆",
         "number": 13,
         "position": "CM",
-        "club": "未知",
+        "club": "赖扬",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -40047,7 +40475,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "赖扬",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -40056,10 +40484,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232713",
+        "id": "ahmedfathy",
+        "name": "法蒂",
         "number": 14,
         "position": "CM",
-        "club": "未知",
+        "club": "阿拉比",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -40093,7 +40522,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿拉比",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -40102,10 +40531,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232714",
+        "id": "assimmadibo",
+        "name": "马迪博",
         "number": 15,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "瓦克拉",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -40113,15 +40543,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -40139,7 +40569,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "瓦克拉",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -40148,10 +40578,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642232715",
+        "id": "jassemgaber",
+        "name": "贾贝尔",
         "number": 16,
         "position": "CM",
-        "club": "未知",
+        "club": "赖扬",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -40185,7 +40616,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "赖扬",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -40194,10 +40625,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p1780746422328",
+        "id": "mohamedalmannai",
+        "name": "曼奈",
         "number": 17,
         "position": "CM",
-        "club": "未知",
+        "club": "沙马尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -40231,7 +40663,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "沙马尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -40240,10 +40672,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223281",
+        "id": "hassanalhaydos",
+        "name": "海多斯",
         "number": 18,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "萨德",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -40251,15 +40684,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -40277,7 +40710,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "萨德",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -40286,10 +40719,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223282",
+        "id": "akramafif",
+        "name": "阿菲夫",
         "number": 19,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "萨德",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -40297,15 +40731,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -40323,7 +40757,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "萨德",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -40332,10 +40766,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223283",
+        "id": "almoezali",
+        "name": "阿里",
         "number": 20,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "杜海勒",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -40343,15 +40778,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -40369,7 +40804,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "杜海勒",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -40378,10 +40813,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223284",
+        "id": "mohammedmuntari",
+        "name": "蒙塔里",
         "number": 21,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "加拉法",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -40389,15 +40825,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -40415,7 +40851,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "加拉法",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -40424,10 +40860,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223285",
+        "id": "ahmedalaaeldin",
+        "name": "阿拉丁",
         "number": 22,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "赖扬",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -40435,15 +40872,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -40461,7 +40898,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "赖扬",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -40470,10 +40907,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223286",
+        "id": "yusufabdurisag",
+        "name": "阿卜杜里萨格",
         "number": 23,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "瓦克拉",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -40481,15 +40919,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -40507,7 +40945,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "瓦克拉",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -40516,10 +40954,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223287",
+        "id": "edmilsonjunior",
+        "name": "埃德米尔森",
         "number": 24,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "杜海勒",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -40527,15 +40966,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -40553,7 +40992,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "杜海勒",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -40562,10 +41001,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223288",
+        "id": "ahmedalganehi",
+        "name": "加尼希",
         "number": 25,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "加拉法",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -40573,15 +41013,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -40599,7 +41039,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "加拉法",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -40608,10 +41048,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223289",
+        "id": "tahsinjamshid",
+        "name": "贾姆希德",
         "number": 26,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "杜海勒",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -40619,15 +41060,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -40645,7 +41086,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "杜海勒",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -40701,10 +41142,11 @@ export const teams: Team[] = [
     ],
     "players": [
       {
-        "id": "p1780746422297",
+        "id": "fahadtalib",
+        "name": "塔利布",
         "number": 1,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "塔拉巴",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -40712,15 +41154,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -40738,7 +41180,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "塔拉巴",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -40747,10 +41189,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222971",
+        "id": "jalalhassan",
+        "name": "哈桑",
         "number": 2,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "扎瓦拉",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -40758,15 +41201,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -40784,7 +41227,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "扎瓦拉",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -40793,10 +41236,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222972",
+        "id": "ahmedbasil",
+        "name": "巴西尔",
         "number": 3,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "警察",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -40804,15 +41248,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -40830,7 +41274,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "警察",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -40839,10 +41283,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222973",
+        "id": "husseinali",
+        "name": "侯赛因·阿里",
         "number": 4,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "波贡",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -40850,15 +41295,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -40876,7 +41321,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "波贡",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -40885,10 +41330,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222974",
+        "id": "manafyounis",
+        "name": "尤尼斯",
         "number": 5,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "警察",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -40896,15 +41342,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -40922,7 +41368,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "警察",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -40931,10 +41377,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222975",
+        "id": "zaidtahseen",
+        "name": "塔辛",
         "number": 6,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "帕赫塔科尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -40942,15 +41389,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -40968,7 +41415,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "帕赫塔科尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -40977,10 +41424,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222976",
+        "id": "rebinsulaka",
+        "name": "苏拉卡",
         "number": 7,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "泰港",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -40988,15 +41436,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -41014,7 +41462,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "泰港",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -41023,10 +41471,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222977",
+        "id": "akamhashem",
+        "name": "哈希姆",
         "number": 8,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "扎瓦拉",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -41034,15 +41483,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -41060,7 +41509,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "扎瓦拉",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -41069,10 +41518,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222978",
+        "id": "merchasdoski",
+        "name": "多斯基",
         "number": 9,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "比尔森",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -41080,15 +41530,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -41106,7 +41556,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "比尔森",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -41115,10 +41565,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222979",
+        "id": "ahmedyahya",
+        "name": "叶海亚",
         "number": 10,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "警察",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -41126,15 +41577,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -41152,7 +41603,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "警察",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -41161,10 +41612,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229710",
+        "id": "zaidismail",
+        "name": "伊斯梅尔",
         "number": 11,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "塔拉巴",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -41172,15 +41624,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -41198,7 +41650,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "塔拉巴",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -41207,10 +41659,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229711",
+        "id": "fransputros",
+        "name": "普特罗斯",
         "number": 12,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "Persib",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -41218,15 +41671,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -41244,7 +41697,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "Persib",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -41253,10 +41706,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229712",
+        "id": "mustafasaadoon",
+        "name": "萨敦",
         "number": 13,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "警察",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -41264,15 +41718,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -41290,7 +41744,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "警察",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -41299,10 +41753,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229713",
+        "id": "amiralammari",
+        "name": "阿马里",
         "number": 14,
         "position": "CM",
-        "club": "未知",
+        "club": "克拉科维亚",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -41336,7 +41791,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "克拉科维亚",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -41345,10 +41800,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229714",
+        "id": "kevinyakob",
+        "name": "雅各布",
         "number": 15,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "AGF",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -41356,15 +41812,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -41382,7 +41838,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "AGF",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -41391,10 +41847,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229715",
+        "id": "zidaneiqbal",
+        "name": "伊克巴尔",
         "number": 16,
         "position": "CM",
-        "club": "未知",
+        "club": "乌德勒支",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -41428,7 +41885,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "乌德勒支",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -41437,10 +41894,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229716",
+        "id": "aimarsher",
+        "name": "谢尔",
         "number": 17,
         "position": "CM",
-        "club": "未知",
+        "club": "萨尔普斯堡",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -41474,7 +41932,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "萨尔普斯堡",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -41483,10 +41941,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229717",
+        "id": "ibrahimbayesh",
+        "name": "巴耶什",
         "number": 18,
         "position": "CM",
-        "club": "未知",
+        "club": "达夫拉",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -41520,7 +41979,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "达夫拉",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -41529,10 +41988,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229718",
+        "id": "ahmedqasim",
+        "name": "卡西姆",
         "number": 19,
         "position": "CM",
-        "club": "未知",
+        "club": "纳什维尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -41566,7 +42026,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "纳什维尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -41575,10 +42035,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229719",
+        "id": "youssefamyn",
+        "name": "阿明",
         "number": 20,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "拉纳卡",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -41586,15 +42047,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -41612,7 +42073,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "拉纳卡",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -41621,10 +42082,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229720",
+        "id": "markofarji",
+        "name": "法尔吉",
         "number": 21,
         "position": "CM",
-        "club": "未知",
+        "club": "威尼斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -41658,7 +42120,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "威尼斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -41667,10 +42129,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229721",
+        "id": "alijassim",
+        "name": "贾西姆",
         "number": 22,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "纳吉玛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -41678,15 +42141,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -41704,7 +42167,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "纳吉玛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -41713,10 +42176,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229722",
+        "id": "alialhamadi",
+        "name": "哈马迪",
         "number": 23,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "卢顿",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -41724,15 +42188,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -41750,7 +42214,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "卢顿",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -41759,10 +42223,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229723",
+        "id": "aliyousef",
+        "name": "尤瑟夫",
         "number": 24,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "塔拉巴",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -41770,15 +42235,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -41796,7 +42261,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "塔拉巴",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -41805,10 +42270,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229724",
+        "id": "aymenhussein",
+        "name": "侯赛因",
         "number": 25,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "卡尔马",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -41816,15 +42282,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -41842,7 +42308,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "卡尔马",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -41851,10 +42317,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229725",
+        "id": "mohanadali",
+        "name": "穆罕纳德·阿里",
         "number": 26,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "迪巴",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -41862,15 +42329,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -41888,7 +42355,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "迪巴",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -41963,10 +42430,11 @@ export const teams: Team[] = [
     ],
     "players": [
       {
-        "id": "p1780746422331",
+        "id": "nawafalaqidi",
+        "name": "阿基迪",
         "number": 1,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "沙特联赛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -41974,15 +42442,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -42000,7 +42468,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "沙特联赛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -42009,10 +42477,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223311",
+        "id": "mohamedalowais",
+        "name": "奥瓦斯",
         "number": 2,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "沙特联赛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -42020,15 +42489,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -42046,7 +42515,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "沙特联赛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -42055,10 +42524,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223312",
+        "id": "ahmedalkassar",
+        "name": "卡萨尔",
         "number": 3,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "沙特联赛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -42066,15 +42536,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -42092,7 +42562,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "沙特联赛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -42101,10 +42571,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223313",
+        "id": "saudabdulhamid",
+        "name": "阿卜杜勒哈米德",
         "number": 4,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "朗斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -42112,15 +42583,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -42138,7 +42609,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "朗斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -42147,10 +42618,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223314",
+        "id": "jehadthakri",
+        "name": "萨克",
         "number": 5,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "沙特联赛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -42158,15 +42630,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -42184,7 +42656,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "沙特联赛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -42193,10 +42665,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223315",
+        "id": "abdulelahalamri",
+        "name": "阿姆里",
         "number": 6,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "沙特联赛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -42204,15 +42677,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -42230,7 +42703,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "沙特联赛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -42239,10 +42712,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223316",
+        "id": "hassantambakti",
+        "name": "坦巴克提",
         "number": 7,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "沙特联赛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -42250,15 +42724,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -42276,7 +42750,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "沙特联赛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -42285,10 +42759,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223317",
+        "id": "alilajami",
+        "name": "拉贾米",
         "number": 8,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "沙特联赛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -42296,15 +42771,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -42322,7 +42797,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "沙特联赛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -42331,10 +42806,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223318",
+        "id": "hassankadesh",
+        "name": "卡德什",
         "number": 9,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "沙特联赛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -42342,15 +42818,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -42368,7 +42844,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "沙特联赛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -42377,10 +42853,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223319",
+        "id": "motebalharbi",
+        "name": "哈尔比",
         "number": 10,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "沙特联赛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -42388,15 +42865,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -42414,7 +42891,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "沙特联赛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -42423,10 +42900,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233110",
+        "id": "nawafboushal",
+        "name": "布沙尔",
         "number": 11,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "沙特联赛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -42434,15 +42912,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -42460,7 +42938,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "沙特联赛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -42469,10 +42947,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233111",
+        "id": "alimajrashi",
+        "name": "马贾拉希",
         "number": 12,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "沙特联赛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -42480,15 +42959,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -42506,7 +42985,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "沙特联赛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -42515,10 +42994,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233112",
+        "id": "mohammedabualshamat",
+        "name": "阿布沙马特",
         "number": 13,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "沙特联赛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -42526,15 +43006,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -42552,7 +43032,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "沙特联赛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -42561,10 +43041,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233113",
+        "id": "ziyadaljohani",
+        "name": "乔哈尼",
         "number": 14,
         "position": "CM",
-        "club": "未知",
+        "club": "沙特联赛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -42598,7 +43079,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "沙特联赛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -42607,10 +43088,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233114",
+        "id": "nasseraldawsari",
+        "name": "达乌萨里",
         "number": 15,
         "position": "CM",
-        "club": "未知",
+        "club": "沙特联赛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -42644,7 +43126,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "沙特联赛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -42653,10 +43135,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233115",
+        "id": "mohamedkanno",
+        "name": "卡诺",
         "number": 16,
         "position": "CM",
-        "club": "未知",
+        "club": "沙特联赛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -42690,7 +43173,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "沙特联赛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -42699,10 +43182,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233116",
+        "id": "abdulahalkhaibari",
+        "name": "凯巴里",
         "number": 17,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "沙特联赛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -42710,15 +43194,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -42736,7 +43220,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "沙特联赛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -42745,10 +43229,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233117",
+        "id": "alaaalhejji",
+        "name": "赫吉",
         "number": 18,
         "position": "CM",
-        "club": "未知",
+        "club": "沙特联赛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -42782,7 +43267,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "沙特联赛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -42791,10 +43276,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233118",
+        "id": "musabaljuwayr",
+        "name": "朱瓦伊尔",
         "number": 19,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "沙特联赛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -42802,15 +43288,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -42828,7 +43314,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "沙特联赛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -42837,10 +43323,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233119",
+        "id": "sultanmandash",
+        "name": "曼达什",
         "number": 20,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "沙特联赛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -42848,15 +43335,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -42874,7 +43361,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "沙特联赛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -42883,10 +43370,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233120",
+        "id": "aymanyahya",
+        "name": "叶海亚",
         "number": 21,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "沙特联赛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -42894,15 +43382,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -42920,7 +43408,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "沙特联赛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -42929,10 +43417,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233121",
+        "id": "khalidalghannam",
+        "name": "甘南",
         "number": 22,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "沙特联赛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -42940,15 +43429,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -42966,7 +43455,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "沙特联赛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -42975,10 +43464,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233122",
+        "id": "salemaldawsari",
+        "name": "多萨里",
         "number": 23,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "希拉尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -42986,15 +43476,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -43012,7 +43502,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "希拉尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -43021,10 +43511,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233123",
+        "id": "abdulahalhamdan",
+        "name": "哈姆丹",
         "number": 24,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "沙特联赛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -43032,15 +43523,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -43058,7 +43549,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "沙特联赛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -43067,10 +43558,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233124",
+        "id": "ferasalbrikan",
+        "name": "布赖坎",
         "number": 25,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "沙特联赛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -43078,15 +43570,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -43104,7 +43596,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "沙特联赛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -43113,10 +43605,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233125",
+        "id": "salehalshehri",
+        "name": "谢赫里",
         "number": 26,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "沙特联赛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -43124,15 +43617,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -43150,7 +43643,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "沙特联赛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -43214,10 +43707,11 @@ export const teams: Team[] = [
     ],
     "players": [
       {
-        "id": "p1780746422337",
+        "id": "siphochaine",
+        "name": "查伊内",
         "number": 1,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "奥兰多海盗",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -43225,15 +43719,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -43251,7 +43745,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "奥兰多海盗",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -43260,10 +43754,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223371",
+        "id": "ricardogoss",
+        "name": "戈斯",
         "number": 2,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "西韦莱莱",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -43271,15 +43766,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -43297,7 +43792,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "西韦莱莱",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -43306,10 +43801,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223372",
+        "id": "ronwenwilliams",
+        "name": "威廉姆斯",
         "number": 3,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "马梅洛迪日落",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -43317,15 +43813,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -43343,7 +43839,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "马梅洛迪日落",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -43352,10 +43848,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223373",
+        "id": "aubreymodiba",
+        "name": "莫迪巴",
         "number": 4,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "马梅洛迪日落",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -43363,15 +43860,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -43389,7 +43886,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "马梅洛迪日落",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -43398,10 +43895,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223374",
+        "id": "khulisomudau",
+        "name": "穆道",
         "number": 5,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "马梅洛迪日落",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -43409,15 +43907,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -43435,7 +43933,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "马梅洛迪日落",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -43444,10 +43942,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223375",
+        "id": "khulumanindamane",
+        "name": "恩达马内",
         "number": 6,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "马梅洛迪日落",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -43455,15 +43954,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -43481,7 +43980,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "马梅洛迪日落",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -43490,10 +43989,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223376",
+        "id": "kamogelosebelebele",
+        "name": "塞贝莱贝莱",
         "number": 7,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "奥兰多海盗",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -43501,15 +44001,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -43527,7 +44027,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "奥兰多海盗",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -43536,10 +44036,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223377",
+        "id": "nkosinathisibisi",
+        "name": "西比西",
         "number": 8,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "奥兰多海盗",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -43547,15 +44048,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -43573,7 +44074,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "奥兰多海盗",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -43582,10 +44083,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223378",
+        "id": "bradleycross",
+        "name": "克罗斯",
         "number": 9,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "凯撒酋长",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -43593,15 +44095,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -43619,7 +44121,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "凯撒酋长",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -43628,10 +44130,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223379",
+        "id": "samukelekabini",
+        "name": "卡比尼",
         "number": 10,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "莫尔德",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -43639,15 +44142,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -43665,7 +44168,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "莫尔德",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -43674,10 +44177,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233710",
+        "id": "olwethumakhanya",
+        "name": "马卡尼亚",
         "number": 11,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "费城联",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -43685,15 +44189,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -43711,7 +44215,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "费城联",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -43720,10 +44224,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233711",
+        "id": "thabangmatuludi",
+        "name": "马图卢迪",
         "number": 12,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "波洛克瓦尼",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -43731,15 +44236,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -43757,7 +44262,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "波洛克瓦尼",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -43766,10 +44271,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233712",
+        "id": "mbekezelimbokazi",
+        "name": "姆博卡齐",
         "number": 13,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "芝加哥火焰",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -43777,15 +44283,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -43803,7 +44309,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "芝加哥火焰",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -43812,10 +44318,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233713",
+        "id": "imeokon",
+        "name": "奥孔",
         "number": 14,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "汉诺威",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -43823,15 +44330,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -43849,7 +44356,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "汉诺威",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -43858,10 +44365,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233714",
+        "id": "oswinappollis",
+        "name": "阿波利斯",
         "number": 15,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "奥兰多海盗",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -43869,15 +44377,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -43895,7 +44403,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "奥兰多海盗",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -43904,10 +44412,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233715",
+        "id": "thalentembatha",
+        "name": "姆巴塔",
         "number": 16,
         "position": "CM",
-        "club": "未知",
+        "club": "奥兰多海盗",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -43941,7 +44450,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "奥兰多海盗",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -43950,10 +44459,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233716",
+        "id": "relebohilemofokeng",
+        "name": "莫弗肯",
         "number": 17,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "奥兰多海盗",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -43961,15 +44471,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -43987,7 +44497,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "奥兰多海盗",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -43996,10 +44506,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233717",
+        "id": "jaydenadams",
+        "name": "亚当斯",
         "number": 18,
         "position": "CM",
-        "club": "未知",
+        "club": "马梅洛迪日落",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -44033,7 +44544,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "马梅洛迪日落",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -44042,10 +44553,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233718",
+        "id": "tebohomokoena",
+        "name": "莫科埃纳",
         "number": 19,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "马梅洛迪日落",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -44053,15 +44565,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -44079,7 +44591,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "马梅洛迪日落",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -44088,10 +44600,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233719",
+        "id": "thembazwane",
+        "name": "兹瓦内",
         "number": 20,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "马梅洛迪日落",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -44099,15 +44612,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -44125,7 +44638,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "马梅洛迪日落",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -44134,10 +44647,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233720",
+        "id": "sphephelosithole",
+        "name": "西托莱",
         "number": 21,
         "position": "CM",
-        "club": "未知",
+        "club": "通德拉",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -44171,7 +44685,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "通德拉",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -44180,10 +44694,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233721",
+        "id": "evidencemakgopa",
+        "name": "马格帕",
         "number": 22,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "奥兰多海盗",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -44191,15 +44706,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -44217,7 +44732,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "奥兰多海盗",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -44226,10 +44741,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233722",
+        "id": "tshepangmoremi",
+        "name": "莫雷米",
         "number": 23,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "奥兰多海盗",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -44237,15 +44753,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -44263,7 +44779,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "奥兰多海盗",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -44272,10 +44788,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233723",
+        "id": "lylefoster",
+        "name": "福斯特",
         "number": 24,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "伯恩利",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -44283,15 +44800,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -44309,7 +44826,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "伯恩利",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -44318,10 +44835,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233724",
+        "id": "thapelomaseko",
+        "name": "马塞科",
         "number": 25,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "利马索尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -44329,15 +44847,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -44355,7 +44873,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "利马索尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -44364,10 +44882,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642233725",
+        "id": "iqraamrayners",
+        "name": "雷纳斯",
         "number": 26,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "马梅洛迪日落",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -44375,15 +44894,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -44401,7 +44920,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "马梅洛迪日落",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -44477,10 +44996,11 @@ export const teams: Team[] = [
     ],
     "players": [
       {
-        "id": "p1780746422286",
+        "id": "benjaminasare",
+        "name": "阿萨雷",
         "number": 1,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "橡树之心",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -44488,15 +45008,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -44514,7 +45034,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "橡树之心",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -44523,10 +45043,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222861",
+        "id": "lawrenceatizigi",
+        "name": "阿蒂-齐吉",
         "number": 2,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "圣加仑",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -44534,15 +45055,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -44560,7 +45081,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "圣加仑",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -44569,10 +45090,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222862",
+        "id": "josephanang",
+        "name": "阿南",
         "number": 3,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "圣加仑",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -44580,15 +45102,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -44606,7 +45128,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "圣加仑",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -44615,10 +45137,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222863",
+        "id": "babaabdulrahman",
+        "name": "巴巴·拉赫曼",
         "number": 4,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "PAOK",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -44626,15 +45149,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -44652,7 +45175,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "PAOK",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -44661,10 +45184,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222864",
+        "id": "gideonmensah",
+        "name": "吉迪恩·门萨",
         "number": 5,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "欧塞尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -44672,15 +45196,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -44698,7 +45222,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "欧塞尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -44707,10 +45231,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222865",
+        "id": "marvinsenaya",
+        "name": "塞纳亚",
         "number": 6,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "欧塞尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -44718,15 +45243,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -44744,7 +45269,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "欧塞尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -44753,10 +45278,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222866",
+        "id": "aliduseidu",
+        "name": "塞杜",
         "number": 7,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "雷恩",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -44764,15 +45290,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -44790,7 +45316,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "雷恩",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -44799,10 +45325,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222867",
+        "id": "abdulmumin",
+        "name": "穆明",
         "number": 8,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "巴列卡诺",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -44810,15 +45337,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -44836,7 +45363,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "巴列卡诺",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -44845,10 +45372,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222868",
+        "id": "jeromeopoku",
+        "name": "奥波库",
         "number": 9,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "巴沙克谢希尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -44856,15 +45384,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -44882,7 +45410,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "巴沙克谢希尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -44891,10 +45419,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222869",
+        "id": "jonasadjetey",
+        "name": "阿杰泰",
         "number": 10,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "沃尔夫斯堡",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -44902,15 +45431,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -44928,7 +45457,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "沃尔夫斯堡",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -44937,10 +45466,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642228610",
+        "id": "kojooppongpeprah",
+        "name": "佩普拉",
         "number": 11,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "尼斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -44948,15 +45478,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -44974,7 +45504,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "尼斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -44983,10 +45513,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642228611",
+        "id": "derrickluckassen",
+        "name": "卢卡森",
         "number": 12,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "帕福斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -44994,15 +45525,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -45020,7 +45551,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "帕福斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -45029,10 +45560,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642228612",
+        "id": "elishaowusu",
+        "name": "奥乌苏",
         "number": 13,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "欧塞尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -45040,15 +45572,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -45066,7 +45598,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "欧塞尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -45075,10 +45607,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642228613",
+        "id": "thomaspartey",
+        "name": "帕尔特伊",
         "number": 14,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "比利亚雷亚尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -45086,15 +45619,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -45112,7 +45645,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "比利亚雷亚尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -45121,10 +45654,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642228614",
+        "id": "kwasisibo",
+        "name": "西博",
         "number": 15,
         "position": "CM",
-        "club": "未知",
+        "club": "皇家奥维耶多",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -45158,7 +45692,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "皇家奥维耶多",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -45167,10 +45701,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642228615",
+        "id": "augustineboakye",
+        "name": "博阿基",
         "number": 16,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "圣埃蒂安",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -45178,15 +45713,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -45204,7 +45739,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "圣埃蒂安",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -45213,10 +45748,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642228616",
+        "id": "calebyirenkyi",
+        "name": "伊伦基",
         "number": 17,
         "position": "CM",
-        "club": "未知",
+        "club": "北西兰",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -45250,7 +45786,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "北西兰",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -45259,10 +45795,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642228617",
+        "id": "abdulfatawuissahaku",
+        "name": "伊萨哈库",
         "number": 18,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "莱斯特城",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -45270,15 +45807,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -45296,7 +45833,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "莱斯特城",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -45305,10 +45842,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642228618",
+        "id": "kamaldeensulemana",
+        "name": "苏莱曼纳",
         "number": 19,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "亚特兰大",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -45316,15 +45854,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -45342,7 +45880,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "亚特兰大",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -45351,10 +45889,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642228619",
+        "id": "christopherbonsubaah",
+        "name": "邦苏·巴",
         "number": 20,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "卡迪西亚",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -45362,15 +45901,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -45388,7 +45927,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "卡迪西亚",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -45397,10 +45936,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642228620",
+        "id": "ernestnuamah",
+        "name": "努阿马",
         "number": 21,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "里昂",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -45408,15 +45948,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -45434,7 +45974,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "里昂",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -45443,10 +45983,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642228621",
+        "id": "antoinesemenyo",
+        "name": "塞门约",
         "number": 22,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "伯恩茅斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -45454,15 +45995,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -45480,7 +46021,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "伯恩茅斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -45489,10 +46030,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642228622",
+        "id": "brandonthomasasante",
+        "name": "托马斯-阿桑特",
         "number": 23,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "考文垂",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -45500,15 +46042,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -45526,7 +46068,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "考文垂",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -45535,10 +46077,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642228623",
+        "id": "princekwabenaadu",
+        "name": "阿杜",
         "number": 24,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "比尔森",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -45546,15 +46089,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -45572,7 +46115,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "比尔森",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -45581,10 +46124,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642228624",
+        "id": "iakiwilliams",
+        "name": "伊纳基·威廉姆斯",
         "number": 25,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "毕尔巴鄂竞技",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -45592,15 +46136,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -45618,7 +46162,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "毕尔巴鄂竞技",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -45627,10 +46171,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642228625",
+        "id": "jordanayew",
+        "name": "乔丹·阿尤",
         "number": 26,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "莱斯特城",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -45638,15 +46183,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -45664,7 +46209,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "莱斯特城",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -45728,10 +46273,11 @@ export const teams: Team[] = [
     ],
     "players": [
       {
-        "id": "p1780746422315",
+        "id": "maxcrocombe",
+        "name": "克鲁科姆",
         "number": 1,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "米尔沃尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -45739,15 +46285,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -45765,7 +46311,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "米尔沃尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -45774,10 +46320,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223151",
+        "id": "alexpaulsen",
+        "name": "保尔森",
         "number": 2,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "格但斯克",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -45785,15 +46332,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -45811,7 +46358,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "格但斯克",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -45820,10 +46367,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223152",
+        "id": "michaelwoud",
+        "name": "伍德",
         "number": 3,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "奥克兰FC",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -45831,15 +46379,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -45857,7 +46405,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "奥克兰FC",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -45866,10 +46414,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223153",
+        "id": "tylerbindon",
+        "name": "宾登",
         "number": 4,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "诺丁汉森林",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -45877,15 +46426,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -45903,7 +46452,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "诺丁汉森林",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -45912,10 +46461,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223154",
+        "id": "michaelboxall",
+        "name": "博克索尔",
         "number": 5,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "明尼苏达联",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -45923,15 +46473,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -45949,7 +46499,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "明尼苏达联",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -45958,10 +46508,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223155",
+        "id": "liberatocacace",
+        "name": "卡卡切",
         "number": 6,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "雷克瑟姆",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -45969,15 +46520,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -45995,7 +46546,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "雷克瑟姆",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -46004,10 +46555,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223156",
+        "id": "francisdevries",
+        "name": "德弗里斯",
         "number": 7,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "奥克兰FC",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -46015,15 +46567,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -46041,7 +46593,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "奥克兰FC",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -46050,10 +46602,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223157",
+        "id": "callanelliot",
+        "name": "埃利奥特",
         "number": 8,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "奥克兰FC",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -46061,15 +46614,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -46087,7 +46640,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "奥克兰FC",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -46096,10 +46649,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223158",
+        "id": "timpayne",
+        "name": "佩恩",
         "number": 9,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "惠灵顿凤凰",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -46107,15 +46661,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -46133,7 +46687,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "惠灵顿凤凰",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -46142,10 +46696,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223159",
+        "id": "nandopijnaker",
+        "name": "皮纳克尔",
         "number": 10,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "奥克兰FC",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -46153,15 +46708,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -46179,7 +46734,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "奥克兰FC",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -46188,10 +46743,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231510",
+        "id": "tommysmith",
+        "name": "史密斯",
         "number": 11,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "布伦特里",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -46199,15 +46755,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -46225,7 +46781,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "布伦特里",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -46234,10 +46790,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231511",
+        "id": "finnsurman",
+        "name": "苏尔曼",
         "number": 12,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "波特兰伐木工",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -46245,15 +46802,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -46271,7 +46828,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "波特兰伐木工",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -46280,10 +46837,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231512",
+        "id": "lachlanbayliss",
+        "name": "贝利斯",
         "number": 13,
         "position": "CM",
-        "club": "未知",
+        "club": "纽卡斯尔喷气机",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -46317,7 +46875,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "纽卡斯尔喷气机",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -46326,10 +46884,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231513",
+        "id": "joebell",
+        "name": "贝尔",
         "number": 14,
         "position": "CM",
-        "club": "未知",
+        "club": "维京FK",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -46363,7 +46922,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "维京FK",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -46372,10 +46931,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231514",
+        "id": "mattgarbett",
+        "name": "加贝特",
         "number": 15,
         "position": "CM",
-        "club": "未知",
+        "club": "彼得伯勒",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -46409,7 +46969,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "彼得伯勒",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -46418,10 +46978,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231515",
+        "id": "benold",
+        "name": "奥尔德",
         "number": 16,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "圣埃蒂安",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -46429,15 +46990,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -46455,7 +47016,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "圣埃蒂安",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -46464,10 +47025,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231516",
+        "id": "alexrufer",
+        "name": "鲁费尔",
         "number": 17,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "惠灵顿凤凰",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -46475,15 +47037,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -46501,7 +47063,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "惠灵顿凤凰",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -46510,10 +47072,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231517",
+        "id": "sarpreetsingh",
+        "name": "辛格",
         "number": 18,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "惠灵顿凤凰",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -46521,15 +47084,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -46547,7 +47110,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "惠灵顿凤凰",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -46556,10 +47119,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231518",
+        "id": "markostameni",
+        "name": "斯塔梅尼奇",
         "number": 19,
         "position": "CM",
-        "club": "未知",
+        "club": "斯旺西",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -46593,7 +47157,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "斯旺西",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -46602,10 +47166,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231519",
+        "id": "ryanthomas",
+        "name": "托马斯",
         "number": 20,
         "position": "CM",
-        "club": "未知",
+        "club": "兹沃勒",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -46639,7 +47204,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "兹沃勒",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -46648,10 +47213,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231520",
+        "id": "kostabarbarouses",
+        "name": "巴巴鲁塞斯",
         "number": 21,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "西悉尼",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -46659,15 +47225,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -46685,7 +47251,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "西悉尼",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -46694,10 +47260,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231521",
+        "id": "elijust",
+        "name": "贾斯特",
         "number": 22,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "马瑟韦尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -46705,15 +47272,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -46731,7 +47298,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "马瑟韦尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -46740,10 +47307,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231522",
+        "id": "callummccowatt",
+        "name": "麦考瓦特",
         "number": 23,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "锡尔克堡",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -46751,15 +47319,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -46777,7 +47345,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "锡尔克堡",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -46786,10 +47354,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231523",
+        "id": "jesserandall",
+        "name": "兰德尔",
         "number": 24,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "奥克兰FC",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -46797,15 +47366,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -46823,7 +47392,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "奥克兰FC",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -46832,10 +47401,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231524",
+        "id": "benwaine",
+        "name": "韦恩",
         "number": 25,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "波特维尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -46843,15 +47413,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -46869,7 +47439,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "波特维尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -46878,10 +47448,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642231525",
+        "id": "chriswood",
+        "name": "克里斯·伍德",
         "number": 26,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "诺丁汉森林",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -46889,15 +47460,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -46915,7 +47486,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "诺丁汉森林",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -48235,10 +48806,11 @@ export const teams: Team[] = [
     ],
     "players": [
       {
-        "id": "p1780746422290",
+        "id": "johnyplacide",
+        "name": "普拉西德",
         "number": 1,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "巴斯蒂亚",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -48246,15 +48818,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -48272,7 +48844,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "巴斯蒂亚",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -48281,10 +48853,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222901",
+        "id": "alexandrepierre",
+        "name": "皮埃尔",
         "number": 2,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "索肖",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -48292,15 +48865,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -48318,7 +48891,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "索肖",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -48327,10 +48900,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222902",
+        "id": "josuduverger",
+        "name": "杜维杰",
         "number": 3,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "Cosmos",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -48338,15 +48912,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -48364,7 +48938,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "Cosmos",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -48373,10 +48947,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222903",
+        "id": "ricardoad",
+        "name": "阿德",
         "number": 4,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "基多大学",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -48384,15 +48959,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -48410,7 +48985,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "基多大学",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -48419,10 +48994,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222904",
+        "id": "carlensarcus",
+        "name": "阿尔库斯",
         "number": 5,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "昂热",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -48430,15 +49006,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -48456,7 +49032,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "昂热",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -48465,10 +49041,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222905",
+        "id": "martinexperience",
+        "name": "埃克斯佩里扬斯",
         "number": 6,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "南锡",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -48476,15 +49053,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -48502,7 +49079,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "南锡",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -48511,10 +49088,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222906",
+        "id": "jeankvinduverne",
+        "name": "杜韦纳",
         "number": 7,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "根特",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -48522,15 +49100,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -48548,7 +49126,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "根特",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -48557,10 +49135,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222907",
+        "id": "dukelacroix",
+        "name": "拉克鲁瓦",
         "number": 8,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "科罗拉多",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -48568,15 +49147,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -48594,7 +49173,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "科罗拉多",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -48603,10 +49182,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222908",
+        "id": "wilguenspaugain",
+        "name": "波加因",
         "number": 9,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "聚尔特",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -48614,15 +49194,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -48640,7 +49220,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "聚尔特",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -48649,10 +49229,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222909",
+        "id": "hannesdelcroix",
+        "name": "德尔克鲁瓦",
         "number": 10,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "卢加诺",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -48660,15 +49241,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -48686,7 +49267,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "卢加诺",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -48695,10 +49276,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229010",
+        "id": "keetothermoncy",
+        "name": "泰蒙西",
         "number": 11,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "年轻人",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -48706,15 +49288,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -48732,7 +49314,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "年轻人",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -48741,10 +49323,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229011",
+        "id": "levertonpierre",
+        "name": "皮埃尔",
         "number": 12,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "维泽拉",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -48752,15 +49335,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -48778,7 +49361,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "维泽拉",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -48787,10 +49370,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229012",
+        "id": "danleyjeanjacques",
+        "name": "让·雅克",
         "number": 13,
         "position": "CM",
-        "club": "未知",
+        "club": "费城联",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -48824,7 +49408,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "费城联",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -48833,10 +49417,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229013",
+        "id": "carlsaint",
+        "name": "桑特",
         "number": 14,
         "position": "CM",
-        "club": "未知",
+        "club": "埃尔帕索",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -48870,7 +49455,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "埃尔帕索",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -48879,10 +49464,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229014",
+        "id": "jeanricnerbellegarde",
+        "name": "贝勒加德",
         "number": 15,
         "position": "CM",
-        "club": "未知",
+        "club": "狼队",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -48916,7 +49502,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "狼队",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -48925,10 +49511,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229015",
+        "id": "woodenskypierre",
+        "name": "皮埃尔",
         "number": 16,
         "position": "CM",
-        "club": "未知",
+        "club": "紫罗兰",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -48962,7 +49549,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "紫罗兰",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -48971,10 +49558,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229016",
+        "id": "dominiquesimon",
+        "name": "西蒙",
         "number": 17,
         "position": "CM",
-        "club": "未知",
+        "club": "普雷绍夫",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -49008,7 +49596,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "普雷绍夫",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -49017,10 +49605,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229017",
+        "id": "duckensnazon",
+        "name": "纳松",
         "number": 18,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "埃斯特格拉尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -49028,15 +49617,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -49054,7 +49643,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "埃斯特格拉尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -49063,10 +49652,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229018",
+        "id": "frantzdypierrot",
+        "name": "皮埃罗",
         "number": 19,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "里泽斯堡",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -49074,15 +49664,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -49100,7 +49690,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "里泽斯堡",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -49109,10 +49699,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229019",
+        "id": "derricketiennejr",
+        "name": "艾蒂安",
         "number": 20,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "多伦多FC",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -49120,15 +49711,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -49146,7 +49737,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "多伦多FC",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -49155,10 +49746,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229020",
+        "id": "louiciusdeedson",
+        "name": "迪德森",
         "number": 21,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "达拉斯FC",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -49166,15 +49758,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -49192,7 +49784,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "达拉斯FC",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -49201,10 +49793,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229021",
+        "id": "rubenprovidence",
+        "name": "普罗维登斯",
         "number": 22,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "阿尔梅勒",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -49212,15 +49805,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -49238,7 +49831,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿尔梅勒",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -49247,10 +49840,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229022",
+        "id": "josucasimir",
+        "name": "卡西米尔",
         "number": 23,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "欧塞尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -49258,15 +49852,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -49284,7 +49878,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "欧塞尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -49293,10 +49887,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229023",
+        "id": "yassinfortune",
+        "name": "福蒂内",
         "number": 24,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "维泽拉",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -49304,15 +49899,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -49330,7 +49925,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "维泽拉",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -49339,10 +49934,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229024",
+        "id": "wilsonisidor",
+        "name": "伊西多尔",
         "number": 25,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "桑德兰",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -49350,15 +49946,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -49376,7 +49972,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "桑德兰",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -49385,10 +49981,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642229025",
+        "id": "lennyjoseph",
+        "name": "约瑟夫",
         "number": 26,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "费伦茨瓦罗斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -49396,15 +49993,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -49422,7 +50019,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "费伦茨瓦罗斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -49463,10 +50060,11 @@ export const teams: Team[] = [
     "historyResults": [],
     "players": [
       {
-        "id": "p1780746422262",
+        "id": "tyrickbodak",
+        "name": "博达克",
         "number": 1,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "特尔斯达",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -49474,15 +50072,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -49500,7 +50098,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "特尔斯达",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -49509,10 +50107,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222621",
+        "id": "trevordoornbusch",
+        "name": "多恩布施",
         "number": 2,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "芬洛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -49520,15 +50119,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -49546,7 +50145,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "芬洛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -49555,10 +50154,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222622",
+        "id": "eloyroom",
+        "name": "鲁姆",
         "number": 3,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "迈阿密FC",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -49566,15 +50166,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -49592,7 +50192,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "迈阿密FC",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -49601,10 +50201,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222623",
+        "id": "riechedlybazoer",
+        "name": "巴佐尔",
         "number": 4,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "科尼亚体育",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -49612,15 +50213,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -49638,7 +50239,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "科尼亚体育",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -49647,10 +50248,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222624",
+        "id": "joshuabrenet",
+        "name": "布雷内特",
         "number": 5,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "开塞利体育",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -49658,15 +50260,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -49684,7 +50286,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "开塞利体育",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -49693,10 +50295,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222625",
+        "id": "roshonvaneijma",
+        "name": "范艾玛",
         "number": 6,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "瓦尔韦克",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -49704,15 +50307,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -49730,7 +50333,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "瓦尔韦克",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -49739,10 +50342,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222626",
+        "id": "sherelfloranus",
+        "name": "弗洛拉努斯",
         "number": 7,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "兹沃勒",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -49750,15 +50354,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -49776,7 +50380,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "兹沃勒",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -49785,10 +50389,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222627",
+        "id": "deveronfonville",
+        "name": "丰维尔",
         "number": 8,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "奈梅亨",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -49796,15 +50401,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -49822,7 +50427,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "奈梅亨",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -49831,10 +50436,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222628",
+        "id": "juriengaari",
+        "name": "加里",
         "number": 9,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "阿卜哈",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -49842,15 +50448,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -49868,7 +50474,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿卜哈",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -49877,10 +50483,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222629",
+        "id": "armandoobispo",
+        "name": "奥比斯波",
         "number": 10,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "PSV",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -49888,15 +50495,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -49914,7 +50521,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "PSV",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -49923,10 +50530,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226210",
+        "id": "shurandysambo",
+        "name": "桑博",
         "number": 11,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "鹿特丹斯巴达",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -49934,15 +50542,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -49960,7 +50568,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "鹿特丹斯巴达",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -49969,10 +50577,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226211",
+        "id": "juninhobacuna",
+        "name": "朱尼尼奥·巴库纳",
         "number": 12,
         "position": "CM",
-        "club": "未知",
+        "club": "福伦丹",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -50006,7 +50615,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "福伦丹",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -50015,10 +50624,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226212",
+        "id": "leandrobacuna",
+        "name": "莱安德罗·巴库纳",
         "number": 13,
         "position": "CM",
-        "club": "未知",
+        "club": "伊迪尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -50052,7 +50662,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "伊迪尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -50061,10 +50671,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226213",
+        "id": "livanocomenencia",
+        "name": "科梅嫩西亚",
         "number": 14,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "苏黎世",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -50072,15 +50683,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -50098,7 +50709,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "苏黎世",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -50107,10 +50718,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226214",
+        "id": "kevinfelida",
+        "name": "费利达",
         "number": 15,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "登博斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -50118,15 +50730,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -50144,7 +50756,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "登博斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -50153,10 +50765,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226215",
+        "id": "arjanymartha",
+        "name": "马尔塔",
         "number": 16,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "罗瑟勒姆",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -50164,15 +50777,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -50190,7 +50803,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "罗瑟勒姆",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -50199,10 +50812,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226216",
+        "id": "tyresenoslin",
+        "name": "诺斯林",
         "number": 17,
         "position": "CM",
-        "club": "未知",
+        "club": "特尔斯达",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -50236,7 +50850,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "特尔斯达",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -50245,10 +50859,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226217",
+        "id": "godfriedroemeratoe",
+        "name": "罗梅拉托",
         "number": 18,
         "position": "CM",
-        "club": "未知",
+        "club": "瓦尔韦克",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -50282,7 +50897,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "瓦尔韦克",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -50291,10 +50906,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226218",
+        "id": "jeremyantonisse",
+        "name": "安东尼斯",
         "number": 19,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "基菲夏",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -50302,15 +50918,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -50328,7 +50944,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "基菲夏",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -50337,10 +50953,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226219",
+        "id": "tahithchong",
+        "name": "钟",
         "number": 20,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "谢菲联",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -50348,15 +50965,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -50374,7 +50991,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "谢菲联",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -50383,10 +51000,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226220",
+        "id": "kenjigorre",
+        "name": "戈雷",
         "number": 21,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "海法马卡比",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -50394,15 +51012,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -50420,7 +51038,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "海法马卡比",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -50429,10 +51047,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226221",
+        "id": "sontjehansen",
+        "name": "汉森",
         "number": 22,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "米德尔斯堡",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -50440,15 +51059,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -50466,7 +51085,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "米德尔斯堡",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -50475,10 +51094,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226222",
+        "id": "gervanekastaneer",
+        "name": "卡斯塔尼尔",
         "number": 23,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "登嘉楼",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -50486,15 +51106,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -50512,7 +51132,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "登嘉楼",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -50521,10 +51141,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226223",
+        "id": "brandleykuwas",
+        "name": "库瓦斯",
         "number": 24,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "福伦丹",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -50532,15 +51153,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -50558,7 +51179,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "福伦丹",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -50567,10 +51188,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226224",
+        "id": "jurgenlocadia",
+        "name": "洛卡迪亚",
         "number": 25,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "迈阿密FC",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -50578,15 +51200,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -50604,7 +51226,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "迈阿密FC",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -50613,10 +51235,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p1780746422263",
+        "id": "jearlmargaritha",
+        "name": "马加里塔",
         "number": 26,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "贝弗伦",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -50624,15 +51247,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -50650,7 +51273,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "贝弗伦",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -50691,10 +51314,11 @@ export const teams: Team[] = [
     "historyResults": [],
     "players": [
       {
-        "id": "p1780746422251",
+        "id": "vozinha",
+        "name": "沃济尼亚",
         "number": 1,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "沙维什",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -50702,15 +51326,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -50728,7 +51352,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "沙维什",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -50737,10 +51361,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222511",
+        "id": "marciorosa",
+        "name": "罗萨",
         "number": 2,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "蒙大拿",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -50748,15 +51373,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -50774,7 +51399,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "蒙大拿",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -50783,10 +51408,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222512",
+        "id": "cjdossantos",
+        "name": "多斯桑托斯",
         "number": 3,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "圣地亚哥FC",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -50794,15 +51420,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -50820,7 +51446,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "圣地亚哥FC",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -50829,10 +51455,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222513",
+        "id": "stevenmoreira",
+        "name": "莫雷拉",
         "number": 4,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "哥伦布机员",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -50840,15 +51467,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -50866,7 +51493,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "哥伦布机员",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -50875,10 +51502,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222514",
+        "id": "wagnerpina",
+        "name": "皮纳",
         "number": 5,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "特拉布宗",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -50886,15 +51514,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -50912,7 +51540,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "特拉布宗",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -50921,10 +51549,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222515",
+        "id": "joaopaulo",
+        "name": "若昂·保罗",
         "number": 6,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "FCSB",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -50932,15 +51561,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -50958,7 +51587,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "FCSB",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -50967,10 +51596,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222516",
+        "id": "sidnylopescabral",
+        "name": "卡布拉尔",
         "number": 7,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "本菲卡",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -50978,15 +51608,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -51004,7 +51634,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "本菲卡",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -51013,10 +51643,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222517",
+        "id": "logancosta",
+        "name": "科斯塔",
         "number": 8,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "比利亚雷亚尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -51024,15 +51655,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -51050,7 +51681,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "比利亚雷亚尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -51059,10 +51690,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222518",
+        "id": "robertolopes",
+        "name": "洛佩斯",
         "number": 9,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "沙姆洛克",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -51070,15 +51702,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -51096,7 +51728,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "沙姆洛克",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -51105,10 +51737,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222519",
+        "id": "kelvinpires",
+        "name": "皮雷斯",
         "number": 10,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "SJK",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -51116,15 +51749,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -51142,7 +51775,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "SJK",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -51151,10 +51784,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642225110",
+        "id": "stopira",
+        "name": "斯托皮拉",
         "number": 11,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "托里什",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -51162,15 +51796,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -51188,7 +51822,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "托里什",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -51197,10 +51831,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642225111",
+        "id": "diney",
+        "name": "迪尼",
         "number": 12,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "巴塔耶",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -51208,15 +51843,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -51234,7 +51869,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "巴塔耶",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -51243,10 +51878,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642225112",
+        "id": "jamiromonteiro",
+        "name": "蒙泰罗",
         "number": 13,
         "position": "CM",
-        "club": "未知",
+        "club": "兹沃勒",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -51280,7 +51916,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "兹沃勒",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -51289,10 +51925,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642225113",
+        "id": "telmoarcanjo",
+        "name": "阿尔坎乔",
         "number": 14,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "吉马良斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -51300,15 +51937,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -51326,7 +51963,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "吉马良斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -51335,10 +51972,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642225114",
+        "id": "yannicksemedo",
+        "name": "塞梅多",
         "number": 15,
         "position": "CM",
-        "club": "未知",
+        "club": "法伦斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -51372,7 +52010,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "法伦斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -51381,10 +52019,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642225115",
+        "id": "larosduarte",
+        "name": "杜阿尔特",
         "number": 16,
         "position": "CM",
-        "club": "未知",
+        "club": "普斯卡什",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -51418,7 +52057,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "普斯卡什",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -51427,10 +52066,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642225116",
+        "id": "deroyduarte",
+        "name": "杜阿尔特",
         "number": 17,
         "position": "CM",
-        "club": "未知",
+        "club": "卢多戈雷茨",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -51464,7 +52104,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "卢多戈雷茨",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -51473,10 +52113,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642225117",
+        "id": "kevinpina",
+        "name": "皮纳",
         "number": 18,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "克拉斯诺达尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -51484,15 +52125,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -51510,7 +52151,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "克拉斯诺达尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -51519,10 +52160,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642225118",
+        "id": "ryanmendes",
+        "name": "门德斯",
         "number": 19,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "伊迪尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -51530,15 +52172,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -51556,7 +52198,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "伊迪尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -51565,10 +52207,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642225119",
+        "id": "willysemedo",
+        "name": "塞梅多",
         "number": 20,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "奥莫尼亚",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -51576,15 +52219,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -51602,7 +52245,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "奥莫尼亚",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -51611,10 +52254,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642225120",
+        "id": "garryrodrigues",
+        "name": "罗德里格斯",
         "number": 21,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "阿波罗",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -51622,15 +52266,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -51648,7 +52292,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿波罗",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -51657,10 +52301,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642225121",
+        "id": "jovanecabral",
+        "name": "卡布拉尔",
         "number": 22,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "埃斯特雷拉",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -51668,15 +52313,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -51694,7 +52339,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "埃斯特雷拉",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -51703,10 +52348,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642225122",
+        "id": "nunodacosta",
+        "name": "达科斯塔",
         "number": 23,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "巴沙克谢希尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -51714,15 +52360,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -51740,7 +52386,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "巴沙克谢希尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -51749,10 +52395,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642225123",
+        "id": "dailonlivramento",
+        "name": "利夫拉门托",
         "number": 24,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "卡萨皮亚",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -51760,15 +52407,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -51786,7 +52433,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "卡萨皮亚",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -51795,10 +52442,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642225124",
+        "id": "gilsonbenchimol",
+        "name": "本希莫尔",
         "number": 25,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "阿克伦",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -51806,15 +52454,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -51832,7 +52480,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿克伦",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -51841,10 +52489,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642225125",
+        "id": "heliovarela",
+        "name": "瓦雷拉",
         "number": 26,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "马卡比",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -51852,15 +52501,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -51878,7 +52527,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "马卡比",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -51942,10 +52591,11 @@ export const teams: Team[] = [
     ],
     "players": [
       {
-        "id": "p1780746422208",
+        "id": "anthonymandrea",
+        "name": "曼德雷亚",
         "number": 1,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "卡昂",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -51953,15 +52603,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -51979,7 +52629,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "卡昂",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -51988,10 +52638,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222081",
+        "id": "alexandreoukidja",
+        "name": "泽巴",
         "number": 2,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "梅斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -51999,15 +52650,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -52025,7 +52676,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "梅斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -52034,10 +52685,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222082",
+        "id": "teddyboulhendi",
+        "name": "本博特",
         "number": 3,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "尼斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -52045,15 +52697,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -52071,7 +52723,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "尼斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -52080,10 +52732,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222083",
+        "id": "youcefatal",
+        "name": "阿塔尔",
         "number": 4,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "阿达纳德米尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -52091,15 +52744,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -52117,7 +52770,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿达纳德米尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -52126,10 +52779,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222084",
+        "id": "assamandi",
+        "name": "曼迪",
         "number": 5,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "里尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -52137,15 +52791,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -52163,7 +52817,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "里尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -52172,10 +52826,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222085",
+        "id": "ahmedtouba",
+        "name": "图巴",
         "number": 6,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "莱切",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -52183,15 +52838,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -52209,7 +52864,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "莱切",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -52218,10 +52873,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p1780746422209",
+        "id": "mohamedaminebedia",
+        "name": "贝迪亚",
         "number": 7,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "里尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -52229,15 +52885,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -52255,7 +52911,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "里尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -52264,10 +52920,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222091",
+        "id": "ramybensebaini",
+        "name": "本塞拜尼",
         "number": 8,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "多特蒙德",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -52275,15 +52932,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -52301,7 +52958,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "多特蒙德",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -52310,10 +52967,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222092",
+        "id": "ahmedlaarafi",
+        "name": "拉拉维",
         "number": 9,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "USM阿尔及尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -52321,15 +52979,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -52347,7 +53005,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "USM阿尔及尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -52356,10 +53014,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222093",
+        "id": "djamelbenlamri",
+        "name": "本拉姆里",
         "number": 10,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "MC阿尔及尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -52367,15 +53026,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -52393,7 +53052,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "MC阿尔及尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -52402,10 +53061,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222094",
+        "id": "hocinehaddad",
+        "name": "哈达德",
         "number": 11,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "CR贝鲁伊兹达",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -52413,15 +53073,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -52439,7 +53099,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "CR贝鲁伊兹达",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -52448,10 +53108,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222095",
+        "id": "sofianefeghouli",
+        "name": "费古利",
         "number": 12,
-        "position": "CM",
-        "club": "未知",
+        "position": "RM",
+        "club": "法蒂赫卡拉古鲁克",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -52459,15 +53120,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 61,
+          "passing": 78,
+          "dribbling": 67,
+          "speed": 61,
+          "defense": 57,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -52485,7 +53146,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "法蒂赫卡拉古鲁克",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -52494,10 +53155,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p1780746422210",
+        "id": "ismalbennacer",
+        "name": "本纳赛尔",
         "number": 13,
         "position": "CM",
-        "club": "未知",
+        "club": "AC米兰",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -52531,7 +53193,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "AC米兰",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -52540,10 +53202,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222101",
+        "id": "houssemaouar",
+        "name": "奥瓦尔",
         "number": 14,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "吉达联合",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -52551,15 +53214,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -52577,7 +53240,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "吉达联合",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -52586,10 +53249,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222102",
+        "id": "ramyzerrouki",
+        "name": "泽鲁基",
         "number": 15,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "费耶诺德",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -52597,15 +53261,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -52623,7 +53287,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "费耶诺德",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -52632,10 +53296,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222103",
+        "id": "farschabi",
+        "name": "沙伊比",
         "number": 16,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "法兰克福",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -52643,15 +53308,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -52669,7 +53334,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "法兰克福",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -52678,10 +53343,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222104",
+        "id": "hichemboudaoui",
+        "name": "布达维",
         "number": 17,
         "position": "CM",
-        "club": "未知",
+        "club": "尼斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -52715,7 +53381,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "尼斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -52724,10 +53390,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222105",
+        "id": "rayanatnouri",
+        "name": "艾特-努里",
         "number": 18,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "狼队",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -52735,15 +53402,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -52761,7 +53428,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "狼队",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -52770,10 +53437,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222106",
+        "id": "riyadmahrez",
+        "name": "马赫雷斯",
         "number": 19,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "阿赫利",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -52781,15 +53449,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -52807,7 +53475,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿赫利",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -52816,10 +53484,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222107",
+        "id": "youcefbelali",
+        "name": "贝莱利",
         "number": 20,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "MC阿尔及尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -52827,15 +53496,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -52853,7 +53522,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "MC阿尔及尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -52862,10 +53531,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222108",
+        "id": "aminegouiri",
+        "name": "古伊里",
         "number": 21,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "雷恩",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -52873,15 +53543,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -52899,7 +53569,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "雷恩",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -52908,10 +53578,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222109",
+        "id": "islamslimani",
+        "name": "斯利马尼",
         "number": 22,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "安德莱赫特",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -52919,15 +53590,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -52945,7 +53616,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "安德莱赫特",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -52954,10 +53625,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642221010",
+        "id": "baghdadbounedjah",
+        "name": "布内贾",
         "number": 23,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "萨德",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -52965,15 +53637,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -52991,7 +53663,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "萨德",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -53000,10 +53672,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642221011",
+        "id": "mohamedamoura",
+        "name": "阿穆拉",
         "number": 24,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "圣吉罗斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -53011,15 +53684,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -53037,7 +53710,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "圣吉罗斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -53046,10 +53719,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642221012",
+        "id": "bilalelkhannouss",
+        "name": "卡德",
         "number": 25,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "斯图加特",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -53057,15 +53731,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -53083,7 +53757,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "斯图加特",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -53092,10 +53766,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642221013",
+        "id": "adamounas",
+        "name": "奥纳斯",
         "number": 26,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "里尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -53103,15 +53778,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -53129,7 +53804,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "里尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -53170,10 +53845,11 @@ export const teams: Team[] = [
     "historyResults": [],
     "players": [
       {
-        "id": "p1780746422306",
+        "id": "yazeedabulaila",
+        "name": "阿布·莱拉",
         "number": 1,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "侯赛因",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -53181,15 +53857,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -53207,7 +53883,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "侯赛因",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -53216,10 +53892,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223061",
+        "id": "noorbaniateyah",
+        "name": "巴尼·阿提亚",
         "number": 2,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "费萨里",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -53227,15 +53904,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -53253,7 +53930,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "费萨里",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -53262,10 +53939,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223062",
+        "id": "abdullahalfakhouri",
+        "name": "法胡里",
         "number": 3,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "韦达特",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -53273,15 +53951,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -53299,7 +53977,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "韦达特",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -53308,10 +53986,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223063",
+        "id": "mohammadabuhasheesh",
+        "name": "阿布·哈希什",
         "number": 4,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "卡尔马",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -53319,15 +53998,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -53345,7 +54024,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "卡尔马",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -53354,10 +54033,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223064",
+        "id": "abdullahnasib",
+        "name": "纳西卜",
         "number": 5,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "扎瓦拉",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -53365,15 +54045,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -53391,7 +54071,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "扎瓦拉",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -53400,10 +54080,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223065",
+        "id": "husamabudahab",
+        "name": "阿布达哈布",
         "number": 6,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "费萨里",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -53411,15 +54092,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -53437,7 +54118,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "费萨里",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -53446,10 +54127,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223066",
+        "id": "yazanalarab",
+        "name": "阿拉伯",
         "number": 7,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "FC首尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -53457,15 +54139,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -53483,7 +54165,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "FC首尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -53492,10 +54174,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223067",
+        "id": "mohammadabualnadi",
+        "name": "阿布·纳迪",
         "number": 8,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "雪兰莪",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -53503,15 +54186,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -53529,7 +54212,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "雪兰莪",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -53538,10 +54221,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223068",
+        "id": "saleemobaid",
+        "name": "奥拜德",
         "number": 9,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "侯赛因",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -53549,15 +54233,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -53575,7 +54259,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "侯赛因",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -53584,10 +54268,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223069",
+        "id": "saedalrosan",
+        "name": "罗桑",
         "number": 10,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "侯赛因",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -53595,15 +54280,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -53621,7 +54306,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "侯赛因",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -53630,10 +54315,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642230610",
+        "id": "ehsanhaddad",
+        "name": "哈达德",
         "number": 11,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "侯赛因",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -53641,15 +54327,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -53667,7 +54353,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "侯赛因",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -53676,10 +54362,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642230611",
+        "id": "anasbadawi",
+        "name": "巴达维",
         "number": 12,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "费萨里",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -53687,15 +54374,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -53713,7 +54400,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "费萨里",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -53722,10 +54409,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642230612",
+        "id": "mohannadabutaha",
+        "name": "阿布·塔哈",
         "number": 13,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "空军",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -53733,15 +54421,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -53759,7 +54447,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "空军",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -53768,10 +54456,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642230613",
+        "id": "nooralrawabdeh",
+        "name": "拉瓦布德",
         "number": 14,
         "position": "CM",
-        "club": "未知",
+        "club": "雪兰莪",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -53805,7 +54494,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "雪兰莪",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -53814,10 +54503,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642230614",
+        "id": "nizaralrashdan",
+        "name": "拉什丹",
         "number": 15,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "卡塔尔SC",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -53825,15 +54515,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -53851,7 +54541,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "卡塔尔SC",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -53860,10 +54550,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642230615",
+        "id": "ibrahimsaadeh",
+        "name": "萨阿德",
         "number": 16,
         "position": "CM",
-        "club": "未知",
+        "club": "卡尔马",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -53897,7 +54588,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "卡尔马",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -53906,10 +54597,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642230616",
+        "id": "rajaeiayed",
+        "name": "阿耶德",
         "number": 17,
         "position": "CM",
-        "club": "未知",
+        "club": "侯赛因",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -53943,7 +54635,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "侯赛因",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -53952,10 +54644,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642230617",
+        "id": "amerjamous",
+        "name": "贾穆斯",
         "number": 18,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "韦达特",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -53963,15 +54656,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -53989,7 +54682,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "韦达特",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -53998,10 +54691,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642230618",
+        "id": "mohammadaldaowud",
+        "name": "达伍德",
         "number": 19,
         "position": "CM",
-        "club": "未知",
+        "club": "韦达特",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -54035,7 +54729,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "韦达特",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -54044,10 +54738,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642230619",
+        "id": "mahmoudalmardi",
+        "name": "马尔迪",
         "number": 20,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "侯赛因",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -54055,15 +54750,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -54081,7 +54776,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "侯赛因",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -54090,10 +54785,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642230620",
+        "id": "odehalfakhouri",
+        "name": "法胡里",
         "number": 21,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "金字塔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -54101,15 +54797,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -54127,7 +54823,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "金字塔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -54136,10 +54832,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642230621",
+        "id": "mousaaltamari",
+        "name": "塔马里",
         "number": 22,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "雷恩",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -54147,15 +54844,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -54173,7 +54870,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "雷恩",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -54182,10 +54879,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642230622",
+        "id": "mohammadabuzraiq",
+        "name": "阿布·兹雷克",
         "number": 23,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "拉贾",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -54193,15 +54891,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -54219,7 +54917,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "拉贾",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -54228,10 +54926,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642230623",
+        "id": "alialazaizeh",
+        "name": "阿扎伊扎",
         "number": 24,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "沙巴布",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -54239,15 +54938,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -54265,7 +54964,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "沙巴布",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -54274,10 +54973,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642230624",
+        "id": "ibrahimsabra",
+        "name": "萨布拉",
         "number": 25,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "火车头",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -54285,15 +54985,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -54311,7 +55011,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "火车头",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -54320,10 +55020,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642230625",
+        "id": "aliolwan",
+        "name": "奥尔万",
         "number": 26,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "赛利亚",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -54331,15 +55032,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -54357,7 +55058,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "赛利亚",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -54398,10 +55099,11 @@ export const teams: Team[] = [
     "historyResults": [],
     "players": [
       {
-        "id": "p1780746422365",
+        "id": "otkiryusupov",
+        "name": "尤苏波夫",
         "number": 1,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "纳夫巴霍尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -54409,15 +55111,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -54435,7 +55137,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "纳夫巴霍尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -54444,10 +55146,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223651",
+        "id": "botiraliergashev",
+        "name": "埃尔加舍夫",
         "number": 2,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "内夫奇",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -54455,15 +55158,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -54481,7 +55184,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "内夫奇",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -54490,10 +55193,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223652",
+        "id": "abduvohidnematov",
+        "name": "内马托夫",
         "number": 3,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "纳萨夫",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -54501,15 +55205,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -54527,7 +55231,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "纳萨夫",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -54536,10 +55240,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223653",
+        "id": "avazbekolmasaliyev",
+        "name": "奥尔马萨利耶夫",
         "number": 4,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "AGMK",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -54547,15 +55252,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -54573,7 +55278,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "AGMK",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -54582,10 +55287,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223654",
+        "id": "jahongirorozov",
+        "name": "奥罗佐夫",
         "number": 5,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "迪纳摩",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -54593,15 +55299,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -54619,7 +55325,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "迪纳摩",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -54628,10 +55334,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223655",
+        "id": "rustamashurmatov",
+        "name": "阿舒尔马托夫",
         "number": 6,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "埃斯特格拉尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -54639,15 +55346,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -54665,7 +55372,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "埃斯特格拉尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -54674,10 +55381,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223656",
+        "id": "umareshmurodov",
+        "name": "埃什穆罗多夫",
         "number": 7,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "纳萨夫",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -54685,15 +55393,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -54711,7 +55419,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "纳萨夫",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -54720,10 +55428,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223657",
+        "id": "abdukodirkhusanov",
+        "name": "胡桑诺夫",
         "number": 8,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "曼城",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -54731,15 +55440,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -54757,7 +55466,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "曼城",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -54766,10 +55475,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223658",
+        "id": "abdullaabdullayev",
+        "name": "阿卜杜拉耶夫",
         "number": 9,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "迪巴",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -54777,15 +55487,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -54803,7 +55513,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "迪巴",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -54812,10 +55522,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223659",
+        "id": "farrukhsayfiyev",
+        "name": "赛菲耶夫",
         "number": 10,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "内夫奇",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -54823,15 +55534,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -54849,7 +55560,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "内夫奇",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -54858,10 +55569,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236510",
+        "id": "hojiakbaralijonov",
+        "name": "阿利约诺夫",
         "number": 11,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "帕赫塔科尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -54869,15 +55581,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -54895,7 +55607,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "帕赫塔科尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -54904,10 +55616,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236511",
+        "id": "sherzodnasrullayev",
+        "name": "纳斯鲁拉耶夫",
         "number": 12,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "帕赫塔科尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -54915,15 +55628,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -54941,7 +55654,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "帕赫塔科尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -54950,10 +55663,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236512",
+        "id": "behruzkarimov",
+        "name": "卡里莫夫",
         "number": 13,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "苏尔洪",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -54961,15 +55675,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -54987,7 +55701,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "苏尔洪",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -54996,10 +55710,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236513",
+        "id": "sherzodesanov",
+        "name": "埃萨诺夫",
         "number": 14,
         "position": "CM",
-        "club": "未知",
+        "club": "布哈拉",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -55033,7 +55748,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "布哈拉",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -55042,10 +55757,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236514",
+        "id": "odilhamrobekov",
+        "name": "哈姆罗贝科夫",
         "number": 15,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "拖拉机",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -55053,15 +55769,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -55079,7 +55795,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "拖拉机",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -55088,10 +55804,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236515",
+        "id": "akmalmozgovoy",
+        "name": "莫兹戈沃伊",
         "number": 16,
         "position": "CM",
-        "club": "未知",
+        "club": "帕赫塔科尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -55125,7 +55842,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "帕赫塔科尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -55134,10 +55851,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236516",
+        "id": "otabekshukurov",
+        "name": "舒库罗夫",
         "number": 17,
         "position": "CM",
-        "club": "未知",
+        "club": "巴尼亚斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -55171,7 +55889,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "巴尼亚斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -55180,10 +55898,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236517",
+        "id": "jamshidiskanderov",
+        "name": "伊斯坎德罗夫",
         "number": 18,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "内夫奇",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -55191,15 +55910,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -55217,7 +55936,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "内夫奇",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -55226,10 +55945,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236518",
+        "id": "azizganiev",
+        "name": "加尼耶夫",
         "number": 19,
         "position": "CM",
-        "club": "未知",
+        "club": "巴塔耶",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -55263,7 +55983,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "巴塔耶",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -55272,10 +55992,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236519",
+        "id": "abbosbekfayzullayev",
+        "name": "法伊祖拉耶夫",
         "number": 20,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "巴沙克谢希尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -55283,15 +56004,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -55309,7 +56030,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "巴沙克谢希尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -55318,10 +56039,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236520",
+        "id": "jaloliddinmasharipov",
+        "name": "马沙里波夫",
         "number": 21,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "埃斯特格拉尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -55329,15 +56051,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -55355,7 +56077,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "埃斯特格拉尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -55364,10 +56086,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236521",
+        "id": "dostonhamdamov",
+        "name": "哈姆达莫夫",
         "number": 22,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "帕赫塔科尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -55375,15 +56098,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -55401,7 +56124,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "帕赫塔科尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -55410,10 +56133,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236522",
+        "id": "ostonurunov",
+        "name": "乌鲁诺夫",
         "number": 23,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "波斯波利斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -55421,15 +56145,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -55447,7 +56171,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "波斯波利斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -55456,10 +56180,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236523",
+        "id": "azizamonov",
+        "name": "阿莫诺夫",
         "number": 24,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "迪纳摩",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -55467,15 +56192,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -55493,7 +56218,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "迪纳摩",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -55502,10 +56227,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236524",
+        "id": "igorsergeyev",
+        "name": "谢尔盖耶夫",
         "number": 25,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "波斯波利斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -55513,15 +56239,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -55539,7 +56265,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "波斯波利斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -55548,10 +56274,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642236525",
+        "id": "eldorshomurodov",
+        "name": "肖穆罗多夫",
         "number": 26,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "巴沙克谢希尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -55559,15 +56286,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -55585,7 +56312,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "巴沙克谢希尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -55638,10 +56365,11 @@ export const teams: Team[] = [
     ],
     "players": [
       {
-        "id": "p1780746422236",
+        "id": "nikolavasilj",
+        "name": "瓦西利",
         "number": 1,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "圣保利",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -55649,15 +56377,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -55675,7 +56403,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "圣保利",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -55684,10 +56412,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222361",
+        "id": "martinzlomisli",
+        "name": "兹洛米斯利奇",
         "number": 2,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "里耶卡",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -55695,15 +56424,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -55721,7 +56450,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "里耶卡",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -55730,10 +56459,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222362",
+        "id": "osmanhadiki",
+        "name": "哈吉基奇",
         "number": 3,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "斯拉文贝卢波",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -55741,15 +56471,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -55767,7 +56497,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "斯拉文贝卢波",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -55776,10 +56506,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222363",
+        "id": "seadkolainac",
+        "name": "科拉希纳茨",
         "number": 4,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "亚特兰大",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -55787,15 +56518,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -55813,7 +56544,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "亚特兰大",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -55822,10 +56553,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222364",
+        "id": "amardedi",
+        "name": "德迪奇",
         "number": 5,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "本菲卡",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -55833,15 +56565,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -55859,7 +56591,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "本菲卡",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -55868,10 +56600,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222365",
+        "id": "nihadmujaki",
+        "name": "穆亚基奇",
         "number": 6,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "加济安泰普",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -55879,15 +56612,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -55905,7 +56638,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "加济安泰普",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -55914,10 +56647,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222366",
+        "id": "nikolakati",
+        "name": "卡蒂奇",
         "number": 7,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "沙尔克",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -55925,15 +56659,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -55951,7 +56685,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "沙尔克",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -55960,10 +56694,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222367",
+        "id": "tarikmuharemovi",
+        "name": "穆哈雷莫维奇",
         "number": 8,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "萨索洛",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -55971,15 +56706,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -55997,7 +56732,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "萨索洛",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -56006,10 +56741,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222368",
+        "id": "stjepanradelji",
+        "name": "拉德利吉奇",
         "number": 9,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "里耶卡",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -56017,15 +56753,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -56043,7 +56779,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "里耶卡",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -56052,10 +56788,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222369",
+        "id": "dennishadikaduni",
+        "name": "哈吉卡杜尼奇",
         "number": 10,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "桑普多利亚",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -56063,15 +56800,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -56089,7 +56826,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "桑普多利亚",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -56098,10 +56835,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642223610",
+        "id": "nidalelik",
+        "name": "切利克",
         "number": 11,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "朗斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -56109,15 +56847,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -56135,7 +56873,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "朗斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -56144,10 +56882,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642223611",
+        "id": "amirhadiahmetovi",
+        "name": "哈吉亚赫梅托维奇",
         "number": 12,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "赫尔城",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -56155,15 +56894,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -56181,7 +56920,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "赫尔城",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -56190,10 +56929,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642223612",
+        "id": "ivanunji",
+        "name": "松吉奇",
         "number": 13,
         "position": "CM",
-        "club": "未知",
+        "club": "帕福斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -56227,7 +56967,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "帕福斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -56236,10 +56976,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642223613",
+        "id": "ivanbai",
+        "name": "巴希奇",
         "number": 14,
         "position": "CM",
-        "club": "未知",
+        "club": "阿斯塔纳",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -56273,7 +57014,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿斯塔纳",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -56282,10 +57023,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642223614",
+        "id": "dzenisburni",
+        "name": "布尔尼奇",
         "number": 15,
         "position": "CM",
-        "club": "未知",
+        "club": "卡尔斯鲁厄",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -56319,7 +57061,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "卡尔斯鲁厄",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -56328,10 +57070,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642223615",
+        "id": "erminmahmi",
+        "name": "马哈米奇",
         "number": 16,
         "position": "CM",
-        "club": "未知",
+        "club": "斯洛万",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -56365,7 +57108,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "斯洛万",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -56374,10 +57117,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642223616",
+        "id": "benjamintahirovi",
+        "name": "塔希罗维奇",
         "number": 17,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "布隆比",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -56385,15 +57129,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -56411,7 +57155,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "布隆比",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -56420,10 +57164,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642223617",
+        "id": "amarmemi",
+        "name": "梅米奇",
         "number": 18,
         "position": "CM",
-        "club": "未知",
+        "club": "普尔曾",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -56457,7 +57202,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "普尔曾",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -56466,10 +57211,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642223618",
+        "id": "kerimalajbegovi",
+        "name": "阿莱伊比戈维奇",
         "number": 19,
         "position": "CM",
-        "club": "未知",
+        "club": "萨尔茨堡",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -56503,7 +57249,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "萨尔茨堡",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -56512,10 +57258,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642223619",
+        "id": "esmirbajraktarevi",
+        "name": "巴吉拉克塔雷维奇",
         "number": 20,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "PSV",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -56523,15 +57270,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -56549,7 +57296,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "PSV",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -56558,10 +57305,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642223620",
+        "id": "ermedindemirovi",
+        "name": "德米罗维奇",
         "number": 21,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "斯图加特",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -56569,15 +57317,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -56595,7 +57343,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "斯图加特",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -56604,10 +57352,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642223621",
+        "id": "jovoluki",
+        "name": "卢基奇",
         "number": 22,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "克卢日大学",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -56615,15 +57364,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -56641,7 +57390,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "克卢日大学",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -56650,10 +57399,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642223622",
+        "id": "samedbadar",
+        "name": "巴兹达尔",
         "number": 23,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "亚盖隆尼亚",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -56661,15 +57411,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -56687,7 +57437,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "亚盖隆尼亚",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -56696,10 +57446,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642223623",
+        "id": "haristabakovi",
+        "name": "塔巴科维奇",
         "number": 24,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "门兴",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -56707,15 +57458,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -56733,7 +57484,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "门兴",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -56742,10 +57493,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642223624",
+        "id": "edindeko",
+        "name": "哲科",
         "number": 25,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "沙尔克",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -56753,15 +57505,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -56779,7 +57531,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "沙尔克",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -56832,10 +57584,11 @@ export const teams: Team[] = [
     ],
     "players": [
       {
-        "id": "p1780746422265",
+        "id": "matjkov",
+        "name": "科瓦日",
         "number": 1,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "PSV",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -56843,15 +57596,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -56869,7 +57622,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "PSV",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -56878,10 +57631,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222651",
+        "id": "jindichstank",
+        "name": "斯塔涅克",
         "number": 2,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "布拉格斯拉维亚",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -56889,15 +57643,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -56915,7 +57669,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "布拉格斯拉维亚",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -56924,10 +57678,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222652",
+        "id": "lukhornek",
+        "name": "霍尔尼切克",
         "number": 3,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "布拉加",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -56935,15 +57690,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -56961,7 +57716,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "布拉加",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -56970,10 +57725,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222653",
+        "id": "vladimrcoufal",
+        "name": "曹法尔",
         "number": 4,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "霍芬海姆",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -56981,15 +57737,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -57007,7 +57763,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "霍芬海姆",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -57016,10 +57772,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222654",
+        "id": "tomhole",
+        "name": "霍莱什",
         "number": 5,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "布拉格斯拉维亚",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -57027,15 +57784,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -57053,7 +57810,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "布拉格斯拉维亚",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -57062,10 +57819,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222655",
+        "id": "ladislavkrej",
+        "name": "克雷伊奇",
         "number": 6,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "狼队",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -57073,15 +57831,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -57099,7 +57857,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "狼队",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -57108,10 +57866,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222656",
+        "id": "davidzima",
+        "name": "齐马",
         "number": 7,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "布拉格斯拉维亚",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -57119,15 +57878,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -57145,7 +57904,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "布拉格斯拉维亚",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -57154,10 +57913,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222657",
+        "id": "jaroslavzelen",
+        "name": "泽莱尼",
         "number": 8,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "布拉格斯巴达",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -57165,15 +57925,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -57191,7 +57951,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "布拉格斯巴达",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -57200,10 +57960,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222658",
+        "id": "davidjursek",
+        "name": "尤拉塞克",
         "number": 9,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "布拉格斯拉维亚",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -57211,15 +57972,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -57237,7 +57998,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "布拉格斯拉维亚",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -57246,10 +58007,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222659",
+        "id": "daviddoudra",
+        "name": "多乌杰拉",
         "number": 10,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "布拉格斯拉维亚",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -57257,15 +58019,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -57283,7 +58045,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "布拉格斯拉维亚",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -57292,10 +58054,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226510",
+        "id": "robinhran",
+        "name": "赫拉纳奇",
         "number": 11,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "霍芬海姆",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -57303,15 +58066,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -57329,7 +58092,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "霍芬海姆",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -57338,10 +58101,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226511",
+        "id": "tpnchaloupek",
+        "name": "哈洛佩克",
         "number": 12,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "布拉格斯拉维亚",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -57349,15 +58113,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -57375,7 +58139,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "布拉格斯拉维亚",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -57384,10 +58148,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226512",
+        "id": "tomsouek",
+        "name": "绍切克",
         "number": 13,
         "position": "CM",
-        "club": "未知",
+        "club": "西汉姆联",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -57421,7 +58186,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "西汉姆联",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -57430,10 +58195,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226513",
+        "id": "vladimrdarida",
+        "name": "达里达",
         "number": 14,
         "position": "CM",
-        "club": "未知",
+        "club": "赫拉德茨",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -57467,7 +58233,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "赫拉德茨",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -57476,10 +58242,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226514",
+        "id": "lukprovod",
+        "name": "普罗沃德",
         "number": 15,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "布拉格斯拉维亚",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -57487,15 +58254,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -57513,7 +58280,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "布拉格斯拉维亚",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -57522,10 +58289,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226515",
+        "id": "michalsadlek",
+        "name": "萨迪莱克",
         "number": 16,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "布拉格斯拉维亚",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -57533,15 +58301,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -57559,7 +58327,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "布拉格斯拉维亚",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -57568,10 +58336,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226516",
+        "id": "pavelulc",
+        "name": "舒尔茨",
         "number": 17,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "里昂",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -57579,15 +58348,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -57605,7 +58374,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "里昂",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -57614,10 +58383,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226517",
+        "id": "lukerv",
+        "name": "切尔夫",
         "number": 18,
         "position": "CM",
-        "club": "未知",
+        "club": "比尔森胜利",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -57651,7 +58421,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "比尔森胜利",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -57660,10 +58430,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226518",
+        "id": "hugosochrek",
+        "name": "索胡雷克",
         "number": 19,
         "position": "CM",
-        "club": "未知",
+        "club": "布拉格斯巴达",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -57697,7 +58468,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "布拉格斯巴达",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -57706,10 +58477,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226519",
+        "id": "alexandrsojka",
+        "name": "索伊卡",
         "number": 20,
         "position": "CM",
-        "club": "未知",
+        "club": "比尔森胜利",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -57743,7 +58515,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "比尔森胜利",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -57752,10 +58524,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226520",
+        "id": "denisviinsk",
+        "name": "维辛斯基",
         "number": 21,
         "position": "CM",
-        "club": "未知",
+        "club": "比尔森胜利",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -57789,7 +58562,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "比尔森胜利",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -57798,10 +58571,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226521",
+        "id": "patrikschick",
+        "name": "希克",
         "number": 22,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "勒沃库森",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -57809,15 +58583,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -57835,7 +58609,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "勒沃库森",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -57844,10 +58618,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226522",
+        "id": "adamhloek",
+        "name": "赫洛热克",
         "number": 23,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "霍芬海姆",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -57855,15 +58630,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -57881,7 +58656,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "霍芬海姆",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -57890,10 +58665,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226523",
+        "id": "jankuchta",
+        "name": "库赫塔",
         "number": 24,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "布拉格斯巴达",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -57901,15 +58677,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -57927,7 +58703,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "布拉格斯巴达",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -57936,10 +58712,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226524",
+        "id": "mojmrchytil",
+        "name": "希蒂尔",
         "number": 25,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "布拉格斯拉维亚",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -57947,15 +58724,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -57973,7 +58750,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "布拉格斯拉维亚",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -57982,10 +58759,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226525",
+        "id": "tomchor",
+        "name": "霍里",
         "number": 26,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "布拉格斯拉维亚",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -57993,15 +58771,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -58019,7 +58797,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "布拉格斯拉维亚",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -58072,10 +58850,11 @@ export const teams: Team[] = [
     ],
     "players": [
       {
-        "id": "p1780746422359",
+        "id": "mertgnok",
+        "name": "古诺克",
         "number": 1,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "费内巴切",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -58083,15 +58862,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -58109,7 +58888,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "费内巴切",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -58118,10 +58897,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223591",
+        "id": "altaybayndr",
+        "name": "巴因德尔",
         "number": 2,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "曼联",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -58129,15 +58909,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -58155,7 +58935,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "曼联",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -58164,10 +58944,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223592",
+        "id": "uurcanakr",
+        "name": "查克尔",
         "number": 3,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "加拉塔萨雷",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -58175,15 +58956,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -58201,7 +58982,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "加拉塔萨雷",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -58210,10 +58991,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223593",
+        "id": "zekielik",
+        "name": "切利克",
         "number": 4,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "罗马",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -58221,15 +59003,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -58247,7 +59029,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "罗马",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -58256,10 +59038,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223594",
+        "id": "merihdemiral",
+        "name": "德米拉尔",
         "number": 5,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "吉达联合",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -58267,15 +59050,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -58293,7 +59076,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "吉达联合",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -58302,10 +59085,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223595",
+        "id": "alarsync",
+        "name": "瑟因居",
         "number": 6,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "费内巴切",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -58313,15 +59097,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -58339,7 +59123,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "费内巴切",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -58348,10 +59132,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223596",
+        "id": "erenelmal",
+        "name": "埃尔马勒",
         "number": 7,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "加拉塔萨雷",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -58359,15 +59144,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -58385,7 +59170,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "加拉塔萨雷",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -58394,10 +59179,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223597",
+        "id": "abdlkerimbardakc",
+        "name": "巴尔达克奇",
         "number": 8,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "加拉塔萨雷",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -58405,15 +59191,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -58431,7 +59217,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "加拉塔萨雷",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -58440,10 +59226,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223598",
+        "id": "ozankabak",
+        "name": "卡巴克",
         "number": 9,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "霍芬海姆",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -58451,15 +59238,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -58477,7 +59264,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "霍芬海姆",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -58486,10 +59273,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464223599",
+        "id": "mertmldr",
+        "name": "穆尔迪尔",
         "number": 10,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "费内巴切",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -58497,15 +59285,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -58523,7 +59311,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "费内巴切",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -58532,10 +59320,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642235910",
+        "id": "ferdikadolu",
+        "name": "卡迪奥卢",
         "number": 11,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "布莱顿",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -58543,15 +59332,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -58569,7 +59358,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "布莱顿",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -58578,10 +59367,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642235911",
+        "id": "sametakaydn",
+        "name": "阿卡伊丁",
         "number": 12,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "里泽斯堡",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -58589,15 +59379,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -58615,7 +59405,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "里泽斯堡",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -58624,10 +59414,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642235912",
+        "id": "salihzcan",
+        "name": "厄兹詹",
         "number": 13,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "多特蒙德",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -58635,15 +59426,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -58661,7 +59452,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "多特蒙德",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -58670,10 +59461,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642235913",
+        "id": "orkunkk",
+        "name": "科克曲",
         "number": 14,
         "position": "CM",
-        "club": "未知",
+        "club": "贝西克塔斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -58707,7 +59499,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "贝西克塔斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -58716,10 +59508,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642235914",
+        "id": "hakanalhanolu",
+        "name": "恰尔汗奥卢",
         "number": 15,
         "position": "CM",
-        "club": "未知",
+        "club": "国际米兰",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -58753,7 +59546,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "国际米兰",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -58762,10 +59555,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642235915",
+        "id": "ismailyksek",
+        "name": "尤克塞克",
         "number": 16,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "费内巴切",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -58773,15 +59567,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -58799,7 +59593,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "费内巴切",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -58808,10 +59602,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642235916",
+        "id": "kaanayhan",
+        "name": "阿伊汉",
         "number": 17,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "加拉塔萨雷",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -58819,15 +59614,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -58845,7 +59640,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "加拉塔萨雷",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -58854,10 +59649,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642235917",
+        "id": "keremaktrkolu",
+        "name": "阿克图尔科卢",
         "number": 18,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "费内巴切",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -58865,15 +59661,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -58891,7 +59687,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "费内巴切",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -58900,10 +59696,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642235918",
+        "id": "ardagler",
+        "name": "居莱尔",
         "number": 19,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "皇家马德里",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -58911,15 +59708,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -58937,7 +59734,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "皇家马德里",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -58946,10 +59743,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642235919",
+        "id": "denizgl",
+        "name": "居尔",
         "number": 20,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "波尔图",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -58957,15 +59755,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -58983,7 +59781,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "波尔图",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -58992,10 +59790,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642235920",
+        "id": "kenanyldz",
+        "name": "伊尔迪兹",
         "number": 21,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "尤文图斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -59003,15 +59802,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -59029,7 +59828,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "尤文图斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -59038,10 +59837,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642235921",
+        "id": "irfancankahveci",
+        "name": "卡赫维奇",
         "number": 22,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "卡瑟姆帕夏",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -59049,15 +59849,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -59075,7 +59875,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "卡瑟姆帕夏",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -59084,10 +59884,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642235922",
+        "id": "yunusakgn",
+        "name": "阿克金",
         "number": 23,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "加拉塔萨雷",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -59095,15 +59896,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -59121,7 +59922,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "加拉塔萨雷",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -59130,10 +59931,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642235923",
+        "id": "baralperylmaz",
+        "name": "伊尔马兹",
         "number": 24,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "加拉塔萨雷",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -59141,15 +59943,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -59167,7 +59969,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "加拉塔萨雷",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -59176,10 +59978,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642235924",
+        "id": "ouzaydn",
+        "name": "阿伊登",
         "number": 25,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "费内巴切",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -59187,15 +59990,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -59213,7 +60016,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "费内巴切",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -59222,10 +60025,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642235925",
+        "id": "canuzun",
+        "name": "乌尊",
         "number": 26,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "法兰克福",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -59233,15 +60037,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -59259,7 +60063,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "法兰克福",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -59312,10 +60116,11 @@ export const teams: Team[] = [
     ],
     "players": [
       {
-        "id": "p1780746422268",
+        "id": "matthieuepolo",
+        "name": "埃波洛",
         "number": 1,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "标准列日",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -59323,15 +60128,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -59349,7 +60154,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "标准列日",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -59358,10 +60163,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222681",
+        "id": "timothyfayulu",
+        "name": "法尤卢",
         "number": 2,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "诺亚FC",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -59369,15 +60175,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -59395,7 +60201,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "诺亚FC",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -59404,10 +60210,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222682",
+        "id": "lionelmpasi",
+        "name": "姆帕西",
         "number": 3,
-        "position": "CM",
-        "club": "未知",
+        "position": "GK",
+        "club": "勒阿弗尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -59415,15 +60222,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 8000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
         },
         "tournamentStats": {
           "appearances": 0,
@@ -59441,7 +60248,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "勒阿弗尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -59450,10 +60257,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222683",
+        "id": "dylanbatubinsika",
+        "name": "巴图宾西卡",
         "number": 4,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "拉里萨",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -59461,15 +60269,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -59487,7 +60295,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "拉里萨",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -59496,10 +60304,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222684",
+        "id": "rockybushiri",
+        "name": "布希里",
         "number": 5,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "希伯尼安",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -59507,15 +60316,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -59533,7 +60342,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "希伯尼安",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -59542,10 +60351,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222685",
+        "id": "gedeonkalulu",
+        "name": "卡卢卢",
         "number": 6,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "阿里斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -59553,15 +60363,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -59579,7 +60389,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿里斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -59588,10 +60398,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222686",
+        "id": "stevekapuadi",
+        "name": "卡普亚迪",
         "number": 7,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "维德泽夫",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -59599,15 +60410,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -59625,7 +60436,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "维德泽夫",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -59634,10 +60445,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222687",
+        "id": "joriskayembe",
+        "name": "卡耶姆贝",
         "number": 8,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "根特",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -59645,15 +60457,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -59671,7 +60483,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "根特",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -59680,10 +60492,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p1780746422269",
+        "id": "arthurmasuaku",
+        "name": "马苏亚库",
         "number": 9,
-        "position": "CM",
-        "club": "未知",
+        "position": "LB",
+        "club": "朗斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -59691,15 +60504,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -59717,7 +60530,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "朗斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -59726,10 +60539,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222691",
+        "id": "chancelmbemba",
+        "name": "姆本巴",
         "number": 10,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "里尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -59737,15 +60551,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -59763,7 +60577,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "里尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -59772,10 +60586,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222692",
+        "id": "axeltuanzebe",
+        "name": "图安泽贝",
         "number": 11,
-        "position": "CM",
-        "club": "未知",
+        "position": "CB",
+        "club": "伯恩利",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -59783,15 +60598,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 20000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -59809,7 +60624,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "伯恩利",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -59818,10 +60633,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222693",
+        "id": "aaronwanbissaka",
+        "name": "万-比萨卡",
         "number": 12,
-        "position": "CM",
-        "club": "未知",
+        "position": "RB",
+        "club": "西汉姆",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -59829,15 +60645,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 15000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 41,
+          "passing": 65,
+          "dribbling": 60,
+          "speed": 75,
+          "defense": 65,
+          "physical": 59
         },
         "tournamentStats": {
           "appearances": 0,
@@ -59855,7 +60671,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "西汉姆",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -59864,10 +60680,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222694",
+        "id": "thobongonda",
+        "name": "邦贡达",
         "number": 13,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "斯巴达克",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -59875,15 +60692,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -59901,7 +60718,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "斯巴达克",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -59910,10 +60727,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222695",
+        "id": "briancipenga",
+        "name": "西彭加",
         "number": 14,
-        "position": "CM",
-        "club": "未知",
+        "position": "LW",
+        "club": "卡斯特利翁",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -59921,15 +60739,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -59947,7 +60765,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "卡斯特利翁",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -59956,10 +60774,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222696",
+        "id": "meshackelia",
+        "name": "埃利亚",
         "number": 15,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "阿拉尼亚",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -59967,15 +60786,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -59993,7 +60812,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿拉尼亚",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -60002,10 +60821,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222697",
+        "id": "galkakuta",
+        "name": "卡库塔",
         "number": 16,
-        "position": "CM",
-        "club": "未知",
+        "position": "CAM",
+        "club": "拉里萨",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -60013,15 +60833,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 32000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
         },
         "tournamentStats": {
           "appearances": 0,
@@ -60039,7 +60859,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "拉里萨",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -60048,10 +60868,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222698",
+        "id": "edokayembe",
+        "name": "卡耶姆贝",
         "number": 17,
         "position": "CM",
-        "club": "未知",
+        "club": "沃特福德",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -60085,7 +60906,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "沃特福德",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -60094,10 +60915,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p17807464222699",
+        "id": "nathanaelmbuku",
+        "name": "姆布库",
         "number": 18,
-        "position": "CM",
-        "club": "未知",
+        "position": "RW",
+        "club": "蒙彼利埃",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -60105,15 +60927,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 35000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
         },
         "tournamentStats": {
           "appearances": 0,
@@ -60131,7 +60953,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "蒙彼利埃",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -60140,10 +60962,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226910",
+        "id": "samuelmoutoussamy",
+        "name": "穆图萨米",
         "number": 19,
         "position": "CM",
-        "club": "未知",
+        "club": "阿特罗米托斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -60177,7 +61000,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "阿特罗米托斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -60186,10 +61009,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226911",
+        "id": "ngalayelmukau",
+        "name": "穆考",
         "number": 20,
-        "position": "CM",
-        "club": "未知",
+        "position": "CDM",
+        "club": "里尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -60197,15 +61021,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 22000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
         },
         "tournamentStats": {
           "appearances": 0,
@@ -60223,7 +61047,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "里尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -60232,10 +61056,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226912",
+        "id": "charlespickel",
+        "name": "皮克尔",
         "number": 21,
         "position": "CM",
-        "club": "未知",
+        "club": "西班牙人",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -60269,7 +61094,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "西班牙人",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -60278,10 +61103,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226913",
+        "id": "noahsadiki",
+        "name": "萨迪基",
         "number": 22,
         "position": "CM",
-        "club": "未知",
+        "club": "桑德兰",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -60315,7 +61141,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "桑德兰",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -60324,10 +61150,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226914",
+        "id": "cdricbakambu",
+        "name": "巴坎布",
         "number": 23,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "皇家贝蒂斯",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -60335,15 +61162,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -60361,7 +61188,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "皇家贝蒂斯",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -60370,10 +61197,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226915",
+        "id": "simonbanza",
+        "name": "班扎",
         "number": 24,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "贾齐拉",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -60381,15 +61209,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -60407,7 +61235,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "贾齐拉",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -60416,10 +61244,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226916",
+        "id": "fistonmayele",
+        "name": "马耶莱",
         "number": 25,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "金字塔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -60427,15 +61256,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -60453,7 +61282,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "金字塔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
@@ -60462,10 +61291,11 @@ export const teams: Team[] = [
         }
       },
       {
-        "id": "p178074642226917",
+        "id": "yoanewissa",
+        "name": "维萨",
         "number": 26,
-        "position": "CM",
-        "club": "未知",
+        "position": "ST",
+        "club": "纽卡斯尔",
         "age": 26,
         "height": 178,
         "weight": 72,
@@ -60473,15 +61303,15 @@ export const teams: Team[] = [
         "flagCode": "",
         "preferredFoot": "右",
         "birthDate": "",
-        "marketValue": 28000000,
+        "marketValue": 40000000,
         "photoUrl": "",
         "abilities": {
-          "shooting": 65,
-          "passing": 81,
-          "dribbling": 70,
-          "speed": 65,
-          "defense": 60,
-          "physical": 69
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
         },
         "tournamentStats": {
           "appearances": 0,
@@ -60499,7 +61329,7 @@ export const teams: Team[] = [
           "majorTournaments": [],
           "clubs": [
             {
-              "clubName": "未知",
+              "clubName": "纽卡斯尔",
               "period": "至今",
               "appearances": 0,
               "goals": 0
