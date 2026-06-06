@@ -1,0 +1,682 @@
+$ curl -s http://localhost:8080/worldcup2026-players.html 2>&1
+[exit 0]
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>2026美加墨世界杯 · 球员数据库</title>
+<style>
+  :root {
+    --bg: #0f1117;
+    --card: #1a1d27;
+    --card-hover: #222636;
+    --text: #e4e6eb;
+    --text-secondary: #9a9da8;
+    --accent: #e4b837;
+    --accent2: #2ecc71;
+    --border: #2a2d3a;
+    --tag-bg: #252836;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+
+  /* ---- Header ---- */
+  .header {
+    text-align: center;
+    padding: 48px 20px 32px;
+    background: linear-gradient(135deg, #1a1d27 0%, #0f1117 60%, #1a2a1a 100%);
+    border-bottom: 2px solid var(--accent);
+    position: relative;
+    overflow: hidden;
+  }
+  .header::before {
+    content: '';
+    position: absolute;
+    top: -50%; left: -50%;
+    width: 200%; height: 200%;
+    background: radial-gradient(circle at 30% 50%, rgba(228,184,55,0.08) 0%, transparent 50%),
+                radial-gradient(circle at 70% 50%, rgba(46,204,113,0.06) 0%, transparent 50%);
+    animation: pulse 8s ease-in-out infinite;
+  }
+  @keyframes pulse {
+    0%, 100% { opacity: 0.5; }
+    50% { opacity: 1; }
+  }
+  .header h1 {
+    font-size: 2.2rem;
+    font-weight: 800;
+    letter-spacing: 2px;
+    position: relative;
+    color: #fff;
+  }
+  .header h1 span { color: var(--accent); }
+  .header p {
+    color: var(--text-secondary);
+    margin-top: 8px;
+    font-size: 1rem;
+    position: relative;
+  }
+
+  /* ---- Toolbar ---- */
+  .toolbar {
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 20px 20px 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    align-items: center;
+  }
+  .search-box {
+    flex: 1 1 260px;
+    position: relative;
+  }
+  .search-box input {
+    width: 100%;
+    padding: 12px 16px 12px 44px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    color: var(--text);
+    font-size: 0.95rem;
+    transition: all 0.25s;
+  }
+  .search-box input:focus {
+    outline: none;
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px rgba(228,184,55,0.15);
+  }
+  .search-box::before {
+    content: '🔍';
+    position: absolute;
+    left: 14px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 1rem;
+    pointer-events: none;
+  }
+  .filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .filters select {
+    padding: 10px 14px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    color: var(--text);
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: all 0.25s;
+  }
+  .filters select:focus {
+    outline: none;
+    border-color: var(--accent);
+  }
+  .stats-bar {
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 12px 20px;
+    color: var(--text-secondary);
+    font-size: 0.85rem;
+  }
+
+  /* ---- Grid ---- */
+  .grid {
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 16px 20px 40px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+    gap: 20px;
+  }
+
+  /* ---- Card ---- */
+  .card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 24px;
+    transition: all 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }
+  .card:hover {
+    background: var(--card-hover);
+    border-color: var(--accent);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 30px rgba(0,0,0,0.4);
+  }
+  .card-top {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+  .avatar {
+    width: 60px; height: 60px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, var(--accent), #c49b2a);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 1.6rem;
+    font-weight: 800;
+    color: #1a1d27;
+    flex-shrink: 0;
+    text-transform: uppercase;
+  }
+  .player-info { flex: 1; }
+  .player-name {
+    font-size: 1.15rem;
+    font-weight: 700;
+  }
+  .player-name-en {
+    font-size: 0.8rem;
+    color: var(--text-secondary);
+    font-weight: 400;
+  }
+  .player-meta {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-top: 4px;
+  }
+
+  /* ---- Tags ---- */
+  .tag {
+    display: inline-flex; align-items: center; gap: 4px;
+    padding: 3px 10px;
+    border-radius: 20px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+  .tag-flag { background: var(--tag-bg); color: var(--text-secondary); }
+  .tag-pos  { background: rgba(46,204,113,0.15); color: var(--accent2); }
+  .tag-club { background: rgba(52,152,219,0.12); color: #5dade2; }
+
+  /* ---- Value ---- */
+  .value-row {
+    display: flex; align-items: center; gap: 12px;
+    background: linear-gradient(90deg, rgba(228,184,55,0.08), transparent);
+    border-left: 3px solid var(--accent);
+    padding: 10px 14px;
+    border-radius: 0 8px 8px 0;
+  }
+  .value-amount {
+    font-size: 1.4rem;
+    font-weight: 800;
+    color: var(--accent);
+  }
+  .value-label {
+    font-size: 0.75rem;
+    color: var(--text-secondary);
+  }
+
+  /* ---- Table ---- */
+  .detail-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.82rem;
+  }
+  .detail-table td {
+    padding: 5px 8px;
+    border-bottom: 1px solid rgba(255,255,255,0.04);
+    vertical-align: top;
+  }
+  .detail-table td:first-child {
+    color: var(--text-secondary);
+    white-space: nowrap;
+    width: 60px;
+    font-weight: 500;
+  }
+  .detail-table td:last-child { color: var(--text); }
+
+  .wc-history {
+    margin-top: 4px;
+    border-top: 1px solid var(--border);
+    padding-top: 10px;
+  }
+  .wc-history-title {
+    font-size: 0.8rem;
+    color: var(--accent);
+    font-weight: 700;
+    margin-bottom: 6px;
+    display: flex; align-items: center; gap: 6px;
+  }
+
+  /* ---- Responsive ---- */
+  @media (max-width: 500px) {
+    .grid { grid-template-columns: 1fr; padding: 12px; }
+    .header h1 { font-size: 1.4rem; }
+    .toolbar { flex-direction: column; }
+    .filters { width: 100%; }
+    .filters select { flex: 1; }
+  }
+
+  .no-result {
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--text-secondary);
+    grid-column: 1 / -1;
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>🏆 <span>2026</span> 美加墨世界杯 · 球员数据库</h1>
+  <p>身高体重 · 身价估值 · 赛场表现 · 历届世界杯战绩</p>
+</div>
+
+<div class="toolbar">
+  <div class="search-box">
+    <input type="text" id="searchInput" placeholder="搜索球员姓名、球队、中文/英文名…" oninput="render()">
+  </div>
+  <div class="filters">
+    <select id="filterNation" onchange="render()">
+      <option value="">🌍 全部国家</option>
+    </select>
+    <select id="filterPos" onchange="render()">
+      <option value="">⚽ 全部位置</option>
+      <option value="FW">前锋</option>
+      <option value="MF">中场</option>
+      <option value="DF">后卫</option>
+      <option value="GK">门将</option>
+    </select>
+    <select id="filterTeam" onchange="render()">
+      <option value="">🏟️ 全部俱乐部</option>
+    </select>
+  </div>
+</div>
+<div class="stats-bar" id="statsBar"></div>
+<div class="grid" id="grid"></div>
+
+<script>
+// ========== 数据常量（一次写入，按需扩充） ==========
+const PLAYERS = [
+  // ---- 法国 ----
+  {
+    cn: "基利安·姆巴佩", en: "Kylian Mbappé",
+    nation: "法国", flag: "🇫🇷",
+    club: "皇家马德里", pos: "FW",
+    height: 178, weight: 75, age: 27,
+    value: 20000, valueUnit: "万欧元", valueNote: "德转身价 2亿€",
+    wcApps: 14, wcGoals: 12, wcAssists: 4,
+    wcHistory: "2018 冠军 (4球) · 2022 亚军 (8球·金靴) · 2026 ⬤",
+    awards: "2018世界杯冠军 · 2022世界杯金靴 · 2022世界杯银球",
+  },
+  {
+    cn: "迈克尔·奥利塞", en: "Michael Olise",
+    nation: "法国", flag: "🇫🇷",
+    club: "拜仁慕尼黑", pos: "FW",
+    height: 184, weight: 78, age: 24,
+    value: 15000, valueUnit: "万欧元", valueNote: "德转身价 1.5亿€",
+    wcApps: 0, wcGoals: 0, wcAssists: 0,
+    wcHistory: "2026 首次参赛 ⬤",
+    awards: "拜仁核心边锋 · 英超最佳阵容",
+  },
+  {
+    cn: "安托万·格列兹曼", en: "Antoine Griezmann",
+    nation: "法国", flag: "🇫🇷",
+    club: "马德里竞技", pos: "FW",
+    height: 176, weight: 70, age: 35,
+    value: 2500, valueUnit: "万欧元", valueNote: "德转身价 2500万€",
+    wcApps: 19, wcGoals: 8, wcAssists: 5,
+    wcHistory: "2014 八强 · 2018 冠军 (4球) · 2022 亚军 · 2026 ⬤",
+    awards: "2018世界杯冠军 · 2018世界杯银靴 · 2018世界杯铜球",
+  },
+  {
+    cn: "奥雷利安·楚阿梅尼", en: "Aurélien Tchouaméni",
+    nation: "法国", flag: "🇫🇷",
+    club: "皇家马德里", pos: "MF",
+    height: 187, weight: 82, age: 26,
+    value: 10000, valueUnit: "万欧元", valueNote: "德转身价 1亿€",
+    wcApps: 7, wcGoals: 1, wcAssists: 0,
+    wcHistory: "2022 亚军 · 2026 ⬤",
+    awards: "2022世界杯亚军",
+  },
+
+  // ---- 西班牙 ----
+  {
+    cn: "拉明·亚马尔", en: "Lamine Yamal",
+    nation: "西班牙", flag: "🇪🇸",
+    club: "巴塞罗那", pos: "FW",
+    height: 180, weight: 72, age: 18,
+    value: 20000, valueUnit: "万欧元", valueNote: "德转身价 2亿€",
+    wcApps: 0, wcGoals: 0, wcAssists: 0,
+    wcHistory: "2026 首次参赛 ⬤",
+    awards: "CIES身价4亿美元 · 巴萨核心 · 西甲最年轻纪录",
+  },
+  {
+    cn: "佩德里", en: "Pedri",
+    nation: "西班牙", flag: "🇪🇸",
+    club: "巴塞罗那", pos: "MF",
+    height: 174, weight: 65, age: 23,
+    value: 15000, valueUnit: "万欧元", valueNote: "德转身价 1.5亿€",
+    wcApps: 4, wcGoals: 0, wcAssists: 1,
+    wcHistory: "2022 十六强 · 2026 ⬤",
+    awards: "2021金童奖 · 欧洲杯最佳年轻球员",
+  },
+  {
+    cn: "罗德里", en: "Rodri",
+    nation: "西班牙", flag: "🇪🇸",
+    club: "曼彻斯特城", pos: "MF",
+    height: 191, weight: 82, age: 29,
+    value: 13000, valueUnit: "万欧元", valueNote: "德转身价 1.3亿€",
+    wcApps: 4, wcGoals: 0, wcAssists: 0,
+    wcHistory: "2022 十六强 · 2026 ⬤",
+    awards: "2024金球奖 · 欧冠冠军 · 英超四连冠",
+  },
+
+  // ---- 挪威 ----
+  {
+    cn: "埃尔林·哈兰德", en: "Erling Haaland",
+    nation: "挪威", flag: "🇳🇴",
+    club: "曼彻斯特城", pos: "FW",
+    height: 194, weight: 88, age: 25,
+    value: 20000, valueUnit: "万欧元", valueNote: "德转身价 2亿€",
+    wcApps: 0, wcGoals: 0, wcAssists: 0,
+    wcHistory: "2026 首次参赛 ⬤ (挪威时隔28年重返世界杯)",
+    awards: "欧冠冠军 · 英超金靴 ×3 · 英超三连冠",
+  },
+
+  // ---- 巴西 ----
+  {
+    cn: "维尼修斯·儒尼奥尔", en: "Vinícius Júnior",
+    nation: "巴西", flag: "🇧🇷",
+    club: "皇家马德里", pos: "FW",
+    height: 176, weight: 73, age: 25,
+    value: 15000, valueUnit: "万欧元", valueNote: "德转身价 1.5亿€",
+    wcApps: 5, wcGoals: 1, wcAssists: 2,
+    wcHistory: "2022 八强 · 2026 ⬤",
+    awards: "欧冠冠军 ×2 · FIFA最佳球员",
+  },
+  {
+    cn: "罗德里戈", en: "Rodrygo",
+    nation: "巴西", flag: "🇧🇷",
+    club: "皇家马德里", pos: "FW",
+    height: 174, weight: 68, age: 25,
+    value: 10000, valueUnit: "万欧元", valueNote: "德转身价 1亿€",
+    wcApps: 3, wcGoals: 0, wcAssists: 1,
+    wcHistory: "2022 八强 · 2026 ⬤",
+    awards: "欧冠冠军 ×2",
+  },
+
+  // ---- 英格兰 ----
+  {
+    cn: "裘德·贝林厄姆", en: "Jude Bellingham",
+    nation: "英格兰", flag: "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    club: "皇家马德里", pos: "MF",
+    height: 186, weight: 75, age: 22,
+    value: 14000, valueUnit: "万欧元", valueNote: "德转身价 1.4亿€",
+    wcApps: 5, wcGoals: 1, wcAssists: 2,
+    wcHistory: "2022 八强 · 2026 ⬤",
+    awards: "2023金童奖 · 西甲冠军 · 欧冠冠军",
+  },
+  {
+    cn: "哈里·凯恩", en: "Harry Kane",
+    nation: "英格兰", flag: "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    club: "拜仁慕尼黑", pos: "FW",
+    height: 188, weight: 89, age: 32,
+    value: 10000, valueUnit: "万欧元", valueNote: "德转身价 1亿€",
+    wcApps: 13, wcGoals: 10, wcAssists: 4,
+    wcHistory: "2018 第四名 (6球·金靴) · 2022 八强 (4球) · 2026 ⬤",
+    awards: "2018世界杯金靴 · 英格兰队史射手王 · 德甲金靴",
+  },
+
+  // ---- 葡萄牙 ----
+  {
+    cn: "克里斯蒂亚诺·罗纳尔多", en: "Cristiano Ronaldo",
+    nation: "葡萄牙", flag: "🇵🇹",
+    club: "利雅得胜利", pos: "FW",
+    height: 187, weight: 84, age: 41,
+    value: 500, valueUnit: "万欧元", valueNote: "德转身价 500万€",
+    wcApps: 22, wcGoals: 8, wcAssists: 2,
+    wcHistory: "2006 第四名 · 2010 十六强 · 2014 小组 · 2018 十六强 · 2022 八强 · 2026 ⬤ (连续6届)",
+    awards: "5届世界杯连续进球 · 葡萄牙队史射手王 · 5座金球奖",
+  },
+  {
+    cn: "若昂·内维斯", en: "João Neves",
+    nation: "葡萄牙", flag: "🇵🇹",
+    club: "巴黎圣日耳曼", pos: "MF",
+    height: 174, weight: 66, age: 21,
+    value: 14000, valueUnit: "万欧元", valueNote: "德转身价 1.4亿€",
+    wcApps: 0, wcGoals: 0, wcAssists: 0,
+    wcHistory: "2026 首次参赛 ⬤",
+    awards: "葡超最佳年轻球员 · 巴黎核心中场",
+  },
+  {
+    cn: "维蒂尼亚", en: "Vitinha",
+    nation: "葡萄牙", flag: "🇵🇹",
+    club: "巴黎圣日耳曼", pos: "MF",
+    height: 172, weight: 64, age: 26,
+    value: 14000, valueUnit: "万欧元", valueNote: "德转身价 1.4亿€",
+    wcApps: 3, wcGoals: 0, wcAssists: 0,
+    wcHistory: "2022 八强 · 2026 ⬤",
+    awards: "法甲最佳中场 · 巴黎核心组织者",
+  },
+
+  // ---- 阿根廷 ----
+  {
+    cn: "莱昂内尔·梅西", en: "Lionel Messi",
+    nation: "阿根廷", flag: "🇦🇷",
+    club: "迈阿密国际", pos: "FW",
+    height: 170, weight: 72, age: 38,
+    value: 1200, valueUnit: "万欧元", valueNote: "德转身价 1200万€",
+    wcApps: 26, wcGoals: 13, wcAssists: 9,
+    wcHistory: "2006 八强 · 2010 八强 · 2014 亚军 (金球) · 2018 十六强 · 2022 冠军🏆 (7球·金球) · 2026 ⬤ (第6届)",
+    awards: "2022世界杯冠军 · 2022世界杯金球 ×2 · 2014世界杯金球 · 8座金球奖",
+  },
+  {
+    cn: "胡利安·阿尔瓦雷斯", en: "Julián Álvarez",
+    nation: "阿根廷", flag: "🇦🇷",
+    club: "曼彻斯特城", pos: "FW",
+    height: 170, weight: 71, age: 26,
+    value: 9000, valueUnit: "万欧元", valueNote: "德转身价 9000万€",
+    wcApps: 7, wcGoals: 4, wcAssists: 1,
+    wcHistory: "2022 冠军🏆 (4球) · 2026 ⬤",
+    awards: "2022世界杯冠军 · 欧冠冠军 · 英超冠军",
+  },
+  {
+    cn: "恩佐·费尔南德斯", en: "Enzo Fernández",
+    nation: "阿根廷", flag: "🇦🇷",
+    club: "切尔西", pos: "MF",
+    height: 178, weight: 74, age: 25,
+    value: 7500, valueUnit: "万欧元", valueNote: "德转身价 7500万€",
+    wcApps: 7, wcGoals: 1, wcAssists: 2,
+    wcHistory: "2022 冠军🏆 · 2026 ⬤",
+    awards: "2022世界杯冠军 · 世界杯最佳年轻球员",
+  },
+
+  // ---- 德国 ----
+  {
+    cn: "贾马尔·穆西亚拉", en: "Jamal Musiala",
+    nation: "德国", flag: "🇩🇪",
+    club: "拜仁慕尼黑", pos: "MF",
+    height: 184, weight: 73, age: 23,
+    value: 14000, valueUnit: "万欧元", valueNote: "德转身价 1.4亿€",
+    wcApps: 3, wcGoals: 0, wcAssists: 0,
+    wcHistory: "2022 小组赛 · 2026 ⬤",
+    awards: "德国队核心 · 德甲最佳球员",
+  },
+  {
+    cn: "弗洛里安·维尔茨", en: "Florian Wirtz",
+    nation: "德国", flag: "🇩🇪",
+    club: "勒沃库森", pos: "MF",
+    height: 177, weight: 70, age: 23,
+    value: 13000, valueUnit: "万欧元", valueNote: "德转身价 1.3亿€",
+    wcApps: 0, wcGoals: 0, wcAssists: 0,
+    wcHistory: "2026 首次参赛 ⬤",
+    awards: "德甲冠军 · 德国杯冠军 · 最佳中场",
+  },
+
+  // ---- 克罗地亚 ----
+  {
+    cn: "卢卡·莫德里奇", en: "Luka Modrić",
+    nation: "克罗地亚", flag: "🇭🇷",
+    club: "皇家马德里", pos: "MF",
+    height: 172, weight: 66, age: 40,
+    value: 200, valueUnit: "万欧元", valueNote: "德转身价 200万€",
+    wcApps: 20, wcGoals: 2, wcAssists: 4,
+    wcHistory: "2014 小组 · 2018 亚军 (金球) · 2022 季军 · 2026 ⬤",
+    awards: "2018世界杯金球 · 2018金球奖 · 5座欧冠",
+  },
+
+  // ---- 厄瓜多尔 ----
+  {
+    cn: "莫伊塞斯·凯塞多", en: "Moisés Caicedo",
+    nation: "厄瓜多尔", flag: "🇪🇨",
+    club: "切尔西", pos: "MF",
+    height: 178, weight: 75, age: 24,
+    value: 12000, valueUnit: "万欧元", valueNote: "德转身价 1.2亿€",
+    wcApps: 3, wcGoals: 0, wcAssists: 0,
+    wcHistory: "2022 小组赛 · 2026 ⬤",
+    awards: "英超顶级防守中场 · 厄瓜多尔核心",
+  },
+
+  // ---- 瑞典 ----
+  {
+    cn: "亚历山大·伊萨克", en: "Alexander Isak",
+    nation: "瑞典", flag: "🇸🇪",
+    club: "纽卡斯尔联", pos: "FW",
+    height: 192, weight: 80, age: 26,
+    value: 15000, valueUnit: "万欧元", valueNote: "德转身价 1.5亿€",
+    wcApps: 0, wcGoals: 0, wcAssists: 0,
+    wcHistory: "2026 首次参赛 ⬤",
+    awards: "英超银靴 · 瑞典头号射手",
+  },
+
+  // ---- 乌拉圭 ----
+  {
+    cn: "费德里科·巴尔韦德", en: "Federico Valverde",
+    nation: "乌拉圭", flag: "🇺🇾",
+    club: "皇家马德里", pos: "MF",
+    height: 182, weight: 76, age: 27,
+    value: 13000, valueUnit: "万欧元", valueNote: "德转身价 1.3亿€",
+    wcApps: 3, wcGoals: 1, wcAssists: 0,
+    wcHistory: "2022 小组赛 · 2026 ⬤",
+    awards: "欧冠冠军 ×2 · 西甲冠军",
+  },
+];
+
+// ========== 渲染逻辑 ==========
+function buildFilterOptions() {
+  const nations = [...new Set(PLAYERS.map(p => p.nation))].sort();
+  const clubs   = [...new Set(PLAYERS.map(p => p.club))].sort();
+
+  const nationSel = document.getElementById('filterNation');
+  const teamSel   = document.getElementById('filterTeam');
+
+  nationSel.innerHTML = '<option value="">🌍 全部国家</option>';
+  nations.forEach(n => {
+    const p = PLAYERS.find(x => x.nation === n);
+    nationSel.innerHTML += `<option value="${n}">${p.flag} ${n}</option>`;
+  });
+
+  teamSel.innerHTML = '<option value="">🏟️ 全部俱乐部</option>';
+  clubs.forEach(c => {
+    teamSel.innerHTML += `<option value="${c}">${c}</option>`;
+  });
+}
+
+function render() {
+  const search   = document.getElementById('searchInput').value.toLowerCase().trim();
+  const nation   = document.getElementById('filterNation').value;
+  const position = document.getElementById('filterPos').value;
+  const club     = document.getElementById('filterTeam').value;
+
+  let filtered = PLAYERS.filter(p => {
+    if (nation && p.nation !== nation) return false;
+    if (position && p.pos !== position) return false;
+    if (club && p.club !== club) return false;
+    if (search) {
+      return (
+        p.cn.toLowerCase().includes(search) ||
+        p.en.toLowerCase().includes(search) ||
+        p.nation.includes(search) ||
+        p.club.toLowerCase().includes(search) ||
+        p.wcHistory.toLowerCase().includes(search)
+      );
+    }
+    return true;
+  });
+
+  // 默认按身价降序
+  filtered.sort((a, b) => b.value - a.value);
+
+  document.getElementById('statsBar').textContent =
+    `共 ${filtered.length} 位球员`;
+
+  const grid = document.getElementById('grid');
+  if (!filtered.length) {
+    grid.innerHTML = '<div class="no-result">😕 没有找到匹配的球员，试试其他关键词</div>';
+    return;
+  }
+
+  grid.innerHTML = filtered.map(p => {
+    const initials = p.cn[0];
+    const valText = p.value >= 10000
+      ? `${(p.value / 10000).toFixed(1)}亿€`
+      : `${p.value}万€`;
+
+    return `
+<div class="card">
+  <div class="card-top">
+    <div class="avatar">${initials}</div>
+    <div class="player-info">
+      <div class="player-name">${p.cn}</div>
+      <div class="player-name-en">${p.en}</div>
+      <div class="player-meta">
+        <span class="tag tag-flag">${p.flag} ${p.nation}</span>
+        <span class="tag tag-pos">${p.pos === 'FW' ? '前锋' : p.pos === 'MF' ? '中场' : p.pos === 'DF' ? '后卫' : '门将'}</span>
+        <span class="tag tag-club">${p.club}</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="value-row">
+    <div>
+      <div class="value-amount">${valText}</div>
+      <div class="value-label">德转身价 · ${p.age}岁</div>
+    </div>
+  </div>
+
+  <table class="detail-table">
+    <tr><td>📏 身高</td><td>${p.height}cm</td></tr>
+    <tr><td>⚖️ 体重</td><td>${p.weight}kg</td></tr>
+    <tr><td>🏟 本/往届出场</td><td>${p.wcApps} 场</td></tr>
+    <tr><td>⚽ 世界杯进球</td><td>${p.wcGoals} 球</td></tr>
+    <tr><td>🎯 世界杯助攻</td><td>${p.wcAssists} 次</td></tr>
+    <tr><td>🏅 主要荣誉</td><td style="font-size:0.78rem">${p.awards}</td></tr>
+  </table>
+
+  <div class="wc-history">
+    <div class="wc-history-title">🏆 世界杯旅程</div>
+    <div style="font-size:0.82rem; color: var(--text-secondary);">${p.wcHistory}</div>
+  </div>
+</div>`;
+  }).join('');
+}
+
+// 初始化
+buildFilterOptions();
+render();
+
+// 键盘快捷键 Ctrl+K 聚焦搜索
+document.addEventListener('keydown', e => {
+  if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
+    e.preventDefault();
+    document.getElementById('searchInput').focus();
+  }
+});
+</script>
+</body>
+</html>
