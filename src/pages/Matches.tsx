@@ -9,13 +9,12 @@ import {
   ChevronRight,
   Medal,
   Info,
-  Flag,
+  Star,
 } from "lucide-react"
 import { cn, formatBeijingTime, formatDate } from "@/lib/utils"
 import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ui/Tabs"
 import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/Card"
 import { Badge } from "@/components/ui/Badge"
-import { Button } from "@/components/ui/Button"
 import { FlagImage } from "@/components/shared/FlagImage"
 import { EmptyState } from "@/components/shared/EmptyState"
 import { DataStatusBadge } from "@/components/shared/DataStatusBadge"
@@ -45,28 +44,6 @@ function groupMatchesByDate(matchList: Match[]): { date: string; label: string; 
       label: formatDate(date),
       matches: ms.sort((a, b) => a.date.localeCompare(b.date)),
     }))
-}
-
-/** 按轮次分组比赛 */
-function groupMatchesByRound(matchList: Match[]): { round: Match["round"]; label: string; matches: Match[] }[] {
-  const order: Match["round"][] = ["小组赛", "32强", "16强", "8强", "4强", "季军赛", "决赛"]
-  const labels: Record<Match["round"], string> = {
-    小组赛: "小组赛（72场）",
-    "32强": "32强淘汰赛（16场）",
-    "16强": "16强淘汰赛（8场）",
-    "8强": "8强淘汰赛（4场）",
-    "4强": "半决赛（2场）",
-    季军赛: "季军赛",
-    决赛: "决赛",
-  }
-  const map = new Map<Match["round"], Match[]>()
-  matchList.forEach((m) => {
-    if (!map.has(m.round)) map.set(m.round, [])
-    map.get(m.round)!.push(m)
-  })
-  return order
-    .filter((r) => map.has(r))
-    .map((r) => ({ round: r, label: labels[r], matches: map.get(r)! }))
 }
 
 // ============================================
@@ -120,8 +97,118 @@ function DateSelector({
   )
 }
 
-/** 积分榜空状态 */
-function StandingsEmptyState({ group }: { group: string }) {
+/** 比赛卡片 —— 真实球队信息，无比分 */
+function GroupMatchCard({ match }: { match: Match }) {
+  const matchDate = new Date(match.date)
+  const homeTeam = getTeamById(match.homeTeamId)
+  const awayTeam = getTeamById(match.awayTeamId)
+  const isOpeningMatch = match.id === "m003"
+
+  return (
+    <div
+      className={cn(
+        "flex items-start gap-3 p-3 rounded-lg border transition-all duration-200",
+        isOpeningMatch
+          ? "border-amber-500/30 bg-amber-950/10"
+          : "border-border/50 bg-card/50 hover:border-primary/20"
+      )}
+    >
+      {/* 日期列 */}
+      <div className="shrink-0 flex flex-col items-center w-14 text-center">
+        <span className="text-xs font-semibold text-primary">
+          {matchDate.toLocaleDateString("zh-CN", { month: "short" })}
+        </span>
+        <span className="text-lg font-bold tabular-nums">
+          {matchDate.getDate()}
+        </span>
+        <span className="text-[10px] text-muted-foreground">
+          {matchDate.toLocaleDateString("zh-CN", { weekday: "short" })}
+        </span>
+      </div>
+
+      {/* 比赛信息 */}
+      <div className="flex-1 min-w-0">
+        {/* 标签行 */}
+        <div className="flex items-center gap-2 mb-2">
+          <Badge variant="info" className="text-[10px]">{match.group}组</Badge>
+          <DataStatusBadge status="pending" className="text-[10px]" />
+          {isOpeningMatch && (
+            <span className="flex items-center gap-0.5 text-[10px] text-amber-500 font-medium ml-auto">
+              <Star className="h-3 w-3" />
+              开幕战
+            </span>
+          )}
+        </div>
+
+        {/* 双方国旗 + 时间 */}
+        <div className="flex items-center justify-center gap-3 py-2">
+          {/* 主队 */}
+          <div className="flex flex-col items-center gap-1 w-16">
+            {homeTeam ? (
+              <>
+                <FlagImage code={homeTeam.flagCode} alt={homeTeam.name} size="md" />
+                <span className="text-[11px] font-medium text-center leading-tight">
+                  {homeTeam.name}
+                </span>
+              </>
+            ) : (
+              <>
+                <div className="w-7 h-5 rounded-sm bg-muted/50 flex items-center justify-center">
+                  <span className="text-[10px] text-muted-foreground/40">?</span>
+                </div>
+                <span className="text-[10px] text-muted-foreground">待定</span>
+              </>
+            )}
+          </div>
+
+          {/* 北京时间 */}
+          <div className="flex flex-col items-center gap-0.5 shrink-0 mx-1">
+            <span className="text-sm font-bold text-foreground tabular-nums">
+              {formatBeijingTime(match.date)}
+            </span>
+            <span className="text-[10px] text-muted-foreground">北京时间</span>
+          </div>
+
+          {/* 客队 */}
+          <div className="flex flex-col items-center gap-1 w-16">
+            {awayTeam ? (
+              <>
+                <FlagImage code={awayTeam.flagCode} alt={awayTeam.name} size="md" />
+                <span className="text-[11px] font-medium text-center leading-tight">
+                  {awayTeam.name}
+                </span>
+              </>
+            ) : (
+              <>
+                <div className="w-7 h-5 rounded-sm bg-muted/50 flex items-center justify-center">
+                  <span className="text-[10px] text-muted-foreground/40">?</span>
+                </div>
+                <span className="text-[10px] text-muted-foreground">待定</span>
+              </>
+            )}
+          </div>
+        </div>
+
+        {/* 底部场馆 */}
+        <p className="text-center text-[10px] text-muted-foreground flex items-center justify-center gap-1 mt-1">
+          <MapPin className="h-3 w-3" />
+          {match.venue} · {match.city}
+        </p>
+      </div>
+    </div>
+  )
+}
+
+/** 积分榜面板 —— 显示真实球队，全部积分0 */
+function GroupStandingsPanel({ group }: { group: string }) {
+  const standingsData = useMemo(() => {
+    return groupStandings.find((gs) => gs.group === group)
+  }, [group])
+
+  if (!standingsData) {
+    return <EmptyState message={`${group}组暂无积分数据`} />
+  }
+
   return (
     <Card>
       <CardHeader>
@@ -140,7 +227,7 @@ function StandingsEmptyState({ group }: { group: string }) {
               <tr className="border-b border-border text-muted-foreground">
                 <th className="text-left py-3 px-2 w-10">#</th>
                 <th className="text-left py-3 px-2">球队</th>
-                <th className="text-center py-3 px-2 w-8">场</th>
+                <th className="text-center py-3 px-2 w-10">场</th>
                 <th className="text-center py-3 px-2 w-8">胜</th>
                 <th className="text-center py-3 px-2 w-8">平</th>
                 <th className="text-center py-3 px-2 w-8">负</th>
@@ -151,33 +238,55 @@ function StandingsEmptyState({ group }: { group: string }) {
               </tr>
             </thead>
             <tbody>
-              {[1, 2, 3, 4].map((pos) => (
-                <tr key={pos} className="border-b border-border/30">
-                  <td className="py-3 px-2">
-                    <span className="inline-flex items-center justify-center w-6 h-6 rounded text-xs font-bold text-muted-foreground/40">
-                      {pos}
-                    </span>
-                  </td>
-                  <td className="py-3 px-2">
-                    <span className="text-muted-foreground/40 italic">待定</span>
-                  </td>
-                  <td className="text-center py-3 px-2 text-muted-foreground/40 tabular-nums">-</td>
-                  <td className="text-center py-3 px-2 text-muted-foreground/40 tabular-nums">-</td>
-                  <td className="text-center py-3 px-2 text-muted-foreground/40 tabular-nums">-</td>
-                  <td className="text-center py-3 px-2 text-muted-foreground/40 tabular-nums">-</td>
-                  <td className="text-center py-3 px-2 text-muted-foreground/40 tabular-nums">-</td>
-                  <td className="text-center py-3 px-2 text-muted-foreground/40 tabular-nums">-</td>
-                  <td className="text-center py-3 px-2 text-muted-foreground/40 tabular-nums">-</td>
-                  <td className="text-center py-3 px-2 text-muted-foreground/40 tabular-nums">-</td>
-                </tr>
-              ))}
+              {standingsData.standings.map((standing) => {
+                const team = getTeamById(standing.teamId)
+                return (
+                  <tr key={standing.teamId} className="border-b border-border/30 hover:bg-muted/20 transition-colors">
+                    <td className="py-3 px-2">
+                      <span className="inline-flex items-center justify-center w-6 h-6 rounded text-xs font-bold text-muted-foreground">
+                        {standing.rank}
+                      </span>
+                    </td>
+                    <td className="py-3 px-2">
+                      <div className="flex items-center gap-2">
+                        {team ? (
+                          <>
+                            <FlagImage code={team.flagCode} alt={team.name} size="sm" />
+                            <div className="min-w-0">
+                              <span className="text-sm font-medium">{team.name}</span>
+                              <span className="text-[10px] text-muted-foreground ml-1">
+                                FIFA {team.fifaRank}
+                              </span>
+                            </div>
+                          </>
+                        ) : (
+                          <>
+                            <div className="w-5 h-3.5 rounded-sm bg-muted/50 flex items-center justify-center">
+                              <span className="text-[9px] text-muted-foreground/40">?</span>
+                            </div>
+                            <span className="text-sm text-muted-foreground/50 italic">附加赛晋级</span>
+                          </>
+                        )}
+                      </div>
+                    </td>
+                    <td className="text-center py-3 px-2 tabular-nums">{standing.played}</td>
+                    <td className="text-center py-3 px-2 tabular-nums">{standing.won}</td>
+                    <td className="text-center py-3 px-2 tabular-nums">{standing.drawn}</td>
+                    <td className="text-center py-3 px-2 tabular-nums">{standing.lost}</td>
+                    <td className="text-center py-3 px-2 tabular-nums">{standing.goalsFor}</td>
+                    <td className="text-center py-3 px-2 tabular-nums">{standing.goalsAgainst}</td>
+                    <td className="text-center py-3 px-2 tabular-nums">{standing.goalDifference}</td>
+                    <td className="text-center py-3 px-2 font-bold tabular-nums">{standing.points}</td>
+                  </tr>
+                )
+              })}
             </tbody>
           </table>
         </div>
         <div className="mt-4 p-3 rounded-lg bg-gray-100 dark:bg-gray-800/50 border border-gray-200 dark:border-gray-700">
           <p className="text-xs text-muted-foreground flex items-center gap-1.5">
             <Info className="h-3.5 w-3.5" />
-            小组赛尚未开始，积分榜待更新。抽签后各队将被分配至具体小组。
+            小组赛尚未开始，全部球队积分均为0。比赛将于2026年6月11日正式开赛，届时积分榜将实时更新。
           </p>
         </div>
       </CardContent>
@@ -185,136 +294,76 @@ function StandingsEmptyState({ group }: { group: string }) {
   )
 }
 
-/** 赛程框架卡片（无比分，仅日期+场馆） */
-function MatchFrameworkCard({ match, isFirst }: { match: Match; isFirst?: boolean }) {
-  const matchDate = new Date(match.date)
-  const daysUntil = Math.max(
-    0,
-    Math.ceil((matchDate.getTime() - Date.now()) / (1000 * 60 * 60 * 24))
-  )
-  const isOpeningMatch = match.id === "m003" // 墨西哥城阿兹特克开幕战
-
-  return (
-    <div
-      className={cn(
-        "flex items-start gap-3 p-3 rounded-lg border border-border/50 bg-card/50",
-        isOpeningMatch && "border-amber-500/30 bg-amber-950/10"
-      )}
-    >
-      <div className="shrink-0 flex flex-col items-center w-14 text-center">
-        <span className="text-xs font-semibold text-primary">
-          {matchDate.toLocaleDateString("zh-CN", { month: "short" })}
-        </span>
-        <span className="text-lg font-bold tabular-nums">
-          {matchDate.getDate()}
-        </span>
-        <span className="text-[10px] text-muted-foreground">
-          {matchDate.toLocaleDateString("zh-CN", { weekday: "short" })}
-        </span>
-      </div>
-      <div className="flex-1 min-w-0">
-        <div className="flex items-center gap-2 mb-1">
-          <Badge variant="info" className="text-[10px]">{match.round}</Badge>
-          {isOpeningMatch && (
-            <Badge variant="warning" className="text-[10px]">开幕战</Badge>
-          )}
-          {isFirst && (
-            <span className="text-[10px] text-amber-500 font-medium ml-auto">
-              {daysUntil}天后
-            </span>
-          )}
-        </div>
-        <div className="flex items-center justify-center gap-4 py-3">
-          <div className="flex flex-col items-center gap-1">
-            <div className="w-10 h-7 rounded-sm bg-muted/50 flex items-center justify-center">
-              <Flag className="h-5 w-5 text-muted-foreground/40" />
-            </div>
-            <span className="text-[10px] text-muted-foreground">待抽签</span>
-          </div>
-          <div className="text-center">
-            <span className="text-sm font-bold text-muted-foreground">
-              {formatBeijingTime(match.date)}
-            </span>
-            <p className="text-[10px] text-muted-foreground mt-0.5">北京时间</p>
-          </div>
-          <div className="flex flex-col items-center gap-1">
-            <div className="w-10 h-7 rounded-sm bg-muted/50 flex items-center justify-center">
-              <Flag className="h-5 w-5 text-muted-foreground/40" />
-            </div>
-            <span className="text-[10px] text-muted-foreground">待抽签</span>
-          </div>
-        </div>
-        <p className="text-center text-[10px] text-muted-foreground flex items-center justify-center gap-1">
-          <MapPin className="h-3 w-3" />
-          {match.venue} · {match.city}
-        </p>
-      </div>
-    </div>
-  )
-}
-
-/** 淘汰赛对阵树 —— 全部待定 */
+/** 淘汰赛对阵框架 —— 全部待定 */
 function KnockoutBracketPlaceholder() {
   const rounds = [
-    { name: "32强", count: 16, color: "border-gray-500/30" },
-    { name: "16强", count: 8, color: "border-gray-500/30" },
-    { name: "8强", count: 4, color: "border-gray-500/30" },
-    { name: "半决赛", count: 2, color: "border-gray-500/30" },
-    { name: "季军赛", count: 1, color: "border-gray-500/30" },
-    { name: "决赛", count: 1, color: "border-amber-500/40" },
+    { name: "32强", count: 16, date: "7月1日 - 7月4日" },
+    { name: "16强", count: 8, date: "7月6日 - 7月9日" },
+    { name: "8强", count: 4, date: "7月11日 - 7月12日" },
+    { name: "半决赛", count: 2, date: "7月14日 - 7月15日" },
+    { name: "季军赛", count: 1, date: "7月18日", venue: "硬石体育场 · 迈阿密" },
+    { name: "决赛", count: 1, date: "7月19日", venue: "大都会人寿体育场 · 东卢瑟福" },
   ]
 
   return (
     <div className="space-y-4">
-      {/* 对阵树概览 —— 用轮次卡片代替 */}
+      {/* 对阵树概览 */}
       <div className="flex items-start gap-3 md:gap-4 overflow-x-auto pb-4 scrollbar-hide min-w-[600px]">
         {rounds.map((round, idx) => (
           <div key={round.name} className="flex items-center gap-3 md:gap-4">
             <div className="flex flex-col gap-2 shrink-0">
-              <p className="text-xs text-muted-foreground font-medium text-center">
+              <p className="text-xs text-muted-foreground font-medium text-center whitespace-nowrap">
                 {round.name}
               </p>
               <div
                 className={cn(
                   "rounded-lg border p-3 min-w-[130px] bg-card",
-                  round.color,
-                  round.name === "决赛" && "shadow-lg shadow-amber-500/5 bg-amber-950/10"
+                  round.name === "决赛"
+                    ? "border-amber-500/40 shadow-lg shadow-amber-500/5 bg-amber-950/10"
+                    : "border-gray-500/30"
                 )}
               >
+                <p className="text-[10px] text-muted-foreground/60 text-center mb-2">
+                  {round.date}
+                </p>
+
+                {/* 对阵占位 */}
                 {round.name === "决赛" || round.name === "季军赛" ? (
                   <>
-                    <p className="text-[10px] text-muted-foreground text-center mb-2">
-                      {round.name === "决赛" ? "2026年7月19日" : "2026年7月18日"}
-                    </p>
                     <div className="flex flex-col gap-1.5">
-                      <div className="flex items-center gap-2">
-                        <div className="w-4 h-3 rounded-sm bg-muted/50" />
+                      <div className="flex items-center gap-2 py-0.5">
+                        <div className="w-5 h-3.5 rounded-sm bg-muted/40 shrink-0" />
                         <span className="text-xs text-muted-foreground/50 italic">待定</span>
                       </div>
                       <div className="border-t border-border/20" />
-                      <div className="flex items-center gap-2">
-                        <div className="w-4 h-3 rounded-sm bg-muted/50" />
+                      <div className="flex items-center gap-2 py-0.5">
+                        <div className="w-5 h-3.5 rounded-sm bg-muted/40 shrink-0" />
                         <span className="text-xs text-muted-foreground/50 italic">待定</span>
                       </div>
                     </div>
+                    {round.venue && (
+                      <p className="text-[10px] text-muted-foreground/50 text-center mt-2">
+                        {round.venue}
+                      </p>
+                    )}
                     {round.name === "决赛" && (
-                      <div className="flex items-center justify-center gap-1 mt-2">
+                      <div className="flex items-center justify-center gap-1 mt-1.5">
                         <Medal className="h-3.5 w-3.5 text-amber-400" />
                         <span className="text-[10px] font-bold text-amber-400">冠军</span>
                       </div>
                     )}
                   </>
                 ) : (
-                  <div className="space-y-2">
+                  <div className="space-y-1.5">
                     {Array.from({ length: Math.min(round.count, 4) }).map((_, i) => (
                       <div key={i} className="flex items-center gap-2 py-0.5">
-                        <div className="w-4 h-3 rounded-sm bg-muted/50 shrink-0" />
+                        <div className="w-5 h-3.5 rounded-sm bg-muted/40 shrink-0" />
                         <span className="text-xs text-muted-foreground/50 italic">待定</span>
                       </div>
                     ))}
                     {round.count > 4 && (
                       <p className="text-[10px] text-muted-foreground/40 text-center">
-                        ... 共{round.count}场
+                        ... 共{round.count}场比赛
                       </p>
                     )}
                   </div>
@@ -338,16 +387,20 @@ function KnockoutBracketPlaceholder() {
 // ============================================
 
 export default function Matches() {
-  // 按日期分组的比赛
-  const dateGroups = useMemo(() => groupMatchesByDate(matches), [])
+  // 仅取小组赛（72场）
+  const groupMatches = useMemo(() => {
+    return matches.filter((m) => m.round === "小组赛")
+  }, [])
 
-  // 按轮次分组的比赛（用于赛程框架展示）
-  const roundGroups = useMemo(() => groupMatchesByRound(matches), [])
+  // 按日期分组
+  const dateGroups = useMemo(() => groupMatchesByDate(groupMatches), [groupMatches])
 
-  // 状态
+  // 当前选中的日期
   const [selectedDate, setSelectedDate] = useState(() => {
     return dateGroups.length > 0 ? dateGroups[0].date : ""
   })
+
+  // 当前积分榜小组
   const [activeStandingsGroup, setActiveStandingsGroup] = useState("A")
 
   // 当前选中日期的比赛
@@ -355,11 +408,6 @@ export default function Matches() {
     const group = dateGroups.find((dg) => dg.date === selectedDate)
     return group ? group.matches : []
   }, [dateGroups, selectedDate])
-
-  // 当前积分榜数据
-  const currentGroupStandings = useMemo(() => {
-    return groupStandings.find((gs) => gs.group === activeStandingsGroup)
-  }, [activeStandingsGroup])
 
   return (
     <main className="min-h-screen">
@@ -377,7 +425,7 @@ export default function Matches() {
               <DataStatusBadge status="pending" />
             </div>
             <p className="text-muted-foreground mt-2">
-              赛程框架、积分榜与淘汰赛对阵 —— 抽签尚未进行，对阵信息待FIFA公布
+              小组赛赛程、积分榜与淘汰赛对阵 —— 抽签已于2025年12月完成，全部对阵已公布
             </p>
           </motion.div>
         </div>
@@ -389,7 +437,7 @@ export default function Matches() {
           <TabsList className="w-full md:w-auto flex overflow-x-auto scrollbar-hide">
             <TabsTrigger value="schedule" className="gap-1.5">
               <Calendar className="h-4 w-4" />
-              <span className="hidden sm:inline">赛程框架</span>
+              <span className="hidden sm:inline">小组赛赛程</span>
               <span className="sm:hidden">赛程</span>
             </TabsTrigger>
             <TabsTrigger value="standings" className="gap-1.5">
@@ -404,7 +452,7 @@ export default function Matches() {
             </TabsTrigger>
           </TabsList>
 
-          {/* ==================== Tab① 赛程框架 ==================== */}
+          {/* ==================== Tab① 小组赛赛程 ==================== */}
           <TabsContent value="schedule">
             <motion.div
               initial="hidden"
@@ -412,7 +460,7 @@ export default function Matches() {
               variants={fadeIn}
               className="space-y-6"
             >
-              {/* 数据状态提示 */}
+              {/* 数据概览 */}
               <div className="p-4 rounded-lg bg-gray-100 dark:bg-gray-800/50 border border-gray-200 dark:border-gray-700 space-y-2">
                 <div className="flex items-center gap-2">
                   <Info className="h-4 w-4 text-primary" />
@@ -420,7 +468,8 @@ export default function Matches() {
                   <DataStatusBadge status="pending" />
                 </div>
                 <p className="text-sm text-muted-foreground">
-                  2026世界杯抽签尚未进行，具体对阵待FIFA公布。以下为已知的比赛日期框架与场馆信息。所有比赛的对阵双方、开球细节将在抽签后更新。
+                  2026世界杯抽签已于2025年12月5日完成。48支球队分入12个小组（A-L），72场小组赛对阵已全部确定。
+                  所有比赛尚未开赛，比分为空。比赛开始后将实时更新。
                 </p>
                 <div className="flex flex-wrap gap-2 text-xs text-muted-foreground mt-1">
                   <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded bg-muted/50">
@@ -435,11 +484,9 @@ export default function Matches() {
                 </div>
               </div>
 
-              {/* 切换：按日期 / 按轮次 */}
+              {/* 比赛数量 */}
               <div className="flex gap-2 flex-wrap">
-                <Badge variant="info">
-                  共 {matches.length} 场比赛框架
-                </Badge>
+                <Badge variant="info">共 {groupMatches.length} 场小组赛</Badge>
               </div>
 
               {/* 按日期浏览 */}
@@ -480,12 +527,8 @@ export default function Matches() {
                             </Badge>
                           </div>
                           <div className="space-y-2">
-                            {selectedDateMatches.map((match, idx) => (
-                              <MatchFrameworkCard
-                                key={match.id}
-                                match={match}
-                                isFirst={idx === 0}
-                              />
+                            {selectedDateMatches.map((match) => (
+                              <GroupMatchCard key={match.id} match={match} />
                             ))}
                           </div>
                         </>
@@ -497,58 +540,67 @@ export default function Matches() {
                 </div>
               </div>
 
-              {/* 按轮次总览 */}
+              {/* 赛程总览 */}
               <div className="mt-8">
                 <h3 className="text-lg font-semibold mb-4 flex items-center gap-2">
                   <Clock className="h-4 w-4 text-primary" />
-                  赛程框架总览
+                  小组赛赛程总览
                 </h3>
-                <div className="space-y-4">
-                  {roundGroups.map((rg) => {
-                    // 取该轮次的第一场和最后一场日期
-                    const dates = rg.matches.map((m) => new Date(m.date))
-                    const firstDate = dates[0]
-                    const lastDate = dates[dates.length - 1]
-                    const fmtRange = firstDate && lastDate
-                      ? `${firstDate.toLocaleDateString("zh-CN", { month: "short", day: "numeric" })} — ${lastDate.toLocaleDateString("zh-CN", { month: "short", day: "numeric" })}`
-                      : ""
+                <div className="space-y-3">
+                  {dateGroups.map((dg) => {
+                    const firstMatch = dg.matches[0]
+                    const lastMatch = dg.matches[dg.matches.length - 1]
+                    const timeRange =
+                      firstMatch && lastMatch
+                        ? `${formatBeijingTime(firstMatch.date)} - ${formatBeijingTime(lastMatch.date)}`
+                        : ""
                     return (
-                      <div key={rg.round} className="rounded-lg border border-border bg-card/50 p-4">
-                        <div className="flex items-center justify-between mb-3">
+                      <div
+                        key={dg.date}
+                        className="rounded-lg border border-border bg-card/50 p-3"
+                      >
+                        <div className="flex items-center justify-between mb-2">
                           <div className="flex items-center gap-2">
-                            <h4 className="font-semibold text-sm">{rg.label}</h4>
-                            <Badge variant="info">{rg.matches.length}场</Badge>
+                            <h4 className="font-semibold text-sm">{dg.label}</h4>
+                            <Badge variant="info">{dg.matches.length}场</Badge>
                           </div>
-                          <span className="text-xs text-muted-foreground">{fmtRange}</span>
+                          <span className="text-xs text-muted-foreground">{timeRange}</span>
                         </div>
-                        <div className="space-y-1.5">
-                          {rg.matches.slice(0, 6).map((m) => (
-                            <div
-                              key={m.id}
-                              className="flex items-center gap-3 text-xs text-muted-foreground py-1 px-2 rounded hover:bg-muted/30 transition-colors"
-                            >
-                              <span className="w-12 shrink-0 tabular-nums">
-                                {new Date(m.date).toLocaleDateString("zh-CN", { month: "short", day: "2-digit" })}
-                              </span>
-                              <Clock className="h-3 w-3 shrink-0" />
-                              <span className="w-14 shrink-0 tabular-nums">
-                                {formatBeijingTime(m.date)}
-                              </span>
-                              <MapPin className="h-3 w-3 shrink-0" />
-                              <span className="truncate">{m.venue} · {m.city}</span>
-                              {m.id === "m003" && (
-                                <span className="shrink-0 text-[10px] text-amber-500 font-medium">开幕战</span>
-                              )}
-                              {m.id === "m104" && (
-                                <span className="shrink-0 text-[10px] text-amber-500 font-medium">决赛</span>
-                              )}
-                            </div>
-                          ))}
-                          {rg.matches.length > 6 && (
-                            <p className="text-[10px] text-muted-foreground/60 text-center pt-1">
-                              ... 还有 {rg.matches.length - 6} 场比赛
-                            </p>
-                          )}
+                        <div className="space-y-1">
+                          {dg.matches.map((m) => {
+                            const homeTeam = getTeamById(m.homeTeamId)
+                            const awayTeam = getTeamById(m.awayTeamId)
+                            return (
+                              <div
+                                key={m.id}
+                                className={cn(
+                                  "flex items-center gap-2 text-xs text-muted-foreground py-1 px-2 rounded transition-colors",
+                                  m.id === "m003"
+                                    ? "bg-amber-950/10 text-amber-600"
+                                    : "hover:bg-muted/30"
+                                )}
+                              >
+                                <span className="w-12 shrink-0 tabular-nums">
+                                  {formatBeijingTime(m.date)}
+                                </span>
+                                <span className="w-16 shrink-0 text-right truncate font-medium">
+                                  {homeTeam?.name ?? "待定"}
+                                </span>
+                                <span className="text-[10px] text-muted-foreground/50">vs</span>
+                                <span className="w-16 shrink-0 text-left truncate font-medium">
+                                  {awayTeam?.name ?? "待定"}
+                                </span>
+                                <Badge variant="default" className="text-[9px] ml-auto shrink-0">
+                                  {m.group}组
+                                </Badge>
+                                {m.id === "m003" && (
+                                  <span className="shrink-0 text-[9px] text-amber-500 font-medium">
+                                    开幕战
+                                  </span>
+                                )}
+                              </div>
+                            )
+                          })}
                         </div>
                       </div>
                     )
@@ -574,7 +626,8 @@ export default function Matches() {
                   <DataStatusBadge status="pending" />
                 </div>
                 <p className="text-sm text-muted-foreground">
-                  小组赛尚未开始，所有积分榜均为初始状态。抽签尚未进行，各队小组分配待FIFA公布。比赛开始后将实时更新比赛数据与积分排名。
+                  小组赛尚未开始，所有球队积分均为0。抽签已于2025年12月完成，12个小组对阵已公布。
+                  比赛开始后将实时更新积分榜数据。
                 </p>
               </div>
 
@@ -596,12 +649,12 @@ export default function Matches() {
                 ))}
               </div>
 
-              {/* 积分榜空状态 */}
-              <StandingsEmptyState group={activeStandingsGroup} />
+              {/* 积分榜面板 */}
+              <GroupStandingsPanel group={activeStandingsGroup} />
             </motion.div>
           </TabsContent>
 
-          {/* ==================== Tab③ 淘汰赛对阵树 ==================== */}
+          {/* ==================== Tab③ 淘汰赛对阵 ==================== */}
           <TabsContent value="bracket">
             <motion.div
               initial="hidden"
@@ -617,7 +670,7 @@ export default function Matches() {
                   <DataStatusBadge status="pending" />
                 </div>
                 <p className="text-sm text-muted-foreground">
-                  所有淘汰赛对阵将在小组赛结束后确定。以下为赛事对阵结构框架展示。
+                  所有淘汰赛对阵将在小组赛结束后确定。以下为赛事对阵结构框架展示，全部球队待定。
                 </p>
               </div>
 

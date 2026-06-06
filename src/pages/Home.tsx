@@ -11,8 +11,9 @@ import {
   Clock,
   Newspaper,
   ChevronRight,
+  Star,
 } from "lucide-react"
-import { cn } from "@/lib/utils"
+import { cn, formatBeijingTime } from "@/lib/utils"
 import { Button } from "@/components/ui/Button"
 import { Badge } from "@/components/ui/Badge"
 import { Card, CardHeader, CardTitle, CardDescription, CardContent } from "@/components/ui/Card"
@@ -91,9 +92,11 @@ const staggerContainer = {
 export default function Home() {
   const countdownDays = getCountdownDays()
 
-  // 开幕相关比赛（前3场pending比赛）
-  const openingMatches = useMemo(() => {
-    return matches.filter((m) => m.status === "pending").slice(0, 3)
+  // 开幕日比赛（6月11日的前4场比赛）
+  const openingDayMatches = useMemo(() => {
+    return matches
+      .filter((m) => m.round === "小组赛" && m.date.startsWith("2026-06-11"))
+      .slice(0, 4)
   }, [])
 
   // 明星球员数据
@@ -220,7 +223,7 @@ export default function Home() {
         {/* ==================== DataNotice ==================== */}
         <DataNotice />
 
-        {/* ==================== 开幕倒计时 ==================== */}
+        {/* ==================== 小组赛开幕战预览 ==================== */}
         <section>
           <motion.div
             initial="hidden"
@@ -232,7 +235,7 @@ export default function Home() {
             <div className="flex items-center justify-between">
               <div className="flex items-center gap-3">
                 <Calendar className="h-5 w-5 text-primary" />
-                <h2 className="text-xl md:text-2xl font-bold">开幕倒计时</h2>
+                <h2 className="text-xl md:text-2xl font-bold">小组赛开幕战</h2>
                 <DataStatusBadge status="pending" />
               </div>
               <Link
@@ -244,23 +247,41 @@ export default function Home() {
             </div>
 
             <p className="text-sm text-muted-foreground">
-              抽签尚未进行，具体对阵待FIFA公布。以下为已知的比赛日期框架与场馆信息。
+              2026年6月11日，四场小组赛揭幕战。抽签已于2025年12月完成，12个小组对阵全部确定。
             </p>
 
-            {openingMatches.length > 0 ? (
-              <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-                {openingMatches.map((match, idx) => {
+            {openingDayMatches.length > 0 ? (
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+                {openingDayMatches.map((match, idx) => {
                   const matchDate = new Date(match.date)
-                  const daysUntil = Math.max(
-                    0,
-                    Math.ceil((matchDate.getTime() - Date.now()) / (1000 * 60 * 60 * 24))
-                  )
+                  const homeTeam = getTeamById(match.homeTeamId)
+                  const awayTeam = getTeamById(match.awayTeamId)
+                  const isOpeningMatch = match.id === "m003"
+
                   return (
                     <motion.div key={match.id} variants={fadeInUp} custom={idx}>
-                      <Card className="h-full hover:border-primary/20 transition-all duration-300">
+                      <Card
+                        className={cn(
+                          "h-full transition-all duration-300",
+                          isOpeningMatch
+                            ? "border-amber-500/30 bg-amber-950/10 shadow-lg shadow-amber-500/5"
+                            : "hover:border-primary/20"
+                        )}
+                      >
                         <CardContent className="p-5">
-                          <div className="flex items-center justify-between mb-3">
-                            <Badge variant="info">{match.round}</Badge>
+                          {/* 顶部标签行 */}
+                          <div className="flex items-center justify-between mb-4">
+                            <Badge
+                              variant={isOpeningMatch ? "warning" : "info"}
+                            >
+                              {match.group}组
+                            </Badge>
+                            {isOpeningMatch && (
+                              <span className="flex items-center gap-1 text-xs text-amber-500 font-medium">
+                                <Star className="h-3 w-3" />
+                                开幕战
+                              </span>
+                            )}
                             <span className="text-xs text-muted-foreground">
                               {matchDate.toLocaleDateString("zh-CN", {
                                 month: "long",
@@ -268,24 +289,72 @@ export default function Home() {
                               })}
                             </span>
                           </div>
-                          <div className="flex items-center justify-center py-4 text-7xl font-extrabold text-primary/20">
-                            VS
+
+                          {/* 双方国旗 + 北京时间 */}
+                          <div className="flex items-center justify-between py-3">
+                            {/* 主队 */}
+                            <div className="flex flex-col items-center gap-1.5 w-20">
+                              {homeTeam ? (
+                                <>
+                                  <FlagImage
+                                    code={homeTeam.flagCode}
+                                    alt={homeTeam.name}
+                                    size="lg"
+                                  />
+                                  <span className="text-xs font-medium text-center leading-tight">
+                                    {homeTeam.name}
+                                  </span>
+                                </>
+                              ) : (
+                                <>
+                                  <div className="w-10 h-7 rounded-sm bg-muted/50 flex items-center justify-center">
+                                    <span className="text-xs text-muted-foreground/40">?</span>
+                                  </div>
+                                  <span className="text-xs text-muted-foreground">待定</span>
+                                </>
+                              )}
+                            </div>
+
+                            {/* 北京时间 */}
+                            <div className="flex flex-col items-center gap-0.5 shrink-0 mx-2">
+                              <span className="text-base font-bold text-foreground tabular-nums">
+                                {formatBeijingTime(match.date)}
+                              </span>
+                              <span className="text-[10px] text-muted-foreground">北京时间</span>
+                            </div>
+
+                            {/* 客队 */}
+                            <div className="flex flex-col items-center gap-1.5 w-20">
+                              {awayTeam ? (
+                                <>
+                                  <FlagImage
+                                    code={awayTeam.flagCode}
+                                    alt={awayTeam.name}
+                                    size="lg"
+                                  />
+                                  <span className="text-xs font-medium text-center leading-tight">
+                                    {awayTeam.name}
+                                  </span>
+                                </>
+                              ) : (
+                                <>
+                                  <div className="w-10 h-7 rounded-sm bg-muted/50 flex items-center justify-center">
+                                    <span className="text-xs text-muted-foreground/40">?</span>
+                                  </div>
+                                  <span className="text-xs text-muted-foreground">待定</span>
+                                </>
+                              )}
+                            </div>
                           </div>
-                          <div className="text-center space-y-1 mt-2">
-                            <p className="text-sm text-muted-foreground flex items-center justify-center gap-1">
-                              <MapPin className="h-3.5 w-3.5" />
+
+                          {/* 底部场馆信息 */}
+                          <div className="mt-3 pt-3 border-t border-border text-center space-y-0.5">
+                            <p className="text-xs text-muted-foreground flex items-center justify-center gap-1">
+                              <MapPin className="h-3 w-3" />
                               {match.venue}
                             </p>
-                            <p className="text-xs text-muted-foreground">{match.city}</p>
+                            <p className="text-[10px] text-muted-foreground/70">{match.city}</p>
                           </div>
-                          {idx === 0 && (
-                            <div className="mt-3 pt-3 border-t border-border text-center">
-                              <span className="text-lg font-bold text-amber-500 tabular-nums">
-                                {daysUntil}
-                              </span>
-                              <span className="text-xs text-muted-foreground ml-1">天后开幕</span>
-                            </div>
-                          )}
                         </CardContent>
                       </Card>
                     </motion.div>
@@ -323,7 +392,7 @@ export default function Home() {
           </motion.div>
         </section>
 
-        {/* ==================== 参赛球队预览 ==================== */}
+        {/* ==================== 热门球队预览 ==================== */}
         <section>
           <motion.div
             initial="hidden"
@@ -336,7 +405,6 @@ export default function Home() {
               <div className="flex items-center gap-3">
                 <Trophy className="h-5 w-5 text-primary" />
                 <h2 className="text-xl md:text-2xl font-bold">热门球队预览</h2>
-                <DataStatusBadge status="pending" />
               </div>
               <Link
                 to="/teams"
@@ -347,7 +415,7 @@ export default function Home() {
             </div>
 
             <p className="text-sm text-muted-foreground">
-              48支参赛球队已确定晋级，小组抽签尚未进行。以下为部分热门球队预览。
+              48支参赛球队已全部确定，分为12个小组（A-L）。以下为部分热门球队预览。
             </p>
 
             {featuredTeams.length > 0 ? (
