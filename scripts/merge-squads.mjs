@@ -27,7 +27,6 @@ function ab(pos, mv) {
   return m[pos] ?? m.CM
 }
 
-function rand(min,max){return Math.floor(Math.random()*(max-min+1))+min}
 function buildPlayer(p, idx, usedIds) {
   const pos = p.position || "CM"
   const mv = MV[pos] ?? 20e6
@@ -37,36 +36,16 @@ function buildPlayer(p, idx, usedIds) {
   usedIds.add(id)
   const abi = ab(pos, mv)
 
-  // 估算年龄/身高/体重
-  const age = pos==='GK'?rand(25,37):pos==='ST'?rand(19,33):rand(20,34)
-  const h = pos==='GK'?rand(185,200):pos==='CB'?rand(182,196):pos==='ST'?rand(172,192):rand(168,188)
-  const w = pos==='GK'?rand(78,95):pos==='CB'?rand(75,92):pos==='ST'?rand(65,88):rand(60,82)
-  const foot = Math.random()>0.7?"左":"右"
-
-  // 估算职业生涯
-  const caps = Math.floor(age*1.5 + rand(-10,40))
-  const goals = pos==='ST'?Math.floor(caps*0.45):pos==='LW'||pos==='RW'?Math.floor(caps*0.2):pos==='CAM'?Math.floor(caps*0.15):Math.floor(caps*0.05)
-  const debutYear = 2026 - age + rand(17,22)
-  const tournaments = []
-  if(age>=30) tournaments.push("2022世界杯")
-  if(age>=27) tournaments.push("2024欧洲杯","2024美洲杯")
-  if(age>=24) tournaments.push("2024欧洲杯")
-
   return {
     id, name: p.name, number: idx+1, position: pos,
-    club: p.club||"未知", age, height: h, weight: w,
-    nationality: "", flagCode: "", preferredFoot: foot,
-    birthDate: `${2026-age}-${String(rand(1,12)).padStart(2,'0')}-${String(rand(1,28)).padStart(2,'0')}`,
-    marketValue: mv, photoUrl: "",
+    club: p.club||"未知",
+    // 以下字段WCF网站未提供，留默认值
+    age: 0, height: 0, weight: 0,
+    nationality: "", flagCode: "", preferredFoot: "右",
+    birthDate: "", marketValue: mv, photoUrl: "",
     abilities: { shooting:abi.sh, passing:abi.pa, dribbling:abi.dr, speed:abi.sp, defense:abi.de, physical:abi.ph },
     tournamentStats: { appearances:0,goals:0,assists:0,yellowCards:0,redCards:0,minutesPlayed:0,averageRating:0 },
-    careerSummary: {
-      firstAppearance: `${debutYear}-01-01`,
-      totalCaps: caps,
-      totalGoals: goals,
-      majorTournaments: tournaments,
-      clubs: [{clubName:p.club||"未知",period:`${debutYear}-至今`,appearances:rand(20,300),goals:goals}],
-    },
+    careerSummary: { firstAppearance:"",totalCaps:0,totalGoals:0,majorTournaments:[],clubs:[{clubName:p.club||"未知",period:"至今",appearances:0,goals:0}] },
   }
 }
 
