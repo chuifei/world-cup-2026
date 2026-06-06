@@ -1,4 +1,5 @@
 import { useMemo, useState } from "react"
+import { useSearchParams } from "react-router-dom"
 import { motion } from "framer-motion"
 import { Users, Filter } from "lucide-react"
 import { cn } from "@/lib/utils"
@@ -75,7 +76,8 @@ const staggerContainer = {
 // ============================================
 
 export default function Players() {
-  const [search, setSearch] = useState("")
+  const [searchParams] = useSearchParams()
+  const [search, setSearch] = useState(() => searchParams.get("search") ?? "")
   const [selectedTeam, setSelectedTeam] = useState("全部")
   const [selectedPosition, setSelectedPosition] = useState("全部")
 

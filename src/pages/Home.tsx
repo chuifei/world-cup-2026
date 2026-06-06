@@ -92,6 +92,15 @@ const staggerContainer = {
 export default function Home() {
   const countdownDays = getCountdownDays()
 
+  // 动态计算球员总数
+  const totalPlayerCount = useMemo(() => {
+    let count = 0
+    for (const team of teams) {
+      count += team.players.length
+    }
+    return count
+  }, [])
+
   // 开幕日比赛（6月11日的前4场比赛）
   const openingDayMatches = useMemo(() => {
     return matches
@@ -386,7 +395,7 @@ export default function Home() {
                 <StatCard label="举办城市" value={16} icon="🏟️" />
               </motion.div>
               <motion.div variants={fadeInUp} custom={3}>
-                <StatCard label="参赛球员" value={1100} suffix="+" icon="👥" />
+                <StatCard label="参赛球员" value={totalPlayerCount} suffix="+" icon="👥" />
               </motion.div>
             </div>
           </motion.div>
@@ -521,32 +530,34 @@ export default function Home() {
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                 {latestNews.map((item, idx) => (
                   <motion.div key={item.id} variants={fadeInUp} custom={idx}>
-                    <Card className="h-full hover:border-primary/20 transition-all duration-300">
-                      <CardHeader>
-                        <div className="flex items-center gap-2 mb-2">
-                          <Badge
-                            variant={
-                              item.category === "赛事"
-                                ? "info"
-                                : item.category === "球员"
-                                ? "success"
-                                : item.category === "球队"
-                                ? "warning"
-                                : "default"
-                            }
-                          >
-                            {item.category}
-                          </Badge>
-                          <span className="text-xs text-muted-foreground">
-                            {item.date}
-                          </span>
-                        </div>
-                        <CardTitle className="text-base">{item.title}</CardTitle>
-                        <CardDescription className="line-clamp-2">
-                          {item.summary}
-                        </CardDescription>
-                      </CardHeader>
-                    </Card>
+                    <Link to={`/news/${item.id}`} className="block h-full">
+                      <Card className="h-full hover:border-primary/20 hover:shadow-md transition-all duration-300 cursor-pointer">
+                        <CardHeader>
+                          <div className="flex items-center gap-2 mb-2">
+                            <Badge
+                              variant={
+                                item.category === "赛事"
+                                  ? "info"
+                                  : item.category === "球员"
+                                  ? "success"
+                                  : item.category === "球队"
+                                  ? "warning"
+                                  : "default"
+                              }
+                            >
+                              {item.category}
+                            </Badge>
+                            <span className="text-xs text-muted-foreground">
+                              {item.date}
+                            </span>
+                          </div>
+                          <CardTitle className="text-base">{item.title}</CardTitle>
+                          <CardDescription className="line-clamp-2">
+                            {item.summary}
+                          </CardDescription>
+                        </CardHeader>
+                      </Card>
+                    </Link>
                   </motion.div>
                 ))}
               </div>

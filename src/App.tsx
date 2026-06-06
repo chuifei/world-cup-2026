@@ -12,6 +12,7 @@ const Players = lazy(() => import("@/pages/Players"))
 const PlayerDetail = lazy(() => import("@/pages/PlayerDetail"))
 const Guide = lazy(() => import("@/pages/Guide"))
 const History = lazy(() => import("@/pages/History"))
+const NewsDetail = lazy(() => import("@/pages/NewsDetail"))
 const NotFound = lazy(() => import("@/pages/NotFound"))
 
 function PageLoader() {
@@ -40,6 +41,7 @@ export default function App() {
           <Route path="/teams/:id" element={<TeamDetail />} />
           <Route path="/players" element={<Players />} />
           <Route path="/players/:id" element={<PlayerDetail />} />
+          <Route path="/news/:id" element={<NewsDetail />} />
           <Route path="/guide" element={<Guide />} />
           <Route path="/history" element={<History />} />
           <Route path="*" element={<NotFound />} />

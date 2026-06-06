@@ -1,5 +1,5 @@
 import { useState } from "react"
-import { Link, useLocation } from "react-router-dom"
+import { Link, useLocation, useNavigate } from "react-router-dom"
 import { Menu, X, Trophy, Search } from "lucide-react"
 import { SearchInput } from "@/components/shared/SearchInput"
 
@@ -17,6 +17,22 @@ export function Header() {
   const [searchOpen, setSearchOpen] = useState(false)
   const [searchQuery, setSearchQuery] = useState("")
   const location = useLocation()
+  const navigate = useNavigate()
+
+  const handleSearch = () => {
+    const q = searchQuery.trim()
+    if (q) {
+      navigate(`/players?search=${encodeURIComponent(q)}`)
+      setSearchOpen(false)
+      setSearchQuery("")
+    }
+  }
+
+  const handleSearchKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
+    if (e.key === "Enter") {
+      handleSearch()
+    }
+  }
 
   return (
     <header className="sticky top-0 z-50 w-full border-b border-border bg-background/80 backdrop-blur-lg">
@@ -54,6 +70,7 @@ export function Header() {
               value={searchQuery}
               onChange={setSearchQuery}
               placeholder="搜索..."
+              onKeyDown={handleSearchKeyDown}
             />
           </div>
 
@@ -84,6 +101,7 @@ export function Header() {
             value={searchQuery}
             onChange={setSearchQuery}
             placeholder="搜索球队、球员..."
+            onKeyDown={handleSearchKeyDown}
           />
         </div>
       )}
