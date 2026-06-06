@@ -17868,7 +17868,7 @@ export const teams: Team[] = [
       }
     ],
     "players": [
-      {
+{
         "id": "mahrez",
         "name": "里亚德·马赫雷斯",
         "number": 7,
@@ -17904,7 +17904,7 @@ export const teams: Team[] = [
           "totalCaps": 95,
           "totalGoals": 30,
           "majorTournaments": ["2014\u4e16\u754c\u676f", "2019\u975e\u6d32\u676f"],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "曼城",
               "period": "2018-2023",
@@ -17913,7 +17913,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "bennacer",
         "name": "胡塞姆·奥瓦尔",
@@ -17950,7 +17950,7 @@ export const teams: Team[] = [
           "totalCaps": 55,
           "totalGoals": 2,
           "majorTournaments": ["2019\u975e\u6d32\u676f"],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "AC米兰",
               "period": "2019-至今",
@@ -17959,7 +17959,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "aouar",
         "name": "拉扬·艾特-努里",
@@ -17996,7 +17996,7 @@ export const teams: Team[] = [
           "totalCaps": 12,
           "totalGoals": 2,
           "majorTournaments": [],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "里昂",
               "period": "2017-2023",
@@ -18005,7 +18005,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "aitnouri",
         "name": "拉扬·艾特-努里",
@@ -18042,7 +18042,7 @@ export const teams: Team[] = [
           "totalCaps": 8,
           "totalGoals": 0,
           "majorTournaments": [],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "狼队",
               "period": "2021-至今",
@@ -18051,7 +18051,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "mandrea",
         "name": "安东尼·曼德雷亚",
@@ -18088,11 +18088,763 @@ export const teams: Team[] = [
           "totalCaps": 6,
           "totalGoals": 0,
           "majorTournaments": [],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "卡昂",
               "period": "2022-至今",
               "appearances": 72,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "p1780742172252",
+        "name": "阿爾及利亞 2026 世足賽 26 人大名單出爐：馬赫雷斯領軍、佩特科維奇點兵，沙漠之狐 J 組對戰阿根廷",
+        "number": 11,
+        "position": "CM",
+        "club": "未知",
+        "age": 26,
+        "height": 178,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "",
+        "marketValue": 28000000,
+        "photoUrl": "",
+        "abilities": {
+          "shooting": 65,
+          "passing": 81,
+          "dribbling": 70,
+          "speed": 65,
+          "defense": 60,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "未知",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "p17807421722521",
+        "name": "阿爾及利亞",
+        "number": 12,
+        "position": "CM",
+        "club": "已公布 2026 世界盃官方 26 人大名單：由總教練佩特科維奇（Vladimir Petkovic）點兵、隊長馬赫雷斯（Riyad Mahrez）領軍，睽違 12 年重返世足賽。球隊分在 J 組，將對戰衛冕冠軍阿根廷、奧地利與約旦。 首頁 | 完整賽程 | 分組積分榜 | 台灣直播攻略 以下為阿爾及利亞 26 人完整名單、重點球員、J 組賽程與世界盃歷史，給台灣球迷在開賽前一次掌握。 阿爾及利亞球隊背景 阿爾及利亞是第 5 度參加世界盃的非洲勁旅，這也是他們繼 2018、2022 連兩屆缺席後的回歸。這批以 2019 年非洲國家盃冠軍為核心的「黃金世代」，被視為近十年阿爾及利亞足球的代表。FIFA 世界排名約第 28，世界盃最佳成績為 2014 巴西世界盃打進 16 強。 非洲區資格賽中，阿爾及利亞與烏干達、莫三比克、幾內亞、波札那、索馬利亞同組，僅主場 1-2 不敵幾內亞，最終以小組第一拿下唯一晉級名額。 阿爾及利亞 2026 世界盃 26 人大名單（官方） 位置 球員（中文／English） 門將 GK 路",
+        "age": 26,
+        "height": 178,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "",
+        "marketValue": 28000000,
+        "photoUrl": "",
+        "abilities": {
+          "shooting": 65,
+          "passing": 81,
+          "dribbling": 70,
+          "speed": 65,
+          "defense": 60,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "已公布 2026 世界盃官方 26 人大名單：由總教練佩特科維奇（Vladimir Petkovic）點兵、隊長馬赫雷斯（Riyad Mahrez）領軍，睽違 12 年重返世足賽。球隊分在 J 組，將對戰衛冕冠軍阿根廷、奧地利與約旦。 首頁 | 完整賽程 | 分組積分榜 | 台灣直播攻略 以下為阿爾及利亞 26 人完整名單、重點球員、J 組賽程與世界盃歷史，給台灣球迷在開賽前一次掌握。 阿爾及利亞球隊背景 阿爾及利亞是第 5 度參加世界盃的非洲勁旅，這也是他們繼 2018、2022 連兩屆缺席後的回歸。這批以 2019 年非洲國家盃冠軍為核心的「黃金世代」，被視為近十年阿爾及利亞足球的代表。FIFA 世界排名約第 28，世界盃最佳成績為 2014 巴西世界盃打進 16 強。 非洲區資格賽中，阿爾及利亞與烏干達、莫三比克、幾內亞、波札那、索馬利亞同組，僅主場 1-2 不敵幾內亞，最終以小組第一拿下唯一晉級名額。 阿爾及利亞 2026 世界盃 26 人大名單（官方） 位置 球員（中文／English） 門將 GK 路",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "riyadmahrez",
+        "name": "馬赫雷斯",
+        "number": 13,
+        "position": "CM",
+        "club": "2026 世足賽完整介紹｜阿爾及利亞隊長、Al-Ahli 球星，2016 萊斯特奇蹟與曼城三冠功臣",
+        "age": 26,
+        "height": 178,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "",
+        "marketValue": 28000000,
+        "photoUrl": "",
+        "abilities": {
+          "shooting": 65,
+          "passing": 81,
+          "dribbling": 70,
+          "speed": 65,
+          "defense": 60,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "2026 世足賽完整介紹｜阿爾及利亞隊長、Al-Ahli 球星，2016 萊斯特奇蹟與曼城三冠功臣",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "riyadmahrez1",
+        "name": "里亞德馬赫雷斯",
+        "number": 14,
+        "position": "CM",
+        "club": "是阿爾及利亞國家隊隊長與右翼核心，2016 年帶領萊斯特城寫下英超奪冠奇蹟、2022-23 年隨曼城拿下三冠王，現效力沙烏地 Al-Ahli。2026 世足賽是他生涯第 2 次世界盃，35 歲的他很可能在北美迎來最後一屆世界盃舞台。 首頁 | 完整賽程 | 分組積分榜 | 台灣直播攻略 本篇整理馬赫雷斯的基本資料、生涯榮譽、關鍵紀錄、生涯軌跡與他對阿爾及利亞的意義，幫台灣球迷在 2026 世界盃前快速認識這位沙漠之狐的領袖。 馬赫雷斯基本資料 項目 內容 全名 里亞德馬赫雷斯 Riyad Mahrez 國家隊 阿爾及利亞 場上位置 右翼鋒（慣用左腳，常內切射門） 出生 1991-02-21，法國薩塞勒（Sarcelles） 年齡 35 歲（2026 世界盃開賽時） 現效力球會 Al-Ahli SFC（沙烏地職業聯賽） 國家隊數據 110+ 場 / 38 球 世界盃經歷 第 2 次（2014、2026） 2026 世界盃（世足賽）看點 阿爾及利亞分在死亡氣息濃厚的 J...",
+        "age": 26,
+        "height": 178,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "",
+        "marketValue": 28000000,
+        "photoUrl": "",
+        "abilities": {
+          "shooting": 65,
+          "passing": 81,
+          "dribbling": 70,
+          "speed": 65,
+          "defense": 60,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "是阿爾及利亞國家隊隊長與右翼核心，2016 年帶領萊斯特城寫下英超奪冠奇蹟、2022-23 年隨曼城拿下三冠王，現效力沙烏地 Al-Ahli。2026 世足賽是他生涯第 2 次世界盃，35 歲的他很可能在北美迎來最後一屆世界盃舞台。 首頁 | 完整賽程 | 分組積分榜 | 台灣直播攻略 本篇整理馬赫雷斯的基本資料、生涯榮譽、關鍵紀錄、生涯軌跡與他對阿爾及利亞的意義，幫台灣球迷在 2026 世界盃前快速認識這位沙漠之狐的領袖。 馬赫雷斯基本資料 項目 內容 全名 里亞德馬赫雷斯 Riyad Mahrez 國家隊 阿爾及利亞 場上位置 右翼鋒（慣用左腳，常內切射門） 出生 1991-02-21，法國薩塞勒（Sarcelles） 年齡 35 歲（2026 世界盃開賽時） 現效力球會 Al-Ahli SFC（沙烏地職業聯賽） 國家隊數據 110+ 場 / 38 球 世界盃經歷 第 2 次（2014、2026） 2026 世界盃（世足賽）看點 阿爾及利亞分在死亡氣息濃厚的 J...",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "christianpulisic",
+        "name": "普利西奇",
+        "number": 15,
+        "position": "CM",
+        "club": "2026 世足賽完整介紹｜美國隊長、AC米蘭前鋒、首位歐冠奪冠美國人",
+        "age": 26,
+        "height": 178,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "",
+        "marketValue": 28000000,
+        "photoUrl": "",
+        "abilities": {
+          "shooting": 65,
+          "passing": 81,
+          "dribbling": 70,
+          "speed": 65,
+          "defense": 60,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "2026 世足賽完整介紹｜美國隊長、AC米蘭前鋒、首位歐冠奪冠美國人",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "christianpulisic1",
+        "name": "普利西奇",
+        "number": 16,
+        "position": "CM",
+        "club": "是美國國家隊隊長與頭號球星，現效力義甲勁旅 AC 米蘭，司職邊鋒與攻擊中場。身為 2021 年歐冠冠軍切爾西的功臣、首位踢進並贏得歐冠決賽的美國球員，他將在 2026 世足賽（世界盃） 以地主隊隊長身分領軍衝擊佳績。 首頁　|　完整賽程　|　分組積分榜　|　台灣直播攻略 本文整理普利西奇的基本資料、2026 世界盃看點、生涯軌跡、榮譽紀錄與對美國隊的意義。 普利西奇 基本資料一覽 項目 內容 全名 克里斯蒂安 普利西奇（Christian Pulisic） 國籍 美國 出生 1998 年 9 月 18 日，賓州赫爾希（現年 27 歲） 場上位置 邊鋒／攻擊中場／前鋒 現效力球會 AC 米蘭（義甲） 國家隊 美國隊長 國家隊數據 約 85 場 33 球 22 助攻 2026 分組 D 組（對手：土耳其、巴拉圭、澳洲） 2026 世足賽看點：地主隊長的主場任務 2026 世界盃由美國、加拿大與墨西哥共同主辦，美國被分在 D 組，同組對手為土耳其、巴拉圭與澳洲，被外界視為相對開放、有機會出線的一組。身為地主",
+        "age": 26,
+        "height": 178,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "",
+        "marketValue": 28000000,
+        "photoUrl": "",
+        "abilities": {
+          "shooting": 65,
+          "passing": 81,
+          "dribbling": 70,
+          "speed": 65,
+          "defense": 60,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "是美國國家隊隊長與頭號球星，現效力義甲勁旅 AC 米蘭，司職邊鋒與攻擊中場。身為 2021 年歐冠冠軍切爾西的功臣、首位踢進並贏得歐冠決賽的美國球員，他將在 2026 世足賽（世界盃） 以地主隊隊長身分領軍衝擊佳績。 首頁　|　完整賽程　|　分組積分榜　|　台灣直播攻略 本文整理普利西奇的基本資料、2026 世界盃看點、生涯軌跡、榮譽紀錄與對美國隊的意義。 普利西奇 基本資料一覽 項目 內容 全名 克里斯蒂安 普利西奇（Christian Pulisic） 國籍 美國 出生 1998 年 9 月 18 日，賓州赫爾希（現年 27 歲） 場上位置 邊鋒／攻擊中場／前鋒 現效力球會 AC 米蘭（義甲） 國家隊 美國隊長 國家隊數據 約 85 場 33 球 22 助攻 2026 分組 D 組（對手：土耳其、巴拉圭、澳洲） 2026 世足賽看點：地主隊長的主場任務 2026 世界盃由美國、加拿大與墨西哥共同主辦，美國被分在 D 組，同組對手為土耳其、巴拉圭與澳洲，被外界視為相對開放、有機會出線的一組。身為地主",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "takefusakubo",
+        "name": "久保建英",
+        "number": 17,
+        "position": "CM",
+        "club": "2026 世足賽完整介紹｜日本王牌右翼、拉瑪西亞出身的日本梅西",
+        "age": 26,
+        "height": 178,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "",
+        "marketValue": 28000000,
+        "photoUrl": "",
+        "abilities": {
+          "shooting": 65,
+          "passing": 81,
+          "dribbling": 70,
+          "speed": 65,
+          "defense": 60,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "2026 世足賽完整介紹｜日本王牌右翼、拉瑪西亞出身的日本梅西",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "takefusakubo1",
+        "name": "久保建英",
+        "number": 18,
+        "position": "CM",
+        "club": "是日本國家隊頭號進攻王牌，現效力西甲勁旅皇家社會（Real Sociedad），司職右路邊鋒。出身巴塞隆納拉瑪西亞青訓、被譽為「日本梅西」的他，將在 2026 世足賽（世界盃） 第二度披上日本戰袍，是日本主帥森保一進攻體系的核心。 首頁　|　完整賽程　|　分組積分榜　|　台灣直播攻略 本文整理久保建英的基本資料、2026 世界盃看點、生涯軌跡、榮譽紀錄與對日本隊的意義。 久保建英 基本資料一覽 項目 內容 全名 久保建英（Takefusa Kubo） 國籍 日本 出生 2001 年 6 月 4 日，神奈川縣川崎市（現年 24 歲） 場上位置 右邊鋒（左腳） 現效力球會 皇家社會（Real Sociedad，西甲） 國家隊 日本，進攻核心 2026 分組 F 組（對手：荷蘭、突尼西亞、瑞典） 世界盃經歷 個人第 2 屆（2022 卡達為首度參賽） 2026 世足賽看點：死亡 F 組的突圍關鍵 日本在 2026 世界盃被分進競爭激烈的 F 組，同組對手包括荷蘭、突尼西亞與瑞典。久保建英能否用個人能力撕開對手防線，",
+        "age": 26,
+        "height": 178,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "",
+        "marketValue": 28000000,
+        "photoUrl": "",
+        "abilities": {
+          "shooting": 65,
+          "passing": 81,
+          "dribbling": 70,
+          "speed": 65,
+          "defense": 60,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "是日本國家隊頭號進攻王牌，現效力西甲勁旅皇家社會（Real Sociedad），司職右路邊鋒。出身巴塞隆納拉瑪西亞青訓、被譽為「日本梅西」的他，將在 2026 世足賽（世界盃） 第二度披上日本戰袍，是日本主帥森保一進攻體系的核心。 首頁　|　完整賽程　|　分組積分榜　|　台灣直播攻略 本文整理久保建英的基本資料、2026 世界盃看點、生涯軌跡、榮譽紀錄與對日本隊的意義。 久保建英 基本資料一覽 項目 內容 全名 久保建英（Takefusa Kubo） 國籍 日本 出生 2001 年 6 月 4 日，神奈川縣川崎市（現年 24 歲） 場上位置 右邊鋒（左腳） 現效力球會 皇家社會（Real Sociedad，西甲） 國家隊 日本，進攻核心 2026 分組 F 組（對手：荷蘭、突尼西亞、瑞典） 世界盃經歷 個人第 2 屆（2022 卡達為首度參賽） 2026 世足賽看點：死亡 F 組的突圍關鍵 日本在 2026 世界盃被分進競爭激烈的 F 組，同組對手包括荷蘭、突尼西亞與瑞典。久保建英能否用個人能力撕開對手防線，",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "codygakpo",
+        "name": "加克波",
+        "number": 19,
+        "position": "CM",
+        "club": "2026 世界盃｜荷蘭鋒線主力、利物浦前鋒，世足賽 F 組看點完整介紹",
+        "age": 26,
+        "height": 178,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "",
+        "marketValue": 28000000,
+        "photoUrl": "",
+        "abilities": {
+          "shooting": 65,
+          "passing": 81,
+          "dribbling": 70,
+          "speed": 65,
+          "defense": 60,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "2026 世界盃｜荷蘭鋒線主力、利物浦前鋒，世足賽 F 組看點完整介紹",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "codygakpo1",
+        "name": "加克波",
+        "number": 20,
+        "position": "CM",
+        "club": "是荷蘭國家隊的鋒線主力、英格蘭豪門利物浦的前鋒，2026 世足賽（世界盃）將代表荷蘭出征 F 組，這也是他生涯第 2 次世界盃。他擅長左邊鋒，兼具盤帶、身材與射門能力。 首頁 | 完整賽程 | 分組積分榜 | 台灣直播攻略 想看完整陣容與同組對手，可參考 荷蘭 2026 世界盃 26 人大名單 與 荷蘭國家隊深度檔案。 加克波是誰？基本資料一次看 科迪·加克波是荷蘭現役主力攻擊手，以下是他的基本資料整理。 項目 內容 全名 科迪·加克波（Cody Gakpo） 出生 1999 年 5 月 7 日（27 歲） 國籍 荷蘭 場上位置 左邊鋒／中鋒 現效力球會 Liverpool（英格蘭） 國家隊 荷蘭國家隊 2026 分組 世界盃 F 組 世界盃出賽 第 2 屆（2022、2026） 2026 世足賽看點：加克波撐起荷蘭左路 荷蘭被分在 2026 世界盃 F 組，與日本等隊同組。加克波是柯曼麾下 左路最穩定的威脅，兼具技術、身體與傳中能力。對橙衣軍團而言，他與范戴克、迪容構成攻防主軸；完整同組對手與台灣時間",
+        "age": 26,
+        "height": 178,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "",
+        "marketValue": 28000000,
+        "photoUrl": "",
+        "abilities": {
+          "shooting": 65,
+          "passing": 81,
+          "dribbling": 70,
+          "speed": 65,
+          "defense": 60,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "是荷蘭國家隊的鋒線主力、英格蘭豪門利物浦的前鋒，2026 世足賽（世界盃）將代表荷蘭出征 F 組，這也是他生涯第 2 次世界盃。他擅長左邊鋒，兼具盤帶、身材與射門能力。 首頁 | 完整賽程 | 分組積分榜 | 台灣直播攻略 想看完整陣容與同組對手，可參考 荷蘭 2026 世界盃 26 人大名單 與 荷蘭國家隊深度檔案。 加克波是誰？基本資料一次看 科迪·加克波是荷蘭現役主力攻擊手，以下是他的基本資料整理。 項目 內容 全名 科迪·加克波（Cody Gakpo） 出生 1999 年 5 月 7 日（27 歲） 國籍 荷蘭 場上位置 左邊鋒／中鋒 現效力球會 Liverpool（英格蘭） 國家隊 荷蘭國家隊 2026 分組 世界盃 F 組 世界盃出賽 第 2 屆（2022、2026） 2026 世足賽看點：加克波撐起荷蘭左路 荷蘭被分在 2026 世界盃 F 組，與日本等隊同組。加克波是柯曼麾下 左路最穩定的威脅，兼具技術、身體與傳中能力。對橙衣軍團而言，他與范戴克、迪容構成攻防主軸；完整同組對手與台灣時間",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "darwinnunez",
+        "name": "努涅斯",
+        "number": 21,
+        "position": "CM",
+        "club": "2026 世足賽｜烏拉圭神鋒第 2 次世界盃，效力沙國豪門 Al-Hilal 完整介紹",
+        "age": 26,
+        "height": 178,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "",
+        "marketValue": 28000000,
+        "photoUrl": "",
+        "abilities": {
+          "shooting": 65,
+          "passing": 81,
+          "dribbling": 70,
+          "speed": 65,
+          "defense": 60,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "2026 世足賽｜烏拉圭神鋒第 2 次世界盃，效力沙國豪門 Al-Hilal 完整介紹",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "darwinnunez1",
+        "name": "努涅斯",
+        "number": 22,
+        "position": "CM",
+        "club": "是烏拉圭國家隊的主力中鋒，2026 世足賽（世界盃）將代表烏拉圭出征 H 組，這也是他生涯第 2 次世界盃。他目前效力於沙烏地阿拉伯豪門 Al-Hilal，以爆發力、衝刺速度與門前威脅著稱。 首頁 | 完整賽程 | 分組積分榜 | 台灣直播攻略 想看完整陣容與同組對手，可參考 烏拉圭 2026 世界盃 26 人大名單 與 烏拉圭國家隊深度檔案。 努涅斯是誰？基本資料一次看 達爾文·努涅斯是烏拉圭現役頭號前鋒之一，以下是他的基本資料整理。 項目 內容 全名 達爾文·努涅斯（Darwin Nunez Ribeiro） 出生 1999 年 6 月 24 日（26 歲） 國籍 烏拉圭 場上位置 中鋒（前鋒） 現效力球會 Al-Hilal（沙烏地阿拉伯） 國家隊 烏拉圭國家隊 2026 分組 世界盃 H 組 世界盃出賽 第 2 屆（2022、2026） 2026 世足賽看點：努涅斯領銜烏拉圭 H 組衝鋒 烏拉圭被分在 2026 世界盃 H 組，球隊鋒線由 努涅斯 與瓦爾韋德等中生代主力扛起。對拉丁美洲傳統強權",
+        "age": 26,
+        "height": 178,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "",
+        "marketValue": 28000000,
+        "photoUrl": "",
+        "abilities": {
+          "shooting": 65,
+          "passing": 81,
+          "dribbling": 70,
+          "speed": 65,
+          "defense": 60,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "是烏拉圭國家隊的主力中鋒，2026 世足賽（世界盃）將代表烏拉圭出征 H 組，這也是他生涯第 2 次世界盃。他目前效力於沙烏地阿拉伯豪門 Al-Hilal，以爆發力、衝刺速度與門前威脅著稱。 首頁 | 完整賽程 | 分組積分榜 | 台灣直播攻略 想看完整陣容與同組對手，可參考 烏拉圭 2026 世界盃 26 人大名單 與 烏拉圭國家隊深度檔案。 努涅斯是誰？基本資料一次看 達爾文·努涅斯是烏拉圭現役頭號前鋒之一，以下是他的基本資料整理。 項目 內容 全名 達爾文·努涅斯（Darwin Nunez Ribeiro） 出生 1999 年 6 月 24 日（26 歲） 國籍 烏拉圭 場上位置 中鋒（前鋒） 現效力球會 Al-Hilal（沙烏地阿拉伯） 國家隊 烏拉圭國家隊 2026 分組 世界盃 H 組 世界盃出賽 第 2 屆（2022、2026） 2026 世足賽看點：努涅斯領銜烏拉圭 H 組衝鋒 烏拉圭被分在 2026 世界盃 H 組，球隊鋒線由 努涅斯 與瓦爾韋德等中生代主力扛起。對拉丁美洲傳統強權",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "federicovalverde",
+        "name": "瓦爾韋德",
+        "number": 23,
+        "position": "CM",
+        "club": "2026 世界盃｜烏拉圭中場引擎、皇家馬德里全能戰士完整介紹",
+        "age": 26,
+        "height": 178,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "",
+        "marketValue": 28000000,
+        "photoUrl": "",
+        "abilities": {
+          "shooting": 65,
+          "passing": 81,
+          "dribbling": 70,
+          "speed": 65,
+          "defense": 60,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "2026 世界盃｜烏拉圭中場引擎、皇家馬德里全能戰士完整介紹",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "federicovalverde1",
+        "name": "費德里科·瓦爾韋德",
+        "number": 24,
+        "position": "CM",
+        "club": "是烏拉圭國家隊的中場引擎，也是皇家馬德里的全能戰士。2026 世界盃，27 歲 的他以無窮體能、攻守兼備與強力遠射聞名，是烏拉圭在 H 組能否突圍的中樞。現效力 皇家馬德里、已隨隊兩度稱霸歐冠。 追賽導航：首頁　｜　完整賽程　｜　分組積分榜　｜　台灣直播攻略 瓦爾韋德基本資料 費德里科·瓦爾韋德是烏拉圭國家隊主力中場。以下為他的基本資料： 項目 內容 全名 費德里科·瓦爾韋德（Federico Valverde） 出生 1998 年 7 月 22 日（世界盃時 27 歲） 國籍 烏拉圭 場上位置 中場（中前衛／全能中場，可踢右路） 慣用腳 右腳 現效力球會 皇家馬德里（2018 年自佩納羅爾加盟） 國家隊 烏拉圭中場核心 2026 分組 H 組（西班牙、維德角、沙烏地阿拉伯） 瓦爾韋德 2026 世界盃看點 瓦爾韋德是烏拉圭名帥 比爾薩（Bielsa） 體系的中場樞紐，攻守兩端都能扛起重任。烏拉圭落在 H 組，與西班牙、維德角、沙烏地阿拉伯同組（詳見 烏拉圭隊檔案 與 南美球隊出線分析），他",
+        "age": 26,
+        "height": 178,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "",
+        "marketValue": 28000000,
+        "photoUrl": "",
+        "abilities": {
+          "shooting": 65,
+          "passing": 81,
+          "dribbling": 70,
+          "speed": 65,
+          "defense": 60,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "是烏拉圭國家隊的中場引擎，也是皇家馬德里的全能戰士。2026 世界盃，27 歲 的他以無窮體能、攻守兼備與強力遠射聞名，是烏拉圭在 H 組能否突圍的中樞。現效力 皇家馬德里、已隨隊兩度稱霸歐冠。 追賽導航：首頁　｜　完整賽程　｜　分組積分榜　｜　台灣直播攻略 瓦爾韋德基本資料 費德里科·瓦爾韋德是烏拉圭國家隊主力中場。以下為他的基本資料： 項目 內容 全名 費德里科·瓦爾韋德（Federico Valverde） 出生 1998 年 7 月 22 日（世界盃時 27 歲） 國籍 烏拉圭 場上位置 中場（中前衛／全能中場，可踢右路） 慣用腳 右腳 現效力球會 皇家馬德里（2018 年自佩納羅爾加盟） 國家隊 烏拉圭中場核心 2026 分組 H 組（西班牙、維德角、沙烏地阿拉伯） 瓦爾韋德 2026 世界盃看點 瓦爾韋德是烏拉圭名帥 比爾薩（Bielsa） 體系的中場樞紐，攻守兩端都能扛起重任。烏拉圭落在 H 組，與西班牙、維德角、沙烏地阿拉伯同組（詳見 烏拉圭隊檔案 與 南美球隊出線分析），他",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "luis",
+        "name": "路易斯·迪亞斯",
+        "number": 25,
+        "position": "CM",
+        "club": "Díaz 2026 世界盃｜哥倫比亞鋒線王牌、現效力拜仁慕尼黑，完整介紹",
+        "age": 26,
+        "height": 178,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "",
+        "marketValue": 28000000,
+        "photoUrl": "",
+        "abilities": {
+          "shooting": 65,
+          "passing": 81,
+          "dribbling": 70,
+          "speed": 65,
+          "defense": 60,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Díaz 2026 世界盃｜哥倫比亞鋒線王牌、現效力拜仁慕尼黑，完整介紹",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "luisdaz",
+        "name": "路易斯·迪亞斯",
+        "number": 26,
+        "position": "CM",
+        "club": "是哥倫比亞國家隊鋒線王牌，左路速度與爆發力兼具，更是 在哥倫比亞、葡萄牙、英格蘭三國都奪得頂級聯賽冠軍 的罕見球星。2026 世界盃，29 歲 的他現效力德甲拜仁慕尼黑（2025 年夏天自利物浦以約 7500 萬歐元轉會），是哥倫比亞在 K 組突圍的關鍵箭頭。 追賽導航：首頁　｜　完整賽程　｜　分組積分榜　｜　台灣直播攻略 路易斯·迪亞斯基本資料 路易斯·迪亞斯是哥倫比亞國家隊主力，司職左邊鋒。以下為他的基本資料： 項目 內容 全名 路易斯·迪亞斯（Luis Díaz） 出生 1997 年 1 月 13 日（世界盃時 29 歲） 國籍 哥倫比亞 場上位置 左邊鋒／前鋒 慣用腳 右腳 現效力球會 拜仁慕尼黑（2025 年夏天自利物浦轉會） 國家隊 哥倫比亞 2026 分組 K 組（葡萄牙、烏茲別克、剛果民主共和國） 路易斯·迪亞斯 2026 世界盃看點 迪亞斯在 2025 年夏天 自利物浦轉投拜仁慕尼黑，首季火力全開、狀態正盛。世界盃他將與隊長 James Rodríguez 組成哥倫比亞進攻雙核，K...",
+        "age": 26,
+        "height": 178,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "",
+        "marketValue": 28000000,
+        "photoUrl": "",
+        "abilities": {
+          "shooting": 65,
+          "passing": 81,
+          "dribbling": 70,
+          "speed": 65,
+          "defense": 60,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "是哥倫比亞國家隊鋒線王牌，左路速度與爆發力兼具，更是 在哥倫比亞、葡萄牙、英格蘭三國都奪得頂級聯賽冠軍 的罕見球星。2026 世界盃，29 歲 的他現效力德甲拜仁慕尼黑（2025 年夏天自利物浦以約 7500 萬歐元轉會），是哥倫比亞在 K 組突圍的關鍵箭頭。 追賽導航：首頁　｜　完整賽程　｜　分組積分榜　｜　台灣直播攻略 路易斯·迪亞斯基本資料 路易斯·迪亞斯是哥倫比亞國家隊主力，司職左邊鋒。以下為他的基本資料： 項目 內容 全名 路易斯·迪亞斯（Luis Díaz） 出生 1997 年 1 月 13 日（世界盃時 29 歲） 國籍 哥倫比亞 場上位置 左邊鋒／前鋒 慣用腳 右腳 現效力球會 拜仁慕尼黑（2025 年夏天自利物浦轉會） 國家隊 哥倫比亞 2026 分組 K 組（葡萄牙、烏茲別克、剛果民主共和國） 路易斯·迪亞斯 2026 世界盃看點 迪亞斯在 2025 年夏天 自利物浦轉投拜仁慕尼黑，首季火力全開、狀態正盛。世界盃他將與隊長 James Rodríguez 組成哥倫比亞進攻雙核，K...",
+              "period": "至今",
+              "appearances": 0,
               "goals": 0
             }
           ]
