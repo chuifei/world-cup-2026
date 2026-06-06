@@ -39,6 +39,23 @@ export function formatBeijingTime(dateStr: string): string {
   })
 }
 
+/**
+ * 模糊搜索：将 query 拆为单个字符，每个字符必须出现在 targets 中至少一个字段里。
+ * 同时保留完整子串匹配作为快捷路径。
+ */
+export function fuzzyMatch(query: string, targets: string[]): boolean {
+  const q = query.toLowerCase().trim()
+  if (!q) return true
+
+  // 完整子串匹配（快速路径）
+  const lowerTargets = targets.map((t) => t.toLowerCase())
+  if (lowerTargets.some((t) => t.includes(q))) return true
+
+  // 逐字匹配：每个字符必须出现在至少一个 target 中
+  const chars = q.replace(/\s+/g, "").split("")
+  return chars.every((ch) => lowerTargets.some((t) => t.includes(ch)))
+}
+
 /** 小组编号转字母 */
 export function groupIndexToLetter(index: number): string {
   return String.fromCharCode(65 + index)

@@ -1,7 +1,7 @@
 import { useMemo, useState } from "react"
 import { motion } from "framer-motion"
 import { Users, Search } from "lucide-react"
-import { cn } from "@/lib/utils"
+import { cn, fuzzyMatch } from "@/lib/utils"
 import { Card, CardHeader, CardTitle, CardDescription, CardContent } from "@/components/ui/Card"
 import { SearchInput } from "@/components/shared/SearchInput"
 import { TeamCard } from "@/components/shared/TeamCard"
@@ -50,13 +50,10 @@ export default function Teams() {
   const filteredTeams = useMemo(() => {
     let result: Team[] = teams
 
-    // 搜索
+    // 搜索（模糊匹配）
     if (search.trim()) {
-      const q = search.trim().toLowerCase()
-      result = result.filter(
-        (t) =>
-          t.name.toLowerCase().includes(q) ||
-          t.nameEn.toLowerCase().includes(q)
+      result = result.filter((t) =>
+        fuzzyMatch(search, [t.name, t.nameEn, t.id])
       )
     }
 

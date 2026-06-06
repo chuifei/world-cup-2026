@@ -2,7 +2,7 @@ import { useMemo, useState } from "react"
 import { useSearchParams } from "react-router-dom"
 import { motion } from "framer-motion"
 import { Users, Filter } from "lucide-react"
-import { cn } from "@/lib/utils"
+import { cn, fuzzyMatch } from "@/lib/utils"
 import { Card, CardHeader, CardTitle, CardDescription, CardContent } from "@/components/ui/Card"
 import { SearchInput } from "@/components/shared/SearchInput"
 import { PlayerCard } from "@/components/shared/PlayerCard"
@@ -95,14 +95,16 @@ export default function Players() {
   const filteredPlayers = useMemo(() => {
     let result = allPlayers
 
-    // 搜索
+    // 搜索（模糊匹配）
     if (debouncedSearch.trim()) {
-      const q = debouncedSearch.trim().toLowerCase()
-      result = result.filter(
-        (pt) =>
-          pt.player.name.toLowerCase().includes(q) ||
-          pt.team.name.toLowerCase().includes(q) ||
-          pt.player.club.toLowerCase().includes(q)
+      result = result.filter((pt) =>
+        fuzzyMatch(debouncedSearch, [
+          pt.player.name,
+          pt.player.id,
+          pt.team.name,
+          pt.player.club,
+          pt.player.nationality,
+        ])
       )
     }
 

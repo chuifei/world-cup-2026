@@ -74,7 +74,7 @@ export const teams: Team[] = [
       }
     ],
     "players": [
-      {
+{
         "id": "yamal",
         "name": "拉明·亚马尔",
         "number": 19,
@@ -113,7 +113,7 @@ export const teams: Team[] = [
           "majorTournaments": [
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "巴塞罗那",
               "period": "2023-至今",
@@ -122,7 +122,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "rodri",
         "name": "佩德里",
@@ -164,7 +164,7 @@ export const teams: Team[] = [
             "2020欧洲杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "曼城",
               "period": "2019-至今",
@@ -173,7 +173,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "pedri",
         "name": "罗德里",
@@ -214,7 +214,7 @@ export const teams: Team[] = [
             "2022世界杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "巴塞罗那",
               "period": "2020-至今",
@@ -223,7 +223,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "simon",
         "name": "尼科·威廉姆斯",
@@ -264,7 +264,7 @@ export const teams: Team[] = [
             "2020欧洲杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "毕尔巴鄂竞技",
               "period": "2018-至今",
@@ -273,7 +273,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "nico_williams",
         "name": "达尼·奥尔莫",
@@ -313,12 +313,482 @@ export const teams: Team[] = [
             "2022世界杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "毕尔巴鄂竞技",
               "period": "2021-至今",
               "appearances": 132,
               "goals": 25
+            }
+          ]
+        }
+      },
+      {
+        "id": "alexbaena",
+        "name": "Álex Baena",
+        "number": 10,
+        "position": "LW",
+        "club": "Atlético Madrid",
+        "age": 24,
+        "height": 174,
+        "weight": 69,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2001-07-20",
+        "marketValue": 35000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/04ntmp1762890059.png",
+        "abilities": {
+          "shooting": 76,
+          "passing": 80,
+          "dribbling": 91,
+          "speed": 92,
+          "defense": 40,
+          "physical": 67
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Atlético Madrid",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "alexgrimaldo",
+        "name": "Álex Grimaldo",
+        "number": 20,
+        "position": "LB",
+        "club": "Bayer Leverkusen",
+        "age": 30,
+        "height": 170,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "左",
+        "birthDate": "1995-09-20",
+        "marketValue": 5250000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ddeb6b1756316030.png",
+        "abilities": {
+          "shooting": 37,
+          "passing": 60,
+          "dribbling": 55,
+          "speed": 70,
+          "defense": 61,
+          "physical": 54
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Bayer Leverkusen",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "aymericlaporte",
+        "name": "Aymeric Laporte",
+        "number": 14,
+        "position": "CB",
+        "club": "Athletic Bilbao",
+        "age": 32,
+        "height": 191,
+        "weight": 86,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "左",
+        "birthDate": "1994-05-27",
+        "marketValue": 7000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/q4eqw31762285953.png",
+        "abilities": {
+          "shooting": 33,
+          "passing": 54,
+          "dribbling": 41,
+          "speed": 51,
+          "defense": 73,
+          "physical": 71
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Athletic Bilbao",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "borjaiglesias",
+        "name": "Borja Iglesias",
+        "number": 7,
+        "position": "ST",
+        "club": "Celta Vigo",
+        "age": 33,
+        "height": 187,
+        "weight": 86,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1993-01-17",
+        "marketValue": 4800000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/mrr5cf1724495214.png",
+        "abilities": {
+          "shooting": 74,
+          "passing": 54,
+          "dribbling": 64,
+          "speed": 67,
+          "defense": 20,
+          "physical": 60
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Celta Vigo",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "daniolmo",
+        "name": "Dani Olmo",
+        "number": 20,
+        "position": "CAM",
+        "club": "Barcelona",
+        "age": 28,
+        "height": 179,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1998-05-07",
+        "marketValue": 24000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/s9hzoh1725611346.png",
+        "abilities": {
+          "shooting": 73,
+          "passing": 84,
+          "dribbling": 83,
+          "speed": 72,
+          "defense": 42,
+          "physical": 63
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Barcelona",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "davidraya",
+        "name": "David Raya",
+        "number": 1,
+        "position": "GK",
+        "club": "Arsenal",
+        "age": 30,
+        "height": 186,
+        "weight": 79,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1995-09-15",
+        "marketValue": 2800000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/21rp2q1769331784.png",
+        "abilities": {
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 69,
+          "physical": 63
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Arsenal",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "ericgarcia",
+        "name": "Eric García",
+        "number": 24,
+        "position": "CB",
+        "club": "Barcelona",
+        "age": 25,
+        "height": 182,
+        "weight": 76,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2001-01-09",
+        "marketValue": 20000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/agfrk61726510225.png",
+        "abilities": {
+          "shooting": 42,
+          "passing": 64,
+          "dribbling": 52,
+          "speed": 62,
+          "defense": 82,
+          "physical": 80
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Barcelona",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "fabianruiz",
+        "name": "Fabián Ruiz",
+        "number": 8,
+        "position": "CM",
+        "club": "Paris SG",
+        "age": 30,
+        "height": 189,
+        "weight": 78,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "左",
+        "birthDate": "1996-04-03",
+        "marketValue": 9800000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/wq4dxd1766335227.png",
+        "abilities": {
+          "shooting": 57,
+          "passing": 74,
+          "dribbling": 62,
+          "speed": 57,
+          "defense": 52,
+          "physical": 62
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Paris SG",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "ferrantorres",
+        "name": "Ferran Torres",
+        "number": 7,
+        "position": "LW",
+        "club": "Barcelona",
+        "age": 26,
+        "height": 184,
+        "weight": 77,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2000-02-29",
+        "marketValue": 26250000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/feey201726510461.png",
+        "abilities": {
+          "shooting": 73,
+          "passing": 77,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 37,
+          "physical": 64
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Barcelona",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "gavi",
+        "name": "Gavi",
+        "number": 6,
+        "position": "CM",
+        "club": "Barcelona",
+        "age": 21,
+        "height": 173,
+        "weight": 69,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2004-08-05",
+        "marketValue": 36400000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/amm91q1726510077.png",
+        "abilities": {
+          "shooting": 69,
+          "passing": 85,
+          "dribbling": 74,
+          "speed": 69,
+          "defense": 64,
+          "physical": 73
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Barcelona",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
             }
           ]
         }
@@ -400,7 +870,7 @@ export const teams: Team[] = [
       }
     ],
     "players": [
-      {
+{
         "id": "messi",
         "name": "利昂内尔·梅西",
         "number": 10,
@@ -449,19 +919,19 @@ export const teams: Team[] = [
             "2021美洲杯",
             "2024美洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "巴塞罗那",
               "period": "2004-2021",
               "appearances": 778,
               "goals": 672
-            },
+            },,
             {
               "clubName": "巴黎圣日耳曼",
               "period": "2021-2023",
               "appearances": 75,
               "goals": 32
-            },
+            },,
             {
               "clubName": "迈阿密国际",
               "period": "2023-至今",
@@ -470,7 +940,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "alvarez_j",
         "name": "胡利安·阿尔瓦雷斯",
@@ -510,13 +980,13 @@ export const teams: Team[] = [
             "2022世界杯",
             "2024美洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "曼城",
               "period": "2022-2024",
               "appearances": 82,
               "goals": 36
-            },
+            },,
             {
               "clubName": "马德里竞技",
               "period": "2024-至今",
@@ -525,7 +995,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "macallister",
         "name": "埃米利亚诺·马丁内斯",
@@ -565,13 +1035,13 @@ export const teams: Team[] = [
             "2022世界杯",
             "2024美洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "布莱顿",
               "period": "2019-2023",
               "appearances": 112,
               "goals": 20
-            },
+            },,
             {
               "clubName": "利物浦",
               "period": "2023-至今",
@@ -580,7 +1050,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "martinez_e",
         "name": "恩佐·费尔南德斯",
@@ -620,7 +1090,7 @@ export const teams: Team[] = [
             "2022世界杯",
             "2024美洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "阿斯顿维拉",
               "period": "2020-至今",
@@ -629,7 +1099,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "fernandez_e",
         "name": "亚历克西斯·麦克阿利斯特",
@@ -669,18 +1139,394 @@ export const teams: Team[] = [
             "2022世界杯",
             "2024美洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "本菲卡",
               "period": "2022-2023",
               "appearances": 47,
               "goals": 7
-            },
+            },,
             {
               "clubName": "切尔西",
               "period": "2023-至今",
               "appearances": 88,
               "goals": 6
+            }
+          ]
+        }
+      },
+      {
+        "id": "alexismacallister",
+        "name": "Alexis Mac Allister",
+        "number": 10,
+        "position": "CM",
+        "club": "Liverpool",
+        "age": 27,
+        "height": 176,
+        "weight": 68,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1998-12-24",
+        "marketValue": 21000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/96dmuf1757087513.png",
+        "abilities": {
+          "shooting": 66,
+          "passing": 82,
+          "dribbling": 71,
+          "speed": 66,
+          "defense": 61,
+          "physical": 70
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Liverpool",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "cristianromero",
+        "name": "Cristian Romero",
+        "number": 17,
+        "position": "CB",
+        "club": "Tottenham Hotspur",
+        "age": 28,
+        "height": 185,
+        "weight": 78,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1998-04-27",
+        "marketValue": 15000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/dme7x81757016317.png",
+        "abilities": {
+          "shooting": 40,
+          "passing": 62,
+          "dribbling": 49,
+          "speed": 59,
+          "defense": 80,
+          "physical": 78
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Tottenham Hotspur",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "emilianomartinez",
+        "name": "Emiliano Martinez",
+        "number": 23,
+        "position": "GK",
+        "club": "Aston Villa",
+        "age": 33,
+        "height": 195,
+        "weight": 87,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1992-09-02",
+        "marketValue": 960000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png",
+        "abilities": {
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 68,
+          "physical": 62
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Aston Villa",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "enzofernandez",
+        "name": "Enzo Fernández",
+        "number": 8,
+        "position": "CM",
+        "club": "Chelsea",
+        "age": 25,
+        "height": 178,
+        "weight": 76,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2001-01-17",
+        "marketValue": 28000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/b71vun1757003115.png",
+        "abilities": {
+          "shooting": 69,
+          "passing": 85,
+          "dribbling": 74,
+          "speed": 69,
+          "defense": 64,
+          "physical": 73
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Chelsea",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "exequielpalacios",
+        "name": "Exequiel Palacios",
+        "number": 25,
+        "position": "CM",
+        "club": "Bayer Leverkusen",
+        "age": 27,
+        "height": 177,
+        "weight": 68,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1998-10-05",
+        "marketValue": 21000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/oby41y1756316369.png",
+        "abilities": {
+          "shooting": 66,
+          "passing": 82,
+          "dribbling": 71,
+          "speed": 66,
+          "defense": 61,
+          "physical": 70
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Bayer Leverkusen",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "facundomedina",
+        "name": "Facundo Medina",
+        "number": 32,
+        "position": "CB",
+        "club": "Marseille",
+        "age": 27,
+        "height": 180,
+        "weight": 78,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "左",
+        "birthDate": "1999-05-28",
+        "marketValue": 15000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/hqyj8f1766153184.png",
+        "abilities": {
+          "shooting": 40,
+          "passing": 62,
+          "dribbling": 49,
+          "speed": 59,
+          "defense": 80,
+          "physical": 78
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Marseille",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "geronimorulli",
+        "name": "Gerónimo Rulli",
+        "number": 1,
+        "position": "GK",
+        "club": "Marseille",
+        "age": 34,
+        "height": 189,
+        "weight": 83,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1992-05-20",
+        "marketValue": 960000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/cpkkmg1766153528.png",
+        "abilities": {
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 68,
+          "physical": 62
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Marseille",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "giovanilocelso",
+        "name": "Giovani Lo Celso",
+        "number": 20,
+        "position": "CAM",
+        "club": "Real Betis",
+        "age": 30,
+        "height": 177,
+        "weight": 68,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "左",
+        "birthDate": "1996-04-09",
+        "marketValue": 11200000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/yge8gq1762602923.png",
+        "abilities": {
+          "shooting": 63,
+          "passing": 74,
+          "dribbling": 73,
+          "speed": 62,
+          "defense": 32,
+          "physical": 53
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Real Betis",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
             }
           ]
         }
@@ -773,7 +1619,7 @@ export const teams: Team[] = [
       }
     ],
     "players": [
-      {
+{
         "id": "mbappe",
         "name": "基利安·姆巴佩",
         "number": 10,
@@ -815,13 +1661,13 @@ export const teams: Team[] = [
             "2020欧洲杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "巴黎圣日耳曼",
               "period": "2017-2024",
               "appearances": 262,
               "goals": 212
-            },
+            },,
             {
               "clubName": "皇家马德里",
               "period": "2024-至今",
@@ -830,7 +1676,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "griezmann",
         "name": "奥雷利安·楚阿梅尼",
@@ -874,19 +1720,19 @@ export const teams: Team[] = [
             "2022世界杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "马德里竞技",
               "period": "2014-2019",
               "appearances": 257,
               "goals": 133
-            },
+            },,
             {
               "clubName": "巴塞罗那",
               "period": "2019-2021",
               "appearances": 102,
               "goals": 35
-            },
+            },,
             {
               "clubName": "马德里竞技",
               "period": "2021-至今",
@@ -895,7 +1741,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "tchouameni",
         "name": "威廉·萨利巴",
@@ -935,13 +1781,13 @@ export const teams: Team[] = [
             "2022世界杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "摩纳哥",
               "period": "2020-2022",
               "appearances": 95,
               "goals": 8
-            },
+            },,
             {
               "clubName": "皇家马德里",
               "period": "2022-至今",
@@ -950,7 +1796,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "saliba",
         "name": "迈克·迈尼昂",
@@ -990,7 +1836,7 @@ export const teams: Team[] = [
             "2022世界杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "阿森纳",
               "period": "2019-至今",
@@ -999,7 +1845,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "theo",
         "name": "奥斯曼·登贝莱",
@@ -1039,7 +1885,7 @@ export const teams: Team[] = [
             "2022世界杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "AC米兰",
               "period": "2019-至今",
@@ -1048,7 +1894,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "maignan",
         "name": "朱尔·孔德",
@@ -1089,11 +1935,340 @@ export const teams: Team[] = [
             "2022世界杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "AC米兰",
               "period": "2021-至今",
               "appearances": 160,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "adrienrabiot",
+        "name": "Adrien Rabiot",
+        "number": 12,
+        "position": "CM",
+        "club": "AC Milan",
+        "age": 31,
+        "height": 188,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "左",
+        "birthDate": "1995-04-03",
+        "marketValue": 9800000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/m2upnx1758893486.png",
+        "abilities": {
+          "shooting": 57,
+          "passing": 74,
+          "dribbling": 62,
+          "speed": 57,
+          "defense": 52,
+          "physical": 62
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "AC Milan",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "aurelientchouameni",
+        "name": "Aurélien Tchouaméni",
+        "number": 14,
+        "position": "CDM",
+        "club": "Real Madrid",
+        "age": 26,
+        "height": 185,
+        "weight": 81,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2000-01-27",
+        "marketValue": 16500000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/4o417k1733653668.png",
+        "abilities": {
+          "shooting": 54,
+          "passing": 73,
+          "dribbling": 59,
+          "speed": 59,
+          "defense": 79,
+          "physical": 80
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Real Madrid",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "bradleybarcola",
+        "name": "Bradley Barcola",
+        "number": 29,
+        "position": "LW",
+        "club": "Paris SG",
+        "age": 23,
+        "height": 182,
+        "weight": 73,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2002-09-02",
+        "marketValue": 35000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/l2v71f1766334537.png",
+        "abilities": {
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Paris SG",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "bricesamba",
+        "name": "Brice Samba",
+        "number": 30,
+        "position": "GK",
+        "club": "Rennes",
+        "age": 32,
+        "height": 187,
+        "weight": 89,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1994-04-25",
+        "marketValue": 2800000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/nkfugp1766137864.png",
+        "abilities": {
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 69,
+          "physical": 63
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Rennes",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "dayotupamecano",
+        "name": "Dayot Upamecano",
+        "number": 2,
+        "position": "CB",
+        "club": "Bayern Munich",
+        "age": 27,
+        "height": 186,
+        "weight": 89,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1998-10-27",
+        "marketValue": 15000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/a1hyfj1756416177.png",
+        "abilities": {
+          "shooting": 40,
+          "passing": 62,
+          "dribbling": 49,
+          "speed": 59,
+          "defense": 80,
+          "physical": 78
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Bayern Munich",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "desiredoue",
+        "name": "Désiré Doué",
+        "number": 14,
+        "position": "LW",
+        "club": "Paris SG",
+        "age": 20,
+        "height": 181,
+        "weight": 79,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2005-06-03",
+        "marketValue": 45500000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/5m0p4g1766335194.png",
+        "abilities": {
+          "shooting": 76,
+          "passing": 80,
+          "dribbling": 91,
+          "speed": 91,
+          "defense": 40,
+          "physical": 68
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Paris SG",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "didierdeschamps",
+        "name": "Didier Deschamps",
+        "number": 0,
+        "position": "CM",
+        "club": "France",
+        "age": 57,
+        "height": 170,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1968-10-15",
+        "marketValue": 3360000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/adxgwj1592666238.png",
+        "abilities": {
+          "shooting": 54,
+          "passing": 71,
+          "dribbling": 59,
+          "speed": 54,
+          "defense": 49,
+          "physical": 59
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "France",
+              "period": "至今",
+              "appearances": 0,
               "goals": 0
             }
           ]
@@ -1176,7 +2351,7 @@ export const teams: Team[] = [
       }
     ],
     "players": [
-      {
+{
         "id": "kane",
         "name": "哈里·凯恩",
         "number": 9,
@@ -1219,13 +2394,13 @@ export const teams: Team[] = [
             "2020欧洲杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "托特纳姆热刺",
               "period": "2011-2023",
               "appearances": 435,
               "goals": 280
-            },
+            },,
             {
               "clubName": "拜仁慕尼黑",
               "period": "2023-至今",
@@ -1234,7 +2409,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "bellingham",
         "name": "裘德·贝林厄姆",
@@ -1275,13 +2450,13 @@ export const teams: Team[] = [
             "2022世界杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "多特蒙德",
               "period": "2020-2023",
               "appearances": 132,
               "goals": 24
-            },
+            },,
             {
               "clubName": "皇家马德里",
               "period": "2023-至今",
@@ -1290,7 +2465,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "foden",
         "name": "德克兰·赖斯",
@@ -1330,7 +2505,7 @@ export const teams: Team[] = [
             "2022世界杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "曼城",
               "period": "2017-至今",
@@ -1339,7 +2514,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "rice",
         "name": "布卡约·萨卡",
@@ -1379,13 +2554,13 @@ export const teams: Team[] = [
             "2022世界杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "西汉姆联",
               "period": "2017-2023",
               "appearances": 245,
               "goals": 15
-            },
+            },,
             {
               "clubName": "阿森纳",
               "period": "2023-至今",
@@ -1394,7 +2569,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "stones",
         "name": "约翰·斯通斯",
@@ -1437,12 +2612,482 @@ export const teams: Team[] = [
             "2020欧洲杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "曼城",
               "period": "2016-至今",
               "appearances": 262,
               "goals": 14
+            }
+          ]
+        }
+      },
+      {
+        "id": "anthonygordon",
+        "name": "Anthony Gordon",
+        "number": 10,
+        "position": "LW",
+        "club": "Newcastle United",
+        "age": 25,
+        "height": 183,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2001-02-24",
+        "marketValue": 35000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/8ztck61766824986.png",
+        "abilities": {
+          "shooting": 76,
+          "passing": 80,
+          "dribbling": 91,
+          "speed": 92,
+          "defense": 40,
+          "physical": 67
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Newcastle United",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "bukayosaka",
+        "name": "Bukayo Saka",
+        "number": 7,
+        "position": "RW",
+        "club": "Arsenal",
+        "age": 24,
+        "height": 178,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "左",
+        "birthDate": "2001-09-05",
+        "marketValue": 35000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/xfwok41769331816.png",
+        "abilities": {
+          "shooting": 76,
+          "passing": 80,
+          "dribbling": 91,
+          "speed": 92,
+          "defense": 40,
+          "physical": 67
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Arsenal",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "danburn",
+        "name": "Dan Burn",
+        "number": 33,
+        "position": "LB",
+        "club": "Newcastle United",
+        "age": 34,
+        "height": 201,
+        "weight": 87,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1992-05-09",
+        "marketValue": 1800000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/m4ze3r1766824954.png",
+        "abilities": {
+          "shooting": 36,
+          "passing": 59,
+          "dribbling": 53,
+          "speed": 69,
+          "defense": 59,
+          "physical": 53
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Newcastle United",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "deanhenderson",
+        "name": "Dean Henderson",
+        "number": 1,
+        "position": "GK",
+        "club": "Crystal Palace",
+        "age": 29,
+        "height": 190,
+        "weight": 84,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1997-03-12",
+        "marketValue": 6000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/fexcpe1761492531.png",
+        "abilities": {
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 75,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Crystal Palace",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "declanrice",
+        "name": "Declan Rice",
+        "number": 41,
+        "position": "CDM",
+        "club": "Arsenal",
+        "age": 27,
+        "height": 185,
+        "weight": 83,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1999-01-14",
+        "marketValue": 16500000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/do2pew1694204464.png",
+        "abilities": {
+          "shooting": 54,
+          "passing": 73,
+          "dribbling": 59,
+          "speed": 59,
+          "defense": 79,
+          "physical": 80
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Arsenal",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "djedspence",
+        "name": "Djed Spence",
+        "number": 24,
+        "position": "RB",
+        "club": "Tottenham Hotspur",
+        "age": 25,
+        "height": 184,
+        "weight": 71,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2000-08-09",
+        "marketValue": 15000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/erd1vi1757875565.png",
+        "abilities": {
+          "shooting": 45,
+          "passing": 69,
+          "dribbling": 64,
+          "speed": 79,
+          "defense": 69,
+          "physical": 63
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Tottenham Hotspur",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "eberechieze",
+        "name": "Eberechi Eze",
+        "number": 10,
+        "position": "CAM",
+        "club": "Arsenal",
+        "age": 27,
+        "height": 178,
+        "weight": 73,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1998-06-29",
+        "marketValue": 24000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/jcabmd1769330240.png",
+        "abilities": {
+          "shooting": 73,
+          "passing": 84,
+          "dribbling": 83,
+          "speed": 72,
+          "defense": 42,
+          "physical": 63
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Arsenal",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "elliottanderson",
+        "name": "Elliott Anderson",
+        "number": 8,
+        "position": "CM",
+        "club": "Nottingham Forest",
+        "age": 23,
+        "height": 179,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2002-11-06",
+        "marketValue": 28000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/rhm8q21757162869.png",
+        "abilities": {
+          "shooting": 65,
+          "passing": 81,
+          "dribbling": 70,
+          "speed": 65,
+          "defense": 60,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Nottingham Forest",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "ezrikonsa",
+        "name": "Ezri Konsa",
+        "number": 4,
+        "position": "CB",
+        "club": "Aston Villa",
+        "age": 28,
+        "height": 183,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1997-06-06",
+        "marketValue": 15000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/rnu4al1756984921.png",
+        "abilities": {
+          "shooting": 40,
+          "passing": 62,
+          "dribbling": 49,
+          "speed": 59,
+          "defense": 80,
+          "physical": 78
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Aston Villa",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "harrykane",
+        "name": "Harry Kane",
+        "number": 9,
+        "position": "ST",
+        "club": "Bayern Munich",
+        "age": 32,
+        "height": 188,
+        "weight": 86,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1993-07-28",
+        "marketValue": 14000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/j4ouvd1756408895.png",
+        "abilities": {
+          "shooting": 78,
+          "passing": 58,
+          "dribbling": 68,
+          "speed": 71,
+          "defense": 23,
+          "physical": 64
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Bayern Munich",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
             }
           ]
         }
@@ -1524,7 +3169,7 @@ export const teams: Team[] = [
       }
     ],
     "players": [
-      {
+{
         "id": "vinicius",
         "name": "维尼修斯·儒尼奥尔",
         "number": 7,
@@ -1563,7 +3208,7 @@ export const teams: Team[] = [
           "majorTournaments": [
             "2022世界杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "皇家马德里",
               "period": "2018-至今",
@@ -1572,7 +3217,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "rodrygo",
         "name": "内马尔",
@@ -1611,7 +3256,7 @@ export const teams: Team[] = [
           "majorTournaments": [
             "2022世界杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "皇家马德里",
               "period": "2019-至今",
@@ -1620,7 +3265,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "alisson",
         "name": "阿利松",
@@ -1660,7 +3305,7 @@ export const teams: Team[] = [
             "2018世界杯",
             "2022世界杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "利物浦",
               "period": "2018-至今",
@@ -1669,7 +3314,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "guimaraes",
         "name": "卡塞米罗",
@@ -1708,7 +3353,7 @@ export const teams: Team[] = [
           "majorTournaments": [
             "2022世界杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "纽卡斯尔联",
               "period": "2022-至今",
@@ -1717,7 +3362,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "militao",
         "name": "马尔基尼奥斯",
@@ -1756,7 +3401,7 @@ export const teams: Team[] = [
           "majorTournaments": [
             "2022世界杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "皇家马德里",
               "period": "2019-至今",
@@ -1765,7 +3410,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "endrick",
         "name": "布鲁诺·吉马良斯",
@@ -1802,12 +3447,482 @@ export const teams: Team[] = [
           "totalCaps": 12,
           "totalGoals": 4,
           "majorTournaments": [],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "皇家马德里",
               "period": "2024-至今",
               "appearances": 42,
               "goals": 12
+            }
+          ]
+        }
+      },
+      {
+        "id": "alexsandro",
+        "name": "Alex Sandro",
+        "number": 26,
+        "position": "LB",
+        "club": "Flamengo",
+        "age": 35,
+        "height": 177,
+        "weight": 79,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "左",
+        "birthDate": "1991-01-26",
+        "marketValue": 1800000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/e24f0a1750920769.png",
+        "abilities": {
+          "shooting": 36,
+          "passing": 59,
+          "dribbling": 53,
+          "speed": 69,
+          "defense": 59,
+          "physical": 53
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Flamengo",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "alissonbecker",
+        "name": "Alisson Becker",
+        "number": 1,
+        "position": "GK",
+        "club": "Liverpool",
+        "age": 33,
+        "height": 193,
+        "weight": 91,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1992-10-02",
+        "marketValue": 960000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/8amq961757087569.png",
+        "abilities": {
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 68,
+          "physical": 62
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Liverpool",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "bremer",
+        "name": "Bremer",
+        "number": 3,
+        "position": "CB",
+        "club": "Juventus",
+        "age": 29,
+        "height": 188,
+        "weight": 79,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1997-03-18",
+        "marketValue": 15000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/3qx4p71759224866.png",
+        "abilities": {
+          "shooting": 40,
+          "passing": 62,
+          "dribbling": 49,
+          "speed": 59,
+          "defense": 80,
+          "physical": 78
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Juventus",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "brunoguimaraes",
+        "name": "Bruno Guimarães",
+        "number": 39,
+        "position": "CDM",
+        "club": "Newcastle United",
+        "age": 28,
+        "height": 182,
+        "weight": 73,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1997-11-16",
+        "marketValue": 16500000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/qr8gk01766824971.png",
+        "abilities": {
+          "shooting": 54,
+          "passing": 73,
+          "dribbling": 59,
+          "speed": 59,
+          "defense": 79,
+          "physical": 80
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Newcastle United",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "carloancelotti",
+        "name": "Carlo Ancelotti",
+        "number": 0,
+        "position": "CM",
+        "club": "Brazil",
+        "age": 66,
+        "height": 179,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1959-06-10",
+        "marketValue": 3360000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/gvcxix1586771454.png",
+        "abilities": {
+          "shooting": 54,
+          "passing": 71,
+          "dribbling": 59,
+          "speed": 54,
+          "defense": 49,
+          "physical": 59
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Brazil",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "casemiro",
+        "name": "Casemiro",
+        "number": 18,
+        "position": "CDM",
+        "club": "Manchester United",
+        "age": 34,
+        "height": 184,
+        "weight": 83,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1992-02-23",
+        "marketValue": 2640000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ydr3j41766826524.png",
+        "abilities": {
+          "shooting": 43,
+          "passing": 63,
+          "dribbling": 49,
+          "speed": 49,
+          "defense": 69,
+          "physical": 71
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Manchester United",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "danilo",
+        "name": "Danilo",
+        "number": 13,
+        "position": "CB",
+        "club": "Flamengo",
+        "age": 34,
+        "height": 184,
+        "weight": 78,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1991-07-15",
+        "marketValue": 2400000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/6hr4w81750454528.png",
+        "abilities": {
+          "shooting": 31,
+          "passing": 51,
+          "dribbling": 39,
+          "speed": 49,
+          "defense": 71,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Flamengo",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "danilosantos",
+        "name": "Danilo Santos",
+        "number": 8,
+        "position": "CM",
+        "club": "Botafogo",
+        "age": 25,
+        "height": 177,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "左",
+        "birthDate": "2001-04-19",
+        "marketValue": 28000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/uo3gja1755115907.png",
+        "abilities": {
+          "shooting": 69,
+          "passing": 85,
+          "dribbling": 74,
+          "speed": 69,
+          "defense": 64,
+          "physical": 73
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Botafogo",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "douglassantos",
+        "name": "Douglas Santos",
+        "number": 3,
+        "position": "LB",
+        "club": "Zenit Saint Petersburg",
+        "age": 32,
+        "height": 175,
+        "weight": 69,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "左",
+        "birthDate": "1994-03-22",
+        "marketValue": 5250000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/w5w8j71692197353.png",
+        "abilities": {
+          "shooting": 37,
+          "passing": 60,
+          "dribbling": 55,
+          "speed": 70,
+          "defense": 61,
+          "physical": 54
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Zenit Saint Petersburg",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "ederson",
+        "name": "Ederson",
+        "number": 31,
+        "position": "GK",
+        "club": "Fenerbahçe",
+        "age": 32,
+        "height": 188,
+        "weight": 86,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "左",
+        "birthDate": "1993-08-17",
+        "marketValue": 2800000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/xhlait1769179027.png",
+        "abilities": {
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 69,
+          "physical": 63
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Fenerbahçe",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
             }
           ]
         }
@@ -1889,7 +4004,7 @@ export const teams: Team[] = [
       }
     ],
     "players": [
-      {
+{
         "id": "ronaldo",
         "name": "克里斯蒂亚诺·罗纳尔多",
         "number": 7,
@@ -1938,31 +4053,31 @@ export const teams: Team[] = [
             "2020欧洲杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "曼联",
               "period": "2003-2009",
               "appearances": 292,
               "goals": 118
-            },
+            },,
             {
               "clubName": "皇家马德里",
               "period": "2009-2018",
               "appearances": 438,
               "goals": 450
-            },
+            },,
             {
               "clubName": "尤文图斯",
               "period": "2018-2021",
               "appearances": 134,
               "goals": 101
-            },
+            },,
             {
               "clubName": "曼联",
               "period": "2021-2022",
               "appearances": 54,
               "goals": 27
-            },
+            },,
             {
               "clubName": "利雅得胜利",
               "period": "2023-至今",
@@ -1971,7 +4086,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "bruno",
         "name": "布鲁诺·费尔南德斯",
@@ -2013,7 +4128,7 @@ export const teams: Team[] = [
             "2020欧洲杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "曼联",
               "period": "2020-至今",
@@ -2022,7 +4137,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "leao",
         "name": "鲁本·迪亚斯",
@@ -2062,7 +4177,7 @@ export const teams: Team[] = [
             "2022世界杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "AC米兰",
               "period": "2019-至今",
@@ -2071,7 +4186,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "dias",
         "name": "拉斐尔·莱奥",
@@ -2113,13 +4228,13 @@ export const teams: Team[] = [
             "2020欧洲杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "本菲卡",
               "period": "2017-2020",
               "appearances": 133,
               "goals": 9
-            },
+            },,
             {
               "clubName": "曼城",
               "period": "2020-至今",
@@ -2128,7 +4243,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "costa_d",
         "name": "迪奥戈·科斯塔",
@@ -2168,11 +4283,387 @@ export const teams: Team[] = [
             "2022世界杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "波尔图",
               "period": "2019-至今",
               "appearances": 168,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "bernardosilva",
+        "name": "Bernardo Silva",
+        "number": 20,
+        "position": "CAM",
+        "club": "Manchester City",
+        "age": 31,
+        "height": 173,
+        "weight": 64,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "左",
+        "birthDate": "1994-08-10",
+        "marketValue": 11200000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/13ajsp1769182879.png",
+        "abilities": {
+          "shooting": 63,
+          "passing": 74,
+          "dribbling": 73,
+          "speed": 62,
+          "defense": 32,
+          "physical": 53
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Manchester City",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "brunofernandes",
+        "name": "Bruno Fernandes",
+        "number": 8,
+        "position": "CM",
+        "club": "Manchester United",
+        "age": 31,
+        "height": 179,
+        "weight": 66,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1994-09-08",
+        "marketValue": 9800000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/jhasls1766826690.png",
+        "abilities": {
+          "shooting": 57,
+          "passing": 74,
+          "dribbling": 62,
+          "speed": 57,
+          "defense": 52,
+          "physical": 62
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Manchester United",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "cristianoronaldo",
+        "name": "Cristiano Ronaldo",
+        "number": 7,
+        "position": "ST",
+        "club": "Al-Nassr",
+        "age": 41,
+        "height": 188,
+        "weight": 83,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1985-02-05",
+        "marketValue": 4800000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/a19jje1761592498.png",
+        "abilities": {
+          "shooting": 74,
+          "passing": 54,
+          "dribbling": 64,
+          "speed": 67,
+          "defense": 20,
+          "physical": 60
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Al-Nassr",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "diogocosta",
+        "name": "Diogo Costa",
+        "number": 99,
+        "position": "GK",
+        "club": "FC Porto",
+        "age": 26,
+        "height": 186,
+        "weight": 82,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1999-09-19",
+        "marketValue": 6000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/koetaj1724749969.png",
+        "abilities": {
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 75,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "FC Porto",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "diogodalot",
+        "name": "Diogo Dalot",
+        "number": 2,
+        "position": "RB",
+        "club": "Manchester United",
+        "age": 27,
+        "height": 184,
+        "weight": 78,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1999-03-18",
+        "marketValue": 11250000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ow1nh31766826552.png",
+        "abilities": {
+          "shooting": 44,
+          "passing": 67,
+          "dribbling": 62,
+          "speed": 77,
+          "defense": 67,
+          "physical": 61
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Manchester United",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "franciscoconceicao",
+        "name": "Francisco Conceição",
+        "number": 7,
+        "position": "RW",
+        "club": "Juventus",
+        "age": 23,
+        "height": 168,
+        "weight": 61,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "左",
+        "birthDate": "2002-12-14",
+        "marketValue": 35000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ekqivz1759225498.png",
+        "abilities": {
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Juventus",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "franciscotrincao",
+        "name": "Francisco Trincão",
+        "number": 17,
+        "position": "CAM",
+        "club": "Sporting CP",
+        "age": 26,
+        "height": 183,
+        "weight": 76,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "左",
+        "birthDate": "1999-12-29",
+        "marketValue": 24000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/7xcl5d1762290739.png",
+        "abilities": {
+          "shooting": 73,
+          "passing": 84,
+          "dribbling": 83,
+          "speed": 72,
+          "defense": 42,
+          "physical": 63
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Sporting CP",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "goncaloguedes",
+        "name": "Gonçalo Guedes",
+        "number": 11,
+        "position": "LW",
+        "club": "Real Sociedad",
+        "age": 29,
+        "height": 179,
+        "weight": 68,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1996-11-29",
+        "marketValue": 26250000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/75dldp1762709030.png",
+        "abilities": {
+          "shooting": 73,
+          "passing": 77,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 37,
+          "physical": 64
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Real Sociedad",
+              "period": "至今",
+              "appearances": 0,
               "goals": 0
             }
           ]
@@ -2255,7 +4746,7 @@ export const teams: Team[] = [
       }
     ],
     "players": [
-      {
+{
         "id": "vandijk",
         "name": "维吉尔·范迪克",
         "number": 4,
@@ -2295,7 +4786,7 @@ export const teams: Team[] = [
             "2020欧洲杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "利物浦",
               "period": "2018-至今",
@@ -2304,7 +4795,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "gakpo",
         "name": "科迪·加克波",
@@ -2344,13 +4835,13 @@ export const teams: Team[] = [
             "2022世界杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "埃因霍温",
               "period": "2018-2023",
               "appearances": 159,
               "goals": 55
-            },
+            },,
             {
               "clubName": "利物浦",
               "period": "2023-至今",
@@ -2359,7 +4850,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "dejong",
         "name": "弗兰基·德容",
@@ -2400,7 +4891,7 @@ export const teams: Team[] = [
             "2020欧洲杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "巴塞罗那",
               "period": "2019-至今",
@@ -2409,7 +4900,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "dumfries",
         "name": "孟菲斯·德佩",
@@ -2450,12 +4941,482 @@ export const teams: Team[] = [
             "2020欧洲杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "国际米兰",
               "period": "2021-至今",
               "appearances": 152,
               "goals": 15
+            }
+          ]
+        }
+      },
+      {
+        "id": "bartverbruggen",
+        "name": "Bart Verbruggen",
+        "number": 1,
+        "position": "GK",
+        "club": "Brighton and Hove Albion",
+        "age": 23,
+        "height": 194,
+        "weight": 66,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2002-08-18",
+        "marketValue": 8000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/5ak40b1756999759.png",
+        "abilities": {
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 72,
+          "physical": 66
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Brighton and Hove Albion",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "brianbrobbey",
+        "name": "Brian Brobbey",
+        "number": 9,
+        "position": "ST",
+        "club": "Sunderland",
+        "age": 24,
+        "height": 180,
+        "weight": 78,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2002-02-01",
+        "marketValue": 40000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/q3qz441762198721.png",
+        "abilities": {
+          "shooting": 92,
+          "passing": 74,
+          "dribbling": 84,
+          "speed": 87,
+          "defense": 36,
+          "physical": 80
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Sunderland",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "codygakpo",
+        "name": "Cody Gakpo",
+        "number": 18,
+        "position": "LW",
+        "club": "Liverpool",
+        "age": 27,
+        "height": 187,
+        "weight": 76,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1999-05-07",
+        "marketValue": 26250000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/lwkl5n1757088091.png",
+        "abilities": {
+          "shooting": 73,
+          "passing": 77,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 37,
+          "physical": 64
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Liverpool",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "crysenciosummerville",
+        "name": "Crysencio Summerville",
+        "number": 7,
+        "position": "RW",
+        "club": "West Ham United",
+        "age": 24,
+        "height": 174,
+        "weight": 63,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2001-10-30",
+        "marketValue": 35000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/b51rjk1756984653.png",
+        "abilities": {
+          "shooting": 76,
+          "passing": 80,
+          "dribbling": 91,
+          "speed": 92,
+          "defense": 40,
+          "physical": 67
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "West Ham United",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "denzeldumfries",
+        "name": "Denzel Dumfries",
+        "number": 2,
+        "position": "RW",
+        "club": "Inter Milan",
+        "age": 30,
+        "height": 189,
+        "weight": 79,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1996-04-18",
+        "marketValue": 12250000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/1hd7ox1759408866.png",
+        "abilities": {
+          "shooting": 63,
+          "passing": 67,
+          "dribbling": 77,
+          "speed": 79,
+          "defense": 27,
+          "physical": 53
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Inter Milan",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "donyellmalen",
+        "name": "Donyell Malen",
+        "number": 17,
+        "position": "RW",
+        "club": "Roma",
+        "age": 27,
+        "height": 176,
+        "weight": 68,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1999-01-19",
+        "marketValue": 26250000,
+        "photoUrl": "https://www.thesportsdb.com/images/media/player/cutout/t2xdih1777708654.png",
+        "abilities": {
+          "shooting": 73,
+          "passing": 77,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 37,
+          "physical": 64
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Roma",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "frenkiedejong",
+        "name": "Frenkie de Jong",
+        "number": 21,
+        "position": "CM",
+        "club": "Barcelona",
+        "age": 29,
+        "height": 181,
+        "weight": 73,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1997-05-12",
+        "marketValue": 21000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/b8k6611726510284.png",
+        "abilities": {
+          "shooting": 66,
+          "passing": 82,
+          "dribbling": 71,
+          "speed": 66,
+          "defense": 61,
+          "physical": 70
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Barcelona",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "guustil",
+        "name": "Guus Til",
+        "number": 20,
+        "position": "CAM",
+        "club": "PSV Eindhoven",
+        "age": 28,
+        "height": 186,
+        "weight": 78,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1997-12-22",
+        "marketValue": 24000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/y654101764609008.png",
+        "abilities": {
+          "shooting": 73,
+          "passing": 84,
+          "dribbling": 83,
+          "speed": 72,
+          "defense": 42,
+          "physical": 63
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "PSV Eindhoven",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "janpaulvanhecke",
+        "name": "Jan Paul van Hecke",
+        "number": 6,
+        "position": "CB",
+        "club": "Brighton and Hove Albion",
+        "age": 25,
+        "height": 189,
+        "weight": 78,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2000-06-08",
+        "marketValue": 20000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/37rw1u1756994375.png",
+        "abilities": {
+          "shooting": 42,
+          "passing": 64,
+          "dribbling": 52,
+          "speed": 62,
+          "defense": 82,
+          "physical": 80
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Brighton and Hove Albion",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "jorrelhato",
+        "name": "Jorrel Hato",
+        "number": 21,
+        "position": "LB",
+        "club": "Chelsea",
+        "age": 20,
+        "height": 182,
+        "weight": 76,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "左",
+        "birthDate": "2006-03-07",
+        "marketValue": 19500000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/wfjw1a1757003535.png",
+        "abilities": {
+          "shooting": 43,
+          "passing": 67,
+          "dribbling": 62,
+          "speed": 77,
+          "defense": 67,
+          "physical": 61
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Chelsea",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
             }
           ]
         }
@@ -2537,7 +5498,7 @@ export const teams: Team[] = [
       }
     ],
     "players": [
-      {
+{
         "id": "debruyne",
         "name": "凯文·德布劳内",
         "number": 7,
@@ -2581,7 +5542,7 @@ export const teams: Team[] = [
             "2020欧洲杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "曼城",
               "period": "2015-至今",
@@ -2590,7 +5551,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "lukaku",
         "name": "罗梅卢·卢卡库",
@@ -2634,25 +5595,25 @@ export const teams: Team[] = [
             "2020欧洲杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "曼联",
               "period": "2017-2019",
               "appearances": 96,
               "goals": 42
-            },
+            },,
             {
               "clubName": "国际米兰",
               "period": "2019-2021",
               "appearances": 95,
               "goals": 64
-            },
+            },,
             {
               "clubName": "切尔西",
               "period": "2021-2022",
               "appearances": 44,
               "goals": 15
-            },
+            },,
             {
               "clubName": "罗马",
               "period": "2023-至今",
@@ -2661,7 +5622,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "doku",
         "name": "蒂博·库尔图瓦",
@@ -2701,13 +5662,13 @@ export const teams: Team[] = [
             "2022世界杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "雷恩",
               "period": "2020-2023",
               "appearances": 92,
               "goals": 12
-            },
+            },,
             {
               "clubName": "曼城",
               "period": "2023-至今",
@@ -2716,7 +5677,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "courtois",
         "name": "杰雷米·多库",
@@ -2760,13 +5721,13 @@ export const teams: Team[] = [
             "2016欧洲杯",
             "2020欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "切尔西",
               "period": "2014-2018",
               "appearances": 154,
               "goals": 0
-            },
+            },,
             {
               "clubName": "皇家马德里",
               "period": "2018-至今",
@@ -2775,7 +5736,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "onyedika",
         "name": "拉斐尔·奥涅迪卡",
@@ -2812,12 +5773,388 @@ export const teams: Team[] = [
           "totalCaps": 18,
           "totalGoals": 1,
           "majorTournaments": [],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "多特蒙德",
               "period": "2023-至今",
               "appearances": 72,
               "goals": 2
+            }
+          ]
+        }
+      },
+      {
+        "id": "alexissaelemaekers",
+        "name": "Alexis Saelemaekers",
+        "number": 56,
+        "position": "LW",
+        "club": "AC Milan",
+        "age": 26,
+        "height": 180,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1999-06-27",
+        "marketValue": 26250000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/li7qc71758893296.png",
+        "abilities": {
+          "shooting": 73,
+          "passing": 77,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 37,
+          "physical": 64
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "AC Milan",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "amadouonana",
+        "name": "Amadou Onana",
+        "number": 24,
+        "position": "CDM",
+        "club": "Aston Villa",
+        "age": 24,
+        "height": 192,
+        "weight": 76,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2001-08-16",
+        "marketValue": 22000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/q2bvps1725359471.png",
+        "abilities": {
+          "shooting": 56,
+          "passing": 75,
+          "dribbling": 62,
+          "speed": 62,
+          "defense": 81,
+          "physical": 82
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Aston Villa",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "arthurtheate",
+        "name": "Arthur Theate",
+        "number": 3,
+        "position": "CB",
+        "club": "Eintracht Frankfurt",
+        "age": 26,
+        "height": 191,
+        "weight": 78,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "左",
+        "birthDate": "2000-05-25",
+        "marketValue": 15000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/tr7ftn1762287457.png",
+        "abilities": {
+          "shooting": 40,
+          "passing": 62,
+          "dribbling": 49,
+          "speed": 59,
+          "defense": 80,
+          "physical": 78
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Eintracht Frankfurt",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "axelwitsel",
+        "name": "Axel Witsel",
+        "number": 20,
+        "position": "CDM",
+        "club": "Girona",
+        "age": 37,
+        "height": 188,
+        "weight": 81,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1989-01-12",
+        "marketValue": 2640000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/13uvke1762457461.png",
+        "abilities": {
+          "shooting": 43,
+          "passing": 63,
+          "dribbling": 49,
+          "speed": 49,
+          "defense": 69,
+          "physical": 71
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Girona",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "brandonmechele",
+        "name": "Brandon Mechele",
+        "number": 44,
+        "position": "CB",
+        "club": "Club Brugge",
+        "age": 33,
+        "height": 190,
+        "weight": 81,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1993-01-28",
+        "marketValue": 2400000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/vicmek1767634348.png",
+        "abilities": {
+          "shooting": 31,
+          "passing": 51,
+          "dribbling": 39,
+          "speed": 49,
+          "defense": 71,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Club Brugge",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "charlesdeketelaere",
+        "name": "Charles De Ketelaere",
+        "number": 17,
+        "position": "CAM",
+        "club": "Atalanta",
+        "age": 25,
+        "height": 192,
+        "weight": 73,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "左",
+        "birthDate": "2001-03-10",
+        "marketValue": 32000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/wqo9ia1695157273.png",
+        "abilities": {
+          "shooting": 76,
+          "passing": 87,
+          "dribbling": 86,
+          "speed": 75,
+          "defense": 45,
+          "physical": 66
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Atalanta",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "diegomoreira",
+        "name": "Diego Moreira",
+        "number": 7,
+        "position": "LW",
+        "club": "Strasbourg",
+        "age": 21,
+        "height": 179,
+        "weight": 73,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "左",
+        "birthDate": "2004-08-06",
+        "marketValue": 45500000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/eyaz0q1766053833.png",
+        "abilities": {
+          "shooting": 76,
+          "passing": 80,
+          "dribbling": 91,
+          "speed": 91,
+          "defense": 40,
+          "physical": 68
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Strasbourg",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "dodilukebakio",
+        "name": "Dodi Lukébakio",
+        "number": 11,
+        "position": "RW",
+        "club": "Benfica",
+        "age": 28,
+        "height": 187,
+        "weight": 77,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "左",
+        "birthDate": "1997-09-24",
+        "marketValue": 26250000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/335dwm1724784475.png",
+        "abilities": {
+          "shooting": 73,
+          "passing": 77,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 37,
+          "physical": 64
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Benfica",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
             }
           ]
         }
@@ -2899,7 +6236,7 @@ export const teams: Team[] = [
       }
     ],
     "players": [
-      {
+{
         "id": "musiala",
         "name": "贾马尔·穆西亚拉",
         "number": 10,
@@ -2939,7 +6276,7 @@ export const teams: Team[] = [
             "2022世界杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "拜仁慕尼黑",
               "period": "2020-至今",
@@ -2948,7 +6285,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "wirtz",
         "name": "弗洛里安·维尔茨",
@@ -2987,7 +6324,7 @@ export const teams: Team[] = [
           "majorTournaments": [
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "勒沃库森",
               "period": "2020-至今",
@@ -2996,7 +6333,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "kimmich",
         "name": "约书亚·基米希",
@@ -3039,7 +6376,7 @@ export const teams: Team[] = [
             "2020欧洲杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "拜仁慕尼黑",
               "period": "2015-至今",
@@ -3048,7 +6385,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "terstegen",
         "name": "曼努埃尔·诺伊尔",
@@ -3090,7 +6427,7 @@ export const teams: Team[] = [
             "2016欧洲杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "巴塞罗那",
               "period": "2014-至今",
@@ -3099,7 +6436,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "havertz",
         "name": "凯·哈弗茨",
@@ -3139,18 +6476,488 @@ export const teams: Team[] = [
             "2022世界杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "切尔西",
               "period": "2020-2023",
               "appearances": 139,
               "goals": 32
-            },
+            },,
             {
               "clubName": "阿森纳",
               "period": "2023-至今",
               "appearances": 92,
               "goals": 28
+            }
+          ]
+        }
+      },
+      {
+        "id": "aleksandarpavlovic",
+        "name": "Aleksandar Pavlović",
+        "number": 45,
+        "position": "CDM",
+        "club": "Bayern Munich",
+        "age": 22,
+        "height": 188,
+        "weight": 74,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2004-05-03",
+        "marketValue": 22000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/22ti3z1756408943.png",
+        "abilities": {
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Bayern Munich",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "alexandernubel",
+        "name": "Alexander Nübel",
+        "number": 33,
+        "position": "GK",
+        "club": "Stuttgart",
+        "age": 29,
+        "height": 193,
+        "weight": 86,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1996-09-30",
+        "marketValue": 6000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/9rz45t1763586401.png",
+        "abilities": {
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 75,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Stuttgart",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "angelostiller",
+        "name": "Angelo Stiller",
+        "number": 6,
+        "position": "CDM",
+        "club": "Stuttgart",
+        "age": 25,
+        "height": 183,
+        "weight": 77,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "左",
+        "birthDate": "2001-04-04",
+        "marketValue": 22000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/fjia5b1763586463.png",
+        "abilities": {
+          "shooting": 56,
+          "passing": 75,
+          "dribbling": 62,
+          "speed": 62,
+          "defense": 81,
+          "physical": 82
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Stuttgart",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "antoniorudiger",
+        "name": "Antonio Rüdiger",
+        "number": 22,
+        "position": "CB",
+        "club": "Real Madrid",
+        "age": 33,
+        "height": 191,
+        "weight": 84,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1993-03-03",
+        "marketValue": 2400000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ftp1ci1733653186.png",
+        "abilities": {
+          "shooting": 31,
+          "passing": 51,
+          "dribbling": 39,
+          "speed": 49,
+          "defense": 71,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Real Madrid",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "davidraum",
+        "name": "David Raum",
+        "number": 22,
+        "position": "LB",
+        "club": "RB Leipzig",
+        "age": 28,
+        "height": 180,
+        "weight": 74,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "左",
+        "birthDate": "1998-04-22",
+        "marketValue": 11250000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/wxbgdk1763561343.png",
+        "abilities": {
+          "shooting": 44,
+          "passing": 67,
+          "dribbling": 62,
+          "speed": 77,
+          "defense": 67,
+          "physical": 61
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "RB Leipzig",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "denizundav",
+        "name": "Deniz Undav",
+        "number": 26,
+        "position": "ST",
+        "club": "Stuttgart",
+        "age": 29,
+        "height": 179,
+        "weight": 86,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1996-07-19",
+        "marketValue": 30000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/hcxx8s1763586492.png",
+        "abilities": {
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 75
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Stuttgart",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "felixnmecha",
+        "name": "Felix Nmecha",
+        "number": 8,
+        "position": "CM",
+        "club": "Borussia Dortmund",
+        "age": 25,
+        "height": 190,
+        "weight": 73,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2000-10-10",
+        "marketValue": 28000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/g7bqrz1756326448.png",
+        "abilities": {
+          "shooting": 69,
+          "passing": 85,
+          "dribbling": 74,
+          "speed": 69,
+          "defense": 64,
+          "physical": 73
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Borussia Dortmund",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "florianwirtz",
+        "name": "Florian Wirtz",
+        "number": 7,
+        "position": "CAM",
+        "club": "Liverpool",
+        "age": 23,
+        "height": 177,
+        "weight": 69,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2003-05-03",
+        "marketValue": 32000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/8t6bzo1757088899.png",
+        "abilities": {
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Liverpool",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "jamalmusiala",
+        "name": "Jamal Musiala",
+        "number": 10,
+        "position": "CAM",
+        "club": "Bayern Munich",
+        "age": 23,
+        "height": 180,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2003-02-26",
+        "marketValue": 32000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/vbkv611756416067.png",
+        "abilities": {
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Bayern Munich",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "jamieleweling",
+        "name": "Jamie Leweling",
+        "number": 18,
+        "position": "RW",
+        "club": "Stuttgart",
+        "age": 25,
+        "height": 184,
+        "weight": 86,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2001-02-26",
+        "marketValue": 35000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/xnk4yp1763586329.png",
+        "abilities": {
+          "shooting": 76,
+          "passing": 80,
+          "dribbling": 91,
+          "speed": 92,
+          "defense": 40,
+          "physical": 67
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Stuttgart",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
             }
           ]
         }
@@ -3232,7 +7039,7 @@ export const teams: Team[] = [
       }
     ],
     "players": [
-      {
+{
         "id": "modric",
         "name": "卢卡·莫德里奇",
         "number": 10,
@@ -3278,13 +7085,13 @@ export const teams: Team[] = [
             "2020欧洲杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "托特纳姆热刺",
               "period": "2008-2012",
               "appearances": 160,
               "goals": 17
-            },
+            },,
             {
               "clubName": "皇家马德里",
               "period": "2012-至今",
@@ -3293,7 +7100,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "gvardiol",
         "name": "约什科·格瓦迪奥尔",
@@ -3333,13 +7140,13 @@ export const teams: Team[] = [
             "2022世界杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "莱比锡",
               "period": "2021-2023",
               "appearances": 87,
               "goals": 5
-            },
+            },,
             {
               "clubName": "曼城",
               "period": "2023-至今",
@@ -3348,7 +7155,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "kovacic",
         "name": "马特奥·科瓦契奇",
@@ -3392,19 +7199,19 @@ export const teams: Team[] = [
             "2020欧洲杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "皇家马德里",
               "period": "2015-2018",
               "appearances": 109,
               "goals": 3
-            },
+            },,
             {
               "clubName": "切尔西",
               "period": "2018-2023",
               "appearances": 221,
               "goals": 6
-            },
+            },,
             {
               "clubName": "曼城",
               "period": "2023-至今",
@@ -3413,7 +7220,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "livakovic",
         "name": "多米尼克·利瓦科维奇",
@@ -3454,11 +7261,481 @@ export const teams: Team[] = [
             "2020欧洲杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "费内巴切",
               "period": "2023-至今",
               "appearances": 68,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "andrejkramaric",
+        "name": "Andrej Kramarić",
+        "number": 27,
+        "position": "ST",
+        "club": "Hoffenheim",
+        "age": 34,
+        "height": 177,
+        "weight": 73,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1991-06-19",
+        "marketValue": 4800000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/9szvnr1763494431.png",
+        "abilities": {
+          "shooting": 74,
+          "passing": 54,
+          "dribbling": 64,
+          "speed": 67,
+          "defense": 20,
+          "physical": 60
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Hoffenheim",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "antebudimir",
+        "name": "Ante Budimir",
+        "number": 17,
+        "position": "ST",
+        "club": "Osasuna",
+        "age": 34,
+        "height": 190,
+        "weight": 74,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "左",
+        "birthDate": "1991-07-22",
+        "marketValue": 4800000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/8v3s2w1762531932.png",
+        "abilities": {
+          "shooting": 74,
+          "passing": 54,
+          "dribbling": 64,
+          "speed": 67,
+          "defense": 20,
+          "physical": 60
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Osasuna",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "dominikkotarski",
+        "name": "Dominik Kotarski",
+        "number": 1,
+        "position": "GK",
+        "club": "FC Copenhagen",
+        "age": 26,
+        "height": 186,
+        "weight": 74,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2000-02-10",
+        "marketValue": 6000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ee49f41765382007.png",
+        "abilities": {
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 75,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "FC Copenhagen",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "dominiklivakovic",
+        "name": "Dominik Livaković",
+        "number": 1,
+        "position": "GK",
+        "club": "Fenerbahçe",
+        "age": 31,
+        "height": 188,
+        "weight": 78,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1995-01-09",
+        "marketValue": 2800000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/pp3yab1762457197.png",
+        "abilities": {
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 69,
+          "physical": 63
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Fenerbahçe",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "dujecaletacar",
+        "name": "Duje Ćaleta-Car",
+        "number": 16,
+        "position": "CB",
+        "club": "Real Sociedad",
+        "age": 29,
+        "height": 192,
+        "weight": 88,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1996-09-17",
+        "marketValue": 15000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/625eso1762709855.png",
+        "abilities": {
+          "shooting": 40,
+          "passing": 62,
+          "dribbling": 49,
+          "speed": 59,
+          "defense": 80,
+          "physical": 78
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Real Sociedad",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "igormatanovic",
+        "name": "Igor Matanović",
+        "number": 31,
+        "position": "ST",
+        "club": "Freiburg",
+        "age": 23,
+        "height": 194,
+        "weight": 89,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2003-03-31",
+        "marketValue": 40000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/lm6j0a1763329018.png",
+        "abilities": {
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Freiburg",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "ivanperisic",
+        "name": "Ivan Perišić",
+        "number": 5,
+        "position": "LW",
+        "club": "PSV Eindhoven",
+        "age": 37,
+        "height": 186,
+        "weight": 79,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1989-02-02",
+        "marketValue": 4200000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ywkvv41764595295.png",
+        "abilities": {
+          "shooting": 60,
+          "passing": 64,
+          "dribbling": 74,
+          "speed": 77,
+          "defense": 24,
+          "physical": 50
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "PSV Eindhoven",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "ivorpandur",
+        "name": "Ivor Pandur",
+        "number": 1,
+        "position": "GK",
+        "club": "Hull City",
+        "age": 26,
+        "height": 187,
+        "weight": 81,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2000-03-25",
+        "marketValue": 6000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ofz5zx1761922463.png",
+        "abilities": {
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 75,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Hull City",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "josipstanisic",
+        "name": "Josip Stanišić",
+        "number": 44,
+        "position": "RB",
+        "club": "Bayern Munich",
+        "age": 26,
+        "height": 187,
+        "weight": 77,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2000-04-02",
+        "marketValue": 11250000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/m1kqf11756416127.png",
+        "abilities": {
+          "shooting": 44,
+          "passing": 67,
+          "dribbling": 62,
+          "speed": 77,
+          "defense": 67,
+          "physical": 61
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Bayern Munich",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "josipsutalo",
+        "name": "Josip Šutalo",
+        "number": 37,
+        "position": "CB",
+        "club": "Ajax",
+        "age": 26,
+        "height": 190,
+        "weight": 82,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2000-02-28",
+        "marketValue": 15000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/4bdrsm1722880866.png",
+        "abilities": {
+          "shooting": 40,
+          "passing": 62,
+          "dribbling": 49,
+          "speed": 59,
+          "defense": 80,
+          "physical": 78
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Ajax",
+              "period": "至今",
+              "appearances": 0,
               "goals": 0
             }
           ]
@@ -3530,7 +7807,7 @@ export const teams: Team[] = [
       }
     ],
     "players": [
-      {
+{
         "id": "hakimi",
         "name": "阿什拉夫·哈基米",
         "number": 2,
@@ -3569,19 +7846,19 @@ export const teams: Team[] = [
             "2018世界杯",
             "2022世界杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "多特蒙德",
               "period": "2018-2020",
               "appearances": 73,
               "goals": 12
-            },
+            },,
             {
               "clubName": "国际米兰",
               "period": "2020-2021",
               "appearances": 45,
               "goals": 7
-            },
+            },,
             {
               "clubName": "巴黎圣日耳曼",
               "period": "2021-至今",
@@ -3590,7 +7867,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "brahimi",
         "name": "布拉希姆·迪亚斯",
@@ -3630,13 +7907,13 @@ export const teams: Team[] = [
             "2018世界杯",
             "2022世界杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "切尔西",
               "period": "2020-2023",
               "appearances": 88,
               "goals": 24
-            },
+            },,
             {
               "clubName": "皇家马德里",
               "period": "2023-至今",
@@ -3645,7 +7922,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "bounou",
         "name": "亚辛·布努",
@@ -3685,17 +7962,487 @@ export const teams: Team[] = [
             "2018世界杯",
             "2022世界杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "塞维利亚",
               "period": "2020-2023",
               "appearances": 98,
               "goals": 0
-            },
+            },,
             {
               "clubName": "利雅得新月",
               "period": "2023-至今",
               "appearances": 52,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "abdeezzalzouli",
+        "name": "Abde Ezzalzouli",
+        "number": 10,
+        "position": "LW",
+        "club": "Real Betis",
+        "age": 24,
+        "height": 177,
+        "weight": 73,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2001-12-17",
+        "marketValue": 35000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/c7fznc1762602800.png",
+        "abilities": {
+          "shooting": 76,
+          "passing": 80,
+          "dribbling": 91,
+          "speed": 92,
+          "defense": 40,
+          "physical": 67
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Real Betis",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "achrafhakimi",
+        "name": "Achraf Hakimi",
+        "number": 2,
+        "position": "RB",
+        "club": "Paris SG",
+        "age": 27,
+        "height": 180,
+        "weight": 73,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1998-11-04",
+        "marketValue": 11250000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/oqu69c1766335243.png",
+        "abilities": {
+          "shooting": 44,
+          "passing": 67,
+          "dribbling": 62,
+          "speed": 77,
+          "defense": 67,
+          "physical": 61
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Paris SG",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "ahmedredatagnaouti",
+        "name": "Ahmed Reda Tagnaouti",
+        "number": 16,
+        "position": "GK",
+        "club": "FAR Rabat",
+        "age": 30,
+        "height": 192,
+        "weight": 70,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1996-04-05",
+        "marketValue": 2800000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/l3wlwr1668957986.png",
+        "abilities": {
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 69,
+          "physical": 63
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "FAR Rabat",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "anasssalaheddine",
+        "name": "Anass Salah-Eddine",
+        "number": 2,
+        "position": "LB",
+        "club": "PSV Eindhoven",
+        "age": 24,
+        "height": 179,
+        "weight": 66,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "左",
+        "birthDate": "2002-01-18",
+        "marketValue": 15000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ff3c281762288806.png",
+        "abilities": {
+          "shooting": 45,
+          "passing": 69,
+          "dribbling": 64,
+          "speed": 79,
+          "defense": 69,
+          "physical": 63
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "PSV Eindhoven",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "ayoubelkaabi",
+        "name": "Ayoub El Kaabi",
+        "number": 9,
+        "position": "ST",
+        "club": "Olympiacos",
+        "age": 32,
+        "height": 182,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "左",
+        "birthDate": "1993-06-25",
+        "marketValue": 14000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/uq61lq1762288890.png",
+        "abilities": {
+          "shooting": 78,
+          "passing": 58,
+          "dribbling": 68,
+          "speed": 71,
+          "defense": 23,
+          "physical": 64
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Olympiacos",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "ayoubeamaimouni",
+        "name": "Ayoube Amaimouni",
+        "number": 29,
+        "position": "RW",
+        "club": "Eintracht Frankfurt",
+        "age": 21,
+        "height": 178,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "左",
+        "birthDate": "2004-11-30",
+        "marketValue": 45500000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/vuid001773671351.png",
+        "abilities": {
+          "shooting": 76,
+          "passing": 80,
+          "dribbling": 91,
+          "speed": 91,
+          "defense": 40,
+          "physical": 68
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Eintracht Frankfurt",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "ayyoubbouaddi",
+        "name": "Ayyoub Bouaddi",
+        "number": 32,
+        "position": "CM",
+        "club": "Lille",
+        "age": 18,
+        "height": 186,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2007-10-02",
+        "marketValue": 36400000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/g1bppf1766077416.png",
+        "abilities": {
+          "shooting": 69,
+          "passing": 85,
+          "dribbling": 74,
+          "speed": 69,
+          "defense": 64,
+          "physical": 73
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Lille",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "azzedineounahi",
+        "name": "Azzedine Ounahi",
+        "number": 18,
+        "position": "CM",
+        "club": "Girona",
+        "age": 26,
+        "height": 182,
+        "weight": 62,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2000-04-19",
+        "marketValue": 21000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/bqjrxp1762457280.png",
+        "abilities": {
+          "shooting": 66,
+          "passing": 82,
+          "dribbling": 71,
+          "speed": 66,
+          "defense": 61,
+          "physical": 70
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Girona",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "bilalelkhannous",
+        "name": "Bilal El Khannous",
+        "number": 11,
+        "position": "CM",
+        "club": "Stuttgart",
+        "age": 22,
+        "height": 180,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2004-05-10",
+        "marketValue": 28000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ii2jau1763586312.png",
+        "abilities": {
+          "shooting": 65,
+          "passing": 81,
+          "dribbling": 70,
+          "speed": 65,
+          "defense": 60,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Stuttgart",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "bono",
+        "name": "Bono",
+        "number": 37,
+        "position": "GK",
+        "club": "Al-Hilal",
+        "age": 35,
+        "height": 192,
+        "weight": 80,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "左",
+        "birthDate": "1991-04-06",
+        "marketValue": 960000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/u0pjgc1658436080.png",
+        "abilities": {
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 68,
+          "physical": 62
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Al-Hilal",
+              "period": "至今",
+              "appearances": 0,
               "goals": 0
             }
           ]
@@ -3768,7 +8515,7 @@ export const teams: Team[] = [
       }
     ],
     "players": [
-      {
+{
         "id": "diaz_l",
         "name": "路易斯·迪亚斯",
         "number": 7,
@@ -3806,7 +8553,7 @@ export const teams: Team[] = [
           "majorTournaments": [
             "2018世界杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "利物浦",
               "period": "2022-至今",
@@ -3815,7 +8562,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "rodriguez_j",
         "name": "哈梅斯·罗德里格斯",
@@ -3855,13 +8602,13 @@ export const teams: Team[] = [
             "2014世界杯",
             "2018世界杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "皇家马德里",
               "period": "2014-2020",
               "appearances": 125,
               "goals": 37
-            },
+            },,
             {
               "clubName": "圣保罗",
               "period": "2023-至今",
@@ -3870,7 +8617,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "sanchez_d",
         "name": "戴文森·桑切斯",
@@ -3909,18 +8656,488 @@ export const teams: Team[] = [
           "majorTournaments": [
             "2018世界杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "托特纳姆热刺",
               "period": "2017-2024",
               "appearances": 207,
               "goals": 6
-            },
+            },,
             {
               "clubName": "加拉塔萨雷",
               "period": "2024-至今",
               "appearances": 38,
               "goals": 2
+            }
+          ]
+        }
+      },
+      {
+        "id": "alvaromontero",
+        "name": "Álvaro Montero",
+        "number": 12,
+        "position": "GK",
+        "club": "Vélez Sarsfield",
+        "age": 31,
+        "height": 197,
+        "weight": 97,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1995-03-29",
+        "marketValue": 2800000,
+        "photoUrl": "https://www.thesportsdb.com/images/media/player/cutout/3zayx21777984375.png",
+        "abilities": {
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 69,
+          "physical": 63
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Vélez Sarsfield",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "andresgomez",
+        "name": "Andrés Gómez",
+        "number": 11,
+        "position": "LW",
+        "club": "Vasco da Gama",
+        "age": 23,
+        "height": 173,
+        "weight": 61,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2002-09-12",
+        "marketValue": 35000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/emzyri1767963292.png",
+        "abilities": {
+          "shooting": 72,
+          "passing": 76,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 36,
+          "physical": 63
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Vasco da Gama",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "camilovargas",
+        "name": "Camilo Vargas",
+        "number": 12,
+        "position": "GK",
+        "club": "Atlas",
+        "age": 37,
+        "height": 185,
+        "weight": 81,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "左",
+        "birthDate": "1989-03-09",
+        "marketValue": 960000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ej38x01648634661.png",
+        "abilities": {
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 68,
+          "physical": 62
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Atlas",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "cuchohernandez",
+        "name": "Cucho Hernández",
+        "number": 19,
+        "position": "ST",
+        "club": "Real Betis",
+        "age": 27,
+        "height": 175,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1999-04-22",
+        "marketValue": 30000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/xvpcrx1762603023.png",
+        "abilities": {
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 75
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Real Betis",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "danielmunoz",
+        "name": "Daniel Muñoz",
+        "number": 2,
+        "position": "RB",
+        "club": "Crystal Palace",
+        "age": 30,
+        "height": 183,
+        "weight": 70,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1996-05-25",
+        "marketValue": 5250000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/qoxqre1761492462.png",
+        "abilities": {
+          "shooting": 37,
+          "passing": 60,
+          "dribbling": 55,
+          "speed": 70,
+          "defense": 61,
+          "physical": 54
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Crystal Palace",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "davidospina",
+        "name": "David Ospina",
+        "number": 1,
+        "position": "GK",
+        "club": "Atlético Nacional",
+        "age": 37,
+        "height": 183,
+        "weight": 77,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1988-08-31",
+        "marketValue": 960000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/emhx261610362216.png",
+        "abilities": {
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 68,
+          "physical": 62
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Atlético Nacional",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "davinsonsanchez",
+        "name": "Davinson Sánchez",
+        "number": 6,
+        "position": "CB",
+        "club": "Galatasaray",
+        "age": 29,
+        "height": 187,
+        "weight": 81,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1996-06-12",
+        "marketValue": 15000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/fwqgth1769178122.png",
+        "abilities": {
+          "shooting": 40,
+          "passing": 62,
+          "dribbling": 49,
+          "speed": 59,
+          "defense": 80,
+          "physical": 78
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Galatasaray",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "deivermachado",
+        "name": "Deiver Machado",
+        "number": 27,
+        "position": "LB",
+        "club": "Nantes",
+        "age": 32,
+        "height": 172,
+        "weight": 74,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "左",
+        "birthDate": "1993-09-02",
+        "marketValue": 5250000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/lgl06t1765877830.png",
+        "abilities": {
+          "shooting": 37,
+          "passing": 60,
+          "dribbling": 55,
+          "speed": 70,
+          "defense": 61,
+          "physical": 54
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Nantes",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "gustavopuerta",
+        "name": "Gustavo Puerta",
+        "number": 19,
+        "position": "CM",
+        "club": "Racing de Santander",
+        "age": 22,
+        "height": 172,
+        "weight": 73,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2003-07-23",
+        "marketValue": 28000000,
+        "photoUrl": "https://www.thesportsdb.com/images/media/player/cutout/o2v48u1779828408.png",
+        "abilities": {
+          "shooting": 65,
+          "passing": 81,
+          "dribbling": 70,
+          "speed": 65,
+          "defense": 60,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Racing de Santander",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "jamesrodriguez",
+        "name": "James Rodríguez",
+        "number": 10,
+        "position": "CAM",
+        "club": "Minnesota United",
+        "age": 34,
+        "height": 181,
+        "weight": 74,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "左",
+        "birthDate": "1991-07-12",
+        "marketValue": 3840000,
+        "photoUrl": "https://www.thesportsdb.com/images/media/player/cutout/2604ez1778161086.png",
+        "abilities": {
+          "shooting": 60,
+          "passing": 72,
+          "dribbling": 70,
+          "speed": 60,
+          "defense": 30,
+          "physical": 50
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Minnesota United",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
             }
           ]
         }
@@ -4347,7 +9564,7 @@ export const teams: Team[] = [
       }
     ],
     "players": [
-      {
+{
         "id": "lozano",
         "name": "圣地亚哥·希门尼斯",
         "number": 11,
@@ -4386,19 +9603,19 @@ export const teams: Team[] = [
             "2018世界杯",
             "2022世界杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "埃因霍温",
               "period": "2017-2019",
               "appearances": 79,
               "goals": 37
-            },
+            },,
             {
               "clubName": "那不勒斯",
               "period": "2019-2023",
               "appearances": 155,
               "goals": 30
-            },
+            },,
             {
               "clubName": "埃因霍温",
               "period": "2023-至今",
@@ -4407,7 +9624,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "alvarez",
         "name": "埃德森·阿尔瓦雷斯",
@@ -4447,13 +9664,13 @@ export const teams: Team[] = [
             "2018世界杯",
             "2022世界杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "阿贾克斯",
               "period": "2019-2023",
               "appearances": 147,
               "goals": 10
-            },
+            },,
             {
               "clubName": "西汉姆联",
               "period": "2023-至今",
@@ -4462,7 +9679,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "ochoa",
         "name": "劳尔·希门尼斯",
@@ -4505,19 +9722,19 @@ export const teams: Team[] = [
             "2018世界杯",
             "2022世界杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "美洲",
               "period": "2004-2011",
               "appearances": 219,
               "goals": 0
-            },
+            },,
             {
               "clubName": "标准列日",
               "period": "2017-2019",
               "appearances": 78,
               "goals": 0
-            },
+            },,
             {
               "clubName": "美洲",
               "period": "2019-至今",
@@ -4526,7 +9743,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "jimenez",
         "name": "劳尔·希门尼斯",
@@ -4567,18 +9784,441 @@ export const teams: Team[] = [
             "2018世界杯",
             "2022世界杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "狼队",
               "period": "2018-2023",
               "appearances": 166,
               "goals": 57
-            },
+            },,
             {
               "clubName": "富勒姆",
               "period": "2023-至今",
               "appearances": 72,
               "goals": 15
+            }
+          ]
+        }
+      },
+      {
+        "id": "alexisvega",
+        "name": "Alexis Vega",
+        "number": 9,
+        "position": "LW",
+        "club": "Toluca",
+        "age": 28,
+        "height": 173,
+        "weight": 77,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1997-11-25",
+        "marketValue": 26250000,
+        "photoUrl": "https://www.thesportsdb.com/images/media/player/cutout/0mmqo91776412620.png",
+        "abilities": {
+          "shooting": 73,
+          "passing": 77,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 37,
+          "physical": 64
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Toluca",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "alvarofidalgo",
+        "name": "Álvaro Fidalgo",
+        "number": 15,
+        "position": "CM",
+        "club": "Real Betis",
+        "age": 29,
+        "height": 174,
+        "weight": 68,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1997-04-09",
+        "marketValue": 21000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/hcx8an1750328188.png",
+        "abilities": {
+          "shooting": 66,
+          "passing": 82,
+          "dribbling": 71,
+          "speed": 66,
+          "defense": 61,
+          "physical": 70
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Real Betis",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "armandogonzalez",
+        "name": "Armando González",
+        "number": 34,
+        "position": "ST",
+        "club": "CD Guadalajara",
+        "age": 23,
+        "height": 177,
+        "weight": 64,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2003-04-20",
+        "marketValue": 40000000,
+        "photoUrl": "https://www.thesportsdb.com/images/media/player/cutout/d2if0h1780401651.png",
+        "abilities": {
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 76
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "CD Guadalajara",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "briangutierrez",
+        "name": "Brian Gutiérrez",
+        "number": 11,
+        "position": "CAM",
+        "club": "CD Guadalajara",
+        "age": 22,
+        "height": 178,
+        "weight": 63,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2003-06-17",
+        "marketValue": 32000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ardabg1766490164.png",
+        "abilities": {
+          "shooting": 72,
+          "passing": 83,
+          "dribbling": 82,
+          "speed": 71,
+          "defense": 41,
+          "physical": 62
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "CD Guadalajara",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "carlosacevedo",
+        "name": "Carlos Acevedo",
+        "number": 1,
+        "position": "GK",
+        "club": "Santos Laguna",
+        "age": 30,
+        "height": 185,
+        "weight": 73,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1996-04-19",
+        "marketValue": 2800000,
+        "photoUrl": "https://www.thesportsdb.com/images/media/player/cutout/h8j8151780401617.png",
+        "abilities": {
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 69,
+          "physical": 63
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Santos Laguna",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "cesarhuerta",
+        "name": "César Huerta",
+        "number": 21,
+        "position": "LW",
+        "club": "Anderlecht",
+        "age": 25,
+        "height": 171,
+        "weight": 60,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2000-12-03",
+        "marketValue": 35000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/u0d1li1768080617.png",
+        "abilities": {
+          "shooting": 76,
+          "passing": 80,
+          "dribbling": 91,
+          "speed": 92,
+          "defense": 40,
+          "physical": 67
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Anderlecht",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "cesarmontes",
+        "name": "César Montes",
+        "number": 23,
+        "position": "CB",
+        "club": "Lokomotiv Moscow",
+        "age": 29,
+        "height": 195,
+        "weight": 88,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1997-02-24",
+        "marketValue": 15000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/hfmpbv1754726674.png",
+        "abilities": {
+          "shooting": 40,
+          "passing": 62,
+          "dribbling": 49,
+          "speed": 59,
+          "defense": 80,
+          "physical": 78
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Lokomotiv Moscow",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "edsonalvarez",
+        "name": "Edson Álvarez",
+        "number": 11,
+        "position": "CDM",
+        "club": "Fenerbahçe",
+        "age": 28,
+        "height": 187,
+        "weight": 73,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1997-10-24",
+        "marketValue": 16500000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/nt933u1769179587.png",
+        "abilities": {
+          "shooting": 54,
+          "passing": 73,
+          "dribbling": 59,
+          "speed": 59,
+          "defense": 79,
+          "physical": 80
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Fenerbahçe",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "eriklira",
+        "name": "Érik Lira",
+        "number": 6,
+        "position": "CDM",
+        "club": "Cruz Azul",
+        "age": 26,
+        "height": 170,
+        "weight": 62,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2000-05-08",
+        "marketValue": 16500000,
+        "photoUrl": "https://www.thesportsdb.com/images/media/player/cutout/qflanz1780401683.png",
+        "abilities": {
+          "shooting": 54,
+          "passing": 73,
+          "dribbling": 59,
+          "speed": 59,
+          "defense": 79,
+          "physical": 80
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Cruz Azul",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
             }
           ]
         }
@@ -4660,7 +10300,7 @@ export const teams: Team[] = [
       }
     ],
     "players": [
-      {
+{
         "id": "valverde",
         "name": "费德里科·巴尔韦德",
         "number": 8,
@@ -4700,7 +10340,7 @@ export const teams: Team[] = [
             "2018世界杯",
             "2022世界杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "皇家马德里",
               "period": "2017-至今",
@@ -4709,7 +10349,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "nunez",
         "name": "达尔文·努涅斯",
@@ -4748,13 +10388,13 @@ export const teams: Team[] = [
           "majorTournaments": [
             "2022世界杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "本菲卡",
               "period": "2020-2022",
               "appearances": 85,
               "goals": 48
-            },
+            },,
             {
               "clubName": "利物浦",
               "period": "2022-至今",
@@ -4763,7 +10403,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "araujo",
         "name": "罗纳德·阿劳霍",
@@ -4802,7 +10442,7 @@ export const teams: Team[] = [
           "majorTournaments": [
             "2022世界杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "巴塞罗那",
               "period": "2019-至今",
@@ -4811,7 +10451,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "ugarte",
         "name": "曼努埃尔·乌加特",
@@ -4850,24 +10490,494 @@ export const teams: Team[] = [
           "majorTournaments": [
             "2022世界杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "葡萄牙体育",
               "period": "2021-2023",
               "appearances": 85,
               "goals": 1
-            },
+            },,
             {
               "clubName": "巴黎圣日耳曼",
               "period": "2023-2024",
               "appearances": 37,
               "goals": 0
-            },
+            },,
             {
               "clubName": "曼联",
               "period": "2024-至今",
               "appearances": 52,
               "goals": 1
+            }
+          ]
+        }
+      },
+      {
+        "id": "agustincanobbio",
+        "name": "Agustín Canobbio",
+        "number": 17,
+        "position": "RW",
+        "club": "Fluminense",
+        "age": 27,
+        "height": 175,
+        "weight": 74,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1998-10-01",
+        "marketValue": 26250000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/qgh8yj1767539679.png",
+        "abilities": {
+          "shooting": 73,
+          "passing": 77,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 37,
+          "physical": 64
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Fluminense",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "brianrodriguez",
+        "name": "Brian Rodríguez",
+        "number": 7,
+        "position": "LW",
+        "club": "América",
+        "age": 26,
+        "height": 174,
+        "weight": 68,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2000-05-20",
+        "marketValue": 26250000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/g1am161750329406.png",
+        "abilities": {
+          "shooting": 73,
+          "passing": 77,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 37,
+          "physical": 64
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "América",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "darwinnunez",
+        "name": "Darwin Núñez",
+        "number": 7,
+        "position": "ST",
+        "club": "Al-Hilal",
+        "age": 26,
+        "height": 187,
+        "weight": 81,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1999-06-24",
+        "marketValue": 30000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/i78juc1693941560.png",
+        "abilities": {
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 75
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Al-Hilal",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "emilianomartinez",
+        "name": "Emiliano Martínez",
+        "number": 32,
+        "position": "CDM",
+        "club": "Palmeiras",
+        "age": 26,
+        "height": 184,
+        "weight": 63,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1999-08-17",
+        "marketValue": 16500000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/64z3jd1751140388.png",
+        "abilities": {
+          "shooting": 54,
+          "passing": 73,
+          "dribbling": 59,
+          "speed": 59,
+          "defense": 79,
+          "physical": 80
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Palmeiras",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "facundopellistri",
+        "name": "Facundo Pellistri",
+        "number": 28,
+        "position": "RW",
+        "club": "Panathinaikos",
+        "age": 24,
+        "height": 174,
+        "weight": 68,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2001-12-20",
+        "marketValue": 35000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/33n2n91693853217.png",
+        "abilities": {
+          "shooting": 76,
+          "passing": 80,
+          "dribbling": 91,
+          "speed": 92,
+          "defense": 40,
+          "physical": 67
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Panathinaikos",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "federicovalverde",
+        "name": "Federico Valverde",
+        "number": 8,
+        "position": "CM",
+        "club": "Real Madrid",
+        "age": 27,
+        "height": 182,
+        "weight": 78,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1998-07-22",
+        "marketValue": 21000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/5249151768499204.png",
+        "abilities": {
+          "shooting": 66,
+          "passing": 82,
+          "dribbling": 71,
+          "speed": 66,
+          "defense": 61,
+          "physical": 70
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Real Madrid",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "federicovinas",
+        "name": "Federico Viñas",
+        "number": 9,
+        "position": "ST",
+        "club": "Real Oviedo",
+        "age": 27,
+        "height": 180,
+        "weight": 81,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "左",
+        "birthDate": "1998-06-30",
+        "marketValue": 30000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/j83sru1762199495.png",
+        "abilities": {
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 75
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Real Oviedo",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "fernandomuslera",
+        "name": "Fernando Muslera",
+        "number": 1,
+        "position": "GK",
+        "club": "Estudiantes de La Plata",
+        "age": 39,
+        "height": 190,
+        "weight": 83,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1986-06-16",
+        "marketValue": 960000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/orawu51724929691.png",
+        "abilities": {
+          "shooting": 20,
+          "passing": 55,
+          "dribbling": 45,
+          "speed": 50,
+          "defense": 68,
+          "physical": 62
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Estudiantes de La Plata",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "giorgiandearrascaeta",
+        "name": "Giorgian De Arrascaeta",
+        "number": 10,
+        "position": "CAM",
+        "club": "Flamengo",
+        "age": 32,
+        "height": 172,
+        "weight": 73,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1994-06-01",
+        "marketValue": 11200000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/2p9j0d1750919894.png",
+        "abilities": {
+          "shooting": 63,
+          "passing": 74,
+          "dribbling": 73,
+          "speed": 62,
+          "defense": 32,
+          "physical": 53
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Flamengo",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "guillermovarela",
+        "name": "Guillermo Varela",
+        "number": 2,
+        "position": "RB",
+        "club": "Flamengo",
+        "age": 33,
+        "height": 173,
+        "weight": 70,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1993-03-24",
+        "marketValue": 1800000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/qpcwtj1750919188.png",
+        "abilities": {
+          "shooting": 36,
+          "passing": 59,
+          "dribbling": 53,
+          "speed": 69,
+          "defense": 59,
+          "physical": 53
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Flamengo",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
             }
           ]
         }
@@ -4949,7 +11059,7 @@ export const teams: Team[] = [
       }
     ],
     "players": [
-      {
+{
         "id": "akanji",
         "name": "格拉尼特·扎卡",
         "number": 10,
@@ -4990,13 +11100,13 @@ export const teams: Team[] = [
             "2020欧洲杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "多特蒙德",
               "period": "2018-2022",
               "appearances": 158,
               "goals": 5
-            },
+            },,
             {
               "clubName": "曼城",
               "period": "2022-至今",
@@ -5005,7 +11115,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "xherdan",
         "name": "曼努埃尔·阿坎吉",
@@ -5049,13 +11159,13 @@ export const teams: Team[] = [
             "2020欧洲杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "阿森纳",
               "period": "2016-2023",
               "appearances": 297,
               "goals": 23
-            },
+            },,
             {
               "clubName": "勒沃库森",
               "period": "2023-至今",
@@ -5064,7 +11174,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "sommer",
         "name": "格雷戈尔·科贝尔",
@@ -5108,17 +11218,487 @@ export const teams: Team[] = [
             "2020欧洲杯",
             "2024欧洲杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "门兴格拉德巴赫",
               "period": "2014-2023",
               "appearances": 335,
               "goals": 0
-            },
+            },,
             {
               "clubName": "国际米兰",
               "period": "2023-至今",
               "appearances": 55,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "ardonjashari",
+        "name": "Ardon Jashari",
+        "number": 30,
+        "position": "CDM",
+        "club": "AC Milan",
+        "age": 23,
+        "height": 181,
+        "weight": 81,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "左",
+        "birthDate": "2002-07-30",
+        "marketValue": 22000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/yvd5v21762956511.png",
+        "abilities": {
+          "shooting": 52,
+          "passing": 71,
+          "dribbling": 58,
+          "speed": 58,
+          "defense": 77,
+          "physical": 78
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "AC Milan",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "aureleamenda",
+        "name": "Aurèle Amenda",
+        "number": 5,
+        "position": "CB",
+        "club": "Eintracht Frankfurt",
+        "age": 22,
+        "height": 194,
+        "weight": 89,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2003-07-31",
+        "marketValue": 20000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/e68zdr1762974273.png",
+        "abilities": {
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Eintracht Frankfurt",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "breelembolo",
+        "name": "Breel Embolo",
+        "number": 7,
+        "position": "ST",
+        "club": "Rennes",
+        "age": 29,
+        "height": 184,
+        "weight": 83,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1997-02-14",
+        "marketValue": 30000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/k5xqvx1766136320.png",
+        "abilities": {
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 75
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Rennes",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "cedricitten",
+        "name": "Cedric Itten",
+        "number": 13,
+        "position": "ST",
+        "club": "Fortuna Düsseldorf",
+        "age": 29,
+        "height": 190,
+        "weight": 83,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1996-12-27",
+        "marketValue": 30000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/rgs2da1772721851.png",
+        "abilities": {
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 75
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Fortuna Düsseldorf",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "christianfassnacht",
+        "name": "Christian Fassnacht",
+        "number": 16,
+        "position": "CAM",
+        "club": "Young Boys",
+        "age": 32,
+        "height": 185,
+        "weight": 78,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1993-11-11",
+        "marketValue": 11200000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/6ayw411758184733.png",
+        "abilities": {
+          "shooting": 63,
+          "passing": 74,
+          "dribbling": 73,
+          "speed": 62,
+          "defense": 32,
+          "physical": 53
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Young Boys",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "danndoye",
+        "name": "Dan Ndoye",
+        "number": 14,
+        "position": "RW",
+        "club": "Nottingham Forest",
+        "age": 25,
+        "height": 181,
+        "weight": 78,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2000-10-25",
+        "marketValue": 35000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/yr9p371757163162.png",
+        "abilities": {
+          "shooting": 76,
+          "passing": 80,
+          "dribbling": 91,
+          "speed": 92,
+          "defense": 40,
+          "physical": 67
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Nottingham Forest",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "deniszakaria",
+        "name": "Denis Zakaria",
+        "number": 6,
+        "position": "CDM",
+        "club": "Monaco",
+        "age": 29,
+        "height": 189,
+        "weight": 76,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1996-11-20",
+        "marketValue": 16500000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/xh4nwr1766238364.png",
+        "abilities": {
+          "shooting": 54,
+          "passing": 73,
+          "dribbling": 59,
+          "speed": 59,
+          "defense": 79,
+          "physical": 80
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Monaco",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "djibrilsow",
+        "name": "Djibril Sow",
+        "number": 20,
+        "position": "CM",
+        "club": "Sevilla",
+        "age": 29,
+        "height": 184,
+        "weight": 76,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1997-02-06",
+        "marketValue": 21000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/b5k7ty1762860513.png",
+        "abilities": {
+          "shooting": 66,
+          "passing": 82,
+          "dribbling": 71,
+          "speed": 66,
+          "defense": 61,
+          "physical": 70
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Sevilla",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "eraycomert",
+        "name": "Eray Cömert",
+        "number": 24,
+        "position": "CB",
+        "club": "Valencia",
+        "age": 28,
+        "height": 183,
+        "weight": 79,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1998-02-04",
+        "marketValue": 15000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/i8talq1762864103.png",
+        "abilities": {
+          "shooting": 40,
+          "passing": 62,
+          "dribbling": 49,
+          "speed": 59,
+          "defense": 80,
+          "physical": 78
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Valencia",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "fabianrieder",
+        "name": "Fabian Rieder",
+        "number": 32,
+        "position": "CAM",
+        "club": "FC Augsburg",
+        "age": 24,
+        "height": 179,
+        "weight": 73,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "左",
+        "birthDate": "2002-02-16",
+        "marketValue": 32000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/8l9f3r1763034407.png",
+        "abilities": {
+          "shooting": 76,
+          "passing": 87,
+          "dribbling": 86,
+          "speed": 75,
+          "defense": 45,
+          "physical": 66
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "FC Augsburg",
+              "period": "至今",
+              "appearances": 0,
               "goals": 0
             }
           ]
@@ -5201,7 +11781,7 @@ export const teams: Team[] = [
       }
     ],
     "players": [
-      {
+{
         "id": "mitoma",
         "name": "久保建英",
         "number": 8,
@@ -5239,7 +11819,7 @@ export const teams: Team[] = [
           "majorTournaments": [
             "2022世界杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "布莱顿",
               "period": "2021-至今",
@@ -5248,7 +11828,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "kubo",
         "name": "富安健洋",
@@ -5287,7 +11867,7 @@ export const teams: Team[] = [
           "majorTournaments": [
             "2022世界杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "皇家社会",
               "period": "2022-至今",
@@ -5296,7 +11876,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "tomiyasu",
         "name": "远藤航",
@@ -5335,7 +11915,7 @@ export const teams: Team[] = [
           "majorTournaments": [
             "2022世界杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "阿森纳",
               "period": "2021-至今",
@@ -5344,7 +11924,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "endo_w",
         "name": "远藤航",
@@ -5384,18 +11964,488 @@ export const teams: Team[] = [
             "2018世界杯",
             "2022世界杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "斯图加特",
               "period": "2020-2023",
               "appearances": 120,
               "goals": 12
-            },
+            },,
             {
               "clubName": "利物浦",
               "period": "2023-至今",
               "appearances": 62,
               "goals": 2
+            }
+          ]
+        }
+      },
+      {
+        "id": "aotanaka",
+        "name": "Ao Tanaka",
+        "number": 22,
+        "position": "CM",
+        "club": "Leeds United",
+        "age": 27,
+        "height": 177,
+        "weight": 74,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1998-09-10",
+        "marketValue": 21000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/4xeu161757086571.png",
+        "abilities": {
+          "shooting": 66,
+          "passing": 82,
+          "dribbling": 71,
+          "speed": 66,
+          "defense": 61,
+          "physical": 70
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Leeds United",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "ayaseueda",
+        "name": "Ayase Ueda",
+        "number": 9,
+        "position": "ST",
+        "club": "Feyenoord",
+        "age": 27,
+        "height": 182,
+        "weight": 76,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1998-08-28",
+        "marketValue": 30000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/5ezc8v1758188908.png",
+        "abilities": {
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 75
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Feyenoord",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "ayumuseko",
+        "name": "Ayumu Seko",
+        "number": 15,
+        "position": "CDM",
+        "club": "Le Havre",
+        "age": 25,
+        "height": 185,
+        "weight": 78,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2000-06-07",
+        "marketValue": 22000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/jdghy41765990722.png",
+        "abilities": {
+          "shooting": 56,
+          "passing": 75,
+          "dribbling": 62,
+          "speed": 62,
+          "defense": 81,
+          "physical": 82
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Le Havre",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "daichikamada",
+        "name": "Daichi Kamada",
+        "number": 18,
+        "position": "CAM",
+        "club": "Crystal Palace",
+        "age": 29,
+        "height": 184,
+        "weight": 76,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1996-08-05",
+        "marketValue": 24000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/xajscx1761492482.png",
+        "abilities": {
+          "shooting": 73,
+          "passing": 84,
+          "dribbling": 83,
+          "speed": 72,
+          "defense": 42,
+          "physical": 63
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Crystal Palace",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "daizenmaeda",
+        "name": "Daizen Maeda",
+        "number": 38,
+        "position": "LW",
+        "club": "Celtic",
+        "age": 28,
+        "height": 173,
+        "weight": 67,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1997-10-20",
+        "marketValue": 26250000,
+        "photoUrl": "https://www.thesportsdb.com/images/media/player/cutout/oohjhs1777019949.png",
+        "abilities": {
+          "shooting": 73,
+          "passing": 77,
+          "dribbling": 87,
+          "speed": 88,
+          "defense": 37,
+          "physical": 64
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Celtic",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "hajimemoriyasu",
+        "name": "Hajime Moriyasu",
+        "number": 0,
+        "position": "CM",
+        "club": "Japan",
+        "age": 57,
+        "height": 178,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1968-08-23",
+        "marketValue": 3360000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/thumb/b6v8381668791841.jpg",
+        "abilities": {
+          "shooting": 54,
+          "passing": 71,
+          "dribbling": 59,
+          "speed": 54,
+          "defense": 49,
+          "physical": 59
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Japan",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "hirokiito",
+        "name": "Hiroki Itō",
+        "number": 21,
+        "position": "CB",
+        "club": "Bayern Munich",
+        "age": 27,
+        "height": 188,
+        "weight": 83,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "左",
+        "birthDate": "1999-05-12",
+        "marketValue": 15000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/9jngzv1756409131.png",
+        "abilities": {
+          "shooting": 40,
+          "passing": 62,
+          "dribbling": 49,
+          "speed": 59,
+          "defense": 80,
+          "physical": 78
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Bayern Munich",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "junnosukesuzuki",
+        "name": "Junnosuke Suzuki",
+        "number": 20,
+        "position": "CB",
+        "club": "FC Copenhagen",
+        "age": 22,
+        "height": 180,
+        "weight": 76,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2003-07-12",
+        "marketValue": 20000000,
+        "photoUrl": "https://www.thesportsdb.com/images/media/player/cutout/duood61779016362.png",
+        "abilities": {
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "FC Copenhagen",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "junyaito",
+        "name": "Junya Itō",
+        "number": 10,
+        "position": "RW",
+        "club": "Genk",
+        "age": 33,
+        "height": 176,
+        "weight": 66,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1993-03-09",
+        "marketValue": 4200000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/sl5pc01767641839.png",
+        "abilities": {
+          "shooting": 60,
+          "passing": 64,
+          "dribbling": 74,
+          "speed": 77,
+          "defense": 24,
+          "physical": 50
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Genk",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "kaishusano",
+        "name": "Kaishū Sano",
+        "number": 6,
+        "position": "CDM",
+        "club": "Mainz",
+        "age": 25,
+        "height": 176,
+        "weight": 67,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2000-12-30",
+        "marketValue": 22000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/fkpbew1763558803.png",
+        "abilities": {
+          "shooting": 56,
+          "passing": 75,
+          "dribbling": 62,
+          "speed": 62,
+          "defense": 81,
+          "physical": 82
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Mainz",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
             }
           ]
         }
@@ -5466,7 +12516,7 @@ export const teams: Team[] = [
       }
     ],
     "players": [
-      {
+{
         "id": "mane",
         "name": "萨迪奥·马内",
         "number": 10,
@@ -5505,25 +12555,25 @@ export const teams: Team[] = [
             "2018世界杯",
             "2022世界杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "南安普顿",
               "period": "2014-2016",
               "appearances": 75,
               "goals": 25
-            },
+            },,
             {
               "clubName": "利物浦",
               "period": "2016-2022",
               "appearances": 269,
               "goals": 120
-            },
+            },,
             {
               "clubName": "拜仁慕尼黑",
               "period": "2022-2023",
               "appearances": 38,
               "goals": 12
-            },
+            },,
             {
               "clubName": "利雅得胜利",
               "period": "2023-至今",
@@ -5532,7 +12582,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "koulibaly",
         "name": "卡利杜·库利巴利",
@@ -5572,19 +12622,19 @@ export const teams: Team[] = [
             "2018世界杯",
             "2022世界杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "那不勒斯",
               "period": "2014-2022",
               "appearances": 317,
               "goals": 14
-            },
+            },,
             {
               "clubName": "切尔西",
               "period": "2022-2023",
               "appearances": 32,
               "goals": 2
-            },
+            },,
             {
               "clubName": "利雅得新月",
               "period": "2023-至今",
@@ -5593,7 +12643,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "jackson",
         "name": "尼古拉·杰克逊",
@@ -5632,13 +12682,13 @@ export const teams: Team[] = [
           "majorTournaments": [
             "2022世界杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "比利亚雷亚尔",
               "period": "2022-2023",
               "appearances": 38,
               "goals": 13
-            },
+            },,
             {
               "clubName": "切尔西",
               "period": "2023-至今",
@@ -5647,7 +12697,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "mendy",
         "name": "爱德华·门迪",
@@ -5686,13 +12736,13 @@ export const teams: Team[] = [
           "majorTournaments": [
             "2022世界杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "切尔西",
               "period": "2020-2023",
               "appearances": 105,
               "goals": 0
-            },
+            },,
             {
               "clubName": "吉达国民",
               "period": "2023-至今",
@@ -5701,7 +12751,7 @@ export const teams: Team[] = [
             }
           ]
         }
-      },
+      },,
       {
         "id": "sarr",
         "name": "伊斯梅拉·萨尔",
@@ -5741,18 +12791,253 @@ export const teams: Team[] = [
             "2018世界杯",
             "2022世界杯"
           ],
-          "clubs": [
+          "clubs": [,
             {
               "clubName": "沃特福德",
               "period": "2019-2023",
               "appearances": 131,
               "goals": 34
-            },
+            },,
             {
               "clubName": "马赛",
               "period": "2023-至今",
               "appearances": 78,
               "goals": 18
+            }
+          ]
+        }
+      },
+      {
+        "id": "abdoulayeseck",
+        "name": "Abdoulaye Seck",
+        "number": 30,
+        "position": "CB",
+        "club": "Maccabi Haifa",
+        "age": 33,
+        "height": 192,
+        "weight": 94,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "1992-06-04",
+        "marketValue": 2400000,
+        "photoUrl": "https://www.thesportsdb.com/images/media/player/cutout/vlprn51780568027.png",
+        "abilities": {
+          "shooting": 31,
+          "passing": 51,
+          "dribbling": 39,
+          "speed": 49,
+          "defense": 71,
+          "physical": 69
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Maccabi Haifa",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "antoinemendy",
+        "name": "Antoine Mendy",
+        "number": 33,
+        "position": "CB",
+        "club": "Nice",
+        "age": 22,
+        "height": 187,
+        "weight": 74,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2004-05-27",
+        "marketValue": 20000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/2otk4v1766319808.png",
+        "abilities": {
+          "shooting": 38,
+          "passing": 60,
+          "dribbling": 48,
+          "speed": 58,
+          "defense": 78,
+          "physical": 76
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Nice",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "assanediao",
+        "name": "Assane Diao",
+        "number": 38,
+        "position": "RW",
+        "club": "Como",
+        "age": 20,
+        "height": 185,
+        "weight": 79,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2005-09-07",
+        "marketValue": 45500000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/bt2ue81764278241.png",
+        "abilities": {
+          "shooting": 76,
+          "passing": 80,
+          "dribbling": 91,
+          "speed": 91,
+          "defense": 40,
+          "physical": 68
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Como",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "bambadieng",
+        "name": "Bamba Dieng",
+        "number": 12,
+        "position": "ST",
+        "club": "Lorient",
+        "age": 26,
+        "height": 178,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2000-03-23",
+        "marketValue": 30000000,
+        "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/gom3v11765969346.png",
+        "abilities": {
+          "shooting": 88,
+          "passing": 70,
+          "dribbling": 80,
+          "speed": 83,
+          "defense": 32,
+          "physical": 75
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Lorient",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
+            }
+          ]
+        }
+      },
+      {
+        "id": "barasapokondiaye",
+        "name": "Bara Sapoko Ndiaye",
+        "number": 39,
+        "position": "CM",
+        "club": "Bayern Munich",
+        "age": 18,
+        "height": 180,
+        "weight": 72,
+        "nationality": "",
+        "flagCode": "",
+        "preferredFoot": "右",
+        "birthDate": "2007-12-31",
+        "marketValue": 36400000,
+        "photoUrl": "https://www.thesportsdb.com/images/media/player/cutout/k40qsh1780567968.png",
+        "abilities": {
+          "shooting": 69,
+          "passing": 85,
+          "dribbling": 74,
+          "speed": 69,
+          "defense": 64,
+          "physical": 73
+        },
+        "tournamentStats": {
+          "appearances": 0,
+          "goals": 0,
+          "assists": 0,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 0,
+          "averageRating": 0
+        },
+        "careerSummary": {
+          "firstAppearance": "",
+          "totalCaps": 0,
+          "totalGoals": 0,
+          "majorTournaments": [],
+          "clubs": [
+            {
+              "clubName": "Bayern Munich",
+              "period": "至今",
+              "appearances": 0,
+              "goals": 0
             }
           ]
         }

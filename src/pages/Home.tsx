@@ -101,10 +101,11 @@ export default function Home() {
     return count
   }, [])
 
-  // 开幕日比赛（6月11日的前4场比赛）
-  const openingDayMatches = useMemo(() => {
+  // 即将开始的比赛（按日期排序取前4场小组赛）
+  const upcomingMatches = useMemo(() => {
     return matches
-      .filter((m) => m.round === "小组赛" && m.date.startsWith("2026-06-11"))
+      .filter((m) => m.round === "小组赛")
+      .sort((a, b) => a.date.localeCompare(b.date))
       .slice(0, 4)
   }, [])
 
@@ -232,7 +233,7 @@ export default function Home() {
         {/* ==================== DataNotice ==================== */}
         <DataNotice />
 
-        {/* ==================== 小组赛开幕战预览 ==================== */}
+        {/* ==================== 赛程预览 ==================== */}
         <section>
           <motion.div
             initial="hidden"
@@ -244,7 +245,7 @@ export default function Home() {
             <div className="flex items-center justify-between">
               <div className="flex items-center gap-3">
                 <Calendar className="h-5 w-5 text-primary" />
-                <h2 className="text-xl md:text-2xl font-bold">小组赛开幕战</h2>
+                <h2 className="text-xl md:text-2xl font-bold">赛程</h2>
                 <DataStatusBadge status="pending" />
               </div>
               <Link
@@ -256,12 +257,12 @@ export default function Home() {
             </div>
 
             <p className="text-sm text-muted-foreground">
-              2026年6月11日，四场小组赛揭幕战。抽签已于2025年12月完成，12个小组对阵全部确定。
+              即将开始的小组赛。72场小组赛对阵已全部确定，12个小组蓄势待发。
             </p>
 
-            {openingDayMatches.length > 0 ? (
+            {upcomingMatches.length > 0 ? (
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
-                {openingDayMatches.map((match, idx) => {
+                {upcomingMatches.map((match, idx) => {
                   const matchDate = new Date(match.date)
                   const homeTeam = getTeamById(match.homeTeamId)
                   const awayTeam = getTeamById(match.awayTeamId)
