@@ -43,14 +43,14 @@ function getTeamById(id: string): Team | undefined {
 
 // 明星球员列表 (playerId, teamId)
 const STAR_PLAYERS = [
-  { playerId: "mbappe", teamId: "france" },
-  { playerId: "messi", teamId: "argentina" },
-  { playerId: "ronaldo", teamId: "portugal" },
-  { playerId: "kane", teamId: "england" },
-  { playerId: "vinicius", teamId: "brazil" },
-  { playerId: "salah", teamId: "egypt" },
-  { playerId: "bellingham", teamId: "england" },
-  { playerId: "musiala", teamId: "germany" },
+  { playerId: "kylianmbapp", teamId: "france" },
+  { playerId: "lionelmessi", teamId: "argentina" },
+  { playerId: "cristianoronaldo", teamId: "portugal" },
+  { playerId: "harrykane", teamId: "england" },
+  { playerId: "viniciusjr", teamId: "brazil" },
+  { playerId: "mohamedsalah", teamId: "egypt" },
+  { playerId: "judebellingham", teamId: "england" },
+  { playerId: "jamalmusiala", teamId: "germany" },
 ]
 
 // 热门参赛球队（预览卡片用）
