@@ -296,7 +296,7 @@ export default function Prediction() {
         )}
       </div>
 
-      <LoginPrompt isOpen={showLogin} onLogin={async (username) => { await login(username); setShowLogin(false) }} />
+      <LoginPrompt isOpen={showLogin} onClose={() => setShowLogin(false)} onLogin={async (username) => { await login(username); setShowLogin(false) }} />
     </main>
   )
 }
