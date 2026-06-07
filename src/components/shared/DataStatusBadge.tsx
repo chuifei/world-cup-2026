@@ -9,21 +9,21 @@ const statusConfig: Record<
 > = {
   real: {
     label: "已确认",
-    bg: "bg-emerald-100",
-    text: "text-emerald-700",
-    border: "border-emerald-300",
+    bg: "bg-emerald-950/60",
+    text: "text-emerald-300",
+    border: "border-emerald-800",
   },
   pending: {
     label: "尚未公布",
-    bg: "bg-gray-100",
-    text: "text-gray-600",
-    border: "border-gray-300",
+    bg: "bg-gray-800/60",
+    text: "text-gray-400",
+    border: "border-gray-700",
   },
   simulated: {
     label: "AI模拟",
-    bg: "bg-amber-100",
-    text: "text-amber-700",
-    border: "border-amber-300",
+    bg: "bg-amber-950/60",
+    text: "text-amber-300",
+    border: "border-amber-800",
   },
 }
 
