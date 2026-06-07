@@ -31,11 +31,11 @@ export function LoginPrompt({ isOpen, onLogin }: Props) {
             initial={{ scale: 0.9, y: 20 }}
             animate={{ scale: 1, y: 0 }}
             exit={{ scale: 0.9, y: 20 }}
-            className="bg-white rounded-xl p-6 w-full max-w-sm mx-4 shadow-2xl"
+            className="bg-white rounded-xl p-6 w-full max-w-sm mx-4 shadow-2xl text-gray-900"
           >
             <div className="flex items-center gap-2 mb-4">
               <User className="w-5 h-5 text-blue-600" />
-              <h2 className="text-lg font-bold">输入用户名开始预测</h2>
+              <h2 className="text-lg font-bold text-gray-900">输入用户名开始预测</h2>
             </div>
             <p className="text-sm text-gray-500 mb-4">输入一个用户名即可参与预测，无需密码。</p>
             <form onSubmit={handleSubmit} className="space-y-3">
@@ -44,7 +44,7 @@ export function LoginPrompt({ isOpen, onLogin }: Props) {
                 value={username}
                 onChange={(e) => setUsername(e.target.value)}
                 placeholder="你的用户名"
-                className="w-full px-4 py-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="w-full px-4 py-2 border border-gray-300 rounded-lg text-gray-900 bg-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
                 maxLength={30}
                 autoFocus
               />

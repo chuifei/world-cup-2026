@@ -182,19 +182,19 @@ export default function Prediction() {
                               type="number" min={0} max={20}
                               value={form.home}
                               onChange={(e) => setPredForm({ ...predForm, [match.id]: { ...form, home: Number(e.target.value) } })}
-                              className="w-14 px-2 py-1 border rounded text-center text-sm"
+                              className="w-14 px-2 py-1 border border-gray-300 rounded text-center text-sm text-gray-900 bg-white"
                             />
                             <span className="text-sm text-muted-foreground">-</span>
                             <input
                               type="number" min={0} max={20}
                               value={form.away}
                               onChange={(e) => setPredForm({ ...predForm, [match.id]: { ...form, away: Number(e.target.value) } })}
-                              className="w-14 px-2 py-1 border rounded text-center text-sm"
+                              className="w-14 px-2 py-1 border border-gray-300 rounded text-center text-sm text-gray-900 bg-white"
                             />
                             <select
                               value={form.confidence}
                               onChange={(e) => setPredForm({ ...predForm, [match.id]: { ...form, confidence: Number(e.target.value) } })}
-                              className="px-2 py-1 border rounded text-xs"
+                              className="px-2 py-1 border border-gray-300 rounded text-xs text-gray-900 bg-white"
                             >
                               {[1,2,3,4,5].map(n => <option key={n} value={n}>{'★'.repeat(n)}</option>)}
                             </select>
